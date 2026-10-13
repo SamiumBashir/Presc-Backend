@@ -369,11 +369,9 @@ const forgotPassword = async (req, res) => {
         resourceId: user._id.toString(),
         details: { email: user.email },
     });
-    const isDev = env_1.ENV.NODE_ENV !== 'production' && !env_1.ENV.RESEND_API_KEY && !env_1.ENV.BREVO_API_KEY;
     res.status(200).json({
         success: true,
-        message: 'Verification code has been sent to your email.',
-        ...(isDev && generatedOtp ? { devOtp: generatedOtp } : {}),
+        message: 'Verification code has been sent to your email. Please check your inbox and spam folder.',
     });
 };
 exports.forgotPassword = forgotPassword;
@@ -500,11 +498,9 @@ const resendOtp = async (req, res) => {
         resourceId: user._id.toString(),
         details: { email: user.email },
     });
-    const isDev = env_1.ENV.NODE_ENV !== 'production' && !env_1.ENV.RESEND_API_KEY && !env_1.ENV.BREVO_API_KEY;
     res.status(200).json({
         success: true,
-        message: 'A new verification code has been sent to your email.',
-        ...(isDev && generatedOtp ? { devOtp: generatedOtp } : {}),
+        message: 'A new verification code has been sent to your email. Please check your inbox and spam folder.',
     });
 };
 exports.resendOtp = resendOtp;
