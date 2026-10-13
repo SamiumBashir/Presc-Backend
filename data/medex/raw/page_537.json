@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Olme",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/22950/olme-20-mg-tablet"
+  },
+  {
+    "brandName": "Olme",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/22951/olme-40-mg-tablet"
+  },
+  {
+    "brandName": "Olme",
+    "strength": "10 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/22952/olme-10-mg-tablet"
+  },
+  {
+    "brandName": "Olme H",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/35213/olme-h-20-mg-tablet"
+  },
+  {
+    "brandName": "Olme-AM",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/17756/olme-am-5-mg-tablet"
+  },
+  {
+    "brandName": "Olmeben",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/32706/olmeben-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmeben",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/32707/olmeben-40-mg-tablet"
+  },
+  {
+    "brandName": "Olmeben Plus",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/30927/olmeben-plus-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmecar",
+    "strength": "10 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/31595/olmecar-10-mg-tablet"
+  },
+  {
+    "brandName": "Olmecar",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/2779/olmecar-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmecar",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/2780/olmecar-40-mg-tablet"
+  },
+  {
+    "brandName": "Olmecar Plus",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/2982/olmecar-plus-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmedip",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/22980/olmedip-5-mg-tablet"
+  },
+  {
+    "brandName": "Olmedip",
+    "strength": "5 mg+40 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/22981/olmedip-5-mg-tablet"
+  },
+  {
+    "brandName": "Olmefast",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/33612/olmefast-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmefast",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/33613/olmefast-40-mg-tablet"
+  },
+  {
+    "brandName": "Olmefast",
+    "strength": "10 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/33614/olmefast-10-mg-tablet"
+  },
+  {
+    "brandName": "Olmefast H",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/30928/olmefast-h-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmefast-AM",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/30586/olmefast-am-5-mg-tablet"
+  },
+  {
+    "brandName": "Olmefast-AM",
+    "strength": "5 mg+40 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/30587/olmefast-am-5-mg-tablet"
+  },
+  {
+    "brandName": "Olmelo",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Naafco Pharma PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/38294/olmelo-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmelo",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Naafco Pharma PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/38295/olmelo-40-mg-tablet"
+  },
+  {
+    "brandName": "Olmemax",
+    "strength": "10 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/39538/olmemax-10-mg-tablet"
+  },
+  {
+    "brandName": "Olmemax",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/39539/olmemax-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmenor",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/32100/olmenor-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmenor",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/32101/olmenor-40-mg-tablet"
+  },
+  {
+    "brandName": "Olmenor AM",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/31425/olmenor-am-5-mg-tablet"
+  },
+  {
+    "brandName": "Olmenor AM",
+    "strength": "5 mg+40 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/31426/olmenor-am-5-mg-tablet"
+  },
+  {
+    "brandName": "Olmenor HZ",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/34028/olmenor-hz-20-mg-tablet"
+  },
+  {
+    "brandName": "Olmenor HZ",
+    "strength": "40 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 537,
+    "sourceUrl": "https://medex.com.bd/brands?page=537",
+    "detailUrl": "https://medex.com.bd/brands/34029/olmenor-hz-40-mg-tablet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Combat",
+    "strength": "0.2%+0.5%",
+    "genericName": "Brimonidine Tartrate + Timolol Maleate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/16111/combat-02-05-eye-drop"
+  },
+  {
+    "brandName": "Combicard",
+    "strength": "5 mg+50 mg",
+    "genericName": "Amlodipine Besilate + Atenolol",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/827/combicard-5-mg-tablet"
+  },
+  {
+    "brandName": "Combicid",
+    "strength": "0.05%+0.75%+2%+1%",
+    "genericName": "Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/28622/combicid-005-075-cream"
+  },
+  {
+    "brandName": "Combiderm",
+    "strength": "0.05%+1%+0.1%",
+    "genericName": "Betamethasone + Clotrimazole + Gentamicin",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/29620/combiderm-005-1-cream"
+  },
+  {
+    "brandName": "Combigan",
+    "strength": "0.2%+0.5%",
+    "genericName": "Brimonidine Tartrate + Timolol Maleate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/26820/combigan-02-05-eye-drop"
+  },
+  {
+    "brandName": "Combimax",
+    "strength": "0.05%+0.75%+2%+1%",
+    "genericName": "Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/39630/combimax-005-075-cream"
+  },
+  {
+    "brandName": "Combiplat",
+    "strength": "75 mg+75 mg",
+    "genericName": "Clopidogrel + Aspirin",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/19518/combiplat-75-mg-tablet"
+  },
+  {
+    "brandName": "Combipres",
+    "strength": "0.2%+0.5%",
+    "genericName": "Brimonidine Tartrate + Timolol Maleate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/16112/combipres-02-05-eye-drop"
+  },
+  {
+    "brandName": "Combisol",
+    "strength": "0.3%+3%",
+    "genericName": "Chlorhexidine Gluconate + Cetrimide",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Solution",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/27138/combisol-03-3-solution"
+  },
+  {
+    "brandName": "Combiver",
+    "strength": "(100 mcg+20 mcg)/puff",
+    "genericName": "Salbutamol + Ipratropium (Inhaler)",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/21072/combiver-100-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Combivit",
+    "strength": "(50 mg+5.48 mg+100 mg+5 mg+10 mg)/2 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/13768/combivit-50-mg-injection"
+  },
+  {
+    "brandName": "Combo 4",
+    "strength": "0.05%+0.75%+2%+1%",
+    "genericName": "Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/36925/combo-4-005-075-cream"
+  },
+  {
+    "brandName": "Combocef",
+    "strength": "100 mg+62.5 mg",
+    "genericName": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/16360/combocef-100-mg-tablet"
+  },
+  {
+    "brandName": "Combocef",
+    "strength": "200 mg+125 mg",
+    "genericName": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/16359/combocef-200-mg-tablet"
+  },
+  {
+    "brandName": "Combofresh",
+    "strength": "0.2%+0.36%+1%+0.05%+0.25%",
+    "genericName": "Glycerin + Hypromellose + Polyethylene glycol + Tetrahydrozoline + Zinc Sulfate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/33978/combofresh-02-036-eye-drop"
+  },
+  {
+    "brandName": "Combogic",
+    "strength": "200 mg+500 mg",
+    "genericName": "Ibuprofen + Paracetamol",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/38931/combogic-200-mg-tablet"
+  },
+  {
+    "brandName": "Combomax",
+    "strength": "0.4 mg+0.5 mg",
+    "genericName": "Tamsulosin Hydrochloride + Dutasteride",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/16705/combomax-04-mg-capsule"
+  },
+  {
+    "brandName": "Combomin",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/13642/combomin-100-mg-tablet"
+  },
+  {
+    "brandName": "Comet",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/5359/comet-500-mg-tablet"
+  },
+  {
+    "brandName": "Comet",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/5361/comet-850-mg-tablet"
+  },
+  {
+    "brandName": "Comet XR",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/5363/comet-xr-500-mg-er-tablet"
+  },
+  {
+    "brandName": "Comet XR",
+    "strength": "1000 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/5364/comet-xr-1000-mg-er-tablet"
+  },
+  {
+    "brandName": "Comfil",
+    "strength": "1 mg/5 ml",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "Pharmasia Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/3559/comfil-1-mg-syrup"
+  },
+  {
+    "brandName": "Comfort",
+    "strength": "3.35 gm/5 ml",
+    "genericName": "Lactulose",
+    "manufacturer": "APC Pharma Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/2378/comfort-335-gm-oral-solution"
+  },
+  {
+    "brandName": "Comfy",
+    "strength": "0.5 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/19488/comfy-05-mg-tablet"
+  },
+  {
+    "brandName": "Comfy",
+    "strength": "2 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/19489/comfy-2-mg-tablet"
+  },
+  {
+    "brandName": "Comfy",
+    "strength": "1 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/26957/comfy-1-mg-tablet"
+  },
+  {
+    "brandName": "Compimet",
+    "strength": "15 mg+850 mg",
+    "genericName": "Pioglitazone + Metformin Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/27592/compimet-15-mg-tablet"
+  },
+  {
+    "brandName": "Compimet",
+    "strength": "15 mg+500 mg",
+    "genericName": "Pioglitazone + Metformin Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/5639/compimet-15-mg-tablet"
+  },
+  {
+    "brandName": "Compiron",
+    "strength": "50 mg/5 ml",
+    "genericName": "Iron Polymaltose Complex",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 172,
+    "sourceUrl": "https://medex.com.bd/brands?page=172",
+    "detailUrl": "https://medex.com.bd/brands/13125/compiron-50-mg-syrup"
+  }
+]

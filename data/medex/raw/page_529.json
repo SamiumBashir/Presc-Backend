@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Nutrimin",
+    "strength": "5%",
+    "genericName": "Amino Acid, D-Sorbitol & Electrolytes",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14776/nutrimin-5-injection"
+  },
+  {
+    "brandName": "Nutrimin-D",
+    "strength": "7%+10%",
+    "genericName": "Amino acids, Glucose & Electrolytes",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/586/nutrimin-d-7-10-injection"
+  },
+  {
+    "brandName": "Nutrivit-B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/13806/nutrivit-b-5-mg-tablet"
+  },
+  {
+    "brandName": "Nutrivit-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/13807/nutrivit-b-5-mg-syrup"
+  },
+  {
+    "brandName": "Nutrivit-C",
+    "strength": "250 mg",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/13932/nutrivit-c-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Nutrivit-C",
+    "strength": "100 mg/5 ml",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/13934/nutrivit-c-100-mg-syrup"
+  },
+  {
+    "brandName": "Nutrivit-C",
+    "strength": "1000 mg",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Effervescent Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/32347/nutrivit-c-1000-mg-tablet"
+  },
+  {
+    "brandName": "Nutrivit-MV",
+    "strength": null,
+    "genericName": "Multivitamin [Pediatric preparation]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14078/nutrivit-mv-pediatric-drop"
+  },
+  {
+    "brandName": "Nutrona Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/28209/nutrona-gold-tablet"
+  },
+  {
+    "brandName": "Nutrona Silver",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/28210/nutrona-silver-tablet"
+  },
+  {
+    "brandName": "Nutrovita",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/13808/nutrovita-5-mg-syrup"
+  },
+  {
+    "brandName": "Nutrum 50+",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14148/nutrum-50-tablet"
+  },
+  {
+    "brandName": "Nutrum Bone",
+    "strength": null,
+    "genericName": "Calcium + Vitamin D3 + Multimineral",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14531/nutrum-bone-tablet"
+  },
+  {
+    "brandName": "Nutrum Eye",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/16205/nutrum-eye-60-mg-capsule"
+  },
+  {
+    "brandName": "Nutrum Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14108/nutrum-gold-tablet"
+  },
+  {
+    "brandName": "Nutrum Junior",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z juniors syrup preparation]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14175/nutrum-junior-syrup"
+  },
+  {
+    "brandName": "Nutrum Kids",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/29393/nutrum-kids-syrup"
+  },
+  {
+    "brandName": "Nutrum PN",
+    "strength": null,
+    "genericName": "Multivitamins & Multiminerals [A-Z prenatal preparation]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14739/nutrum-pn-tablet"
+  },
+  {
+    "brandName": "Nutrum Super",
+    "strength": null,
+    "genericName": "Super antioxidant [vitamins & minerals]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/14728/nutrum-super-tablet"
+  },
+  {
+    "brandName": "Nutryelt",
+    "strength": null,
+    "genericName": "Mix of 9 Trace Elements",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/37715/nutryelt-injection"
+  },
+  {
+    "brandName": "NuvaCare",
+    "strength": "14.5% + 12.6% + 1%",
+    "genericName": "White Soft Paraffin + Light Liquid Paraffin + Lanolin Anhydrous",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/36860/nuvacare-145-cream"
+  },
+  {
+    "brandName": "Nuvicort",
+    "strength": "6 mg",
+    "genericName": "Deflazacort",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/19700/nuvicort-6-mg-tablet"
+  },
+  {
+    "brandName": "Nuvifer",
+    "strength": "30 mg",
+    "genericName": "Ferric Maltol",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/36474/nuvifer-30-mg-capsule"
+  },
+  {
+    "brandName": "Nuvifol",
+    "strength": "5 mg",
+    "genericName": "Folinic Acid",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/36475/nuvifol-5-mg-tablet"
+  },
+  {
+    "brandName": "Nuviron",
+    "strength": "48 mg+0.5 mg+22.5 mg",
+    "genericName": "Ferrous Ascorbate + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/32989/nuviron-48-mg-tablet"
+  },
+  {
+    "brandName": "NVmet",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/5456/nvmet-500-mg-tablet"
+  },
+  {
+    "brandName": "NVmet",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/5457/nvmet-850-mg-tablet"
+  },
+  {
+    "brandName": "NVmet SR",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/5458/nvmet-sr-500-mg-sr-tablet"
+  },
+  {
+    "brandName": "NVP",
+    "strength": "25 mg+50 mg",
+    "genericName": "Meclizine + Pyridoxine",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/4637/nvp-25-mg-tablet"
+  },
+  {
+    "brandName": "NX Plus",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "One Pharma Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 529,
+    "sourceUrl": "https://medex.com.bd/brands?page=529",
+    "detailUrl": "https://medex.com.bd/brands/27087/nx-plus-500-mg-dr-tablet"
+  }
+]

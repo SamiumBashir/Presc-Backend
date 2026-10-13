@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Codliv",
+    "strength": "600 IU+85 IU+0.3 IU",
+    "genericName": "Cod Liver Oil",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/13527/codliv-600-iu-capsule"
+  },
+  {
+    "brandName": "Codlivit",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/13540/codlivit-syrup"
+  },
+  {
+    "brandName": "Codmin",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral",
+    "manufacturer": "Globex Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/14068/codmin-syrup"
+  },
+  {
+    "brandName": "Codomix",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/13541/codomix-syrup"
+  },
+  {
+    "brandName": "Codvit",
+    "strength": "600 IU+85 IU+0.3 IU",
+    "genericName": "Cod Liver Oil",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/13531/codvit-600-iu-capsule"
+  },
+  {
+    "brandName": "Codvita",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/13543/codvita-syrup"
+  },
+  {
+    "brandName": "Codyl",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "genericName": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/4136/codyl-30-mg-syrup"
+  },
+  {
+    "brandName": "Cofcut",
+    "strength": "7.5 mg/5 ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/30981/cofcut-75-mg-syrup"
+  },
+  {
+    "brandName": "Cofdil",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "genericName": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "manufacturer": "Central Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/4137/cofdil-30-mg-syrup"
+  },
+  {
+    "brandName": "Cofexin",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Globex Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/25512/cofexin-15-mg-syrup"
+  },
+  {
+    "brandName": "Cofixa",
+    "strength": "45 mg",
+    "genericName": "Gefapixant Citrate",
+    "manufacturer": "Salton Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/39556/cofixa-45-mg-tablet"
+  },
+  {
+    "brandName": "Coflyt",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/4094/coflyt-4-mg-syrup"
+  },
+  {
+    "brandName": "Cofnil Plus",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "genericName": "Guaifenesin + Dextromethorphan + Menthol",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/4138/cofnil-plus-200-mg-syrup"
+  },
+  {
+    "brandName": "Cofno",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "genericName": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/33763/cofno-10-mg-syrup"
+  },
+  {
+    "brandName": "Cofof",
+    "strength": "7.5 mg/5 ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/3984/cofof-75-mg-syrup"
+  },
+  {
+    "brandName": "Cofof",
+    "strength": "50 mg",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/3985/cofof-50-mg-sr-tablet"
+  },
+  {
+    "brandName": "Cofresh",
+    "strength": "0.2%+0.36%+1%",
+    "genericName": "Glycerol + Hypromellose + Polyethylene Glycol 400",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/20946/cofresh-02-036-eye-drop"
+  },
+  {
+    "brandName": "Cofrid",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "genericName": "Guaifenesin + Dextromethorphan + Menthol",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/4139/cofrid-200-mg-syrup"
+  },
+  {
+    "brandName": "Cofson",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "genericName": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/4140/cofson-30-mg-syrup"
+  },
+  {
+    "brandName": "Cofson plus",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "genericName": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/32983/cofson-plus-100-mg-syrup"
+  },
+  {
+    "brandName": "Cogniz",
+    "strength": "500 mg/4 ml",
+    "genericName": "Citicoline Sodium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/36630/cogniz-500-mg-injection"
+  },
+  {
+    "brandName": "Cogniz",
+    "strength": "500 mg",
+    "genericName": "Citicoline Sodium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/5180/cogniz-500-mg-tablet"
+  },
+  {
+    "brandName": "Colagel",
+    "strength": "15%",
+    "genericName": "L-Lysine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Gel",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/12889/colagel-15-gel"
+  },
+  {
+    "brandName": "Colamin",
+    "strength": "500 mcg",
+    "genericName": "Mecobalamin",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/13431/colamin-500-mcg-tablet"
+  },
+  {
+    "brandName": "Colasa",
+    "strength": "800 mg",
+    "genericName": "Mesalazine [5-aminosalicylic acid]",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/36968/colasa-800-mg-dr-tablet"
+  },
+  {
+    "brandName": "Colasa",
+    "strength": "400 mg",
+    "genericName": "Mesalazine [5-aminosalicylic acid]",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/36967/colasa-400-mg-dr-tablet"
+  },
+  {
+    "brandName": "Colasa",
+    "strength": "1 gm",
+    "genericName": "Mesalazine [5-aminosalicylic acid]",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Suppository",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/36966/colasa-1-gm-suppository"
+  },
+  {
+    "brandName": "Colax",
+    "strength": "10 mg",
+    "genericName": "Clobazam",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/4276/colax-10-mg-tablet"
+  },
+  {
+    "brandName": "Colaz",
+    "strength": "200 mg/5 ml",
+    "genericName": "Albendazole",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/304/colaz-200-mg-suspension"
+  },
+  {
+    "brandName": "Colaz",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 170,
+    "sourceUrl": "https://medex.com.bd/brands?page=170",
+    "detailUrl": "https://medex.com.bd/brands/305/colaz-400-mg-chewable-tablet"
+  }
+]

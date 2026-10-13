@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Apevit-Z",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "APC Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/14676/apevit-z-syrup"
+  },
+  {
+    "brandName": "Aphrin",
+    "strength": "500 mg",
+    "genericName": "Cephradine",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/6789/aphrin-500-mg-capsule"
+  },
+  {
+    "brandName": "Apiban",
+    "strength": "2.5 mg",
+    "genericName": "Apixaban",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/32659/apiban-25-mg-tablet"
+  },
+  {
+    "brandName": "Apiban",
+    "strength": "5 mg",
+    "genericName": "Apixaban",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/32658/apiban-5-mg-tablet"
+  },
+  {
+    "brandName": "Apidone",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/27320/apidone-10-mg-tablet"
+  },
+  {
+    "brandName": "Apidone",
+    "strength": "5 mg/5 ml",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/27321/apidone-5-mg-suspension"
+  },
+  {
+    "brandName": "Apidra",
+    "strength": "100 unit/ml",
+    "genericName": "Insulin Glulisine",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/26828/apidra-100-unit-injection"
+  },
+  {
+    "brandName": "Apidra SoloStar",
+    "strength": "100 unit/ml",
+    "genericName": "Insulin Glulisine",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/16780/apidra-solostar-100-unit-injection"
+  },
+  {
+    "brandName": "Apilac",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "APC Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/15304/apilac-10-mg-tablet"
+  },
+  {
+    "brandName": "Apilast",
+    "strength": "10 mg",
+    "genericName": "Apremilast",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/25989/apilast-10-mg-tablet"
+  },
+  {
+    "brandName": "Apimox",
+    "strength": "250 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/6471/apimox-250-mg-capsule"
+  },
+  {
+    "brandName": "Apimox",
+    "strength": "500 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/6472/apimox-500-mg-capsule"
+  },
+  {
+    "brandName": "Apimox",
+    "strength": "125 mg/5 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/6473/apimox-125-mg-suspension"
+  },
+  {
+    "brandName": "Apimox",
+    "strength": "125 mg/1.25 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/6474/apimox-125-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Apirent",
+    "strength": "20% w/v",
+    "genericName": "Aluminium Chloride Hexahydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Topical Solution",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/30975/apirent-20-w-topical-solution"
+  },
+  {
+    "brandName": "Apit",
+    "strength": "160 mg",
+    "genericName": "Megestrol Acetate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/28375/apit-160-mg-tablet"
+  },
+  {
+    "brandName": "Apit",
+    "strength": "200 mg/5 ml",
+    "genericName": "Megestrol Acetate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/34337/apit-200-mg-suspension"
+  },
+  {
+    "brandName": "Apit",
+    "strength": "40 mg",
+    "genericName": "Megestrol Acetate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/28374/apit-40-mg-tablet"
+  },
+  {
+    "brandName": "Apitac",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/32/apitac-100-mg-tablet"
+  },
+  {
+    "brandName": "Apitone",
+    "strength": "200 mg/5 ml",
+    "genericName": "Ferrous Sulfate",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/13118/apitone-200-mg-syrup"
+  },
+  {
+    "brandName": "Apixa",
+    "strength": "2.5 mg",
+    "genericName": "Apixaban",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/31029/apixa-25-mg-tablet"
+  },
+  {
+    "brandName": "Apixa",
+    "strength": "5 mg",
+    "genericName": "Apixaban",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/31030/apixa-5-mg-tablet"
+  },
+  {
+    "brandName": "Apixan",
+    "strength": "2.5 mg",
+    "genericName": "Apixaban",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/29367/apixan-25-mg-tablet"
+  },
+  {
+    "brandName": "Apixan",
+    "strength": "5 mg",
+    "genericName": "Apixaban",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/29368/apixan-5-mg-tablet"
+  },
+  {
+    "brandName": "Aplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/13744/aplex-5-mg-syrup"
+  },
+  {
+    "brandName": "APN",
+    "strength": "0.225%+10%",
+    "genericName": "Sodium Chloride + Dextrose",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/377/apn-0225-10-injection"
+  },
+  {
+    "brandName": "Apnac",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/28130/apnac-50-mg-tablet"
+  },
+  {
+    "brandName": "Apnac",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/28129/apnac-50-mg-tablet"
+  },
+  {
+    "brandName": "Apnac SR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Capsule (Sustained Release)",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/10946/apnac-sr-100-mg-sr-capsule"
+  },
+  {
+    "brandName": "Apocal-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 50,
+    "sourceUrl": "https://medex.com.bd/brands?page=50",
+    "detailUrl": "https://medex.com.bd/brands/14403/apocal-d-500-mg-tablet"
+  }
+]

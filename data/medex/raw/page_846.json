@@ -1,0 +1,42 @@
+[
+  {
+    "brandName": "Zyterone",
+    "strength": "250 mg",
+    "genericName": "Abiraterone Acetate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 846,
+    "sourceUrl": "https://medex.com.bd/brands?page=846",
+    "detailUrl": "https://medex.com.bd/brands/34644/zyterone-250-mg-tablet"
+  },
+  {
+    "brandName": "Zytiga",
+    "strength": "250 mg",
+    "genericName": "Abiraterone Acetate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 846,
+    "sourceUrl": "https://medex.com.bd/brands?page=846",
+    "detailUrl": "https://medex.com.bd/brands/28309/zytiga-250-mg-tablet"
+  },
+  {
+    "brandName": "Zytix",
+    "strength": "250 mg",
+    "genericName": "Abiraterone Acetate",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 846,
+    "sourceUrl": "https://medex.com.bd/brands?page=846",
+    "detailUrl": "https://medex.com.bd/brands/17270/zytix-250-mg-tablet"
+  },
+  {
+    "brandName": "Zytix",
+    "strength": "500 mg",
+    "genericName": "Abiraterone Acetate",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 846,
+    "sourceUrl": "https://medex.com.bd/brands?page=846",
+    "detailUrl": "https://medex.com.bd/brands/37461/zytix-500-mg-tablet"
+  }
+]

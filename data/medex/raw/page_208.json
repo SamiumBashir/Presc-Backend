@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Dexaqua",
+    "strength": "5%",
+    "genericName": "Dextrose",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/14841/dexaqua-5-injection"
+  },
+  {
+    "brandName": "Dexaqua DS",
+    "strength": "10%",
+    "genericName": "Dextrose",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/14842/dexaqua-ds-10-injection"
+  },
+  {
+    "brandName": "Dexasone",
+    "strength": "0.5 mg",
+    "genericName": "Dexamethasone",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/5759/dexasone-05-mg-tablet"
+  },
+  {
+    "brandName": "Dexatab",
+    "strength": "0.5 mg",
+    "genericName": "Dexamethasone",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/30356/dexatab-05-mg-tablet"
+  },
+  {
+    "brandName": "Dexatil",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Doctor’s Chemical Works Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/38008/dexatil-250-mg-tablet"
+  },
+  {
+    "brandName": "Dexatil",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Doctor’s Chemical Works Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/38009/dexatil-125-mg-suspension"
+  },
+  {
+    "brandName": "Dexchlor",
+    "strength": "0.1%+0.5%",
+    "genericName": "Dexamethasone + Chloramphenicol",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/15804/dexchlor-01-05-eye-drop"
+  },
+  {
+    "brandName": "Dexcilo",
+    "strength": "0.3%+0.1%",
+    "genericName": "Ciprofloxacin + Dexamethasone",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/28526/dexcilo-03-01-eye-drop"
+  },
+  {
+    "brandName": "Dexcor",
+    "strength": "5 mg/ml",
+    "genericName": "Dexamethasone",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/19838/dexcor-5-mg-injection"
+  },
+  {
+    "brandName": "Dexcor",
+    "strength": "0.5 mg",
+    "genericName": "Dexamethasone",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/15791/dexcor-05-mg-tablet"
+  },
+  {
+    "brandName": "Dexdin",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "genericName": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/33773/dexdin-10-mg-syrup"
+  },
+  {
+    "brandName": "Dexend",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/26958/dexend-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexend",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/26959/dexend-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexger",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/37072/dexger-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexger",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/37073/dexger-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexifen",
+    "strength": "200 mg",
+    "genericName": "Dexibuprofen",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/31906/dexifen-200-mg-tablet"
+  },
+  {
+    "brandName": "Dexifen",
+    "strength": "300 mg",
+    "genericName": "Dexibuprofen",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/31907/dexifen-300-mg-tablet"
+  },
+  {
+    "brandName": "Dexifen",
+    "strength": "400 mg",
+    "genericName": "Dexibuprofen",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/31908/dexifen-400-mg-tablet"
+  },
+  {
+    "brandName": "Dexifen",
+    "strength": "100 mg/5 ml",
+    "genericName": "Dexibuprofen",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/31909/dexifen-100-mg-suspension"
+  },
+  {
+    "brandName": "Dexigent",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Biogen Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/31110/dexigent-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexila",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/30854/dexila-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexilend",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/16432/dexilend-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexilend",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/16433/dexilend-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexison",
+    "strength": "0.5 mg",
+    "genericName": "Dexamethasone",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/5760/dexison-05-mg-tablet"
+  },
+  {
+    "brandName": "Dexit",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Flupentixol + Melitracen",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/4333/dexit-05-mg-tablet"
+  },
+  {
+    "brandName": "Dexitor",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/36982/dexitor-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexitra",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "genericName": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/4013/dexitra-10-mg-syrup"
+  },
+  {
+    "brandName": "Dexkof Plus",
+    "strength": "(20 mg+10 mg+2.5 mg)/5 ml",
+    "genericName": "Dextromethorphan + Phenylephrine + Triprolidine",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/31961/dexkof-plus-20-mg-syrup"
+  },
+  {
+    "brandName": "Dexlan",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/16434/dexlan-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexlan",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 208,
+    "sourceUrl": "https://medex.com.bd/brands?page=208",
+    "detailUrl": "https://medex.com.bd/brands/16435/dexlan-60-mg-ec-capsule"
+  }
+]

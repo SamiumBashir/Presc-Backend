@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "R-Pil",
+    "strength": "1.25 mg",
+    "genericName": "Ramipril",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2678/r-pil-125-mg-tablet"
+  },
+  {
+    "brandName": "R-Pil",
+    "strength": "2.5 mg",
+    "genericName": "Ramipril",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2679/r-pil-25-mg-tablet"
+  },
+  {
+    "brandName": "R-Pil",
+    "strength": "5 mg",
+    "genericName": "Ramipril",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2680/r-pil-5-mg-tablet"
+  },
+  {
+    "brandName": "R-Proton",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/32555/r-proton-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "R-Saline-N",
+    "strength": "10.25 gm",
+    "genericName": "Oral rehydration salt [glucose based]",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/14814/r-saline-n-1025-gm-powder"
+  },
+  {
+    "brandName": "R-Vit",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/16202/r-vit-60-mg-capsule"
+  },
+  {
+    "brandName": "R-Vtin",
+    "strength": "10 mg",
+    "genericName": "Rosuvastatin Calcium",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/39501/r-vtin-10-mg-tablet"
+  },
+  {
+    "brandName": "R-Y Jelly",
+    "strength": "11.25%",
+    "genericName": "Glycerol",
+    "manufacturer": "Pharmasia Limited",
+    "dosageForm": "Gel",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/29410/r-y-jelly-1125-gel"
+  },
+  {
+    "brandName": "R-Zol",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/332/r-zol-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Rabe",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2261/rabe-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabe",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/30343/rabe-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabeca",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2262/rabeca-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabecon",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2263/rabecon-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabefour",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/36395/rabefour-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabegend",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/23998/rabegend-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabemax",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/24016/rabemax-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabenaaf",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Naafco Pharma PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/28801/rabenaaf-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabenta",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/31615/rabenta-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabenta",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/38023/rabenta-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabepes",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/24002/rabepes-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabepes M10",
+    "strength": "10 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/34841/rabepes-m10-10-mg-tablet"
+  },
+  {
+    "brandName": "Rabepes MUPS",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/26395/rabepes-mups-20-mg-tablet"
+  },
+  {
+    "brandName": "Rabepra",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/24015/rabepra-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabepra",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/27244/rabepra-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabeprol",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/27794/rabeprol-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Rabeprol",
+    "strength": "10 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Sprinkle Capsule",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/33779/rabeprol-10-mg-capsule"
+  },
+  {
+    "brandName": "Rabeprol",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2264/rabeprol-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabesec",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2265/rabesec-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabetac",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/2266/rabetac-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Rabetac",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 626,
+    "sourceUrl": "https://medex.com.bd/brands?page=626",
+    "detailUrl": "https://medex.com.bd/brands/24029/rabetac-20-mg-ec-capsule"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Bactacef DS",
+    "strength": "250 mg/5 ml",
+    "genericName": "Cephradine",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/31456/bactacef-ds-250-mg-suspension"
+  },
+  {
+    "brandName": "Bactamox",
+    "strength": "125 mg/1.25 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/30353/bactamox-125-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Bactamox",
+    "strength": "250 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/6486/bactamox-250-mg-tablet"
+  },
+  {
+    "brandName": "Bactamox",
+    "strength": "500 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/6487/bactamox-500-mg-tablet"
+  },
+  {
+    "brandName": "Bactamox",
+    "strength": "125 mg/5 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/6488/bactamox-125-mg-suspension"
+  },
+  {
+    "brandName": "Bactazim",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/31459/bactazim-100-mg-suspension"
+  },
+  {
+    "brandName": "Bactazim",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/31458/bactazim-400-mg-capsule"
+  },
+  {
+    "brandName": "Bactazim",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/31457/bactazim-200-mg-capsule"
+  },
+  {
+    "brandName": "Bactikil",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/7183/bactikil-250-mg-tablet"
+  },
+  {
+    "brandName": "Bactikil",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/7184/bactikil-500-mg-tablet"
+  },
+  {
+    "brandName": "Bactikil",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/7185/bactikil-125-mg-suspension"
+  },
+  {
+    "brandName": "Bactin",
+    "strength": "0.3%",
+    "genericName": "Ciprofloxacin (Ophthalmic)",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/9105/bactin-03-eye-drop"
+  },
+  {
+    "brandName": "Bactin",
+    "strength": "0.3%",
+    "genericName": "Ciprofloxacin (Ophthalmic)",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/9106/bactin-03-eye-ointment"
+  },
+  {
+    "brandName": "Bactin",
+    "strength": "250 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/9145/bactin-250-mg-tablet"
+  },
+  {
+    "brandName": "Bactin",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/9146/bactin-500-mg-tablet"
+  },
+  {
+    "brandName": "Bactin",
+    "strength": "750 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/9147/bactin-750-mg-tablet"
+  },
+  {
+    "brandName": "Bactin",
+    "strength": "250 mg/5 ml",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/26590/bactin-250-mg-suspension"
+  },
+  {
+    "brandName": "Bactin",
+    "strength": "200 mg/100 ml",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/26589/bactin-200-mg-injection"
+  },
+  {
+    "brandName": "Bactin D",
+    "strength": "0.3%+0.1%",
+    "genericName": "Ciprofloxacin + Dexamethasone",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/15820/bactin-d-03-01-eye-drop"
+  },
+  {
+    "brandName": "Bactin HC",
+    "strength": "0.3%+1%",
+    "genericName": "Ciprofloxacin + Hydrocortisone Acetate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/19354/bactin-hc-03-1-suspension"
+  },
+  {
+    "brandName": "Bactoderm",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/12320/bactoderm-2-w-ointment"
+  },
+  {
+    "brandName": "Bactokil",
+    "strength": "250 mg",
+    "genericName": "Cephradine",
+    "manufacturer": "Virgo Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/6799/bactokil-250-mg-capsule"
+  },
+  {
+    "brandName": "Bactokil",
+    "strength": "500 mg",
+    "genericName": "Cephradine",
+    "manufacturer": "Virgo Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/6800/bactokil-500-mg-capsule"
+  },
+  {
+    "brandName": "Bactokil",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cephradine",
+    "manufacturer": "Virgo Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/6801/bactokil-125-mg-suspension"
+  },
+  {
+    "brandName": "Bactolev",
+    "strength": "1.5%",
+    "genericName": "Levofloxacin (Eye/Ear)",
+    "manufacturer": "UNIDO Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/36598/bactolev-15-eye-drop"
+  },
+  {
+    "brandName": "Bactovate",
+    "strength": "0.1%+0.5%",
+    "genericName": "Betamethasone + Neomycin Sulphate (Topical)",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/30509/bactovate-01-05-cream"
+  },
+  {
+    "brandName": "Bactover",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/36553/bactover-2-w-ointment"
+  },
+  {
+    "brandName": "Bactriben",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/32081/bactriben-2-w-ointment"
+  },
+  {
+    "brandName": "Bactriben",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/39148/bactriben-2-w-cream"
+  },
+  {
+    "brandName": "Bactrobex",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 82,
+    "sourceUrl": "https://medex.com.bd/brands?page=82",
+    "detailUrl": "https://medex.com.bd/brands/36572/bactrobex-2-w-ointment"
+  }
+]

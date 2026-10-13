@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Orazinc",
+    "strength": "20 mg",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/14573/orazinc-20-mg-tablet"
+  },
+  {
+    "brandName": "Orazinc",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/14574/orazinc-10-mg-syrup"
+  },
+  {
+    "brandName": "Orazinc-B",
+    "strength": null,
+    "genericName": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/13377/orazinc-b-syrup"
+  },
+  {
+    "brandName": "Orbapin",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/17754/orbapin-5-mg-tablet"
+  },
+  {
+    "brandName": "Orbapin",
+    "strength": "5 mg+40 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/17755/orbapin-5-mg-tablet"
+  },
+  {
+    "brandName": "Orbas",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/22948/orbas-20-mg-tablet"
+  },
+  {
+    "brandName": "Orbas",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/22949/orbas-40-mg-tablet"
+  },
+  {
+    "brandName": "Orbas Plus",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/22975/orbas-plus-20-mg-tablet"
+  },
+  {
+    "brandName": "Orbical D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Avarox Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/25756/orbical-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Orbidex",
+    "strength": "0.05%",
+    "genericName": "Dexamethasone (Ophthalmic)",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/19853/orbidex-005-eye-ointment"
+  },
+  {
+    "brandName": "Orbidex",
+    "strength": "0.1%",
+    "genericName": "Dexamethasone (Ophthalmic)",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/15774/orbidex-01-eye-drop"
+  },
+  {
+    "brandName": "Orbidex C",
+    "strength": "0.1%+0.5%",
+    "genericName": "Dexamethasone + Chloramphenicol",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/15812/orbidex-c-01-05-eye-drop"
+  },
+  {
+    "brandName": "Orbidex G",
+    "strength": "0.3%+0.1%",
+    "genericName": "Gatifloxacin + Dexamethasone",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/15837/orbidex-g-03-01-eye-drop"
+  },
+  {
+    "brandName": "Orbidex T",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/15850/orbidex-t-01-03-eye-ointment"
+  },
+  {
+    "brandName": "Orbidex T",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/19738/orbidex-t-01-03-eye-drop"
+  },
+  {
+    "brandName": "Orbidon",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Avarox Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/38162/orbidon-10-mg-tablet"
+  },
+  {
+    "brandName": "Orbuten",
+    "strength": "400 mg",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/27581/orbuten-400-mg-capsule"
+  },
+  {
+    "brandName": "Orbuten",
+    "strength": "90 mg/5 ml",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/27582/orbuten-90-mg-suspension"
+  },
+  {
+    "brandName": "Orc",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/15364/orc-10-mg-tablet"
+  },
+  {
+    "brandName": "Orcef",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/7613/orcef-200-mg-tablet"
+  },
+  {
+    "brandName": "Orcef",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/7614/orcef-400-mg-tablet"
+  },
+  {
+    "brandName": "Orcef",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/7615/orcef-200-mg-capsule"
+  },
+  {
+    "brandName": "Orcef",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/7616/orcef-100-mg-suspension"
+  },
+  {
+    "brandName": "Orcef",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/18797/orcef-400-mg-capsule"
+  },
+  {
+    "brandName": "Orcef",
+    "strength": "25 mg/ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/31420/orcef-25-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Orcef DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/18798/orcef-ds-200-mg-suspension"
+  },
+  {
+    "brandName": "Orcenac",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/64/orcenac-100-mg-tablet"
+  },
+  {
+    "brandName": "Orcenac SR",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/34470/orcenac-sr-200-mg-sr-tablet"
+  },
+  {
+    "brandName": "Orcerin",
+    "strength": "750 mg+50 mg",
+    "genericName": "Glucosamine Sulfate + Diacerein",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/33290/orcerin-750-mg-tablet"
+  },
+  {
+    "brandName": "Orcical",
+    "strength": "740 mg",
+    "genericName": "Calcium Orotate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 554,
+    "sourceUrl": "https://medex.com.bd/brands?page=554",
+    "detailUrl": "https://medex.com.bd/brands/18494/orcical-740-mg-tablet"
+  }
+]

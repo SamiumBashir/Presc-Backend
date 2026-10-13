@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Oryza-C",
+    "strength": "0.15% + 0.12%",
+    "genericName": "Benzydamine + Chlorhexidine gluconate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/37271/oryza-c-015-mouthwash"
+  },
+  {
+    "brandName": "Orzolol",
+    "strength": "2%+0.5%",
+    "genericName": "Dorzolamide + Timolol",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/27740/orzolol-2-05-eye-drop"
+  },
+  {
+    "brandName": "Osapiderm",
+    "strength": "100 mg",
+    "genericName": "Posaconazole",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/37029/osapiderm-100-mg-dr-tablet"
+  },
+  {
+    "brandName": "Osapiderm",
+    "strength": "18 mg/ml",
+    "genericName": "Posaconazole",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/38375/osapiderm-18-mg-injection"
+  },
+  {
+    "brandName": "Osartan",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2756/osartan-50-mg-tablet"
+  },
+  {
+    "brandName": "Osartan-HZ",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2967/osartan-hz-50-mg-tablet"
+  },
+  {
+    "brandName": "Osartek",
+    "strength": "25 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2757/osartek-25-mg-tablet"
+  },
+  {
+    "brandName": "Osartek",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2758/osartek-50-mg-tablet"
+  },
+  {
+    "brandName": "Osartil",
+    "strength": "25 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2759/osartil-25-mg-tablet"
+  },
+  {
+    "brandName": "Osartil",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2760/osartil-50-mg-tablet"
+  },
+  {
+    "brandName": "Osartil",
+    "strength": "100 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2761/osartil-100-mg-tablet"
+  },
+  {
+    "brandName": "Osartil Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2968/osartil-plus-50-mg-tablet"
+  },
+  {
+    "brandName": "Osartil Plus",
+    "strength": "100 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/2969/osartil-plus-100-mg-tablet"
+  },
+  {
+    "brandName": "Osartil Plus",
+    "strength": "100 mg+25 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/21883/osartil-plus-100-mg-tablet"
+  },
+  {
+    "brandName": "Oscal",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/14320/oscal-500-mg-tablet"
+  },
+  {
+    "brandName": "Oscal-D Forte",
+    "strength": "600 mg+400 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/18452/oscal-d-forte-600-mg-tablet"
+  },
+  {
+    "brandName": "Oscal-M",
+    "strength": null,
+    "genericName": "Calcium + Vitamin D3 + Multimineral",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/14533/oscal-m-tablet"
+  },
+  {
+    "brandName": "Oscard Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/38909/oscard-plus-50-mg-tablet"
+  },
+  {
+    "brandName": "Oscoral D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Coral Calcium + Vitamin D3",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/33293/oscoral-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Oscoral DX",
+    "strength": "600 mg+400 IU",
+    "genericName": "Coral Calcium + Vitamin D3",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/33292/oscoral-dx-600-mg-tablet"
+  },
+  {
+    "brandName": "Osedan",
+    "strength": "8 mg",
+    "genericName": "Ondansetron",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/29081/osedan-8-mg-tablet"
+  },
+  {
+    "brandName": "Oseflu",
+    "strength": "75 mg",
+    "genericName": "Oseltamivir",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/9773/oseflu-75-mg-capsule"
+  },
+  {
+    "brandName": "Osetron",
+    "strength": "8 mg",
+    "genericName": "Ondansetron",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/4753/osetron-8-mg-tablet"
+  },
+  {
+    "brandName": "Osetron",
+    "strength": "4 mg/5 ml",
+    "genericName": "Ondansetron",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/4754/osetron-4-mg-oral-solution"
+  },
+  {
+    "brandName": "Osetron",
+    "strength": "8 mg/4 ml",
+    "genericName": "Ondansetron",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/4755/osetron-8-mg-injection"
+  },
+  {
+    "brandName": "Oshel-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Eggshell Calcium + Vitamin D3",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/38571/oshel-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Oshel-DX",
+    "strength": "600 mg+400 IU",
+    "genericName": "Eggshell Calcium + Vitamin D3",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/38572/oshel-dx-600-mg-tablet"
+  },
+  {
+    "brandName": "Osicent",
+    "strength": "80 mg",
+    "genericName": "Osimertinib",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/17316/osicent-80-mg-tablet"
+  },
+  {
+    "brandName": "Osify",
+    "strength": "800 mg",
+    "genericName": "Ossein Hydroyapatite",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/37183/osify-800-mg-tablet"
+  },
+  {
+    "brandName": "Osify",
+    "strength": "600 mg",
+    "genericName": "Ossein Hydroyapatite",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 560,
+    "sourceUrl": "https://medex.com.bd/brands?page=560",
+    "detailUrl": "https://medex.com.bd/brands/37184/osify-600-mg-tablet"
+  }
+]

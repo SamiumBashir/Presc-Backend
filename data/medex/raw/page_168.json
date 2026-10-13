@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Clovir",
+    "strength": "250 mg/vial",
+    "genericName": "Acyclovir (Injection)",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/34341/clovir-250-mg-injection"
+  },
+  {
+    "brandName": "Clovir",
+    "strength": "200 mg",
+    "genericName": "Acyclovir (Oral)",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/147/clovir-200-mg-tablet"
+  },
+  {
+    "brandName": "Clovir",
+    "strength": "400 mg",
+    "genericName": "Acyclovir (Oral)",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/148/clovir-400-mg-tablet"
+  },
+  {
+    "brandName": "Clovir",
+    "strength": "3%",
+    "genericName": "Acyclovir (Ophthalmic)",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/235/clovir-3-eye-ointment"
+  },
+  {
+    "brandName": "Clox-F",
+    "strength": "250 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6228/clox-f-250-mg-capsule"
+  },
+  {
+    "brandName": "Clox-F",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6229/clox-f-500-mg-capsule"
+  },
+  {
+    "brandName": "Clox-F",
+    "strength": "125 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6230/clox-f-125-mg-suspension"
+  },
+  {
+    "brandName": "Clox-F DS",
+    "strength": "250 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6231/clox-f-ds-250-mg-suspension"
+  },
+  {
+    "brandName": "Cloxacin",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/19600/cloxacin-125-mg-suspension"
+  },
+  {
+    "brandName": "Cloxacin",
+    "strength": "500 mg",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/19601/cloxacin-500-mg-capsule"
+  },
+  {
+    "brandName": "Cloxafu",
+    "strength": "250 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Sonear Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6226/cloxafu-250-mg-capsule"
+  },
+  {
+    "brandName": "Cloxafu",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Sonear Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6227/cloxafu-500-mg-capsule"
+  },
+  {
+    "brandName": "Cloxakil",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/29576/cloxakil-500-mg-capsule"
+  },
+  {
+    "brandName": "Cloxin",
+    "strength": "500 mg",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6183/cloxin-500-mg-capsule"
+  },
+  {
+    "brandName": "Cloxin",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6184/cloxin-125-mg-suspension"
+  },
+  {
+    "brandName": "Cloxin",
+    "strength": "500 mg/vial",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6185/cloxin-500-mg-injection"
+  },
+  {
+    "brandName": "Cloxmet",
+    "strength": "500 mg",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6201/cloxmet-500-mg-capsule"
+  },
+  {
+    "brandName": "Cloxpen",
+    "strength": "500 mg",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/6186/cloxpen-500-mg-capsule"
+  },
+  {
+    "brandName": "Clozam",
+    "strength": "10 mg",
+    "genericName": "Clobazam",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/30832/clozam-10-mg-tablet"
+  },
+  {
+    "brandName": "Clozema",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/27328/clozema-005-ointment"
+  },
+  {
+    "brandName": "Clozema",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/27329/clozema-005-cream"
+  },
+  {
+    "brandName": "Clozep",
+    "strength": "2 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/35471/clozep-2-mg-tablet"
+  },
+  {
+    "brandName": "Clozep",
+    "strength": "0.5 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/35470/clozep-05-mg-tablet"
+  },
+  {
+    "brandName": "Clozosone",
+    "strength": "0.05%+1%",
+    "genericName": "Betamethasone + Clotrimazole",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/12550/clozosone-005-1-cream"
+  },
+  {
+    "brandName": "Clozox",
+    "strength": "1%",
+    "genericName": "Clotrimazole (Topical)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/12390/clozox-1-cream"
+  },
+  {
+    "brandName": "Clozyl",
+    "strength": "400 mg",
+    "genericName": "Metronidazole",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/30863/clozyl-400-mg-tablet"
+  },
+  {
+    "brandName": "Clozyl",
+    "strength": "200 mg/5 ml",
+    "genericName": "Metronidazole",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/30864/clozyl-200-mg-suspension"
+  },
+  {
+    "brandName": "CMC",
+    "strength": "1%",
+    "genericName": "Carboxymethylcellulose Sodium",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/38734/cmc-1-eye-drop"
+  },
+  {
+    "brandName": "CMC Luvis",
+    "strength": "0.5%",
+    "genericName": "Carmellose Sodium",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/29187/cmc-luvis-05-eye-drop"
+  },
+  {
+    "brandName": "CNV",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 168,
+    "sourceUrl": "https://medex.com.bd/brands?page=168",
+    "detailUrl": "https://medex.com.bd/brands/13539/cnv-syrup"
+  }
+]

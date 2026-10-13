@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Dola",
+    "strength": "500 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/10422/dola-500-mg-tablet"
+  },
+  {
+    "brandName": "Dola",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/10423/dola-120-mg-suspension"
+  },
+  {
+    "brandName": "Dola Extra",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/10579/dola-extra-500-mg-tablet"
+  },
+  {
+    "brandName": "Dolceta",
+    "strength": "325 mg+37.5 mg",
+    "genericName": "Paracetamol + Tramadol Hydrochloride",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/30372/dolceta-325-mg-tablet"
+  },
+  {
+    "brandName": "Dolgenal",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/33250/dolgenal-10-mg-tablet"
+  },
+  {
+    "brandName": "Dolin",
+    "strength": "100 mg",
+    "genericName": "Doxycycline Hydrochloride",
+    "manufacturer": "Union Pharmaceuticals Ltd",
+    "dosageForm": "Capsule",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/34962/dolin-100-mg-capsule"
+  },
+  {
+    "brandName": "Dolocid",
+    "strength": "(200 mg+250 mg)/5 ml",
+    "genericName": "Aluminium Oxide + Magnesium Trisilicate",
+    "manufacturer": "Aexim Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28135/dolocid-200-mg-suspension"
+  },
+  {
+    "brandName": "Dolocid",
+    "strength": "250 mg+400 mg",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "manufacturer": "Aexim Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/465/dolocid-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Doloket",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/15310/doloket-10-mg-tablet"
+  },
+  {
+    "brandName": "Doloket",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/21262/doloket-30-mg-injection"
+  },
+  {
+    "brandName": "Dolonac",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28124/dolonac-100-mg-tablet"
+  },
+  {
+    "brandName": "Dolonil",
+    "strength": "100 mg/2 ml",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28250/dolonil-100-mg-injection"
+  },
+  {
+    "brandName": "Dolonil",
+    "strength": "50 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28251/dolonil-50-mg-capsule"
+  },
+  {
+    "brandName": "Dolonil SR",
+    "strength": "100 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28252/dolonil-sr-100-mg-sr-tablet"
+  },
+  {
+    "brandName": "Dolopen",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/6232/dolopen-500-mg-capsule"
+  },
+  {
+    "brandName": "Dolopen",
+    "strength": "125 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/6233/dolopen-125-mg-suspension"
+  },
+  {
+    "brandName": "Dolopen",
+    "strength": "500 mg/vial",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/6234/dolopen-500-mg-injection"
+  },
+  {
+    "brandName": "Doloran",
+    "strength": "50 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Capsule",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/10693/doloran-50-mg-capsule"
+  },
+  {
+    "brandName": "Doloran",
+    "strength": "100 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Suppository",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/10696/doloran-100-mg-suppository"
+  },
+  {
+    "brandName": "Doloran Plus",
+    "strength": "325 mg+37.5 mg",
+    "genericName": "Paracetamol + Tramadol Hydrochloride",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/10783/doloran-plus-325-mg-tablet"
+  },
+  {
+    "brandName": "Doloran PRT",
+    "strength": "100 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet (Prolonged Release)",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/25061/doloran-prt-100-mg-pr-tablet"
+  },
+  {
+    "brandName": "Dolorex",
+    "strength": "100 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28890/dolorex-100-mg-capsule"
+  },
+  {
+    "brandName": "Dolorex",
+    "strength": "100 mg/2 ml",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28891/dolorex-100-mg-injection"
+  },
+  {
+    "brandName": "Dolorex",
+    "strength": "50 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/10697/dolorex-50-mg-capsule"
+  },
+  {
+    "brandName": "Doltro",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/15417/doltro-10-mg-tablet"
+  },
+  {
+    "brandName": "Doltro",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/35736/doltro-30-mg-injection"
+  },
+  {
+    "brandName": "Doltro",
+    "strength": "60 mg/2 ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/35737/doltro-60-mg-injection"
+  },
+  {
+    "brandName": "Dolwin",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "SMC Enterprise Ltd",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28111/dolwin-500-mg-tablet"
+  },
+  {
+    "brandName": "Domaid",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/26960/domaid-10-mg-tablet"
+  },
+  {
+    "brandName": "Domaid",
+    "strength": "5 mg/5 ml",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 224,
+    "sourceUrl": "https://medex.com.bd/brands?page=224",
+    "detailUrl": "https://medex.com.bd/brands/28688/domaid-5-mg-suspension"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Mitosan Plus",
+    "strength": "40 mg+12.5 mg",
+    "genericName": "Telmisartan + Hydrochlorothiazide",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/2997/mitosan-plus-40-mg-tablet"
+  },
+  {
+    "brandName": "Mitosan Plus",
+    "strength": "80 mg+12.5 mg",
+    "genericName": "Telmisartan + Hydrochlorothiazide",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/2998/mitosan-plus-80-mg-tablet"
+  },
+  {
+    "brandName": "Mitrazin",
+    "strength": "30 mg",
+    "genericName": "Mirtazapine",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/4567/mitrazin-30-mg-tablet"
+  },
+  {
+    "brandName": "Mitrazin",
+    "strength": "15 mg",
+    "genericName": "Mirtazapine",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/22554/mitrazin-15-mg-tablet"
+  },
+  {
+    "brandName": "Mitrazin",
+    "strength": "7.5 mg",
+    "genericName": "Mirtazapine",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/22555/mitrazin-75-mg-tablet"
+  },
+  {
+    "brandName": "Mitrocin",
+    "strength": "250 mg",
+    "genericName": "Erythromycin (Oral)",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/8505/mitrocin-250-mg-tablet"
+  },
+  {
+    "brandName": "Mitrocin",
+    "strength": "500 mg",
+    "genericName": "Erythromycin (Oral)",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/8506/mitrocin-500-mg-tablet"
+  },
+  {
+    "brandName": "Mitrocin",
+    "strength": "125 mg/5 ml",
+    "genericName": "Erythromycin (Oral)",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/8507/mitrocin-125-mg-suspension"
+  },
+  {
+    "brandName": "Mitrocin DS",
+    "strength": "250 mg/5 ml",
+    "genericName": "Erythromycin (Oral)",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/8508/mitrocin-ds-250-mg-suspension"
+  },
+  {
+    "brandName": "Mixavit",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/13562/mixavit-syrup"
+  },
+  {
+    "brandName": "Mixit",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Flupentixol + Melitracen",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/4353/mixit-05-mg-tablet"
+  },
+  {
+    "brandName": "Mixtard 30",
+    "strength": "30%+70% in 100 IU/ml",
+    "genericName": "Regular Insulin Human + Isophane Insulin Human",
+    "manufacturer": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "dosageForm": "SC Injection",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/16821/mixtard-30-30-70-injection"
+  },
+  {
+    "brandName": "Mixtard 50",
+    "strength": "50%+50% in 100 IU/ml",
+    "genericName": "Regular Insulin Human + Isophane Insulin Human",
+    "manufacturer": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "dosageForm": "SC Injection",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/16823/mixtard-50-50-50-injection"
+  },
+  {
+    "brandName": "Mizol",
+    "strength": "2% w/w",
+    "genericName": "Miconazole Nitrate",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Gel",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/10013/mizol-2-w-oral-gel"
+  },
+  {
+    "brandName": "Mizol HC",
+    "strength": "2%+1%",
+    "genericName": "Miconazole Nitrate + Hydrocortisone",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/29791/mizol-hc-2-1-cream"
+  },
+  {
+    "brandName": "Mizolam",
+    "strength": "7.5 mg",
+    "genericName": "Midazolam",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/4192/mizolam-75-mg-tablet"
+  },
+  {
+    "brandName": "MM Kit",
+    "strength": "200 mg+200 mcg",
+    "genericName": "Mifepristone + Misoprostol",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/26732/mm-kit-200-mg-tablet"
+  },
+  {
+    "brandName": "MMF",
+    "strength": "500 mg",
+    "genericName": "Mycophenolate Mofetil",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/30571/mmf-500-mg-tablet"
+  },
+  {
+    "brandName": "MMR Vaccine",
+    "strength": "0.5 ml/vial",
+    "genericName": "Measles and Rubella",
+    "manufacturer": "Janata Traders",
+    "dosageForm": "IM/SC Injection",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/37110/mmr-vaccine-05-ml-injection"
+  },
+  {
+    "brandName": "Mobicam",
+    "strength": "20 mg",
+    "genericName": "Tenoxicam",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/11626/mobicam-20-mg-tablet"
+  },
+  {
+    "brandName": "Mobifen",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/11040/mobifen-50-mg-tablet"
+  },
+  {
+    "brandName": "Mobifen",
+    "strength": "12.5 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Suppository",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/26366/mobifen-125-mg-suppository"
+  },
+  {
+    "brandName": "Mobifen",
+    "strength": "25 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Suppository",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/26367/mobifen-25-mg-suppository"
+  },
+  {
+    "brandName": "Mobifen",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Suppository",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/26368/mobifen-50-mg-suppository"
+  },
+  {
+    "brandName": "Mobifen",
+    "strength": "0.1%",
+    "genericName": "Diclofenac Sodium (Ophthalmic)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/32308/mobifen-01-eye-drop"
+  },
+  {
+    "brandName": "Mobifen Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "genericName": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IM Injection",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/11041/mobifen-plus-75-mg-injection"
+  },
+  {
+    "brandName": "Mobifen SR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule (Sustained Release)",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/32309/mobifen-sr-100-mg-sr-capsule"
+  },
+  {
+    "brandName": "Modern's Milk of Magnesia",
+    "strength": "400 mg/5 ml",
+    "genericName": "Magnesium Hydroxide",
+    "manufacturer": "Modern Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/21951/moderns-milk-of-magnesia-400-mg-suspension"
+  },
+  {
+    "brandName": "Modern's Whitfield",
+    "strength": "6%+3%",
+    "genericName": "Benzoic Acid + Salicylic Acid",
+    "manufacturer": "Modern Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/12461/moderns-whitfield-6-3-ointment"
+  },
+  {
+    "brandName": "Modesto XR",
+    "strength": "3 mg",
+    "genericName": "Paliperidone",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 475,
+    "sourceUrl": "https://medex.com.bd/brands?page=475",
+    "detailUrl": "https://medex.com.bd/brands/30175/modesto-xr-3-mg-er-tablet"
+  }
+]

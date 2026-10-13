@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Femiton",
+    "strength": "500 mg",
+    "genericName": "Monjistha [Rubia cordifolia]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/29724/femiton-500-mg-tablet"
+  },
+  {
+    "brandName": "Femocal",
+    "strength": null,
+    "genericName": "Marwareedi",
+    "manufacturer": "The IBN SINA Natural Medicine Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34426/femocal-tablet"
+  },
+  {
+    "brandName": "Femolin",
+    "strength": null,
+    "genericName": "Sharbat Niswan",
+    "manufacturer": "Jayson Natural Products Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/37462/femolin-syrup"
+  },
+  {
+    "brandName": "Femony",
+    "strength": null,
+    "genericName": "Combination of five natural herbs",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34222/femony-capsule"
+  },
+  {
+    "brandName": "Femorose",
+    "strength": "1000 mg",
+    "genericName": "Evening primrose oil",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/30162/femorose-1000-mg-capsule"
+  },
+  {
+    "brandName": "Femorose",
+    "strength": "500 mg",
+    "genericName": "Evening primrose oil",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/27599/femorose-500-mg-capsule"
+  },
+  {
+    "brandName": "Feroma",
+    "strength": "(3 ml+1 ml)/5 ml",
+    "genericName": "Sharbat Faulad",
+    "manufacturer": "Jayson Natural Products Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/35965/feroma-3-ml-syrup"
+  },
+  {
+    "brandName": "Ferti-Q",
+    "strength": "200 mg",
+    "genericName": "Ubidecarenone [Coenzyme Q10]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/37010/ferti-q-200-mg-capsule"
+  },
+  {
+    "brandName": "Ferti-Q",
+    "strength": "100 mg",
+    "genericName": "Ubidecarenone [Coenzyme Q10]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/37009/ferti-q-100-mg-capsule"
+  },
+  {
+    "brandName": "Fertisoft",
+    "strength": "200 mg",
+    "genericName": "Ubidecarenone [Coenzyme Q10]",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/37499/fertisoft-200-mg-capsule"
+  },
+  {
+    "brandName": "Fertisoft",
+    "strength": "100 mg",
+    "genericName": "Ubidecarenone [Coenzyme Q10]",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/37498/fertisoft-100-mg-capsule"
+  },
+  {
+    "brandName": "Fevnil",
+    "strength": null,
+    "genericName": "Khakshi",
+    "manufacturer": "Hamdard Laboratories (WAQF) BD",
+    "dosageForm": "Syrup",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/29659/fevnil-syrup"
+  },
+  {
+    "brandName": "Fiberlax",
+    "strength": "3.5 gm/5.4 gm",
+    "genericName": "Ispaghula Husk [Psyllium]",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Effervescent Powder",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/27598/fiberlax-35-gm-eff-powder"
+  },
+  {
+    "brandName": "Fiberlax Ultra",
+    "strength": "(3.5 gm+135 mg)/sachet",
+    "genericName": "Ispaghula Husk + Mebeverine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Effervescent Granules",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/21161/fiberlax-ultra-35-gm-eff-granules"
+  },
+  {
+    "brandName": "Fibosina",
+    "strength": "3.5 gm/5.4 gm",
+    "genericName": "Ispaghula Husk [Psyllium]",
+    "manufacturer": "The IBN SINA Natural Medicine Ltd.",
+    "dosageForm": "Effervescent Powder",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34428/fibosina-35-gm-eff-powder"
+  },
+  {
+    "brandName": "Fibosyl",
+    "strength": "3.5 gm/5.4 gm",
+    "genericName": "Ispaghula Husk [Psyllium]",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Effervescent Powder",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/31904/fibosyl-35-gm-eff-powder"
+  },
+  {
+    "brandName": "Fibosyl-S",
+    "strength": "(3.5 gm+7.5 mg)/5.38 gm",
+    "genericName": "Ispaghula Husk [Psyllium] + Senna Extract",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Effervescent Powder",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/35300/fibosyl-s-35-gm-eff-powder"
+  },
+  {
+    "brandName": "Fibrocell",
+    "strength": "(3 gm+1 gm)/4 gm",
+    "genericName": "Ispaghula Husk + Sonapata",
+    "manufacturer": "Biocell Ayurvedic Limited",
+    "dosageForm": "Effervescent Powder",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/38430/fibrocell-3-gm-eff-powder"
+  },
+  {
+    "brandName": "Fitvit",
+    "strength": "300 mg+50 mg+50 mg+50 mg",
+    "genericName": "Apple Vinegar + Garcinia cambogia + Ginger Root + Cayenne Pepper",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34750/fitvit-300-mg-capsule"
+  },
+  {
+    "brandName": "Flemo",
+    "strength": "40 mg",
+    "genericName": "Undenatured Type II Collagen",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/29151/flemo-40-mg-capsule"
+  },
+  {
+    "brandName": "Flemo Max",
+    "strength": "20 mg+35 mg+200 mg+50 mg+50 mg",
+    "genericName": "Undenatured Type II Collagen + Hyaluronic Acid + Methylsulfonylmethane + Turmeric + Boswellia serrata",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34450/flemo-max-20-mg-capsule"
+  },
+  {
+    "brandName": "Flemo Plus",
+    "strength": "40 mg+150 mg+120 mg",
+    "genericName": "Undenatured Type II Collagen + Glucosamine Hydrochloride + Chondroitin Sulfate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/33435/flemo-plus-40-mg-capsule"
+  },
+  {
+    "brandName": "FlexiRun",
+    "strength": "40 mg",
+    "genericName": "Undenatured Type II Collagen",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34078/flexirun-40-mg-capsule"
+  },
+  {
+    "brandName": "FlexiRun Plus",
+    "strength": "40 mg+100 mg",
+    "genericName": "Undenatured Type II Collagen + Boswellia Serrata",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34079/flexirun-plus-40-mg-capsule"
+  },
+  {
+    "brandName": "Floriz",
+    "strength": "5000 mcg",
+    "genericName": "Biotin",
+    "manufacturer": "Radiant Nutraceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34319/floriz-5000-mcg-tablet"
+  },
+  {
+    "brandName": "Floriz",
+    "strength": "1000 mcg",
+    "genericName": "Biotin",
+    "manufacturer": "Radiant Nutraceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/27681/floriz-1000-mcg-tablet"
+  },
+  {
+    "brandName": "Floriz",
+    "strength": "2500 mcg",
+    "genericName": "Biotin",
+    "manufacturer": "Radiant Nutraceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/37020/floriz-2500-mcg-tablet"
+  },
+  {
+    "brandName": "Floriz Alpha",
+    "strength": "5000 mcg+10 mg+50 mg",
+    "genericName": "Biotin + Keratin + Alpha Lipoic Acid",
+    "manufacturer": "Radiant Nutraceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/39656/floriz-alpha-5000-mcg-tablet"
+  },
+  {
+    "brandName": "Flucare",
+    "strength": "200 mg",
+    "genericName": "Andrographis paniculata",
+    "manufacturer": "The IBN SINA Natural Medicine Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/31651/flucare-200-mg-capsule"
+  },
+  {
+    "brandName": "Folate Enriched Egg",
+    "strength": null,
+    "genericName": "Hygiene & Healthcare",
+    "manufacturer": "Purnava Limited",
+    "dosageForm": "Semisolid Preparation",
+    "sourcePage": 10,
+    "sourceUrl": "https://medex.com.bd/brands?page=10",
+    "detailUrl": "https://medex.com.bd/brands/34489/folate-enriched-egg-semisolid-preparation"
+  }
+]

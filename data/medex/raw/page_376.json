@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Inflavis",
+    "strength": "0.1%",
+    "genericName": "Dexamethasone (Ophthalmic)",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/15769/inflavis-01-eye-drop"
+  },
+  {
+    "brandName": "Inflect",
+    "strength": "375 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/11545/inflect-375-mg-dr-tablet"
+  },
+  {
+    "brandName": "Inflect",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/11546/inflect-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Influ",
+    "strength": "100 mg",
+    "genericName": "Amantadine Hydrochloride",
+    "manufacturer": "Peoples Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/527/influ-100-mg-capsule"
+  },
+  {
+    "brandName": "Influ",
+    "strength": "50 mg/5 ml",
+    "genericName": "Amantadine Hydrochloride",
+    "manufacturer": "Peoples Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/528/influ-50-mg-syrup"
+  },
+  {
+    "brandName": "Influvax Tetra",
+    "strength": "0.5 ml/pre-filled syringe",
+    "genericName": "Inactivated Influenza Vaccine",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/15216/influvax-tetra-05-ml-injection"
+  },
+  {
+    "brandName": "Info-500",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Bristol Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/5402/info-500-500-mg-tablet"
+  },
+  {
+    "brandName": "Info-850",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Bristol Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/5403/info-850-850-mg-tablet"
+  },
+  {
+    "brandName": "Informet",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/5404/informet-500-mg-tablet"
+  },
+  {
+    "brandName": "Informet",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/5405/informet-850-mg-tablet"
+  },
+  {
+    "brandName": "Informet LA",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Long Acting Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/5406/informet-la-500-mg-tablet"
+  },
+  {
+    "brandName": "Informet LA",
+    "strength": "750 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Long Acting Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/22092/informet-la-750-mg-tablet"
+  },
+  {
+    "brandName": "Informet LA",
+    "strength": "1000 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Long Acting Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/29092/informet-la-1000-mg-tablet"
+  },
+  {
+    "brandName": "Informet XR",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/32489/informet-xr-500-mg-er-tablet"
+  },
+  {
+    "brandName": "Informet XR",
+    "strength": "750 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/32490/informet-xr-750-mg-er-tablet"
+  },
+  {
+    "brandName": "Infovir",
+    "strength": "10 mg",
+    "genericName": "Adefovir Dipivoxil",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/180/infovir-10-mg-tablet"
+  },
+  {
+    "brandName": "Infud",
+    "strength": "250 mg",
+    "genericName": "Terbinafine Hydrochloride",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/10034/infud-250-mg-tablet"
+  },
+  {
+    "brandName": "Infud",
+    "strength": "1%",
+    "genericName": "Terbinafine Hydrochloride",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/10047/infud-1-cream"
+  },
+  {
+    "brandName": "Infudex",
+    "strength": "5%",
+    "genericName": "Dextrose",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/19785/infudex-5-injection"
+  },
+  {
+    "brandName": "Infudex",
+    "strength": "10%",
+    "genericName": "Dextrose",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/19786/infudex-10-injection"
+  },
+  {
+    "brandName": "Infusion Set (Hypodermic Needle + YC)",
+    "strength": null,
+    "genericName": "Infusion set & surgical device",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/38689/infusion-set-hypodermic-needle-yc-injection"
+  },
+  {
+    "brandName": "Infusion Set (Hypodermic Needle)",
+    "strength": null,
+    "genericName": "Infusion set & surgical device",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/38687/infusion-set-hypodermic-needle-injection"
+  },
+  {
+    "brandName": "Infusion Set (Scalp Vein Set + YC)",
+    "strength": null,
+    "genericName": "Infusion set & surgical device",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/38688/infusion-set-scalp-vein-set-yc-injection"
+  },
+  {
+    "brandName": "Infusion Set (Scalp Vein Set)",
+    "strength": null,
+    "genericName": "Infusion set & surgical device",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/39502/infusion-set-scalp-vein-set-injection"
+  },
+  {
+    "brandName": "Infusol",
+    "strength": "5%",
+    "genericName": "Dextrose",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/14851/infusol-5-injection"
+  },
+  {
+    "brandName": "Infusol Plus",
+    "strength": "0.9%+5%",
+    "genericName": "Sodium Chloride + Dextrose",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/395/infusol-plus-09-5-injection"
+  },
+  {
+    "brandName": "Ingovax ACWY",
+    "strength": "50 mcg/0.5 ml",
+    "genericName": "Meningococcal Vaccine",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/15235/ingovax-acwy-50-mcg-injection"
+  },
+  {
+    "brandName": "Ingrow Gone Lotion",
+    "strength": null,
+    "genericName": "Miscellaneous Topical Agents",
+    "manufacturer": "DBL Healthcare Ltd.",
+    "dosageForm": "Lotion",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/38310/ingrow-gone-lotion-lotion"
+  },
+  {
+    "brandName": "Inhibita",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/1821/inhibita-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Inhibita",
+    "strength": "40 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 376,
+    "sourceUrl": "https://medex.com.bd/brands?page=376",
+    "detailUrl": "https://medex.com.bd/brands/1822/inhibita-40-mg-ec-capsule"
+  }
+]

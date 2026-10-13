@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Chlorosol",
+    "strength": "0.5%+70%",
+    "genericName": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Hand Rub",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/28855/chlorosol-05-70-hand-rub"
+  },
+  {
+    "brandName": "Chlorovis",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/19185/chlorovis-05-eye-drop"
+  },
+  {
+    "brandName": "Chlorphen",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/19195/chlorphen-05-eye-drop"
+  },
+  {
+    "brandName": "Chlorphen",
+    "strength": "250 mg",
+    "genericName": "Chloramphenicol (Oral)",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/30806/chlorphen-250-mg-capsule"
+  },
+  {
+    "brandName": "Chlorphen",
+    "strength": "1%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/8889/chlorphen-1-eye-ointment"
+  },
+  {
+    "brandName": "Chlorphen",
+    "strength": "5%+1%",
+    "genericName": "Chloramphenicol + Lidocaine Hydrochloride",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ear Drop",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/8888/chlorphen-5-1-ear-drop"
+  },
+  {
+    "brandName": "Chlorpheniramine",
+    "strength": "4 mg",
+    "genericName": "Chlorpheniramine Maleate",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/11855/chlorpheniramine-4-mg-tablet"
+  },
+  {
+    "brandName": "Cholcut",
+    "strength": "10 mg",
+    "genericName": "Rosuvastatin Calcium",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/24368/cholcut-10-mg-tablet"
+  },
+  {
+    "brandName": "Cholcut",
+    "strength": "5 mg",
+    "genericName": "Rosuvastatin Calcium",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/24369/cholcut-5-mg-tablet"
+  },
+  {
+    "brandName": "Cholcut",
+    "strength": "20 mg",
+    "genericName": "Rosuvastatin Calcium",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/31059/cholcut-20-mg-tablet"
+  },
+  {
+    "brandName": "Cholcut EZ",
+    "strength": "5 mg+10 mg",
+    "genericName": "Rosuvastatin + Ezetimibe",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/38936/cholcut-ez-5-mg-tablet"
+  },
+  {
+    "brandName": "Cholcut EZ",
+    "strength": "10 mg+10 mg",
+    "genericName": "Rosuvastatin + Ezetimibe",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/38937/cholcut-ez-10-mg-tablet"
+  },
+  {
+    "brandName": "Cholcut EZ",
+    "strength": "20 mg+10 mg",
+    "genericName": "Rosuvastatin + Ezetimibe",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/38938/cholcut-ez-20-mg-tablet"
+  },
+  {
+    "brandName": "Cholenak",
+    "strength": "0.5%+0.1%+0.393%",
+    "genericName": "Sodium Chloride + Potassium Chloride + Sodium Acetate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/26181/cholenak-05-01-injection"
+  },
+  {
+    "brandName": "Cholera Saline",
+    "strength": null,
+    "genericName": "Cholera Saline",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/14890/cholera-saline-injection"
+  },
+  {
+    "brandName": "Cholera Saline",
+    "strength": null,
+    "genericName": "Cholera Saline",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/14884/cholera-saline-injection"
+  },
+  {
+    "brandName": "Cholevit",
+    "strength": "200000 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Injectable Solution (Oral & IM)",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/33787/cholevit-200000-iu-injectable-solution"
+  },
+  {
+    "brandName": "Choliva",
+    "strength": "10 mg",
+    "genericName": "Obeticholic Acid",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/34077/choliva-10-mg-tablet"
+  },
+  {
+    "brandName": "Choliva",
+    "strength": "5 mg",
+    "genericName": "Obeticholic Acid",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/34076/choliva-5-mg-tablet"
+  },
+  {
+    "brandName": "Cholvax",
+    "strength": "1.5 ml/vial",
+    "genericName": "Oral Cholera Vaccine",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/30222/cholvax-15-ml-suspension"
+  },
+  {
+    "brandName": "Choriofactor",
+    "strength": "5000 IU/vial",
+    "genericName": "Human Chorionic Gonadotrophin",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "IM/SC Injection",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/26162/choriofactor-5000-iu-injection"
+  },
+  {
+    "brandName": "Chrocee",
+    "strength": "200 mg",
+    "genericName": "Ribavirin",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/24222/chrocee-200-mg-capsule"
+  },
+  {
+    "brandName": "Chuben DS",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/303/chuben-ds-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Ciafil",
+    "strength": "20 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/28476/ciafil-20-mg-tablet"
+  },
+  {
+    "brandName": "Ciafil",
+    "strength": "10 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/28475/ciafil-10-mg-tablet"
+  },
+  {
+    "brandName": "Cialix",
+    "strength": "10 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/6067/cialix-10-mg-tablet"
+  },
+  {
+    "brandName": "Ciaton",
+    "strength": "5 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/6068/ciaton-5-mg-tablet"
+  },
+  {
+    "brandName": "Ciaton",
+    "strength": "10 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/6069/ciaton-10-mg-tablet"
+  },
+  {
+    "brandName": "Ciaton",
+    "strength": "20 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/6070/ciaton-20-mg-tablet"
+  },
+  {
+    "brandName": "Cibact",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 149,
+    "sourceUrl": "https://medex.com.bd/brands?page=149",
+    "detailUrl": "https://medex.com.bd/brands/9158/cibact-500-mg-tablet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Opcol",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/16174/opcol-04-03-eye-drop"
+  },
+  {
+    "brandName": "OPD DS",
+    "strength": "0.2%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/38725/opd-ds-02-eye-drop"
+  },
+  {
+    "brandName": "Opdex",
+    "strength": "0.3%+0.1%",
+    "genericName": "Ciprofloxacin + Dexamethasone",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/15829/opdex-03-01-eye-drop"
+  },
+  {
+    "brandName": "Opegus",
+    "strength": "200 mg",
+    "genericName": "Ribavirin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/24224/opegus-200-mg-capsule"
+  },
+  {
+    "brandName": "Open",
+    "strength": "250 mg",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/6134/open-250-mg-tablet"
+  },
+  {
+    "brandName": "Open",
+    "strength": "500 mg",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/6135/open-500-mg-tablet"
+  },
+  {
+    "brandName": "Open",
+    "strength": "125 mg/5 ml",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/6136/open-125-mg-suspension"
+  },
+  {
+    "brandName": "Opexa",
+    "strength": "12.5 mg/5 ml",
+    "genericName": "Bilastine",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/38390/opexa-125-mg-oral-solution"
+  },
+  {
+    "brandName": "Opexa",
+    "strength": "20 mg",
+    "genericName": "Bilastine",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/31423/opexa-20-mg-tablet"
+  },
+  {
+    "brandName": "Opexa ODT",
+    "strength": "10 mg",
+    "genericName": "Bilastine",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/38417/opexa-odt-10-mg-tablet"
+  },
+  {
+    "brandName": "Opezen",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/23115/opezen-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Opezen",
+    "strength": "40 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/27824/opezen-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "Opidol",
+    "strength": "50 mg",
+    "genericName": "Tramadol Hydrochloride",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/10742/opidol-50-mg-capsule"
+  },
+  {
+    "brandName": "Opifen",
+    "strength": "100 mcg",
+    "genericName": "Fentanyl Citrate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/15460/opifen-100-mcg-tablet"
+  },
+  {
+    "brandName": "Opifen",
+    "strength": "100 mcg/2 ml",
+    "genericName": "Fentanyl Citrate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/15462/opifen-100-mcg-injection"
+  },
+  {
+    "brandName": "Opifen",
+    "strength": "200 mcg",
+    "genericName": "Fentanyl Citrate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/34267/opifen-200-mcg-tablet"
+  },
+  {
+    "brandName": "Opiren",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Arges Life Science Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/32917/opiren-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Opler",
+    "strength": "0.1%",
+    "genericName": "Dexamethasone (Ophthalmic)",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/15773/opler-01-eye-drop"
+  },
+  {
+    "brandName": "OPmax",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/1918/opmax-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "OPmax",
+    "strength": "40 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/1919/opmax-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Opocan",
+    "strength": "4 mg/4 ml",
+    "genericName": "Topotecan",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/36110/opocan-4-mg-injection"
+  },
+  {
+    "brandName": "Opra",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/1920/opra-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Opso-Rinse",
+    "strength": null,
+    "genericName": "Balanced Salt Solution",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Irrigation Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/27738/opso-rinse-solution"
+  },
+  {
+    "brandName": "Opsocrom",
+    "strength": "2%",
+    "genericName": "Sodium Cromoglicate [2%]",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/3699/opsocrom-2-eye-drop"
+  },
+  {
+    "brandName": "Opsomycetin",
+    "strength": "125 mg/5 ml",
+    "genericName": "Chloramphenicol (Oral)",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/8880/opsomycetin-125-mg-suspension"
+  },
+  {
+    "brandName": "Opsonil",
+    "strength": "50 mg",
+    "genericName": "Chlorpromazine Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/4296/opsonil-50-mg-tablet"
+  },
+  {
+    "brandName": "Opsonil",
+    "strength": "100 mg",
+    "genericName": "Chlorpromazine Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/4297/opsonil-100-mg-tablet"
+  },
+  {
+    "brandName": "Opsonil",
+    "strength": "50 mg/2 ml",
+    "genericName": "Chlorpromazine Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/4298/opsonil-50-mg-injection"
+  },
+  {
+    "brandName": "Opsophenicol",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/8899/opsophenicol-05-eye-drop"
+  },
+  {
+    "brandName": "Opsophenicol",
+    "strength": "1%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 549,
+    "sourceUrl": "https://medex.com.bd/brands?page=549",
+    "detailUrl": "https://medex.com.bd/brands/8900/opsophenicol-1-eye-ointment"
+  }
+]

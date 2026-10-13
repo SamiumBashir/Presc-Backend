@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Spotclen",
+    "strength": "4%",
+    "genericName": "Hydroquinone",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/12803/spotclen-4-cream"
+  },
+  {
+    "brandName": "Spotclen Plus",
+    "strength": "40 mg+80 mg+30 mg+20 mg",
+    "genericName": "Hydroquinone + Octyldimethyl + Dioxybenzone + Oxybenzone",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/16440/spotclen-plus-40-mg-cream"
+  },
+  {
+    "brandName": "Spotex",
+    "strength": "0.1%",
+    "genericName": "Tretinoin (Topical)",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/37200/spotex-01-cream"
+  },
+  {
+    "brandName": "Spotless",
+    "strength": "4%",
+    "genericName": "Hydroquinone",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/32327/spotless-4-cream"
+  },
+  {
+    "brandName": "Spotnil",
+    "strength": "0.01%+4%+0.05%",
+    "genericName": "Fluocinolone Acetonide + Hydroquinone + Tretinoin",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Cream",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/20417/spotnil-001-4-cream"
+  },
+  {
+    "brandName": "Spulyt",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/30680/spulyt-4-mg-syrup"
+  },
+  {
+    "brandName": "Spulyt",
+    "strength": "8 mg",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/30681/spulyt-8-mg-tablet"
+  },
+  {
+    "brandName": "Spusoft",
+    "strength": "300 mg",
+    "genericName": "Erdosteine",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/30490/spusoft-300-mg-capsule"
+  },
+  {
+    "brandName": "Spusoft",
+    "strength": "175 mg/5 ml",
+    "genericName": "Erdosteine",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/36551/spusoft-175-mg-syrup"
+  },
+  {
+    "brandName": "Sputen",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/4111/sputen-4-mg-syrup"
+  },
+  {
+    "brandName": "SQ-Mycetin",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/19201/sq-mycetin-05-eye-drop"
+  },
+  {
+    "brandName": "SR Saline",
+    "strength": "10.25 gm",
+    "genericName": "Oral rehydration salt [glucose based]",
+    "manufacturer": "Seema Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/14816/sr-saline-1025-gm-powder"
+  },
+  {
+    "brandName": "Srenxit-M",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Flupentixol + Melitracen",
+    "manufacturer": "Salton Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/39355/srenxit-m-05-mg-tablet"
+  },
+  {
+    "brandName": "SRS-Saline",
+    "strength": "10.25 gm",
+    "genericName": "Oral rehydration salt [glucose based]",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/31580/srs-saline-1025-gm-powder"
+  },
+  {
+    "brandName": "SRT",
+    "strength": "0.1%",
+    "genericName": "Estriol (Vaginal)",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Vaginal Cream",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/36964/srt-01-vaginal-cream"
+  },
+  {
+    "brandName": "Stacor",
+    "strength": "10 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/1229/stacor-10-mg-tablet"
+  },
+  {
+    "brandName": "Stacor",
+    "strength": "20 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/1230/stacor-20-mg-tablet"
+  },
+  {
+    "brandName": "Stacor",
+    "strength": "40 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/1231/stacor-40-mg-tablet"
+  },
+  {
+    "brandName": "Stafen",
+    "strength": "1 mg",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/3741/stafen-1-mg-tablet"
+  },
+  {
+    "brandName": "Stafen",
+    "strength": "1 mg/5 ml",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/3742/stafen-1-mg-syrup"
+  },
+  {
+    "brandName": "Stafen",
+    "strength": "0.025%",
+    "genericName": "Ketotifen Fumarate (Ophthalmic)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/15954/stafen-0025-eye-drop"
+  },
+  {
+    "brandName": "Staflu",
+    "strength": "250 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/27886/staflu-250-mg-capsule"
+  },
+  {
+    "brandName": "Staflu",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/27887/staflu-500-mg-capsule"
+  },
+  {
+    "brandName": "Staflu",
+    "strength": "125 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/27888/staflu-125-mg-suspension"
+  },
+  {
+    "brandName": "Staflu DS",
+    "strength": "250 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/27889/staflu-ds-250-mg-suspension"
+  },
+  {
+    "brandName": "Stafoxin",
+    "strength": "250 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/6398/stafoxin-250-mg-capsule"
+  },
+  {
+    "brandName": "Stafoxin",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/6399/stafoxin-500-mg-capsule"
+  },
+  {
+    "brandName": "Stafoxin",
+    "strength": "125 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/6400/stafoxin-125-mg-suspension"
+  },
+  {
+    "brandName": "Stalevo",
+    "strength": "75 mg+18.75 mg+200 mg",
+    "genericName": "Levodopa + Carbidopa + Entacapone",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/5124/stalevo-75-mg-tablet"
+  },
+  {
+    "brandName": "Stalevo",
+    "strength": "125 mg+31.25 mg+200 mg",
+    "genericName": "Levodopa + Carbidopa + Entacapone",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "Tablet",
+    "sourcePage": 711,
+    "sourceUrl": "https://medex.com.bd/brands?page=711",
+    "detailUrl": "https://medex.com.bd/brands/5125/stalevo-125-mg-tablet"
+  }
+]

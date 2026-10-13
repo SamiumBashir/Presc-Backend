@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Hi Floxin",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "genericName": "Sulphamethoxazole + Trimethoprim",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/16990/hi-floxin-200-mg-suspension"
+  },
+  {
+    "brandName": "Hi Gel",
+    "strength": "250 mg+400 mg",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/474/hi-gel-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Hi-C",
+    "strength": "100 mg/5 ml",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/13926/hi-c-100-mg-syrup"
+  },
+  {
+    "brandName": "Hi-cef",
+    "strength": "500 mg",
+    "genericName": "Cephalexin",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6728/hi-cef-500-mg-capsule"
+  },
+  {
+    "brandName": "Hi-cef",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cephalexin",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6729/hi-cef-125-mg-suspension"
+  },
+  {
+    "brandName": "Hi-clox",
+    "strength": "500 mg",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6193/hi-clox-500-mg-capsule"
+  },
+  {
+    "brandName": "Hi-clox",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cloxacillin Sodium",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6194/hi-clox-125-mg-suspension"
+  },
+  {
+    "brandName": "Hi-D",
+    "strength": "20000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/28670/hi-d-20000-iu-capsule"
+  },
+  {
+    "brandName": "Hi-D",
+    "strength": "40000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/28671/hi-d-40000-iu-capsule"
+  },
+  {
+    "brandName": "Hi-D",
+    "strength": "2000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/28672/hi-d-2000-iu-tablet"
+  },
+  {
+    "brandName": "Hi-D",
+    "strength": "200000 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Injectable Solution (Oral & IM)",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/29379/hi-d-200000-iu-injectable-solution"
+  },
+  {
+    "brandName": "Hi-Fenac",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/11020/hi-fenac-50-mg-tablet"
+  },
+  {
+    "brandName": "Hi-Fenac TR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/11021/hi-fenac-tr-100-mg-tr-capsule"
+  },
+  {
+    "brandName": "Hi-Flow",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/32888/hi-flow-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Hi-Flow D",
+    "strength": "0.4 mg+0.5 mg",
+    "genericName": "Tamsulosin Hydrochloride + Dutasteride",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/32889/hi-flow-d-04-mg-capsule"
+  },
+  {
+    "brandName": "Hi-Floxin",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/9293/hi-floxin-500-mg-tablet"
+  },
+  {
+    "brandName": "Hi-Lac",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/21257/hi-lac-10-mg-tablet"
+  },
+  {
+    "brandName": "Hi-met",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/5401/hi-met-850-mg-tablet"
+  },
+  {
+    "brandName": "Hi-mox",
+    "strength": "250 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6543/hi-mox-250-mg-capsule"
+  },
+  {
+    "brandName": "Hi-mox",
+    "strength": "125 mg/5 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6545/hi-mox-125-mg-suspension"
+  },
+  {
+    "brandName": "Hi-mox DS",
+    "strength": "500 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6544/hi-mox-ds-500-mg-capsule"
+  },
+  {
+    "brandName": "Hi-Trol",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/11966/hi-trol-10-mg-tablet"
+  },
+  {
+    "brandName": "Hi-Trol",
+    "strength": "5 mg/5 ml",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/11967/hi-trol-5-mg-syrup"
+  },
+  {
+    "brandName": "Hi-Vol",
+    "strength": "6%+0.9%",
+    "genericName": "Hydroxyethyl Starch + Sodium Chloride",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/29411/hi-vol-6-09-injection"
+  },
+  {
+    "brandName": "Hiconcil",
+    "strength": "250 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6540/hiconcil-250-mg-capsule"
+  },
+  {
+    "brandName": "Hiconcil",
+    "strength": "500 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6541/hiconcil-500-mg-capsule"
+  },
+  {
+    "brandName": "Hiconcil",
+    "strength": "125 mg/5 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/6542/hiconcil-125-mg-suspension"
+  },
+  {
+    "brandName": "Hidin",
+    "strength": "1% w/v",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/12868/hidin-1-w-mouthwash"
+  },
+  {
+    "brandName": "Hidin",
+    "strength": "5% w/w",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/23760/hidin-5-w-ointment"
+  },
+  {
+    "brandName": "Hifenac",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 362,
+    "sourceUrl": "https://medex.com.bd/brands?page=362",
+    "detailUrl": "https://medex.com.bd/brands/32519/hifenac-100-mg-tablet"
+  }
+]

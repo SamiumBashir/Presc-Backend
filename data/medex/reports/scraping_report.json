@@ -1,0 +1,12 @@
+{
+  "startPage": 1,
+  "endPage": 846,
+  "successfulPages": 846,
+  "failedPages": [],
+  "totalRecords": 25354,
+  "uniqueRecords": 25341,
+  "duplicatesRemoved": 13,
+  "outputJson": "E:\\prescription\\backend\\data\\medex\\processed\\medex_brands.json",
+  "outputCsv": "E:\\prescription\\backend\\data\\medex\\processed\\medex_brands.csv",
+  "generatedAt": "2026-09-01T20:03:40.284Z"
+}

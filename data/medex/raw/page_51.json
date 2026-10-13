@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Apocal-DM",
+    "strength": null,
+    "genericName": "Calcium + Vitamin D3 + Multimineral",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/14510/apocal-dm-tablet"
+  },
+  {
+    "brandName": "Apodin",
+    "strength": "5% w/w",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/12856/apodin-5-w-ointment"
+  },
+  {
+    "brandName": "Apodin",
+    "strength": "10% w/v",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Solution",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/12845/apodin-10-w-solution"
+  },
+  {
+    "brandName": "Apoket",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/15305/apoket-10-mg-tablet"
+  },
+  {
+    "brandName": "Aponia",
+    "strength": "750 mg",
+    "genericName": "Nabumetone",
+    "manufacturer": "One Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/34499/aponia-750-mg-tablet"
+  },
+  {
+    "brandName": "Aponia",
+    "strength": "500 mg",
+    "genericName": "Nabumetone",
+    "manufacturer": "One Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/34099/aponia-500-mg-tablet"
+  },
+  {
+    "brandName": "Aponia",
+    "strength": "1000 mg",
+    "genericName": "Nabumetone",
+    "manufacturer": "One Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/34100/aponia-1000-mg-tablet"
+  },
+  {
+    "brandName": "Apoxy",
+    "strength": "500 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/6475/apoxy-500-mg-capsule"
+  },
+  {
+    "brandName": "Apoxy",
+    "strength": "125 mg/5 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/6476/apoxy-125-mg-suspension"
+  },
+  {
+    "brandName": "Apoxyclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "genericName": "Amoxicillin + Clavulanic Acid",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/17779/apoxyclav-125-mg-suspension"
+  },
+  {
+    "brandName": "Apozyth",
+    "strength": "200 mg/5 ml",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/25587/apozyth-200-mg-suspension"
+  },
+  {
+    "brandName": "Apozyth",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/8549/apozyth-500-mg-tablet"
+  },
+  {
+    "brandName": "Appras",
+    "strength": "5 mg",
+    "genericName": "Prasugrel Hydrochloride",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/23793/appras-5-mg-tablet"
+  },
+  {
+    "brandName": "Appras",
+    "strength": "10 mg",
+    "genericName": "Prasugrel Hydrochloride",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/23792/appras-10-mg-tablet"
+  },
+  {
+    "brandName": "Apremig ODT",
+    "strength": "75 mg",
+    "genericName": "Rimegepant",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/35623/apremig-odt-75-mg-tablet"
+  },
+  {
+    "brandName": "Apresin",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Fluphenazine + Nortriptyline",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/4583/apresin-05-mg-tablet"
+  },
+  {
+    "brandName": "Apridex",
+    "strength": "40 mg",
+    "genericName": "Aprepitant",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/30309/apridex-40-mg-capsule"
+  },
+  {
+    "brandName": "Aprila",
+    "strength": "10 mg",
+    "genericName": "Apremilast",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/26606/aprila-10-mg-tablet"
+  },
+  {
+    "brandName": "Aprila",
+    "strength": "30 mg",
+    "genericName": "Apremilast",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/25986/aprila-30-mg-tablet"
+  },
+  {
+    "brandName": "Aprima",
+    "strength": "30 mg",
+    "genericName": "Apremilast",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/27583/aprima-30-mg-tablet"
+  },
+  {
+    "brandName": "Aprima",
+    "strength": "10 mg",
+    "genericName": "Apremilast",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/25987/aprima-10-mg-tablet"
+  },
+  {
+    "brandName": "Aprocin",
+    "strength": "0.3%",
+    "genericName": "Ciprofloxacin (Ophthalmic)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/9103/aprocin-03-eye-drop"
+  },
+  {
+    "brandName": "Aprocin",
+    "strength": "0.3%",
+    "genericName": "Ciprofloxacin (Ophthalmic)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/9104/aprocin-03-eye-ointment"
+  },
+  {
+    "brandName": "Aprocin",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/9142/aprocin-500-mg-tablet"
+  },
+  {
+    "brandName": "Aprocin",
+    "strength": "250 mg/5 ml",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/9144/aprocin-250-mg-suspension"
+  },
+  {
+    "brandName": "Aprodex",
+    "strength": "0.3%+0.1%",
+    "genericName": "Ciprofloxacin + Dexamethasone",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/15819/aprodex-03-01-eye-drop"
+  },
+  {
+    "brandName": "Aprodust",
+    "strength": "2 mg",
+    "genericName": "Daprodustat",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/38392/aprodust-2-mg-tablet"
+  },
+  {
+    "brandName": "Aprodust",
+    "strength": "4 mg",
+    "genericName": "Daprodustat",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/38393/aprodust-4-mg-tablet"
+  },
+  {
+    "brandName": "Aproxi",
+    "strength": "40 mg",
+    "genericName": "Aprepitant",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/34856/aproxi-40-mg-capsule"
+  },
+  {
+    "brandName": "Aproxi EZY",
+    "strength": "125 mg+80 mg+80 mg",
+    "genericName": "Aprepitant",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 51,
+    "sourceUrl": "https://medex.com.bd/brands?page=51",
+    "detailUrl": "https://medex.com.bd/brands/38254/aproxi-ezy-125-mg-capsule"
+  }
+]

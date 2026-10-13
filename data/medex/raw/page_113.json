@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Buterol",
+    "strength": "10 mg",
+    "genericName": "Bambuterol Hydrochloride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/32222/buterol-10-mg-tablet"
+  },
+  {
+    "brandName": "Butibac",
+    "strength": "90 mg/5 ml",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/18956/butibac-90-mg-suspension"
+  },
+  {
+    "brandName": "Butibac",
+    "strength": "400 mg",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/18957/butibac-400-mg-capsule"
+  },
+  {
+    "brandName": "Buticef",
+    "strength": "90 mg/5 ml",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/18966/buticef-90-mg-suspension"
+  },
+  {
+    "brandName": "Buticef",
+    "strength": "400 mg",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/18967/buticef-400-mg-capsule"
+  },
+  {
+    "brandName": "Butil",
+    "strength": "7.5 mg/5 ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/18421/butil-75-mg-syrup"
+  },
+  {
+    "brandName": "Butinib",
+    "strength": "140 mg",
+    "genericName": "Ibrutinib",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/31180/butinib-140-mg-capsule"
+  },
+  {
+    "brandName": "Buva",
+    "strength": "0.5%",
+    "genericName": "Bupivacaine Hydrochloride",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Injection",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/39508/buva-05-injection"
+  },
+  {
+    "brandName": "Buva Heavy",
+    "strength": "0.5%+8%",
+    "genericName": "Bupivacaine Hydrochloride + Dextrose",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Intraspinal Injection",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/38414/buva-heavy-05-8-injection"
+  },
+  {
+    "brandName": "Buviren",
+    "strength": "400 mg",
+    "genericName": "Sofosbuvir",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/24648/buviren-400-mg-tablet"
+  },
+  {
+    "brandName": "Buzz",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/25295/buzz-tablet"
+  },
+  {
+    "brandName": "Buzz",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/25296/buzz-syrup"
+  },
+  {
+    "brandName": "Bygerd",
+    "strength": "20 mg",
+    "genericName": "Vonoprazan",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/34815/bygerd-20-mg-tablet"
+  },
+  {
+    "brandName": "Bygerd",
+    "strength": "10 mg",
+    "genericName": "Vonoprazan",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/34814/bygerd-10-mg-tablet"
+  },
+  {
+    "brandName": "Byloza",
+    "strength": "20 mg",
+    "genericName": "Bilastine",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/31831/byloza-20-mg-tablet"
+  },
+  {
+    "brandName": "C-2",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/25777/c-2-125-mg-suspension"
+  },
+  {
+    "brandName": "C-2",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/25776/c-2-500-mg-tablet"
+  },
+  {
+    "brandName": "C-2",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/25775/c-2-250-mg-tablet"
+  },
+  {
+    "brandName": "C-3",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/35464/c-3-200-mg-capsule"
+  },
+  {
+    "brandName": "C-3",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/7487/c-3-400-mg-capsule"
+  },
+  {
+    "brandName": "C-3",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/7488/c-3-100-mg-suspension"
+  },
+  {
+    "brandName": "C-4",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "genericName": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Effervescent Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/14389/c-4-1000-mg-tablet"
+  },
+  {
+    "brandName": "C-Bon",
+    "strength": "250 mg",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/28023/c-bon-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "C-BZ",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Central Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/14685/c-bz-syrup"
+  },
+  {
+    "brandName": "C-Fenac",
+    "strength": "75 mg/3 ml",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/10949/c-fenac-75-mg-injection"
+  },
+  {
+    "brandName": "C-Fenac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "genericName": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/34545/c-fenac-plus-75-mg-injection"
+  },
+  {
+    "brandName": "C-Fenac TR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/10948/c-fenac-tr-100-mg-tr-capsule"
+  },
+  {
+    "brandName": "C-Lemon",
+    "strength": "250 mg",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/28749/c-lemon-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "C-Rich",
+    "strength": "250 mg",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/32642/c-rich-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "C-Vitera",
+    "strength": "250 mg",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 113,
+    "sourceUrl": "https://medex.com.bd/brands?page=113",
+    "detailUrl": "https://medex.com.bd/brands/13922/c-vitera-250-mg-chewable-tablet"
+  }
+]

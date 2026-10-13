@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "SB-Gabalin",
+    "strength": "75 mg",
+    "genericName": "Pregabalin",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/23863/sb-gabalin-75-mg-capsule"
+  },
+  {
+    "brandName": "SB-Glic",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/20704/sb-glic-80-mg-tablet"
+  },
+  {
+    "brandName": "SB-Glic XR",
+    "strength": "30 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/20702/sb-glic-xr-30-mg-er-tablet"
+  },
+  {
+    "brandName": "SB-Glic XR",
+    "strength": "60 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/20703/sb-glic-xr-60-mg-er-tablet"
+  },
+  {
+    "brandName": "SB-Glim",
+    "strength": "1 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/20727/sb-glim-1-mg-tablet"
+  },
+  {
+    "brandName": "SB-Glim",
+    "strength": "2 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/20728/sb-glim-2-mg-tablet"
+  },
+  {
+    "brandName": "SB-Glim",
+    "strength": "3 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/20729/sb-glim-3-mg-tablet"
+  },
+  {
+    "brandName": "SB-Glim",
+    "strength": "4 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/20730/sb-glim-4-mg-tablet"
+  },
+  {
+    "brandName": "SB-Iban",
+    "strength": "150 mg",
+    "genericName": "Ibandronic Acid",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/27369/sb-iban-150-mg-tablet"
+  },
+  {
+    "brandName": "SB-Ketor",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/21289/sb-ketor-10-mg-tablet"
+  },
+  {
+    "brandName": "SB-Lina",
+    "strength": "5 mg",
+    "genericName": "Linagliptin",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/21727/sb-lina-5-mg-tablet"
+  },
+  {
+    "brandName": "SB-Losak",
+    "strength": "25 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/21861/sb-losak-25-mg-tablet"
+  },
+  {
+    "brandName": "SB-Losak",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/21862/sb-losak-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Losak Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/21895/sb-losak-plus-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Losak Plus",
+    "strength": "100 mg+25 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/21896/sb-losak-plus-100-mg-tablet"
+  },
+  {
+    "brandName": "SB-Met",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/22157/sb-met-500-mg-tablet"
+  },
+  {
+    "brandName": "SB-Met",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/22158/sb-met-850-mg-tablet"
+  },
+  {
+    "brandName": "SB-Met",
+    "strength": "1000 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/27371/sb-met-1000-mg-tablet"
+  },
+  {
+    "brandName": "SB-Met XR",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/22159/sb-met-xr-500-mg-er-tablet"
+  },
+  {
+    "brandName": "SB-Met XR",
+    "strength": "1000 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/22160/sb-met-xr-1000-mg-er-tablet"
+  },
+  {
+    "brandName": "SB-Metlina",
+    "strength": "2.5 mg+500 mg",
+    "genericName": "Linagliptin + Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/17215/sb-metlina-25-mg-tablet"
+  },
+  {
+    "brandName": "SB-Metlina",
+    "strength": "2.5 mg+850 mg",
+    "genericName": "Linagliptin + Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/17216/sb-metlina-25-mg-tablet"
+  },
+  {
+    "brandName": "SB-Metsita",
+    "strength": "50 mg+1000 mg",
+    "genericName": "Sitagliptin + Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/24545/sb-metsita-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Metsita",
+    "strength": "50 mg+500 mg",
+    "genericName": "Sitagliptin + Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/24546/sb-metsita-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Metvilda",
+    "strength": "50 mg+500 mg",
+    "genericName": "Vildagliptin + Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/25260/sb-metvilda-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Metvilda",
+    "strength": "50 mg+850 mg",
+    "genericName": "Vildagliptin + Metformin Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/25261/sb-metvilda-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Mezol",
+    "strength": "400 mg",
+    "genericName": "Metronidazole",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/27372/sb-mezol-400-mg-tablet"
+  },
+  {
+    "brandName": "SB-Monec",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/22646/sb-monec-10-mg-tablet"
+  },
+  {
+    "brandName": "SB-Neurec",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/25335/sb-neurec-100-mg-tablet"
+  },
+  {
+    "brandName": "SB-Omec",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 678,
+    "sourceUrl": "https://medex.com.bd/brands?page=678",
+    "detailUrl": "https://medex.com.bd/brands/23104/sb-omec-20-mg-ec-capsule"
+  }
+]

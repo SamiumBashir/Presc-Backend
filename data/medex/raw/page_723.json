@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Synthox",
+    "strength": "100 mcg",
+    "genericName": "Levothyroxine Sodium",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/36963/synthox-100-mcg-tablet"
+  },
+  {
+    "brandName": "Syntocin",
+    "strength": "10 IU/ml",
+    "genericName": "Oxytocin",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/34365/syntocin-10-iu-injection"
+  },
+  {
+    "brandName": "Syntocin",
+    "strength": "5 IU/ml",
+    "genericName": "Oxytocin",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/15669/syntocin-5-iu-injection"
+  },
+  {
+    "brandName": "Synvisc-One",
+    "strength": "48 mg/10 ml",
+    "genericName": "Hylan G-F 20",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Intra-articular Injection",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/28351/synvisc-one-48-mg-injection"
+  },
+  {
+    "brandName": "Syp-zi",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "United Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/27396/syp-zi-10-mg-syrup"
+  },
+  {
+    "brandName": "Sypam",
+    "strength": "0.5 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/19467/sypam-05-mg-tablet"
+  },
+  {
+    "brandName": "Sypam",
+    "strength": "2 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/19469/sypam-2-mg-tablet"
+  },
+  {
+    "brandName": "Sypron",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "MST Pharma",
+    "dosageForm": "Tablet",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/9346/sypron-500-mg-tablet"
+  },
+  {
+    "brandName": "Syrup Zinc",
+    "strength": "4.05 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/14586/syrup-zinc-405-mg-syrup"
+  },
+  {
+    "brandName": "Syrup Zinc-200",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/14587/syrup-zinc-200-10-mg-syrup"
+  },
+  {
+    "brandName": "Syrup-ZP",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/14588/syrup-zp-10-mg-syrup"
+  },
+  {
+    "brandName": "Syscol",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/23705/syscol-04-03-eye-drop"
+  },
+  {
+    "brandName": "Syskem",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/23704/syskem-04-03-eye-drop"
+  },
+  {
+    "brandName": "Systaflam",
+    "strength": null,
+    "genericName": "Diclofenac Diethylamine + Mephenesin + Menthol + Methyl Salicylate + Turpentine Oil",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Topical Gel",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/27266/systaflam-topical-gel"
+  },
+  {
+    "brandName": "Systear",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Gel",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/36627/systear-04-03-eye-gel"
+  },
+  {
+    "brandName": "Systear",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/16169/systear-04-03-eye-drop"
+  },
+  {
+    "brandName": "Systear SUD",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/36347/systear-sud-04-03-eye-drop"
+  },
+  {
+    "brandName": "Systop",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Ointment",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/12331/systop-2-w-ointment"
+  },
+  {
+    "brandName": "Sytrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "genericName": "Sulphamethoxazole + Trimethoprim",
+    "manufacturer": "Syntho Laboratories Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/9098/sytrim-200-mg-suspension"
+  },
+  {
+    "brandName": "Sytrim DS",
+    "strength": "800 mg+160 mg",
+    "genericName": "Sulphamethoxazole + Trimethoprim",
+    "manufacturer": "Syntho Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/9099/sytrim-ds-800-mg-tablet"
+  },
+  {
+    "brandName": "Sytrol",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "MST Pharma",
+    "dosageForm": "Tablet",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/11997/sytrol-10-mg-tablet"
+  },
+  {
+    "brandName": "Sytrol",
+    "strength": "5 mg/5 ml",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "MST Pharma",
+    "dosageForm": "Syrup",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/12023/sytrol-5-mg-syrup"
+  },
+  {
+    "brandName": "T-Cef",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/7651/t-cef-200-mg-capsule"
+  },
+  {
+    "brandName": "T-Cef",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/7652/t-cef-400-mg-capsule"
+  },
+  {
+    "brandName": "T-Cef",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/7653/t-cef-100-mg-suspension"
+  },
+  {
+    "brandName": "T-Cef",
+    "strength": "25 mg/ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/18727/t-cef-25-mg-pediatric-drop"
+  },
+  {
+    "brandName": "T-Cef DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/7654/t-cef-ds-200-mg-suspension"
+  },
+  {
+    "brandName": "T-Cort",
+    "strength": "0.05%",
+    "genericName": "Fluticasone Propionate (Topical)",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/35509/t-cort-005-cream"
+  },
+  {
+    "brandName": "T-cure",
+    "strength": "2%",
+    "genericName": "Naftifine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/32161/t-cure-2-cream"
+  },
+  {
+    "brandName": "T-Dex",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 723,
+    "sourceUrl": "https://medex.com.bd/brands?page=723",
+    "detailUrl": "https://medex.com.bd/brands/15851/t-dex-01-03-eye-drop"
+  }
+]

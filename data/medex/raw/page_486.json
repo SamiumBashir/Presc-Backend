@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Mucodox",
+    "strength": "200 mg",
+    "genericName": "Doxophylline",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/38853/mucodox-200-mg-tablet"
+  },
+  {
+    "brandName": "Mucogel",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/17532/mucogel-175-mg-suspension"
+  },
+  {
+    "brandName": "Mucola",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4098/mucola-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucolex",
+    "strength": "125 mg/5 ml",
+    "genericName": "Carbocisteine",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4124/mucolex-125-mg-syrup"
+  },
+  {
+    "brandName": "Mucolex DS",
+    "strength": "250 mg/5 ml",
+    "genericName": "Carbocisteine",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4125/mucolex-ds-250-mg-syrup"
+  },
+  {
+    "brandName": "Mucolyt",
+    "strength": "8 mg",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4099/mucolyt-8-mg-tablet"
+  },
+  {
+    "brandName": "Mucolyt",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4100/mucolyt-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucomist",
+    "strength": "600 mg/3 ml",
+    "genericName": "Acetylcysteine",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/112/mucomist-600-mg-respirator-solution"
+  },
+  {
+    "brandName": "Mucomist DT",
+    "strength": "600 mg",
+    "genericName": "Acetylcysteine",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/114/mucomist-dt-600-mg-tablet"
+  },
+  {
+    "brandName": "Muconil",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4101/muconil-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucopront",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4102/mucopront-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucosol",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4058/mucosol-15-mg-syrup"
+  },
+  {
+    "brandName": "Mucosol",
+    "strength": "6 mg/ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4059/mucosol-6-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Mucospel",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4104/mucospel-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucotec",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Globex Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/18375/mucotec-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucoten",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/18368/mucoten-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucovan",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4060/mucovan-15-mg-syrup"
+  },
+  {
+    "brandName": "Mucoxin",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/33760/mucoxin-4-mg-syrup"
+  },
+  {
+    "brandName": "Mucut",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4105/mucut-4-mg-syrup"
+  },
+  {
+    "brandName": "Muderm",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/26658/muderm-2-w-ointment"
+  },
+  {
+    "brandName": "Mudibak",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Fluphenazine + Nortriptyline",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/20466/mudibak-05-mg-tablet"
+  },
+  {
+    "brandName": "Mudiral",
+    "strength": "25 mg",
+    "genericName": "Sertraline Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4527/mudiral-25-mg-tablet"
+  },
+  {
+    "brandName": "Mudiral",
+    "strength": "50 mg",
+    "genericName": "Sertraline Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/4528/mudiral-50-mg-tablet"
+  },
+  {
+    "brandName": "Muex",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Avarox Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/25526/muex-15-mg-syrup"
+  },
+  {
+    "brandName": "Mufree",
+    "strength": "100 mg/5 ml",
+    "genericName": "Guaifenesin",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/38230/mufree-100-mg-syrup"
+  },
+  {
+    "brandName": "Mukof",
+    "strength": "600 mg",
+    "genericName": "Acetylcysteine",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/31472/mukof-600-mg-tablet"
+  },
+  {
+    "brandName": "Mulina",
+    "strength": "600 mg",
+    "genericName": "Lefamulin Acetate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/33730/mulina-600-mg-tablet"
+  },
+  {
+    "brandName": "Mulina",
+    "strength": "150 mg/15 ml",
+    "genericName": "Lefamulin Acetate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/33731/mulina-150-mg-injection"
+  },
+  {
+    "brandName": "Multi 7",
+    "strength": null,
+    "genericName": "Multivitamin [Pediatric preparation]",
+    "manufacturer": "Apollo Pharmaceutical Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/14074/multi-7-pediatric-drop"
+  },
+  {
+    "brandName": "Multi Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 486,
+    "sourceUrl": "https://medex.com.bd/brands?page=486",
+    "detailUrl": "https://medex.com.bd/brands/14103/multi-gold-tablet"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "totalPages": 31,
+  "startPage": 1,
+  "endPage": 31,
+  "failedPages": [],
+  "totalRawRecords": 920,
+  "totalUniqueRecords": 916,
+  "duplicatesRemoved": 4,
+  "unaniCount": 311,
+  "ayurvedicCount": 77,
+  "herbalCount": 528,
+  "outputFiles": {
+    "unaniJson": "E:\\prescription\\backend\\data\\medex\\processed\\medex_unani_brands.json",
+    "unaniCsv": "E:\\prescription\\backend\\data\\medex\\processed\\medex_unani_brands.csv",
+    "ayurvedicJson": "E:\\prescription\\backend\\data\\medex\\processed\\medex_ayurvedic_brands.json",
+    "ayurvedicCsv": "E:\\prescription\\backend\\data\\medex\\processed\\medex_ayurvedic_brands.csv",
+    "herbalSupplementsJson": "E:\\prescription\\backend\\data\\medex\\processed\\medex_herbal_supplements.json",
+    "herbalSupplementsCsv": "E:\\prescription\\backend\\data\\medex\\processed\\medex_herbal_supplements.csv",
+    "allHerbalJson": "E:\\prescription\\backend\\data\\medex\\processed\\medex_all_herbal_brands.json",
+    "allHerbalCsv": "E:\\prescription\\backend\\data\\medex\\processed\\medex_all_herbal_brands.csv"
+  },
+  "generatedAt": "2026-09-03T00:08:54.878Z"
+}

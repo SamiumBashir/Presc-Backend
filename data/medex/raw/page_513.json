@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "NexCap",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/2083/nexcap-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "NexCap",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/2084/nexcap-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexcital",
+    "strength": "5 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/4474/nexcital-5-mg-tablet"
+  },
+  {
+    "brandName": "Nexcital",
+    "strength": "10 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/4475/nexcital-10-mg-tablet"
+  },
+  {
+    "brandName": "Nexdex",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/31021/nexdex-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexdex",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/31023/nexdex-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexe",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/26138/nexe-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexe",
+    "strength": "40 mg/vial",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/28154/nexe-40-mg-injection"
+  },
+  {
+    "brandName": "Nexe",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/39609/nexe-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "Nexe",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/2085/nexe-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Nexe",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/2086/nexe-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexe MUPS",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/34049/nexe-mups-20-mg-tablet"
+  },
+  {
+    "brandName": "Nexito",
+    "strength": "5 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/4476/nexito-5-mg-tablet"
+  },
+  {
+    "brandName": "Nexito",
+    "strength": "10 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/4477/nexito-10-mg-tablet"
+  },
+  {
+    "brandName": "Nexito",
+    "strength": "20 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/38491/nexito-20-mg-tablet"
+  },
+  {
+    "brandName": "Nexofen",
+    "strength": "120 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "National Drug Co. Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/37839/nexofen-120-mg-tablet"
+  },
+  {
+    "brandName": "Nexol",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/4064/nexol-15-mg-syrup"
+  },
+  {
+    "brandName": "Nexol",
+    "strength": "6 mg/ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/4065/nexol-6-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Nexolid",
+    "strength": "200 mg",
+    "genericName": "Tedizolid Phosphate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/30408/nexolid-200-mg-tablet"
+  },
+  {
+    "brandName": "Nexopan Plus",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/30287/nexopan-plus-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Nexovas",
+    "strength": "5 mg",
+    "genericName": "Cilnidipine",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/29219/nexovas-5-mg-tablet"
+  },
+  {
+    "brandName": "Nexovas",
+    "strength": "10 mg",
+    "genericName": "Cilnidipine",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/29220/nexovas-10-mg-tablet"
+  },
+  {
+    "brandName": "Nexpro MUPS",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/34753/nexpro-mups-20-mg-tablet"
+  },
+  {
+    "brandName": "Nexpro MUPS",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/34754/nexpro-mups-40-mg-tablet"
+  },
+  {
+    "brandName": "Nexrab",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/24050/nexrab-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexum",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/2089/nexum-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexum",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/2090/nexum-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nexum",
+    "strength": "40 mg/vial",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IV Injection",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/2091/nexum-40-mg-injection"
+  },
+  {
+    "brandName": "Nexum MUPS",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/25948/nexum-mups-20-mg-tablet"
+  },
+  {
+    "brandName": "Nexum MUPS",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 513,
+    "sourceUrl": "https://medex.com.bd/brands?page=513",
+    "detailUrl": "https://medex.com.bd/brands/26277/nexum-mups-40-mg-tablet"
+  }
+]

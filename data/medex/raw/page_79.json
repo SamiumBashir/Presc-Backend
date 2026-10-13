@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Azonam",
+    "strength": "1 gm/5 ml",
+    "genericName": "Aztreonam",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/8274/azonam-1-gm-injection"
+  },
+  {
+    "brandName": "Azonox",
+    "strength": "100 mg",
+    "genericName": "Itraconazole",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/32670/azonox-100-mg-capsule"
+  },
+  {
+    "brandName": "Azonox",
+    "strength": "200 mg",
+    "genericName": "Itraconazole",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/35631/azonox-200-mg-tablet"
+  },
+  {
+    "brandName": "Azonox Ultra",
+    "strength": "65 mg",
+    "genericName": "Itraconazole",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/38413/azonox-ultra-65-mg-capsule"
+  },
+  {
+    "brandName": "Azopres",
+    "strength": "1%",
+    "genericName": "Brinzolamide",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/26588/azopres-1-suspension"
+  },
+  {
+    "brandName": "Azopres BR",
+    "strength": "1%+0.2%",
+    "genericName": "Brinzolamide + Brimonidine Tartrate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/32568/azopres-br-1-02-suspension"
+  },
+  {
+    "brandName": "Azopt",
+    "strength": "2%+0.5%",
+    "genericName": "Dorzolamide + Timolol",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/16120/azopt-2-05-eye-drop"
+  },
+  {
+    "brandName": "Azoren",
+    "strength": "5 mg+40 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/38457/azoren-5-mg-tablet"
+  },
+  {
+    "brandName": "Azoren",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/38458/azoren-5-mg-tablet"
+  },
+  {
+    "brandName": "Azorta",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "C2C Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/37099/azorta-500-mg-tablet"
+  },
+  {
+    "brandName": "Azosil",
+    "strength": "200 mg/5 ml",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/31452/azosil-200-mg-suspension"
+  },
+  {
+    "brandName": "Azosil",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/31450/azosil-500-mg-tablet"
+  },
+  {
+    "brandName": "Azovit Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/14088/azovit-gold-tablet"
+  },
+  {
+    "brandName": "Azro",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/8624/azro-500-mg-tablet"
+  },
+  {
+    "brandName": "Azro",
+    "strength": "200 mg/5 ml",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/8625/azro-200-mg-suspension"
+  },
+  {
+    "brandName": "AztaCap",
+    "strength": "4 mg",
+    "genericName": "Astaxanthin",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/1054/aztacap-4-mg-capsule"
+  },
+  {
+    "brandName": "AztaCap",
+    "strength": "2 mg",
+    "genericName": "Astaxanthin",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/37595/aztacap-2-mg-capsule"
+  },
+  {
+    "brandName": "Aztor",
+    "strength": "10 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/1174/aztor-10-mg-tablet"
+  },
+  {
+    "brandName": "Aztor",
+    "strength": "40 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/1175/aztor-40-mg-tablet"
+  },
+  {
+    "brandName": "Aztor",
+    "strength": "20 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/1176/aztor-20-mg-tablet"
+  },
+  {
+    "brandName": "Aztrum A-Z",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/27169/aztrum-a-z-tablet"
+  },
+  {
+    "brandName": "Aztrum Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/14089/aztrum-gold-tablet"
+  },
+  {
+    "brandName": "Aztrum-I",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/16189/aztrum-i-60-mg-capsule"
+  },
+  {
+    "brandName": "Azyben",
+    "strength": "200 mg/5 ml",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/35358/azyben-200-mg-suspension"
+  },
+  {
+    "brandName": "Azyben",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/35357/azyben-500-mg-tablet"
+  },
+  {
+    "brandName": "Azyth",
+    "strength": "250 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Capsule",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/8626/azyth-250-mg-capsule"
+  },
+  {
+    "brandName": "Azyth",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/8627/azyth-500-mg-tablet"
+  },
+  {
+    "brandName": "Azyth",
+    "strength": "200 mg/5 ml",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/8628/azyth-200-mg-suspension"
+  },
+  {
+    "brandName": "B Easy",
+    "strength": "5 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/37916/b-easy-5-mg-tablet"
+  },
+  {
+    "brandName": "B Easy",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 79,
+    "sourceUrl": "https://medex.com.bd/brands?page=79",
+    "detailUrl": "https://medex.com.bd/brands/32930/b-easy-10-mg-tablet"
+  }
+]

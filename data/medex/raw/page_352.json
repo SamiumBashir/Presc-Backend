@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Glymin",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/5395/glymin-850-mg-tablet"
+  },
+  {
+    "brandName": "Glymin XR",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/5396/glymin-xr-500-mg-er-tablet"
+  },
+  {
+    "brandName": "Glymira",
+    "strength": "500 mg",
+    "genericName": "Imeglimin Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/38622/glymira-500-mg-tablet"
+  },
+  {
+    "brandName": "Glympa",
+    "strength": "10 mg+5 mg",
+    "genericName": "Empagliflozin + Linagliptin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/32590/glympa-10-mg-tablet"
+  },
+  {
+    "brandName": "Glympa",
+    "strength": "25 mg+5 mg",
+    "genericName": "Empagliflozin + Linagliptin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/32591/glympa-25-mg-tablet"
+  },
+  {
+    "brandName": "Glypeg",
+    "strength": "0.2%+0.36%+1%",
+    "genericName": "Glycerol + Hypromellose + Polyethylene Glycol 400",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/20945/glypeg-02-036-eye-drop"
+  },
+  {
+    "brandName": "Glypressin",
+    "strength": "1 mg/8.5 ml",
+    "genericName": "Terlipressin Acetate",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/30014/glypressin-1-mg-injection"
+  },
+  {
+    "brandName": "Glyriva",
+    "strength": "50 mcg",
+    "genericName": "Glycopyrronium Bromide (Inhalation capsule)",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/29542/glyriva-50-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Glyriva",
+    "strength": "25 mcg/ml",
+    "genericName": "Glycopyrronium Bromide (Respirator Solution)",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/31930/glyriva-25-mcg-respirator-solution"
+  },
+  {
+    "brandName": "Glyset Mix",
+    "strength": "100 IU/ml",
+    "genericName": "Insulin Aspart",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/26212/glyset-mix-100-iu-injection"
+  },
+  {
+    "brandName": "Glyset R",
+    "strength": "100 IU/ml",
+    "genericName": "Insulin Aspart [Protamine Crystallised]",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/35987/glyset-r-100-iu-injection"
+  },
+  {
+    "brandName": "Glyset Vita",
+    "strength": "100 IU/ml",
+    "genericName": "Insulin Aspart [Protamine Crystallised]",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/16777/glyset-vita-100-iu-injection"
+  },
+  {
+    "brandName": "Glysup",
+    "strength": "1.15 gm",
+    "genericName": "Glycerin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/564/glysup-115-gm-suppository"
+  },
+  {
+    "brandName": "Glysup",
+    "strength": "2.30 gm",
+    "genericName": "Glycerin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/565/glysup-230-gm-suppository"
+  },
+  {
+    "brandName": "Glysup",
+    "strength": "4 gm",
+    "genericName": "Glycerin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/36769/glysup-4-gm-suppository"
+  },
+  {
+    "brandName": "Glysup",
+    "strength": "1 mg",
+    "genericName": "Glycerin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/36770/glysup-1-mg-suppository"
+  },
+  {
+    "brandName": "Glysup",
+    "strength": "2 mg",
+    "genericName": "Glycerin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/36771/glysup-2-mg-suppository"
+  },
+  {
+    "brandName": "Glytas",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/31065/glytas-80-mg-tablet"
+  },
+  {
+    "brandName": "Glytas MR",
+    "strength": "30 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/31066/glytas-mr-30-mg-mr-tablet"
+  },
+  {
+    "brandName": "Glytear P",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/16165/glytear-p-04-03-eye-drop"
+  },
+  {
+    "brandName": "Glyxam",
+    "strength": "25 mg+5 mg",
+    "genericName": "Empagliflozin + Linagliptin",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/32592/glyxam-25-mg-tablet"
+  },
+  {
+    "brandName": "Glyxam",
+    "strength": "10 mg+5 mg",
+    "genericName": "Empagliflozin + Linagliptin",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/32593/glyxam-10-mg-tablet"
+  },
+  {
+    "brandName": "Glyza",
+    "strength": "2.5 mg",
+    "genericName": "Saxagliptin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/5498/glyza-25-mg-tablet"
+  },
+  {
+    "brandName": "Glyza",
+    "strength": "5 mg",
+    "genericName": "Saxagliptin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/5499/glyza-5-mg-tablet"
+  },
+  {
+    "brandName": "GoCal-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Coral Calcium + Vitamin D3",
+    "manufacturer": "Arges Life Science Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/32914/gocal-d-500-mg-tablet"
+  },
+  {
+    "brandName": "GOL",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/25 ml",
+    "genericName": "Polyethylene Glycol 3350 + Electrolytes",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/21929/gol-13125-gm-oral-solution"
+  },
+  {
+    "brandName": "Gold A-Z",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/28094/gold-a-z-tablet"
+  },
+  {
+    "brandName": "Gold Kid",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/13546/gold-kid-syrup"
+  },
+  {
+    "brandName": "Goldage",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/14096/goldage-tablet"
+  },
+  {
+    "brandName": "Goldpac",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 352,
+    "sourceUrl": "https://medex.com.bd/brands?page=352",
+    "detailUrl": "https://medex.com.bd/brands/14144/goldpac-tablet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Roxibac",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7321/roxibac-250-mg-tablet"
+  },
+  {
+    "brandName": "Roxibac",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7322/roxibac-500-mg-tablet"
+  },
+  {
+    "brandName": "Roxibac Plus",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/19000/roxibac-plus-250-mg-tablet"
+  },
+  {
+    "brandName": "Roxibac Plus",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/19001/roxibac-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Roxicef",
+    "strength": "500 mg",
+    "genericName": "Cephradine",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/6986/roxicef-500-mg-capsule"
+  },
+  {
+    "brandName": "Roxicef",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cephradine",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/6987/roxicef-125-mg-suspension"
+  },
+  {
+    "brandName": "Roxiclav",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/18995/roxiclav-500-mg-tablet"
+  },
+  {
+    "brandName": "Roxiclav",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/27243/roxiclav-250-mg-tablet"
+  },
+  {
+    "brandName": "Roxider",
+    "strength": "1%",
+    "genericName": "Ciclopirox Olamine (Shampoo)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Shampoo",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/39637/roxider-1-shampoo"
+  },
+  {
+    "brandName": "Roxider",
+    "strength": "1%",
+    "genericName": "Ciclopirox Olamine (Cream)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/39638/roxider-1-cream"
+  },
+  {
+    "brandName": "Roxifen",
+    "strength": "1 mg/5 ml",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/38756/roxifen-1-mg-syrup"
+  },
+  {
+    "brandName": "Roxilab",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7323/roxilab-250-mg-tablet"
+  },
+  {
+    "brandName": "Roxilab",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7324/roxilab-500-mg-tablet"
+  },
+  {
+    "brandName": "Roxilab",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7325/roxilab-125-mg-suspension"
+  },
+  {
+    "brandName": "Roxilab",
+    "strength": "750 mg/vial",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/25809/roxilab-750-mg-injection"
+  },
+  {
+    "brandName": "Roxilab Plus",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/19002/roxilab-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Roxilab Plus",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/19003/roxilab-plus-250-mg-tablet"
+  },
+  {
+    "brandName": "Roxilab Plus",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/26966/roxilab-plus-125-mg-suspension"
+  },
+  {
+    "brandName": "Roxim",
+    "strength": "25 mg/ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/18732/roxim-25-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Roxim",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7630/roxim-200-mg-capsule"
+  },
+  {
+    "brandName": "Roxim",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7631/roxim-400-mg-capsule"
+  },
+  {
+    "brandName": "Roxim",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7632/roxim-100-mg-suspension"
+  },
+  {
+    "brandName": "Roxim XL",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/7633/roxim-xl-200-mg-suspension"
+  },
+  {
+    "brandName": "Roximax",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/25847/roximax-250-mg-tablet"
+  },
+  {
+    "brandName": "Roximax",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/25848/roximax-500-mg-tablet"
+  },
+  {
+    "brandName": "Roximax Plus",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/34624/roximax-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Roximax Plus",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/34625/roximax-plus-250-mg-tablet"
+  },
+  {
+    "brandName": "Roxinat",
+    "strength": "750 mg/vial",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/33753/roxinat-750-mg-injection"
+  },
+  {
+    "brandName": "Roxiquin",
+    "strength": "200 mg",
+    "genericName": "Hydroxychloroquine Sulphate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/29522/roxiquin-200-mg-tablet"
+  },
+  {
+    "brandName": "Roxnil",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 666,
+    "sourceUrl": "https://medex.com.bd/brands?page=666",
+    "detailUrl": "https://medex.com.bd/brands/38757/roxnil-15-mg-syrup"
+  }
+]

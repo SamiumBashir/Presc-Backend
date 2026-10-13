@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Naxo",
+    "strength": "250 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/11468/naxo-250-mg-tablet"
+  },
+  {
+    "brandName": "Naxo",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/11469/naxo-500-mg-tablet"
+  },
+  {
+    "brandName": "Naxsil",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/31488/naxsil-500-mg-tablet"
+  },
+  {
+    "brandName": "Naxsil E",
+    "strength": "375 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/31489/naxsil-e-375-mg-dr-tablet"
+  },
+  {
+    "brandName": "Naxsil E",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/31490/naxsil-e-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Naz",
+    "strength": "0.3%",
+    "genericName": "Fluconazole (Ophthalmic)",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/9990/naz-03-eye-drop"
+  },
+  {
+    "brandName": "Nazin",
+    "strength": "0.005%+0.02%",
+    "genericName": "Naphazoline + Zinc Sulfate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/16009/nazin-0005-002-eye-drop"
+  },
+  {
+    "brandName": "Nazocon",
+    "strength": "0.05%",
+    "genericName": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Nasal Drop",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/35311/nazocon-005-nasal-drop"
+  },
+  {
+    "brandName": "Nazocon",
+    "strength": "0.025%",
+    "genericName": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Nasal Drop",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/35312/nazocon-0025-nasal-drop"
+  },
+  {
+    "brandName": "Nazolin",
+    "strength": "0.05%",
+    "genericName": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/16276/nazolin-005-nasal-spray"
+  },
+  {
+    "brandName": "Nazopam",
+    "strength": "5 mg/0.1 ml",
+    "genericName": "Diazepam",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/39527/nazopam-5-mg-nasal-spray"
+  },
+  {
+    "brandName": "Nazosol",
+    "strength": "0.9%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Nasal Drop",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/24569/nazosol-09-nasal-drop"
+  },
+  {
+    "brandName": "NCL",
+    "strength": "5%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/16187/ncl-5-eye-drop"
+  },
+  {
+    "brandName": "NCR FAST",
+    "strength": "20 mg",
+    "genericName": "Famotidine",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/37662/ncr-fast-20-mg-tablet"
+  },
+  {
+    "brandName": "NCR FAST",
+    "strength": "40 mg",
+    "genericName": "Famotidine",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/37663/ncr-fast-40-mg-tablet"
+  },
+  {
+    "brandName": "Nebacin",
+    "strength": "(5 mg+500 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/18055/nebacin-5-mg-ointment"
+  },
+  {
+    "brandName": "Nebanol",
+    "strength": "(5 mg+500 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/18057/nebanol-5-mg-ointment"
+  },
+  {
+    "brandName": "Nebanol",
+    "strength": "(5 mg+250 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Topical Powder",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/18058/nebanol-5-mg-powder"
+  },
+  {
+    "brandName": "Nebanol Plus",
+    "strength": "(3.5 mg+400 IU+5000 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc + Polymyxin B Sulfate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/12342/nebanol-plus-35-mg-ointment"
+  },
+  {
+    "brandName": "Nebason",
+    "strength": "(5 mg+500 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/12343/nebason-5-mg-ointment"
+  },
+  {
+    "brandName": "Nebazin",
+    "strength": "(5 mg+500 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/12344/nebazin-5-mg-ointment"
+  },
+  {
+    "brandName": "Nebicard",
+    "strength": "2.5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/2584/nebicard-25-mg-tablet"
+  },
+  {
+    "brandName": "Nebicard",
+    "strength": "5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/2585/nebicard-5-mg-tablet"
+  },
+  {
+    "brandName": "Nebicard Plus",
+    "strength": "5 mg+12.5 mg",
+    "genericName": "Nebivolol + Hydrochlorothiazide",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/38812/nebicard-plus-5-mg-tablet"
+  },
+  {
+    "brandName": "Nebifast",
+    "strength": "5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/22814/nebifast-5-mg-tablet"
+  },
+  {
+    "brandName": "Nebifast",
+    "strength": "2.5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/22815/nebifast-25-mg-tablet"
+  },
+  {
+    "brandName": "Nebilol",
+    "strength": "2.5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/22819/nebilol-25-mg-tablet"
+  },
+  {
+    "brandName": "Nebilol",
+    "strength": "5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/22820/nebilol-5-mg-tablet"
+  },
+  {
+    "brandName": "Nebilol Plus",
+    "strength": "5 mg+12.5 mg",
+    "genericName": "Nebivolol + Hydrochlorothiazide",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/37149/nebilol-plus-5-mg-tablet"
+  },
+  {
+    "brandName": "Nebinex",
+    "strength": "5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 501,
+    "sourceUrl": "https://medex.com.bd/brands?page=501",
+    "detailUrl": "https://medex.com.bd/brands/38825/nebinex-5-mg-tablet"
+  }
+]

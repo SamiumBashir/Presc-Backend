@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Janmet",
+    "strength": "50 mg+500 mg",
+    "genericName": "Sitagliptin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/5680/janmet-50-mg-tablet"
+  },
+  {
+    "brandName": "Janmet",
+    "strength": "50 mg+1000 mg",
+    "genericName": "Sitagliptin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/5681/janmet-50-mg-tablet"
+  },
+  {
+    "brandName": "Janmet XR",
+    "strength": "50 mg+500 mg",
+    "genericName": "Sitagliptin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/34251/janmet-xr-50-mg-er-tablet"
+  },
+  {
+    "brandName": "Janvia",
+    "strength": "50 mg",
+    "genericName": "Sitagliptin",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/5504/janvia-50-mg-tablet"
+  },
+  {
+    "brandName": "Janvia",
+    "strength": "100 mg",
+    "genericName": "Sitagliptin",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/5505/janvia-100-mg-tablet"
+  },
+  {
+    "brandName": "Japime",
+    "strength": "1 gm/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/8169/japime-1-gm-injection"
+  },
+  {
+    "brandName": "Jardian",
+    "strength": "10 mg",
+    "genericName": "Empagliflozin",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/23728/jardian-10-mg-tablet"
+  },
+  {
+    "brandName": "Jardian",
+    "strength": "25 mg",
+    "genericName": "Empagliflozin",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/23729/jardian-25-mg-tablet"
+  },
+  {
+    "brandName": "Jardiance",
+    "strength": "10 mg",
+    "genericName": "Empagliflozin",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/26447/jardiance-10-mg-tablet"
+  },
+  {
+    "brandName": "Jardiance",
+    "strength": "25 mg",
+    "genericName": "Empagliflozin",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/26448/jardiance-25-mg-tablet"
+  },
+  {
+    "brandName": "Jardimet",
+    "strength": "5 mg+500 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/28666/jardimet-5-mg-tablet"
+  },
+  {
+    "brandName": "Jardimet XR",
+    "strength": "5 mg+1000 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/35100/jardimet-xr-5-mg-er-tablet"
+  },
+  {
+    "brandName": "Jardimet XR",
+    "strength": "10 mg+1000 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/35101/jardimet-xr-10-mg-er-tablet"
+  },
+  {
+    "brandName": "Jardimet XR",
+    "strength": "25 mg+1000 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/35102/jardimet-xr-25-mg-er-tablet"
+  },
+  {
+    "brandName": "Jasocaine",
+    "strength": "10 mg/spray",
+    "genericName": "Lidocaine Hydrochloride (Spray)",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Topical Spray",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/30286/jasocaine-10-mg-spray"
+  },
+  {
+    "brandName": "Jasocaine",
+    "strength": "1%",
+    "genericName": "Lidocaine Hydrochloride (Injection)",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/35375/jasocaine-1-injection"
+  },
+  {
+    "brandName": "Jasocaine",
+    "strength": "4%",
+    "genericName": "Lidocaine Hydrochloride (Injection)",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/35376/jasocaine-4-injection"
+  },
+  {
+    "brandName": "Jasocaine",
+    "strength": "2%",
+    "genericName": "Lidocaine Hydrochloride (Jelly)",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Gel",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/12310/jasocaine-2-gel"
+  },
+  {
+    "brandName": "Jasocaine",
+    "strength": "2%",
+    "genericName": "Lidocaine Hydrochloride (Injection)",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/12312/jasocaine-2-injection"
+  },
+  {
+    "brandName": "Jasocaine-A",
+    "strength": "2%+0.0005%",
+    "genericName": "Lidocaine + Adrenaline",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/17454/jasocaine-a-2-00005-injection"
+  },
+  {
+    "brandName": "Jasocaine-A DC",
+    "strength": "2%+0.00125%",
+    "genericName": "Lidocaine + Epinephrine",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/16524/jasocaine-a-dc-2-000125-injection"
+  },
+  {
+    "brandName": "Jasocal",
+    "strength": "250 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/14307/jasocal-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Jasocal",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/14308/jasocal-500-mg-tablet"
+  },
+  {
+    "brandName": "Jasochlor",
+    "strength": "250 mg",
+    "genericName": "Chloroquine Phosphate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/10260/jasochlor-250-mg-tablet"
+  },
+  {
+    "brandName": "Jasochlor",
+    "strength": "80 mg/5 ml",
+    "genericName": "Chloroquine Phosphate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/10261/jasochlor-80-mg-syrup"
+  },
+  {
+    "brandName": "Jasophylin",
+    "strength": "120 mg/5 ml",
+    "genericName": "Theophylline",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/3655/jasophylin-120-mg-syrup"
+  },
+  {
+    "brandName": "Jasoprim",
+    "strength": "15 mg",
+    "genericName": "Primaquine Phosphate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/10276/jasoprim-15-mg-tablet"
+  },
+  {
+    "brandName": "Jasoquin",
+    "strength": "300 mg",
+    "genericName": "Quinine Sulfate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/10281/jasoquin-300-mg-tablet"
+  },
+  {
+    "brandName": "Jasoquin",
+    "strength": "300 mg/5 ml",
+    "genericName": "Quinine Sulfate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/10282/jasoquin-300-mg-injection"
+  },
+  {
+    "brandName": "Jasotrim",
+    "strength": "400 mg+80 mg",
+    "genericName": "Sulphamethoxazole + Trimethoprim",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 387,
+    "sourceUrl": "https://medex.com.bd/brands?page=387",
+    "detailUrl": "https://medex.com.bd/brands/9022/jasotrim-400-mg-tablet"
+  }
+]

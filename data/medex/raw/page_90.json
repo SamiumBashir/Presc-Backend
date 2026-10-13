@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Bet-A",
+    "strength": "0.5 mg",
+    "genericName": "Betamethasone",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/13003/bet-a-05-mg-tablet"
+  },
+  {
+    "brandName": "Bet-CG",
+    "strength": "0.05%+1%+0.1%",
+    "genericName": "Betamethasone + Clotrimazole + Gentamicin",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/18229/bet-cg-005-1-cream"
+  },
+  {
+    "brandName": "Bet-CL",
+    "strength": "0.1%+1%",
+    "genericName": "Betamethasone + Clotrimazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/12545/bet-cl-01-1-ointment"
+  },
+  {
+    "brandName": "Bet-CL",
+    "strength": "0.05%+1%",
+    "genericName": "Betamethasone + Clotrimazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/12544/bet-cl-005-1-cream"
+  },
+  {
+    "brandName": "Beta Natural Intimate Wash",
+    "strength": null,
+    "genericName": "Immortelle + Sensiva + Citrofol & Others",
+    "manufacturer": "Mundipharma (BD) Pvt. Ltd.",
+    "dosageForm": "Liquid",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/34016/beta-natural-intimate-wash-liquid"
+  },
+  {
+    "brandName": "Betabis",
+    "strength": "10 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/32033/betabis-10-mg-tablet"
+  },
+  {
+    "brandName": "Betabis",
+    "strength": "2.5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/2475/betabis-25-mg-tablet"
+  },
+  {
+    "brandName": "Betabis",
+    "strength": "5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/2476/betabis-5-mg-tablet"
+  },
+  {
+    "brandName": "Betabis Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "genericName": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/32031/betabis-plus-25-mg-tablet"
+  },
+  {
+    "brandName": "Betabis Plus",
+    "strength": "5 mg+6.25 mg",
+    "genericName": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/32032/betabis-plus-5-mg-tablet"
+  },
+  {
+    "brandName": "Betabis-A",
+    "strength": "2.5 mg+5 mg",
+    "genericName": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/28222/betabis-a-25-mg-tablet"
+  },
+  {
+    "brandName": "Betacal",
+    "strength": "5 mg+50 mg",
+    "genericName": "Amlodipine Besilate + Atenolol",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/809/betacal-5-mg-tablet"
+  },
+  {
+    "brandName": "Betacap TR",
+    "strength": "40 mg",
+    "genericName": "Propranolol Hydrochloride",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/2464/betacap-tr-40-mg-tr-capsule"
+  },
+  {
+    "brandName": "Betacard",
+    "strength": "50 mg",
+    "genericName": "Metoprolol Tartrate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/2563/betacard-50-mg-tablet"
+  },
+  {
+    "brandName": "Betacin-N",
+    "strength": "0.1%+0.5%",
+    "genericName": "Betamethasone + Neomycin Sulphate (Ophthalmic)",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/18236/betacin-n-01-05-eye-drop"
+  },
+  {
+    "brandName": "Betacor",
+    "strength": "1.25 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/38148/betacor-125-mg-tablet"
+  },
+  {
+    "brandName": "Betacor",
+    "strength": "10 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/38149/betacor-10-mg-tablet"
+  },
+  {
+    "brandName": "Betacor",
+    "strength": "2.5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/2491/betacor-25-mg-tablet"
+  },
+  {
+    "brandName": "Betacor",
+    "strength": "5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/2492/betacor-5-mg-tablet"
+  },
+  {
+    "brandName": "Betacor AM",
+    "strength": "2.5 mg+5 mg",
+    "genericName": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/26453/betacor-am-25-mg-tablet"
+  },
+  {
+    "brandName": "Betacor HZ",
+    "strength": "2.5 mg+6.25 mg",
+    "genericName": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/18298/betacor-hz-25-mg-tablet"
+  },
+  {
+    "brandName": "Betacor HZ",
+    "strength": "5 mg+6.25 mg",
+    "genericName": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/18299/betacor-hz-5-mg-tablet"
+  },
+  {
+    "brandName": "Betaderm",
+    "strength": "0.1%",
+    "genericName": "Betamethasone Valerate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/18208/betaderm-01-ointment"
+  },
+  {
+    "brandName": "Betaderm N",
+    "strength": "0.1%+0.5%",
+    "genericName": "Betamethasone + Neomycin Sulphate (Topical)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/12521/betaderm-n-01-05-ointment"
+  },
+  {
+    "brandName": "Betadine",
+    "strength": "7.5% w/v",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Mundipharma (BD) Pvt. Ltd.",
+    "dosageForm": "Surgical Scrub",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/12874/betadine-75-w-surgical-scrub"
+  },
+  {
+    "brandName": "Betadine",
+    "strength": "5% w/w",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Mundipharma (BD) Pvt. Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/12858/betadine-5-w-ointment"
+  },
+  {
+    "brandName": "Betadine",
+    "strength": "10% w/v",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Mundipharma (BD) Pvt. Ltd.",
+    "dosageForm": "Solution",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/12847/betadine-10-w-solution"
+  },
+  {
+    "brandName": "Betadine",
+    "strength": "5% w/v",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Mundipharma (BD) Pvt. Ltd.",
+    "dosageForm": "Solution",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/12846/betadine-5-w-solution"
+  },
+  {
+    "brandName": "Betadine",
+    "strength": "5% w/w",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Mundipharma (BD) Pvt. Ltd.",
+    "dosageForm": "Topical Powder",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/27021/betadine-5-w-powder"
+  },
+  {
+    "brandName": "Betadine",
+    "strength": "5% w/w",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Mundipharma (BD) Pvt. Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 90,
+    "sourceUrl": "https://medex.com.bd/brands?page=90",
+    "detailUrl": "https://medex.com.bd/brands/27020/betadine-5-w-cream"
+  }
+]

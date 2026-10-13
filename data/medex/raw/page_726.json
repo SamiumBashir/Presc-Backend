@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Tamen Turbo",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/10621/tamen-turbo-500-mg-tablet"
+  },
+  {
+    "brandName": "Tamen XR",
+    "strength": "665 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/23460/tamen-xr-665-mg-er-tablet"
+  },
+  {
+    "brandName": "Tamenol",
+    "strength": "325 mg+37.5 mg",
+    "genericName": "Paracetamol + Tramadol Hydrochloride",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/10777/tamenol-325-mg-tablet"
+  },
+  {
+    "brandName": "Tamfast",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15590/tamfast-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamicod",
+    "strength": "7.5 mg/5 ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/36187/tamicod-75-mg-syrup"
+  },
+  {
+    "brandName": "Tamicol",
+    "strength": "7.5 mg/5 ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/33780/tamicol-75-mg-syrup"
+  },
+  {
+    "brandName": "Tamiflu",
+    "strength": "75 mg",
+    "genericName": "Oseltamivir",
+    "manufacturer": "Roche Bangladesh Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/9774/tamiflu-75-mg-capsule"
+  },
+  {
+    "brandName": "Tamino",
+    "strength": "500 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/10519/tamino-500-mg-tablet"
+  },
+  {
+    "brandName": "Tamino",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/10521/tamino-120-mg-suspension"
+  },
+  {
+    "brandName": "Tamino ER",
+    "strength": "665 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/10520/tamino-er-665-mg-er-tablet"
+  },
+  {
+    "brandName": "Tamino Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/10623/tamino-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Tamiren",
+    "strength": "20 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/34674/tamiren-20-mg-tablet"
+  },
+  {
+    "brandName": "Tamisol D",
+    "strength": "0.4 mg+0.5 mg",
+    "genericName": "Tamsulosin Hydrochloride + Dutasteride",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/32735/tamisol-d-04-mg-capsule"
+  },
+  {
+    "brandName": "Tamisol MR",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15595/tamisol-mr-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamlet",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/31138/tamlet-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamlosin",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15596/tamlosin-04-mg-tablet"
+  },
+  {
+    "brandName": "Tamodex",
+    "strength": "10 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/33128/tamodex-10-mg-tablet"
+  },
+  {
+    "brandName": "Tamodex",
+    "strength": "20 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/36721/tamodex-20-mg-tablet"
+  },
+  {
+    "brandName": "Tamona",
+    "strength": "10 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15186/tamona-10-mg-tablet"
+  },
+  {
+    "brandName": "Tamona",
+    "strength": "20 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15187/tamona-20-mg-tablet"
+  },
+  {
+    "brandName": "Tamoral",
+    "strength": "20 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15189/tamoral-20-mg-tablet"
+  },
+  {
+    "brandName": "Tamosin",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15610/tamosin-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamoxen",
+    "strength": "20 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15191/tamoxen-20-mg-tablet"
+  },
+  {
+    "brandName": "Tamoxi",
+    "strength": "20 mg",
+    "genericName": "Tamoxifen Citrate",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/17262/tamoxi-20-mg-tablet"
+  },
+  {
+    "brandName": "Tamsin",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15597/tamsin-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamsin D",
+    "strength": "0.4 mg+0.5 mg",
+    "genericName": "Tamsulosin Hydrochloride + Dutasteride",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/16706/tamsin-d-04-mg-capsule"
+  },
+  {
+    "brandName": "Tamsol",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15611/tamsol-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamsule SR",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/15598/tamsule-sr-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamsulin",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/35796/tamsulin-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Tamsulin Plus",
+    "strength": "0.4 mg+0.5 mg",
+    "genericName": "Tamsulosin Hydrochloride + Dutasteride",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 726,
+    "sourceUrl": "https://medex.com.bd/brands?page=726",
+    "detailUrl": "https://medex.com.bd/brands/35797/tamsulin-plus-04-mg-capsule"
+  }
+]

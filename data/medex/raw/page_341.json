@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Genac",
+    "strength": "75 mg/3 ml",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/11018/genac-75-mg-injection"
+  },
+  {
+    "brandName": "Genac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "genericName": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/11019/genac-plus-75-mg-injection"
+  },
+  {
+    "brandName": "Genacaft",
+    "strength": "0.25%",
+    "genericName": "Alcaftadine",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/350/genacaft-025-eye-drop"
+  },
+  {
+    "brandName": "Genacyn",
+    "strength": "0.1%",
+    "genericName": "Gentamicin Sulfate (Topical)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/8412/genacyn-01-ointment"
+  },
+  {
+    "brandName": "Genacyn",
+    "strength": "0.3%",
+    "genericName": "Gentamicin Sulfate (Ophthalmic)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/8419/genacyn-03-eye-drop"
+  },
+  {
+    "brandName": "Genagel",
+    "strength": "0.3%",
+    "genericName": "Hypromellose",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Gel",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/20881/genagel-03-eye-gel"
+  },
+  {
+    "brandName": "Genamox",
+    "strength": "250 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/6531/genamox-250-mg-capsule"
+  },
+  {
+    "brandName": "Genamox",
+    "strength": "500 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/6532/genamox-500-mg-capsule"
+  },
+  {
+    "brandName": "Genamox",
+    "strength": "125 mg/5 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/6533/genamox-125-mg-suspension"
+  },
+  {
+    "brandName": "Genamox",
+    "strength": "125 mg/1.25 ml",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/6534/genamox-125-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Genazopt",
+    "strength": "1%",
+    "genericName": "Brinzolamide",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/26560/genazopt-1-suspension"
+  },
+  {
+    "brandName": "Genazopt Plus",
+    "strength": "1%+0.2%",
+    "genericName": "Brinzolamide + Brimonidine Tartrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/16332/genazopt-plus-1-02-suspension"
+  },
+  {
+    "brandName": "Genazopt T",
+    "strength": "1%+0.5%",
+    "genericName": "Brinzolamide + Timolol",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/16067/genazopt-t-1-05-suspension"
+  },
+  {
+    "brandName": "Genclovir",
+    "strength": "0.15%",
+    "genericName": "Ganciclovir",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Gel",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/9720/genclovir-015-eye-gel"
+  },
+  {
+    "brandName": "Genevir",
+    "strength": "0.5 mg",
+    "genericName": "Entecavir Monohydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/9753/genevir-05-mg-tablet"
+  },
+  {
+    "brandName": "Genevir",
+    "strength": "1 mg",
+    "genericName": "Entecavir Monohydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/9754/genevir-1-mg-tablet"
+  },
+  {
+    "brandName": "Genib",
+    "strength": "250 mg",
+    "genericName": "Gefitinib",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/31239/genib-250-mg-tablet"
+  },
+  {
+    "brandName": "Genmax",
+    "strength": "0.3%",
+    "genericName": "Gentamicin Sulfate (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/8404/genmax-03-eye-drop"
+  },
+  {
+    "brandName": "Genmax",
+    "strength": "0.3%",
+    "genericName": "Gentamicin Sulfate (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/8405/genmax-03-eye-ointment"
+  },
+  {
+    "brandName": "Genmax HC",
+    "strength": "0.3%+1%",
+    "genericName": "Gentamicin + Hydrocortisone Acetate",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ear Drop",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/13045/genmax-hc-03-1-ear-drop"
+  },
+  {
+    "brandName": "Genodex",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/31600/genodex-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Genolev",
+    "strength": "0.5%",
+    "genericName": "Levofloxacin (Eye/Ear)",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/26561/genolev-05-eye-drop"
+  },
+  {
+    "brandName": "Genolev",
+    "strength": "500 mg",
+    "genericName": "Levofloxacin Hemihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/9459/genolev-500-mg-tablet"
+  },
+  {
+    "brandName": "Genolev TS",
+    "strength": "1.5%",
+    "genericName": "Levofloxacin (Eye/Ear)",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/26562/genolev-ts-15-eye-drop"
+  },
+  {
+    "brandName": "Genopam",
+    "strength": "0.5 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/32758/genopam-05-mg-tablet"
+  },
+  {
+    "brandName": "Genopam",
+    "strength": "2 mg",
+    "genericName": "Clonazepam",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/32895/genopam-2-mg-tablet"
+  },
+  {
+    "brandName": "Gensulin M30",
+    "strength": "30%+70% in 100 IU/ml",
+    "genericName": "Regular Insulin Human + Isophane Insulin Human",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/28404/gensulin-m30-30-70-injection"
+  },
+  {
+    "brandName": "Gensulin N",
+    "strength": "100 IU/ml",
+    "genericName": "Insulin Human [rDNA]",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/26319/gensulin-n-100-iu-injection"
+  },
+  {
+    "brandName": "Gensulin R",
+    "strength": "100 IU/ml",
+    "genericName": "Insulin Human [rDNA]",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/28990/gensulin-r-100-iu-injection"
+  },
+  {
+    "brandName": "GensuPen2",
+    "strength": null,
+    "genericName": "Insulin device & needle",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Insulin Device",
+    "sourcePage": 341,
+    "sourceUrl": "https://medex.com.bd/brands?page=341",
+    "detailUrl": "https://medex.com.bd/brands/35431/gensupen2-insulin-device"
+  }
+]

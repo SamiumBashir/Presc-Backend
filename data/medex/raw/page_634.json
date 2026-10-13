@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Receca",
+    "strength": "10 mg/sachet",
+    "genericName": "Racecadotril",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/16655/receca-10-mg-powder"
+  },
+  {
+    "brandName": "Recelbia",
+    "strength": "10 mg/ml",
+    "genericName": "Rituximab",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/28660/recelbia-10-mg-injection"
+  },
+  {
+    "brandName": "Recepra",
+    "strength": "500 mg",
+    "genericName": "Cephradine",
+    "manufacturer": "Reliance Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/6974/recepra-500-mg-capsule"
+  },
+  {
+    "brandName": "Recepra",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cephradine",
+    "manufacturer": "Reliance Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/6975/recepra-125-mg-suspension"
+  },
+  {
+    "brandName": "Recicof Kidz Linctus",
+    "strength": "31.25 mg/5 ml",
+    "genericName": "Citric Acid Monohydrate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/34612/recicof-kidz-linctus-3125-mg-syrup"
+  },
+  {
+    "brandName": "Recicof Linctus",
+    "strength": "125 mg/5 ml",
+    "genericName": "Citric Acid Monohydrate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/34611/recicof-linctus-125-mg-syrup"
+  },
+  {
+    "brandName": "Recin",
+    "strength": "0.3%",
+    "genericName": "Gentamicin Sulfate (Ophthalmic)",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/8411/recin-03-eye-drop"
+  },
+  {
+    "brandName": "Recita",
+    "strength": "5 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/30913/recita-5-mg-tablet"
+  },
+  {
+    "brandName": "Recita",
+    "strength": "10 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/30914/recita-10-mg-tablet"
+  },
+  {
+    "brandName": "Reclevus",
+    "strength": "50 mg",
+    "genericName": "Vildagliptin",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/25238/reclevus-50-mg-tablet"
+  },
+  {
+    "brandName": "Reclevus Met",
+    "strength": "50 mg+500 mg",
+    "genericName": "Vildagliptin + Metformin Hydrochloride",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/25247/reclevus-met-50-mg-tablet"
+  },
+  {
+    "brandName": "Reclevus Met",
+    "strength": "50 mg+850 mg",
+    "genericName": "Vildagliptin + Metformin Hydrochloride",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/25248/reclevus-met-50-mg-tablet"
+  },
+  {
+    "brandName": "Recocid",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/21936/recocid-175-mg-suspension"
+  },
+  {
+    "brandName": "Recocid Plus",
+    "strength": "(200 mg+400 mg+30 mg)/5 ml",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/21937/recocid-plus-200-mg-suspension"
+  },
+  {
+    "brandName": "Recocid Plus",
+    "strength": "400 mg+400 mg+30 mg",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/513/recocid-plus-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Recodep",
+    "strength": "12.5 mg+5 mg",
+    "genericName": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/37049/recodep-125-mg-tablet"
+  },
+  {
+    "brandName": "Recof",
+    "strength": "6 mg/ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/25530/recof-6-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Recof",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/4067/recof-15-mg-syrup"
+  },
+  {
+    "brandName": "Recofast",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/7311/recofast-250-mg-tablet"
+  },
+  {
+    "brandName": "Recofast",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/7312/recofast-500-mg-tablet"
+  },
+  {
+    "brandName": "Recofast",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/7313/recofast-125-mg-suspension"
+  },
+  {
+    "brandName": "Recofast",
+    "strength": "750 mg/vial",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/7314/recofast-750-mg-injection"
+  },
+  {
+    "brandName": "Recofast CV",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/31959/recofast-cv-250-mg-tablet"
+  },
+  {
+    "brandName": "Recofast CV",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/31960/recofast-cv-500-mg-tablet"
+  },
+  {
+    "brandName": "Recogen",
+    "strength": "2000 IU",
+    "genericName": "Erythropoietin Alfa",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IV/SC Injection",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/20032/recogen-2000-iu-injection"
+  },
+  {
+    "brandName": "Recogen",
+    "strength": "3000 IU",
+    "genericName": "Erythropoietin Alfa",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IV/SC Injection",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/20033/recogen-3000-iu-injection"
+  },
+  {
+    "brandName": "Recogen",
+    "strength": "5000 IU",
+    "genericName": "Erythropoietin Alfa",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IV/SC Injection",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/20034/recogen-5000-iu-injection"
+  },
+  {
+    "brandName": "Recogen",
+    "strength": "10000 IU",
+    "genericName": "Erythropoietin Alfa",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IV/SC Injection",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/20035/recogen-10000-iu-injection"
+  },
+  {
+    "brandName": "Reconil",
+    "strength": "200 mg",
+    "genericName": "Hydroxychloroquine Sulphate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/11664/reconil-200-mg-tablet"
+  },
+  {
+    "brandName": "Recormon",
+    "strength": "2000 IU/0.3 ml",
+    "genericName": "Erythropoietin Beta",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "IV/SC Injection",
+    "sourcePage": 634,
+    "sourceUrl": "https://medex.com.bd/brands?page=634",
+    "detailUrl": "https://medex.com.bd/brands/16477/recormon-2000-iu-injection"
+  }
+]

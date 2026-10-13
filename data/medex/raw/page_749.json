@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Tinimet",
+    "strength": "50 mg",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/1466/tinimet-50-mg-tablet"
+  },
+  {
+    "brandName": "Tinimet",
+    "strength": "5 mg/2 ml",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/1467/tinimet-5-mg-injection"
+  },
+  {
+    "brandName": "Tiniril",
+    "strength": "8 mg",
+    "genericName": "Betahistine Dihydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/4690/tiniril-8-mg-tablet"
+  },
+  {
+    "brandName": "Tiniril",
+    "strength": "16 mg",
+    "genericName": "Betahistine Dihydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/27076/tiniril-16-mg-tablet"
+  },
+  {
+    "brandName": "Tinium",
+    "strength": "50 mg",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/24946/tinium-50-mg-tablet"
+  },
+  {
+    "brandName": "Tinium",
+    "strength": "5 mg/2 ml",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/24979/tinium-5-mg-injection"
+  },
+  {
+    "brandName": "Tinizol DS",
+    "strength": "1 gm",
+    "genericName": "Tinidazole",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/10253/tinizol-ds-1-gm-tablet"
+  },
+  {
+    "brandName": "Tink",
+    "strength": "1 mg/5 ml",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/36137/tink-1-mg-syrup"
+  },
+  {
+    "brandName": "Tino",
+    "strength": "50 mg",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/1468/tino-50-mg-tablet"
+  },
+  {
+    "brandName": "Tinobac",
+    "strength": "2 gm/vial",
+    "genericName": "Spectinomycin",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/30202/tinobac-2-gm-injection"
+  },
+  {
+    "brandName": "Tinova",
+    "strength": "(100 mcg+6 mcg+10 mcg)/puff",
+    "genericName": "Beclometasone + Formoterol + Glycopyrronium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/38150/tinova-100-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Tiny-Z",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Pharmasia Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/14589/tiny-z-10-mg-syrup"
+  },
+  {
+    "brandName": "Tioren",
+    "strength": "18 mcg",
+    "genericName": "Tiotropium",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/37614/tioren-18-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Tioriva",
+    "strength": "18 mcg",
+    "genericName": "Tiotropium",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/25000/tioriva-18-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Tiotrop",
+    "strength": "18 mcg",
+    "genericName": "Tiotropium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/26386/tiotrop-18-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Tioxil",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/16207/tioxil-60-mg-capsule"
+  },
+  {
+    "brandName": "Tiozol",
+    "strength": "6.5%",
+    "genericName": "Tioconazole",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/24997/tiozol-65-ointment"
+  },
+  {
+    "brandName": "Tirza",
+    "strength": "2.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/36796/tirza-25-mg-injection"
+  },
+  {
+    "brandName": "Tirza",
+    "strength": "5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/36797/tirza-5-mg-injection"
+  },
+  {
+    "brandName": "Tirza",
+    "strength": "7.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/37249/tirza-75-mg-injection"
+  },
+  {
+    "brandName": "Tirzema",
+    "strength": "2.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/37522/tirzema-25-mg-injection"
+  },
+  {
+    "brandName": "Tirzema",
+    "strength": "5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/37523/tirzema-5-mg-injection"
+  },
+  {
+    "brandName": "Tirzema",
+    "strength": "7.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/37524/tirzema-75-mg-injection"
+  },
+  {
+    "brandName": "Tirzep",
+    "strength": "15 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/39111/tirzep-15-mg-injection"
+  },
+  {
+    "brandName": "Tirzep",
+    "strength": "12.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/39112/tirzep-125-mg-injection"
+  },
+  {
+    "brandName": "Tirzep",
+    "strength": "10 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/39113/tirzep-10-mg-injection"
+  },
+  {
+    "brandName": "Tirzep",
+    "strength": "2.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/35618/tirzep-25-mg-injection"
+  },
+  {
+    "brandName": "Tirzep",
+    "strength": "5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/35619/tirzep-5-mg-injection"
+  },
+  {
+    "brandName": "Tirzep",
+    "strength": "7.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "SC Injection",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/35620/tirzep-75-mg-injection"
+  },
+  {
+    "brandName": "Tispa",
+    "strength": "50 mg",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 749,
+    "sourceUrl": "https://medex.com.bd/brands?page=749",
+    "detailUrl": "https://medex.com.bd/brands/1469/tispa-50-mg-tablet"
+  }
+]

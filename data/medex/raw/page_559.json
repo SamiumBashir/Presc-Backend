@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Orpa Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Belsen Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/10596/orpa-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Orpra",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Avarox Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/23079/orpra-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "ORS",
+    "strength": "10.25 gm",
+    "genericName": "Oral rehydration salt [glucose based]",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/972/ors-1025-gm-powder"
+  },
+  {
+    "brandName": "ORS-Jayson",
+    "strength": "10.25 gm",
+    "genericName": "Oral rehydration salt [glucose based]",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/27423/ors-jayson-1025-gm-powder"
+  },
+  {
+    "brandName": "Orsal",
+    "strength": "2 mg/5 ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/3476/orsal-2-mg-syrup"
+  },
+  {
+    "brandName": "Orsema",
+    "strength": "0.5 mg/0.375 ml",
+    "genericName": "Semaglutide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/31409/orsema-05-mg-injection"
+  },
+  {
+    "brandName": "Orsema",
+    "strength": "0.25 mg/0.188 ml",
+    "genericName": "Semaglutide",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/31410/orsema-025-mg-injection"
+  },
+  {
+    "brandName": "Ortho-D3",
+    "strength": "40000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/29085/ortho-d3-40000-iu-capsule"
+  },
+  {
+    "brandName": "Ortho-D3",
+    "strength": "1000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/31980/ortho-d3-1000-iu-tablet"
+  },
+  {
+    "brandName": "Ortho-D3",
+    "strength": "1000 IU/5 ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/31981/ortho-d3-1000-iu-oral-solution"
+  },
+  {
+    "brandName": "Ortho-D3",
+    "strength": "2000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/31982/ortho-d3-2000-iu-tablet"
+  },
+  {
+    "brandName": "Orthocal",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/14319/orthocal-500-mg-tablet"
+  },
+  {
+    "brandName": "Orthocal-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/14453/orthocal-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Orthogen",
+    "strength": "20 mg+750 mg+50 mg+0.75 mg",
+    "genericName": "Undenatured Type II Collagen + Glucosamine sulfate + Boswellia serrata + Boron",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/32375/orthogen-20-mg-tablet"
+  },
+  {
+    "brandName": "Orthorate",
+    "strength": "400 mg",
+    "genericName": "Calcium Orotate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/18490/orthorate-400-mg-tablet"
+  },
+  {
+    "brandName": "Ortical",
+    "strength": "740 mg",
+    "genericName": "Calcium Orotate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/27062/ortical-740-mg-tablet"
+  },
+  {
+    "brandName": "Ortical",
+    "strength": "400 mg",
+    "genericName": "Calcium Orotate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/14383/ortical-400-mg-tablet"
+  },
+  {
+    "brandName": "Orup",
+    "strength": "10 mg",
+    "genericName": "Rupatadine Fumarate",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/34577/orup-10-mg-tablet"
+  },
+  {
+    "brandName": "Orva",
+    "strength": "10 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/1224/orva-10-mg-tablet"
+  },
+  {
+    "brandName": "Orva",
+    "strength": "20 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/1225/orva-20-mg-tablet"
+  },
+  {
+    "brandName": "Orvatin",
+    "strength": "10 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/1227/orvatin-10-mg-tablet"
+  },
+  {
+    "brandName": "Orvatin",
+    "strength": "20 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/1228/orvatin-20-mg-tablet"
+  },
+  {
+    "brandName": "Oryx",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/8033/oryx-250-mg-injection"
+  },
+  {
+    "brandName": "Oryx",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/8034/oryx-500-mg-injection"
+  },
+  {
+    "brandName": "Oryx",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/8035/oryx-1-gm-injection"
+  },
+  {
+    "brandName": "Oryx",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/8036/oryx-250-mg-injection"
+  },
+  {
+    "brandName": "Oryx",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/8037/oryx-500-mg-injection"
+  },
+  {
+    "brandName": "Oryx",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/8038/oryx-1-gm-injection"
+  },
+  {
+    "brandName": "Oryx",
+    "strength": "2 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/27816/oryx-2-gm-injection"
+  },
+  {
+    "brandName": "Oryza",
+    "strength": "0.15%",
+    "genericName": "Benzydamine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 559,
+    "sourceUrl": "https://medex.com.bd/brands?page=559",
+    "detailUrl": "https://medex.com.bd/brands/27633/oryza-015-mouthwash"
+  }
+]

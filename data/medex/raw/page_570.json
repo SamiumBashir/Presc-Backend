@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Pactorin",
+    "strength": "2.6 mg",
+    "genericName": "Nitroglycerin",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Retard Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/3033/pactorin-26-mg-tablet"
+  },
+  {
+    "brandName": "Padi-D",
+    "strength": "400 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/34803/padi-d-400-iu-oral-solution"
+  },
+  {
+    "brandName": "Paftrol",
+    "strength": "5 mg/5 ml",
+    "genericName": "Rupatadine Fumarate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/24395/paftrol-5-mg-oral-solution"
+  },
+  {
+    "brandName": "Paftrol",
+    "strength": "10 mg",
+    "genericName": "Rupatadine Fumarate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/12281/paftrol-10-mg-tablet"
+  },
+  {
+    "brandName": "Pagerd",
+    "strength": "20 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/2155/pagerd-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Pagerd",
+    "strength": "40 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/2156/pagerd-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "Pain Zero TR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Reliance Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/11062/pain-zero-tr-100-mg-tr-capsule"
+  },
+  {
+    "brandName": "Painac-TR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Royal Pharmaceutical Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/32182/painac-tr-100-mg-tr-capsule"
+  },
+  {
+    "brandName": "PainCare",
+    "strength": "375 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/11606/paincare-375-mg-dr-tablet"
+  },
+  {
+    "brandName": "PainCare",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/11607/paincare-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Painex",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/67/painex-100-mg-tablet"
+  },
+  {
+    "brandName": "Painfree",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Quality Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/21284/painfree-10-mg-tablet"
+  },
+  {
+    "brandName": "Painil",
+    "strength": "500 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/10468/painil-500-mg-tablet"
+  },
+  {
+    "brandName": "Painil",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/10469/painil-120-mg-suspension"
+  },
+  {
+    "brandName": "Painil Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/10598/painil-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Painkil",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/17381/painkil-100-mg-tablet"
+  },
+  {
+    "brandName": "Painkil SR",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/35186/painkil-sr-200-mg-sr-tablet"
+  },
+  {
+    "brandName": "Painles",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Save Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/37856/painles-100-mg-tablet"
+  },
+  {
+    "brandName": "Painliv",
+    "strength": "30%+10%+4%",
+    "genericName": "Methyl Salicylate + Menthol + Camphor",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/35726/painliv-30-10-cream"
+  },
+  {
+    "brandName": "Painlok",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Novus Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/15436/painlok-10-mg-tablet"
+  },
+  {
+    "brandName": "Painmove",
+    "strength": "30%+8%",
+    "genericName": "Methyl Salicylate + Menthol",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/29166/painmove-30-8-cream"
+  },
+  {
+    "brandName": "Paino",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/17382/paino-100-mg-tablet"
+  },
+  {
+    "brandName": "Painrel",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Guardian Healthcare Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/21255/painrel-10-mg-tablet"
+  },
+  {
+    "brandName": "Pair",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/15367/pair-10-mg-tablet"
+  },
+  {
+    "brandName": "Pair",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/15368/pair-30-mg-injection"
+  },
+  {
+    "brandName": "Pair",
+    "strength": "0.5%",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/15451/pair-05-eye-drop"
+  },
+  {
+    "brandName": "Pairox",
+    "strength": "250 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/11478/pairox-250-mg-tablet"
+  },
+  {
+    "brandName": "Pairox",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/11479/pairox-500-mg-tablet"
+  },
+  {
+    "brandName": "Palanomed",
+    "strength": "0.5 mg",
+    "genericName": "Palonosetron",
+    "manufacturer": "MedRx Life Science Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/23292/palanomed-05-mg-tablet"
+  },
+  {
+    "brandName": "Palbo",
+    "strength": "125 mg",
+    "genericName": "Palbociclib",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 570,
+    "sourceUrl": "https://medex.com.bd/brands?page=570",
+    "detailUrl": "https://medex.com.bd/brands/31178/palbo-125-mg-capsule"
+  }
+]

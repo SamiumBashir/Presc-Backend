@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Cosarin",
+    "strength": "750 mg+50 mg",
+    "genericName": "Glucosamine Sulfate + Diacerein",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/15004/cosarin-750-mg-tablet"
+  },
+  {
+    "brandName": "Cosat",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "genericName": "Sulphamethoxazole + Trimethoprim",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/29933/cosat-200-mg-suspension"
+  },
+  {
+    "brandName": "Cosat-DS",
+    "strength": "800 mg+160 mg",
+    "genericName": "Sulphamethoxazole + Trimethoprim",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/29932/cosat-ds-800-mg-tablet"
+  },
+  {
+    "brandName": "Cosben",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/306/cosben-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Cosdox",
+    "strength": "100 mg",
+    "genericName": "Doxycycline Hydrochloride",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/8335/cosdox-100-mg-capsule"
+  },
+  {
+    "brandName": "Cosec",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/1807/cosec-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Cosec",
+    "strength": "40 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/1808/cosec-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Cosec",
+    "strength": "40 mg/vial",
+    "genericName": "Omeprazole",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/1809/cosec-40-mg-injection"
+  },
+  {
+    "brandName": "Cosec-MUPS",
+    "strength": "20 mg",
+    "genericName": "Omeprazole (MUPS tablet)",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/29896/cosec-mups-20-mg-tablet"
+  },
+  {
+    "brandName": "Cosec-MUPS",
+    "strength": "40 mg",
+    "genericName": "Omeprazole (MUPS tablet)",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/34396/cosec-mups-40-mg-tablet"
+  },
+  {
+    "brandName": "Cosentyx",
+    "strength": "150 mg/ml",
+    "genericName": "Secukinumab",
+    "manufacturer": "Nevian Lifescience PLC",
+    "dosageForm": "Injection",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/26678/cosentyx-150-mg-injection"
+  },
+  {
+    "brandName": "Cosfenac SR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule (Sustained Release)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/10963/cosfenac-sr-100-mg-sr-capsule"
+  },
+  {
+    "brandName": "Cosfez TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "genericName": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/13282/cosfez-tr-150-mg-tr-capsule"
+  },
+  {
+    "brandName": "Cosflu",
+    "strength": "50 mg",
+    "genericName": "Fluconazole",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/9838/cosflu-50-mg-tablet"
+  },
+  {
+    "brandName": "Cosgen-3",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Albion Specialized Pharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/37440/cosgen-3-200-mg-capsule"
+  },
+  {
+    "brandName": "Cosgen-3",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Albion Specialized Pharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/37441/cosgen-3-400-mg-capsule"
+  },
+  {
+    "brandName": "Cosgen-3",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Albion Specialized Pharma Limited",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/37442/cosgen-3-100-mg-suspension"
+  },
+  {
+    "brandName": "Cosium",
+    "strength": "10 mg",
+    "genericName": "Clobazam",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/4277/cosium-10-mg-tablet"
+  },
+  {
+    "brandName": "Coslev",
+    "strength": "500 mg",
+    "genericName": "Levofloxacin Hemihydrate",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/9422/coslev-500-mg-tablet"
+  },
+  {
+    "brandName": "Cosmorab",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/35560/cosmorab-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Cosmotil",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/32167/cosmotil-500-mg-tablet"
+  },
+  {
+    "brandName": "Cosmotil",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/32166/cosmotil-250-mg-tablet"
+  },
+  {
+    "brandName": "Cosmotrin",
+    "strength": "0.025%",
+    "genericName": "Tretinoin (Topical)",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/12779/cosmotrin-0025-cream"
+  },
+  {
+    "brandName": "Cosmoxim",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/35562/cosmoxim-200-mg-capsule"
+  },
+  {
+    "brandName": "Cosmoxim",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/35561/cosmoxim-200-mg-capsule"
+  },
+  {
+    "brandName": "Cosmozole",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/31933/cosmozole-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Cosmozole",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/31932/cosmozole-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Cosnap Plus",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/32084/cosnap-plus-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Cospra",
+    "strength": "20 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Cosmo Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/2141/cospra-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Costa-B",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 179,
+    "sourceUrl": "https://medex.com.bd/brands?page=179",
+    "detailUrl": "https://medex.com.bd/brands/26711/costa-b-100-mg-tablet"
+  }
+]

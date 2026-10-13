@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Broxolit",
+    "strength": "6 mg/ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/28510/broxolit-6-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Broxolit",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/28511/broxolit-15-mg-syrup"
+  },
+  {
+    "brandName": "Broze",
+    "strength": "3 mg",
+    "genericName": "Bromazepam",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/4249/broze-3-mg-tablet"
+  },
+  {
+    "brandName": "Brozep",
+    "strength": "3 mg",
+    "genericName": "Bromazepam",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/4250/brozep-3-mg-tablet"
+  },
+  {
+    "brandName": "BS",
+    "strength": "6%+3%",
+    "genericName": "Benzoic Acid + Salicylic Acid",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/28241/bs-6-3-ointment"
+  },
+  {
+    "brandName": "BSH",
+    "strength": "0.09%",
+    "genericName": "Bromfenac Sodium",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/15931/bsh-009-eye-drop"
+  },
+  {
+    "brandName": "BSS GV",
+    "strength": null,
+    "genericName": "Balanced Salt Solution",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Irrigation Solution",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/16223/bss-gv-solution"
+  },
+  {
+    "brandName": "Bteen",
+    "strength": "20 mg",
+    "genericName": "Bilastine",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/34224/bteen-20-mg-tablet"
+  },
+  {
+    "brandName": "Btiron TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "genericName": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/27490/btiron-tr-150-mg-tr-capsule"
+  },
+  {
+    "brandName": "Bucod",
+    "strength": "7.5 mg/5 ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/30684/bucod-75-mg-syrup"
+  },
+  {
+    "brandName": "Bucod SR",
+    "strength": "50 mg",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/3969/bucod-sr-50-mg-sr-tablet"
+  },
+  {
+    "brandName": "Budefort",
+    "strength": "100 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/28221/budefort-100-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budefort",
+    "strength": "200 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/26490/budefort-200-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budefort",
+    "strength": "400 mcg+12 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/26489/budefort-400-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budemet",
+    "strength": "400 mcg+12 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/3913/budemet-400-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budemet",
+    "strength": "200 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/3912/budemet-200-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budemet",
+    "strength": "100 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/3911/budemet-100-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budenide",
+    "strength": "100 mcg/spray",
+    "genericName": "Budesonide (Nasal Spray)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/32220/budenide-100-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Budetide",
+    "strength": "1 mg/2 ml",
+    "genericName": "Budesonide (Nebuliser Suspension)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Suspension",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/29426/budetide-1-mg-suspension"
+  },
+  {
+    "brandName": "Budetide",
+    "strength": "0.5 mg/2 ml",
+    "genericName": "Budesonide (Nebuliser Suspension)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Suspension",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/29425/budetide-05-mg-suspension"
+  },
+  {
+    "brandName": "Budetrol",
+    "strength": "100 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/30396/budetrol-100-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budetrol",
+    "strength": "200 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/31193/budetrol-200-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budetrol",
+    "strength": "400 mcg+12 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/31192/budetrol-400-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Budicort",
+    "strength": "0.25 mg/2 ml",
+    "genericName": "Budesonide (Nebuliser Suspension)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Suspension",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/31722/budicort-025-mg-suspension"
+  },
+  {
+    "brandName": "Budicort",
+    "strength": "1 mg/2 ml",
+    "genericName": "Budesonide (Nebuliser Suspension)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Suspension",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/39519/budicort-1-mg-suspension"
+  },
+  {
+    "brandName": "Budicort",
+    "strength": "100 mcg/spray",
+    "genericName": "Budesonide (Nasal Spray)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/16307/budicort-100-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Budicort",
+    "strength": "0.5 mg/2 ml",
+    "genericName": "Budesonide (Nebuliser Suspension)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Suspension",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/3877/budicort-05-mg-suspension"
+  },
+  {
+    "brandName": "Budicort ER",
+    "strength": "9 mg",
+    "genericName": "Budesonide (Tablet)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/39520/budicort-er-9-mg-er-tablet"
+  },
+  {
+    "brandName": "Budison",
+    "strength": "0.5 mg/2 ml",
+    "genericName": "Budesonide (Nebuliser Suspension)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Nebuliser Suspension",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/32407/budison-05-mg-suspension"
+  },
+  {
+    "brandName": "Budison F",
+    "strength": "100 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 110,
+    "sourceUrl": "https://medex.com.bd/brands?page=110",
+    "detailUrl": "https://medex.com.bd/brands/33002/budison-f-100-mcg-inhalation-capsule"
+  }
+]

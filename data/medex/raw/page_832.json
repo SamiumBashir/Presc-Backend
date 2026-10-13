@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Zeal",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/14592/zeal-10-mg-syrup"
+  },
+  {
+    "brandName": "Zecef",
+    "strength": "500 mg",
+    "genericName": "Cephradine",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/7089/zecef-500-mg-capsule"
+  },
+  {
+    "brandName": "Zecef",
+    "strength": "125 mg/5 ml",
+    "genericName": "Cephradine",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/7090/zecef-125-mg-suspension"
+  },
+  {
+    "brandName": "Zedex",
+    "strength": "20 mg",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/28631/zedex-20-mg-tablet"
+  },
+  {
+    "brandName": "Zedex DS",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/14594/zedex-ds-10-mg-syrup"
+  },
+  {
+    "brandName": "Zedex Max",
+    "strength": "20 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/28632/zedex-max-20-mg-syrup"
+  },
+  {
+    "brandName": "Zedoxim",
+    "strength": "100 mg",
+    "genericName": "Cefpodoxime Proxetil",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/18857/zedoxim-100-mg-capsule"
+  },
+  {
+    "brandName": "Zedoxim",
+    "strength": "200 mg",
+    "genericName": "Cefpodoxime Proxetil",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/18858/zedoxim-200-mg-capsule"
+  },
+  {
+    "brandName": "Zedoxim",
+    "strength": "20 mg/ml",
+    "genericName": "Cefpodoxime Proxetil",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/18859/zedoxim-20-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Zedoxim",
+    "strength": "40 mg/5 ml",
+    "genericName": "Cefpodoxime Proxetil",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/7843/zedoxim-40-mg-suspension"
+  },
+  {
+    "brandName": "Zee-1",
+    "strength": "4.05 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/14596/zee-1-405-mg-syrup"
+  },
+  {
+    "brandName": "Zee-2",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/14597/zee-2-10-mg-syrup"
+  },
+  {
+    "brandName": "Zeefol AZ",
+    "strength": null,
+    "genericName": "Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/30043/zeefol-az-tablet"
+  },
+  {
+    "brandName": "Zeefol M",
+    "strength": "47 mg+0.5 mg+22.5 mg",
+    "genericName": "Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/26812/zeefol-m-47-mg-tablet"
+  },
+  {
+    "brandName": "Zeefol TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "genericName": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/20298/zeefol-tr-150-mg-tr-capsule"
+  },
+  {
+    "brandName": "Zeefol-CI",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "genericName": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/13353/zeefol-ci-50-mg-tr-capsule"
+  },
+  {
+    "brandName": "Zeenee",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/14598/zeenee-10-mg-syrup"
+  },
+  {
+    "brandName": "Zeenee",
+    "strength": "20 mg",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/34580/zeenee-20-mg-tablet"
+  },
+  {
+    "brandName": "Zeenk",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/14599/zeenk-10-mg-syrup"
+  },
+  {
+    "brandName": "Zeeplex",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/25287/zeeplex-syrup"
+  },
+  {
+    "brandName": "ZeFo-CI",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "genericName": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Union Pharmaceuticals Ltd",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/38638/zefo-ci-50-mg-tr-capsule"
+  },
+  {
+    "brandName": "Zelanex",
+    "strength": "0.05%",
+    "genericName": "Azelastine Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/29629/zelanex-005-eye-drop"
+  },
+  {
+    "brandName": "Zelanex",
+    "strength": "137 mcg/spray",
+    "genericName": "Azelastine Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/16248/zelanex-137-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Zeltas",
+    "strength": "(137 mcg+50 mcg)/spray",
+    "genericName": "Azelastine Hydrochloride + Fluticasone Propionate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/18018/zeltas-137-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Zemalog",
+    "strength": "0.1%",
+    "genericName": "Halcinonide",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/12648/zemalog-01-cream"
+  },
+  {
+    "brandName": "Zemicef",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/7689/zemicef-200-mg-capsule"
+  },
+  {
+    "brandName": "Zemicef",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/7690/zemicef-400-mg-capsule"
+  },
+  {
+    "brandName": "Zemicef",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/7691/zemicef-100-mg-suspension"
+  },
+  {
+    "brandName": "Zemicef",
+    "strength": "25 mg/ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/39102/zemicef-25-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Zemicef DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 832,
+    "sourceUrl": "https://medex.com.bd/brands?page=832",
+    "detailUrl": "https://medex.com.bd/brands/7692/zemicef-ds-200-mg-suspension"
+  }
+]

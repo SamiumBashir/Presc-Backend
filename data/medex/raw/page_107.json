@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Brimolol",
+    "strength": "0.2%+0.5%",
+    "genericName": "Brimonidine Tartrate + Timolol Maleate",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/16109/brimolol-02-05-eye-drop"
+  },
+  {
+    "brandName": "BrimoPres",
+    "strength": "0.2%+0.5%",
+    "genericName": "Brimonidine Tartrate + Timolol Maleate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/16110/brimopres-02-05-eye-drop"
+  },
+  {
+    "brandName": "Brindin",
+    "strength": "1%+0.2%",
+    "genericName": "Brinzolamide + Brimonidine Tartrate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/26488/brindin-1-02-suspension"
+  },
+  {
+    "brandName": "Brinop",
+    "strength": "1%",
+    "genericName": "Brinzolamide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/17155/brinop-1-suspension"
+  },
+  {
+    "brandName": "Brintexa",
+    "strength": "5 mg",
+    "genericName": "Vortioxetine Hydrobromide",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/39141/brintexa-5-mg-tablet"
+  },
+  {
+    "brandName": "Brintexa",
+    "strength": "10 mg",
+    "genericName": "Vortioxetine Hydrobromide",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/39142/brintexa-10-mg-tablet"
+  },
+  {
+    "brandName": "Brinz",
+    "strength": "1%",
+    "genericName": "Brinzolamide",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/27702/brinz-1-suspension"
+  },
+  {
+    "brandName": "Brinz T",
+    "strength": "1%+0.5%",
+    "genericName": "Brinzolamide + Timolol",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/27703/brinz-t-1-05-suspension"
+  },
+  {
+    "brandName": "Brinzopt",
+    "strength": "1%",
+    "genericName": "Brinzolamide",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/16068/brinzopt-1-suspension"
+  },
+  {
+    "brandName": "Brirel",
+    "strength": "60 mg",
+    "genericName": "Ticagrelor",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/36530/brirel-60-mg-tablet"
+  },
+  {
+    "brandName": "Brirel",
+    "strength": "90 mg",
+    "genericName": "Ticagrelor",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/33198/brirel-90-mg-tablet"
+  },
+  {
+    "brandName": "Bristol Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Bristol Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/14747/bristol-gold-tablet"
+  },
+  {
+    "brandName": "Brite",
+    "strength": "0.01%+4%+0.05%",
+    "genericName": "Fluocinolone Acetonide + Hydroquinone + Tretinoin",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/27267/brite-001-4-cream"
+  },
+  {
+    "brandName": "Briva",
+    "strength": "25 mg",
+    "genericName": "Brivaracetam",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/28421/briva-25-mg-tablet"
+  },
+  {
+    "brandName": "Briva",
+    "strength": "50 mg",
+    "genericName": "Brivaracetam",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/28422/briva-50-mg-tablet"
+  },
+  {
+    "brandName": "Briva",
+    "strength": "50 mg/5 ml",
+    "genericName": "Brivaracetam",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/28423/briva-50-mg-oral-solution"
+  },
+  {
+    "brandName": "Brizopt",
+    "strength": "1%+0.2%",
+    "genericName": "Brinzolamide + Brimonidine Tartrate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/39647/brizopt-1-02-suspension"
+  },
+  {
+    "brandName": "Brizy",
+    "strength": "1 mg/5 ml",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/3553/brizy-1-mg-syrup"
+  },
+  {
+    "brandName": "Brizy",
+    "strength": "2 mg",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/3552/brizy-2-mg-tablet"
+  },
+  {
+    "brandName": "Brizy",
+    "strength": "1 mg",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/3551/brizy-1-mg-tablet"
+  },
+  {
+    "brandName": "Brocast",
+    "strength": "5 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/31816/brocast-5-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Brocast",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/22595/brocast-10-mg-tablet"
+  },
+  {
+    "brandName": "Brocef",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/25792/brocef-500-mg-tablet"
+  },
+  {
+    "brandName": "Brocef",
+    "strength": "250 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/25791/brocef-250-mg-tablet"
+  },
+  {
+    "brandName": "Brocef CV",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/32931/brocef-cv-250-mg-tablet"
+  },
+  {
+    "brandName": "Brocef CV",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/32932/brocef-cv-500-mg-tablet"
+  },
+  {
+    "brandName": "Broculyt",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/4038/broculyt-15-mg-syrup"
+  },
+  {
+    "brandName": "Brodactam",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/6676/brodactam-4-gm-injection"
+  },
+  {
+    "brandName": "Brodactam",
+    "strength": "(2 gm+0.25 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/34675/brodactam-2-gm-injection"
+  },
+  {
+    "brandName": "Brodamox DS",
+    "strength": "500 mg",
+    "genericName": "Amoxicillin Trihydrate",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 107,
+    "sourceUrl": "https://medex.com.bd/brands?page=107",
+    "detailUrl": "https://medex.com.bd/brands/6497/brodamox-ds-500-mg-capsule"
+  }
+]

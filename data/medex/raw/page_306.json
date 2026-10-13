@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Flexivan ER",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/49/flexivan-er-200-mg-er-tablet"
+  },
+  {
+    "brandName": "Flexor",
+    "strength": "5 mg",
+    "genericName": "Cyclobenzaprine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/11793/flexor-5-mg-tablet"
+  },
+  {
+    "brandName": "Flexor",
+    "strength": "10 mg",
+    "genericName": "Cyclobenzaprine Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/11794/flexor-10-mg-tablet"
+  },
+  {
+    "brandName": "Fliban",
+    "strength": "100 mg",
+    "genericName": "Flibanserin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/32596/fliban-100-mg-tablet"
+  },
+  {
+    "brandName": "Flindof",
+    "strength": "200 mg",
+    "genericName": "Doxophylline",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/26257/flindof-200-mg-tablet"
+  },
+  {
+    "brandName": "Flindof",
+    "strength": "400 mg",
+    "genericName": "Doxophylline",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/26258/flindof-400-mg-tablet"
+  },
+  {
+    "brandName": "Flintex",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Oyster Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/30545/flintex-15-mg-syrup"
+  },
+  {
+    "brandName": "Flixocort",
+    "strength": "125 mcg/metered dose",
+    "genericName": "Fluticasone Propionate (Inhaler)",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/29371/flixocort-125-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Flixocort",
+    "strength": "250 mcg/metered dose",
+    "genericName": "Fluticasone Propionate (Inhaler)",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/29372/flixocort-250-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Flixonat",
+    "strength": "50 mcg/spray",
+    "genericName": "Fluticasone Propionate (Nasal Spray)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/33883/flixonat-50-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Flocet",
+    "strength": "200 mg",
+    "genericName": "Ofloxacin",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9650/flocet-200-mg-tablet"
+  },
+  {
+    "brandName": "Flocet",
+    "strength": "400 mg",
+    "genericName": "Ofloxacin",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9651/flocet-400-mg-tablet"
+  },
+  {
+    "brandName": "Flocip",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Amulet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9262/flocip-500-mg-tablet"
+  },
+  {
+    "brandName": "Flocip",
+    "strength": "250 mg/5 ml",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Amulet Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9263/flocip-250-mg-suspension"
+  },
+  {
+    "brandName": "Flogem",
+    "strength": "320 mg",
+    "genericName": "Gemifloxacin",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9404/flogem-320-mg-tablet"
+  },
+  {
+    "brandName": "Flomont",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/22623/flomont-10-mg-tablet"
+  },
+  {
+    "brandName": "Flomox",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/33884/flomox-400-mg-tablet"
+  },
+  {
+    "brandName": "Flomox",
+    "strength": "0.5%",
+    "genericName": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9626/flomox-05-eye-drop"
+  },
+  {
+    "brandName": "Flomox D",
+    "strength": "0.5%+0.1%",
+    "genericName": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/27725/flomox-d-05-01-eye-drop"
+  },
+  {
+    "brandName": "Flomox XG",
+    "strength": "0.5%+0.4%",
+    "genericName": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/27726/flomox-xg-05-04-eye-drop"
+  },
+  {
+    "brandName": "Flomyst F",
+    "strength": "(250 mcg+10 mcg)/puff",
+    "genericName": "Fluticasone Propionate + Formoterol Fumarate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/28434/flomyst-f-250-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Flomyst F",
+    "strength": "(125 mcg+5 mcg)/puff",
+    "genericName": "Fluticasone Propionate + Formoterol Fumarate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/28435/flomyst-f-125-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Flomyst F",
+    "strength": "(50 mcg+5 mcg)/puff",
+    "genericName": "Fluticasone Propionate + Formoterol Fumarate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/28436/flomyst-f-50-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Flonasin",
+    "strength": "(137 mcg+50 mcg)/spray",
+    "genericName": "Azelastine Hydrochloride + Fluticasone Propionate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/18019/flonasin-137-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Flonaspray",
+    "strength": "50 mcg/spray",
+    "genericName": "Fluticasone Propionate (Nasal Spray)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/13032/flonaspray-50-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Flonaspray Max",
+    "strength": "93 mcg/spray",
+    "genericName": "Fluticasone Propionate (Nasal Spray)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/38915/flonaspray-max-93-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Flonor",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/15587/flonor-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Flontin",
+    "strength": "250 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9264/flontin-250-mg-tablet"
+  },
+  {
+    "brandName": "Flontin",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9265/flontin-500-mg-tablet"
+  },
+  {
+    "brandName": "Flontin",
+    "strength": "750 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 306,
+    "sourceUrl": "https://medex.com.bd/brands?page=306",
+    "detailUrl": "https://medex.com.bd/brands/9266/flontin-750-mg-tablet"
+  }
+]

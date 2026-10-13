@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "AFM-Plus",
+    "strength": "0.1%+0.3%",
+    "genericName": "Fluorometholone + Gentamicin",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/15886/afm-plus-01-03-eye-ointment"
+  },
+  {
+    "brandName": "AFM-T",
+    "strength": "0.1%+0.025%",
+    "genericName": "Fluorometholone + Tetrahydrozoline",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/15889/afm-t-01-0025-eye-drop"
+  },
+  {
+    "brandName": "Afrin",
+    "strength": "0.025%",
+    "genericName": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Nasal Drop",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/16266/afrin-0025-nasal-drop"
+  },
+  {
+    "brandName": "Afrin",
+    "strength": "0.05%",
+    "genericName": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Nasal Drop",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/16267/afrin-005-nasal-drop"
+  },
+  {
+    "brandName": "Afun",
+    "strength": "1%",
+    "genericName": "Clotrimazole (Topical)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/12381/afun-1-cream"
+  },
+  {
+    "brandName": "Afun VT",
+    "strength": "200 mg",
+    "genericName": "Clotrimazole (Vaginal tablet)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Vaginal Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/12408/afun-vt-200-mg-vaginal-tablet"
+  },
+  {
+    "brandName": "Afuvin",
+    "strength": "500 mg",
+    "genericName": "Griseofulvin [Ultra Microsize]",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/28011/afuvin-500-mg-tablet"
+  },
+  {
+    "brandName": "Agafi",
+    "strength": "2 mg/0.05 ml",
+    "genericName": "Aflibercept Intravitreal Injection",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Intravitreal Injection",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/39395/agafi-2-mg-injection"
+  },
+  {
+    "brandName": "Age M",
+    "strength": "6 mg+200 mg+50 mg",
+    "genericName": "Beta carotene + Vitamin C + Vitamin E",
+    "manufacturer": "Mystic Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/14009/age-m-6-mg-tablet"
+  },
+  {
+    "brandName": "Age Plus",
+    "strength": null,
+    "genericName": "Super antioxidant [vitamins & minerals]",
+    "manufacturer": "Mystic Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/14721/age-plus-tablet"
+  },
+  {
+    "brandName": "Agedefy",
+    "strength": "6 mg+200 mg+50 mg",
+    "genericName": "Beta carotene + Vitamin C + Vitamin E",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/14008/agedefy-6-mg-tablet"
+  },
+  {
+    "brandName": "Aggra",
+    "strength": "50 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/5998/aggra-50-mg-tablet"
+  },
+  {
+    "brandName": "Aggra",
+    "strength": "100 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/5999/aggra-100-mg-tablet"
+  },
+  {
+    "brandName": "Aggreno",
+    "strength": "25 mg+200 mg",
+    "genericName": "Aspirin + Dipyridamole",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Extended Release)",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/17938/aggreno-25-mg-xr-capsule"
+  },
+  {
+    "brandName": "Aglip",
+    "strength": "12.5 mg",
+    "genericName": "Alogliptin Benzoate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/30988/aglip-125-mg-tablet"
+  },
+  {
+    "brandName": "Aglip",
+    "strength": "25 mg",
+    "genericName": "Alogliptin Benzoate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/30989/aglip-25-mg-tablet"
+  },
+  {
+    "brandName": "Agonil",
+    "strength": "10%",
+    "genericName": "Diethylamine Salicylate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/36751/agonil-10-cream"
+  },
+  {
+    "brandName": "Agorest",
+    "strength": "25 mg",
+    "genericName": "Agomelatine",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/31997/agorest-25-mg-tablet"
+  },
+  {
+    "brandName": "Agotin",
+    "strength": "25 mg",
+    "genericName": "Agomelatine",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/413/agotin-25-mg-tablet"
+  },
+  {
+    "brandName": "Agoxin",
+    "strength": "0.25 mg",
+    "genericName": "Digoxin",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/2453/agoxin-025-mg-tablet"
+  },
+  {
+    "brandName": "AH",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/25460/ah-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "AH",
+    "strength": "200 mg/5 ml",
+    "genericName": "Albendazole",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/25461/ah-200-mg-suspension"
+  },
+  {
+    "brandName": "Aid",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Premier Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/27401/aid-50-mg-tablet"
+  },
+  {
+    "brandName": "Aid SR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Premier Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/27433/aid-sr-100-mg-sr-tablet"
+  },
+  {
+    "brandName": "Aid TR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Premier Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/27400/aid-tr-100-mg-tr-capsule"
+  },
+  {
+    "brandName": "Aircast",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "National Drug Co. Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/37838/aircast-10-mg-tablet"
+  },
+  {
+    "brandName": "Aire",
+    "strength": "1 mg",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/27758/aire-1-mg-tablet"
+  },
+  {
+    "brandName": "Aire",
+    "strength": "2 mg",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/27759/aire-2-mg-tablet"
+  },
+  {
+    "brandName": "AirFlow",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/32793/airflow-10-mg-tablet"
+  },
+  {
+    "brandName": "AirFlow",
+    "strength": "4 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 18,
+    "sourceUrl": "https://medex.com.bd/brands?page=18",
+    "detailUrl": "https://medex.com.bd/brands/35971/airflow-4-mg-chewable-tablet"
+  }
+]

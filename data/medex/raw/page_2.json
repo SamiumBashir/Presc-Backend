@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "A-Fenac",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Suppository",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/10935/a-fenac-50-mg-suppository"
+  },
+  {
+    "brandName": "A-Fenac K",
+    "strength": "50 mg",
+    "genericName": "Diclofenac Potassium",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/11134/a-fenac-k-50-mg-tablet"
+  },
+  {
+    "brandName": "A-Fenac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "genericName": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/10933/a-fenac-plus-75-mg-injection"
+  },
+  {
+    "brandName": "A-Fenac SR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/10931/a-fenac-sr-100-mg-sr-tablet"
+  },
+  {
+    "brandName": "A-Flox",
+    "strength": "250 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/6210/a-flox-250-mg-capsule"
+  },
+  {
+    "brandName": "A-Flox",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/6211/a-flox-500-mg-capsule"
+  },
+  {
+    "brandName": "A-Flox",
+    "strength": "125 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/6212/a-flox-125-mg-suspension"
+  },
+  {
+    "brandName": "A-Flox",
+    "strength": "500 mg/vial",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/6214/a-flox-500-mg-injection"
+  },
+  {
+    "brandName": "A-Forte",
+    "strength": "50000 IU",
+    "genericName": "Vitamin A",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/13491/a-forte-50000-iu-capsule"
+  },
+  {
+    "brandName": "A-Kit",
+    "strength": "200 mg+200 mcg",
+    "genericName": "Mifepristone + Misoprostol",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/28227/a-kit-200-mg-tablet"
+  },
+  {
+    "brandName": "A-Meb",
+    "strength": "135 mg",
+    "genericName": "Mebeverine Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/16609/a-meb-135-mg-tablet"
+  },
+  {
+    "brandName": "A-Mectin",
+    "strength": "6 mg",
+    "genericName": "Ivermectin (Tablet)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/28704/a-mectin-6-mg-tablet"
+  },
+  {
+    "brandName": "A-Mectin",
+    "strength": "12 mg",
+    "genericName": "Ivermectin (Tablet)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/28705/a-mectin-12-mg-tablet"
+  },
+  {
+    "brandName": "A-Migel",
+    "strength": "2% w/w",
+    "genericName": "Miconazole Nitrate",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Oral Gel",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/10007/a-migel-2-w-oral-gel"
+  },
+  {
+    "brandName": "A-Mycin",
+    "strength": "3% W/V",
+    "genericName": "Erythromycin (Lotion)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Lotion",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/529/a-mycin-3-w-lotion"
+  },
+  {
+    "brandName": "A-Mycin",
+    "strength": "125 mg/5 ml",
+    "genericName": "Erythromycin (Oral)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/8427/a-mycin-125-mg-suspension"
+  },
+  {
+    "brandName": "A-Mycin",
+    "strength": "200 mg/5 ml",
+    "genericName": "Erythromycin (Oral)",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/8429/a-mycin-200-mg-pediatric-drop"
+  },
+  {
+    "brandName": "A-One",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/27175/a-one-120-mg-suspension"
+  },
+  {
+    "brandName": "A-One Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/27176/a-one-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "A-One XR",
+    "strength": "665 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/23388/a-one-xr-665-mg-er-tablet"
+  },
+  {
+    "brandName": "A-Pak",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/38193/a-pak-100-mg-tablet"
+  },
+  {
+    "brandName": "A-Pak SR",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/35356/a-pak-sr-200-mg-sr-tablet"
+  },
+  {
+    "brandName": "A-Phenicol",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/8883/a-phenicol-05-eye-drop"
+  },
+  {
+    "brandName": "A-Phenicol D",
+    "strength": "0.1%+0.5%",
+    "genericName": "Dexamethasone + Chloramphenicol",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/15795/a-phenicol-d-01-05-eye-drop"
+  },
+  {
+    "brandName": "A-Rox",
+    "strength": "150 mg",
+    "genericName": "Roxithromycin",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/8787/a-rox-150-mg-tablet"
+  },
+  {
+    "brandName": "A-Rox",
+    "strength": "300 mg",
+    "genericName": "Roxithromycin",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/8788/a-rox-300-mg-tablet"
+  },
+  {
+    "brandName": "A-Rox",
+    "strength": "50 mg/5 ml",
+    "genericName": "Roxithromycin",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/8789/a-rox-50-mg-suspension"
+  },
+  {
+    "brandName": "A-Spasm",
+    "strength": "5 mg",
+    "genericName": "Oxyphenonium Bromide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/23257/a-spasm-5-mg-tablet"
+  },
+  {
+    "brandName": "A-Statin",
+    "strength": "10 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/32492/a-statin-10-mg-tablet"
+  },
+  {
+    "brandName": "A-Tetra",
+    "strength": "500 mg",
+    "genericName": "Tetracycline Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 2,
+    "sourceUrl": "https://medex.com.bd/brands?page=2",
+    "detailUrl": "https://medex.com.bd/brands/8275/a-tetra-500-mg-capsule"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Gap",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/1816/gap-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Gardasil",
+    "strength": "0.5 ml/pre-filled syringe",
+    "genericName": "Human Papillomavirus Quadrivalent",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/28969/gardasil-05-ml-injection"
+  },
+  {
+    "brandName": "Gardi",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Arges Life Science Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/32912/gardi-10-mg-tablet"
+  },
+  {
+    "brandName": "Gascon",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/33036/gascon-500-mg-suspension"
+  },
+  {
+    "brandName": "Gasfree",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/37872/gasfree-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Gaslev",
+    "strength": "20 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/27922/gaslev-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Gasnil",
+    "strength": "67 mg/ml",
+    "genericName": "Simethicone",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/1300/gasnil-67-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Gaspain",
+    "strength": "20 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/23325/gaspain-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Gaspain",
+    "strength": "40 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/23326/gaspain-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "Gaspro",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/22786/gaspro-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Gaspro",
+    "strength": "40 mg/vial",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IV Injection",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/22787/gaspro-40-mg-injection"
+  },
+  {
+    "brandName": "Gaspro",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/26153/gaspro-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Gastalfet",
+    "strength": "1000 mg",
+    "genericName": "Sucralfate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/24687/gastalfet-1000-mg-tablet"
+  },
+  {
+    "brandName": "Gastalfet",
+    "strength": "1 gm/5 ml",
+    "genericName": "Sucralfate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/34024/gastalfet-1-gm-suspension"
+  },
+  {
+    "brandName": "Gastalfet",
+    "strength": "500 mg",
+    "genericName": "Sucralfate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/2275/gastalfet-500-mg-tablet"
+  },
+  {
+    "brandName": "Gastid",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/16586/gastid-480-mg-suspension"
+  },
+  {
+    "brandName": "Gastid",
+    "strength": "480 mg+20 mg",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/16587/gastid-480-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Gastid M",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/36586/gastid-m-480-mg-suspension"
+  },
+  {
+    "brandName": "Gastid S",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/36587/gastid-s-480-mg-suspension"
+  },
+  {
+    "brandName": "Gastisol",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/32836/gastisol-500-mg-suspension"
+  },
+  {
+    "brandName": "Gastisol Cool",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/35410/gastisol-cool-500-mg-suspension"
+  },
+  {
+    "brandName": "Gastisol Max",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/37904/gastisol-max-500-mg-suspension"
+  },
+  {
+    "brandName": "Gastolin",
+    "strength": "(200 mg+250 mg)/5 ml",
+    "genericName": "Aluminium Oxide + Magnesium Trisilicate",
+    "manufacturer": "Belsen Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/17570/gastolin-200-mg-suspension"
+  },
+  {
+    "brandName": "Gastrazole",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/29255/gastrazole-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Gastridine",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/37655/gastridine-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Gastril",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/23032/gastril-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Gastril",
+    "strength": "40 mg/vial",
+    "genericName": "Omeprazole",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IV Injection",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/23033/gastril-40-mg-injection"
+  },
+  {
+    "brandName": "Gastro DS",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/34404/gastro-ds-500-mg-suspension"
+  },
+  {
+    "brandName": "Gastrocare",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/37682/gastrocare-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Gastrocon-A",
+    "strength": "500 mg+100 mg",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 336,
+    "sourceUrl": "https://medex.com.bd/brands?page=336",
+    "detailUrl": "https://medex.com.bd/brands/28294/gastrocon-a-500-mg-chewable-tablet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Nidagest",
+    "strength": "5 mg",
+    "genericName": "Allylestrenol",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/5896/nidagest-5-mg-tablet"
+  },
+  {
+    "brandName": "Nidazyl",
+    "strength": "400 mg",
+    "genericName": "Metronidazole",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/10181/nidazyl-400-mg-tablet"
+  },
+  {
+    "brandName": "Nidazyl",
+    "strength": "200 mg/5 ml",
+    "genericName": "Metronidazole",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/10182/nidazyl-200-mg-suspension"
+  },
+  {
+    "brandName": "Nidazyl",
+    "strength": "500 mg/100 ml",
+    "genericName": "Metronidazole",
+    "manufacturer": "Orion Infusion Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/26896/nidazyl-500-mg-injection"
+  },
+  {
+    "brandName": "Nidependiol",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28567/nidependiol-05-eye-drop"
+  },
+  {
+    "brandName": "Nidependiol-D",
+    "strength": "0.1%+0.5%",
+    "genericName": "Dexamethasone + Chloramphenicol",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28568/nidependiol-d-01-05-eye-drop"
+  },
+  {
+    "brandName": "Nidipine SR",
+    "strength": "20 mg",
+    "genericName": "Nifedipine",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/3109/nidipine-sr-20-mg-sr-tablet"
+  },
+  {
+    "brandName": "Nidocard",
+    "strength": "400 mcg/spray",
+    "genericName": "Nitroglycerin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Topical Spray",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/3019/nidocard-400-mcg-spray"
+  },
+  {
+    "brandName": "Nidocard",
+    "strength": "50 mg/10 ml",
+    "genericName": "Nitroglycerin (IV Infusion)",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/3020/nidocard-50-mg-injection"
+  },
+  {
+    "brandName": "Nidocard Retard",
+    "strength": "2.6 mg",
+    "genericName": "Nitroglycerin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Retard Tablet",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/3017/nidocard-retard-26-mg-tablet"
+  },
+  {
+    "brandName": "Nidocard Retard",
+    "strength": "6.4 mg",
+    "genericName": "Nitroglycerin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Retard Tablet",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/3018/nidocard-retard-64-mg-tablet"
+  },
+  {
+    "brandName": "Nidozox",
+    "strength": "500 mg",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/2305/nidozox-500-mg-tablet"
+  },
+  {
+    "brandName": "Nidozox",
+    "strength": "100 mg/5 ml",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/2306/nidozox-100-mg-suspension"
+  },
+  {
+    "brandName": "Nifecap",
+    "strength": "10 mg",
+    "genericName": "Nifedipine",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/3110/nifecap-10-mg-capsule"
+  },
+  {
+    "brandName": "Nifev",
+    "strength": "100 mg",
+    "genericName": "Nintedanib",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/29373/nifev-100-mg-capsule"
+  },
+  {
+    "brandName": "Nifev",
+    "strength": "150 mg",
+    "genericName": "Nintedanib",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/29374/nifev-150-mg-capsule"
+  },
+  {
+    "brandName": "Nifin",
+    "strength": "10 mg",
+    "genericName": "Nifedipine",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/3111/nifin-10-mg-sr-tablet"
+  },
+  {
+    "brandName": "Night Fresh",
+    "strength": "57.3%+42.5%+0.2%",
+    "genericName": "White soft paraffin + Liquid paraffin + Wool alcohol",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/26576/night-fresh-573-425-eye-ointment"
+  },
+  {
+    "brandName": "Nightus",
+    "strength": "3 mg",
+    "genericName": "Bromazepam",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/4260/nightus-3-mg-tablet"
+  },
+  {
+    "brandName": "Nikethamide",
+    "strength": "250 mg/ml",
+    "genericName": "Nikethamide",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/4162/nikethamide-250-mg-injection"
+  },
+  {
+    "brandName": "Nilcid",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/21942/nilcid-480-mg-suspension"
+  },
+  {
+    "brandName": "Nilfun",
+    "strength": "1%",
+    "genericName": "Clotrimazole (Topical)",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/19563/nilfun-1-cream"
+  },
+  {
+    "brandName": "Nilicon",
+    "strength": "2 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IV Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28100/nilicon-2-gm-injection"
+  },
+  {
+    "brandName": "Nilicon",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IV Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28101/nilicon-1-gm-injection"
+  },
+  {
+    "brandName": "Nilicon",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IV Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28102/nilicon-500-mg-injection"
+  },
+  {
+    "brandName": "Nilicon",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IV Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28103/nilicon-250-mg-injection"
+  },
+  {
+    "brandName": "Nilicon",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IM Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28104/nilicon-250-mg-injection"
+  },
+  {
+    "brandName": "Nilicon",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IM Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/32701/nilicon-500-mg-injection"
+  },
+  {
+    "brandName": "Nilicon",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IM Injection",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/32702/nilicon-1-gm-injection"
+  },
+  {
+    "brandName": "Nilkof",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "genericName": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 515,
+    "sourceUrl": "https://medex.com.bd/brands?page=515",
+    "detailUrl": "https://medex.com.bd/brands/28047/nilkof-10-mg-syrup"
+  }
+]

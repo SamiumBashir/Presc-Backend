@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Ciprozid-DS",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/9234/ciprozid-ds-500-mg-tablet"
+  },
+  {
+    "brandName": "Ciprozid-DX",
+    "strength": "0.3%+0.1%",
+    "genericName": "Ciprofloxacin + Dexamethasone",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/15825/ciprozid-dx-03-01-eye-drop"
+  },
+  {
+    "brandName": "Ciprozid-XR",
+    "strength": "1000 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/9236/ciprozid-xr-1000-mg-er-tablet"
+  },
+  {
+    "brandName": "Cipzin",
+    "strength": "5 mg/5 ml",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Seema Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/11947/cipzin-5-mg-syrup"
+  },
+  {
+    "brandName": "Cipzin",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Seema Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/11946/cipzin-10-mg-tablet"
+  },
+  {
+    "brandName": "Circle Cure Eye Cream",
+    "strength": null,
+    "genericName": "Miscellaneous Topical Agents",
+    "manufacturer": "DBL Healthcare Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/38311/circle-cure-eye-cream-cream"
+  },
+  {
+    "brandName": "Cirizin",
+    "strength": "5 mg/5 ml",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/11949/cirizin-5-mg-syrup"
+  },
+  {
+    "brandName": "Cirizin",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/11948/cirizin-10-mg-tablet"
+  },
+  {
+    "brandName": "Cisatracurium Hameln",
+    "strength": "10 mg/5 ml",
+    "genericName": "Cisatracurium Besylate",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/35701/cisatracurium-hameln-10-mg-injection"
+  },
+  {
+    "brandName": "Cisatracurium Hameln",
+    "strength": "5 mg/2.5 ml",
+    "genericName": "Cisatracurium Besylate",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/33989/cisatracurium-hameln-5-mg-injection"
+  },
+  {
+    "brandName": "Ciscort",
+    "strength": "50 mcg/spray",
+    "genericName": "Ciclesonide (Nasal Spray)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Nasal Spray",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/31215/ciscort-50-mcg-nasal-spray"
+  },
+  {
+    "brandName": "Cispenam",
+    "strength": "(250 mg+250 mg)/vial",
+    "genericName": "Imipenem + Cilastatin",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/8211/cispenam-250-mg-injection"
+  },
+  {
+    "brandName": "Cispenam",
+    "strength": "(500 mg+500 mg)/vial",
+    "genericName": "Imipenem + Cilastatin",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/8206/cispenam-500-mg-injection"
+  },
+  {
+    "brandName": "Cisplat",
+    "strength": "1 mg/ml",
+    "genericName": "Cisplatin",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/17286/cisplat-1-mg-injection"
+  },
+  {
+    "brandName": "Cisplatin",
+    "strength": "1 mg/ml",
+    "genericName": "Cisplatin",
+    "manufacturer": "Janata Traders",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/17327/cisplatin-1-mg-injection"
+  },
+  {
+    "brandName": "Cisplatin Hexal",
+    "strength": "1 mg/ml",
+    "genericName": "Cisplatin",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/15100/cisplatin-hexal-1-mg-injection"
+  },
+  {
+    "brandName": "Cisplatin PhaRes",
+    "strength": "1 mg/ml",
+    "genericName": "Cisplatin",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/17306/cisplatin-phares-1-mg-injection"
+  },
+  {
+    "brandName": "Cistor",
+    "strength": "1 mg/ml",
+    "genericName": "Cisplatin",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/34007/cistor-1-mg-injection"
+  },
+  {
+    "brandName": "Citalam",
+    "strength": "5 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4484/citalam-5-mg-tablet"
+  },
+  {
+    "brandName": "Citalam",
+    "strength": "10 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4485/citalam-10-mg-tablet"
+  },
+  {
+    "brandName": "Citalex",
+    "strength": "10 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4465/citalex-10-mg-tablet"
+  },
+  {
+    "brandName": "Citalex",
+    "strength": "5 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/19364/citalex-5-mg-tablet"
+  },
+  {
+    "brandName": "Citalon",
+    "strength": "5 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/19365/citalon-5-mg-tablet"
+  },
+  {
+    "brandName": "Citalon",
+    "strength": "10 mg",
+    "genericName": "Escitalopram Oxalate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4466/citalon-10-mg-tablet"
+  },
+  {
+    "brandName": "Citapram",
+    "strength": "10 mg",
+    "genericName": "Citalopram Hydrobromide",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4463/citapram-10-mg-tablet"
+  },
+  {
+    "brandName": "Citapram",
+    "strength": "20 mg",
+    "genericName": "Citalopram Hydrobromide",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4464/citapram-20-mg-tablet"
+  },
+  {
+    "brandName": "Citazar",
+    "strength": "250 mg",
+    "genericName": "Levetiracetam",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4929/citazar-250-mg-tablet"
+  },
+  {
+    "brandName": "Citazar",
+    "strength": "500 mg",
+    "genericName": "Levetiracetam",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/4930/citazar-500-mg-tablet"
+  },
+  {
+    "brandName": "Citazar",
+    "strength": "500 mg/5 ml",
+    "genericName": "Levetiracetam",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/37879/citazar-500-mg-injection"
+  },
+  {
+    "brandName": "Citazar",
+    "strength": "500 mg/5 ml",
+    "genericName": "Levetiracetam",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 156,
+    "sourceUrl": "https://medex.com.bd/brands?page=156",
+    "detailUrl": "https://medex.com.bd/brands/37880/citazar-500-mg-oral-solution"
+  }
+]

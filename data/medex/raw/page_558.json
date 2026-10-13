@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Ornova",
+    "strength": "10 mg",
+    "genericName": "Vonoprazan",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/34875/ornova-10-mg-tablet"
+  },
+  {
+    "brandName": "Ornova",
+    "strength": "20 mg",
+    "genericName": "Vonoprazan",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/34876/ornova-20-mg-tablet"
+  },
+  {
+    "brandName": "Ornys",
+    "strength": "100000 unit/ml",
+    "genericName": "Nystatin",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/9811/ornys-100000-unit-suspension"
+  },
+  {
+    "brandName": "Orobac",
+    "strength": "200 mg",
+    "genericName": "Cefditoren",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/33161/orobac-200-mg-tablet"
+  },
+  {
+    "brandName": "Orocal Kit",
+    "strength": "150 mg & 400 mg",
+    "genericName": "Ibandronic Acid & Calcium Orotate",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/26734/orocal-kit-150-mg-tablet"
+  },
+  {
+    "brandName": "Orocal Kit",
+    "strength": "150 mg & 740 mg",
+    "genericName": "Ibandronic Acid & Calcium Orotate",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/31084/orocal-kit-150-mg-tablet"
+  },
+  {
+    "brandName": "Orocare",
+    "strength": "2% w/w",
+    "genericName": "Miconazole Nitrate",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Oral Gel",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/10018/orocare-2-w-oral-gel"
+  },
+  {
+    "brandName": "Oroclean Cool Mint",
+    "strength": null,
+    "genericName": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/12885/oroclean-cool-mint-mouthwash"
+  },
+  {
+    "brandName": "Oroclean Original",
+    "strength": null,
+    "genericName": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/12886/oroclean-original-mouthwash"
+  },
+  {
+    "brandName": "Oroconazol",
+    "strength": "2% w/w",
+    "genericName": "Miconazole Nitrate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Gel",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/10019/oroconazol-2-w-oral-gel"
+  },
+  {
+    "brandName": "Orocure",
+    "strength": "67 mg/ml",
+    "genericName": "Simethicone",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/1303/orocure-67-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Orofer",
+    "strength": null,
+    "genericName": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/400/orofer-syrup"
+  },
+  {
+    "brandName": "Orofer",
+    "strength": "47 mg+0.5 mg+22.5 mg",
+    "genericName": "Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/16548/orofer-47-mg-tablet"
+  },
+  {
+    "brandName": "OROFeR-M",
+    "strength": "30 mg",
+    "genericName": "Ferric Maltol",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/37847/orofer-m-30-mg-capsule"
+  },
+  {
+    "brandName": "Orofit",
+    "strength": "0.15% + 0.12%",
+    "genericName": "Benzydamine + Chlorhexidine gluconate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/36500/orofit-015-mouthwash"
+  },
+  {
+    "brandName": "Orofresh OS",
+    "strength": "5%+1%",
+    "genericName": "Rhubarb Extract + Salicylic Acid",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/10850/orofresh-os-5-1-oral-solution"
+  },
+  {
+    "brandName": "Orogurd",
+    "strength": "2% w/w",
+    "genericName": "Miconazole Nitrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Gel",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/10020/orogurd-2-w-oral-gel"
+  },
+  {
+    "brandName": "Oromax",
+    "strength": "2% w/w",
+    "genericName": "Miconazole Nitrate",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Gel",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/29439/oromax-2-w-oral-gel"
+  },
+  {
+    "brandName": "Oropem",
+    "strength": "1 gm/vial",
+    "genericName": "Meropenem Trihydrate",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/22075/oropem-1-gm-iv-injection"
+  },
+  {
+    "brandName": "Ororinse",
+    "strength": "0.2%",
+    "genericName": "Chlorhexidine Gluconate [0.2%]",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/30217/ororinse-02-mouthwash"
+  },
+  {
+    "brandName": "Orostar Cool Mint",
+    "strength": null,
+    "genericName": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/12887/orostar-cool-mint-mouthwash"
+  },
+  {
+    "brandName": "Orostar Original",
+    "strength": null,
+    "genericName": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/12888/orostar-original-mouthwash"
+  },
+  {
+    "brandName": "Orostar Plus",
+    "strength": null,
+    "genericName": "Eucalyptol + Menthol + Methyl Salicylate + Thymol + Sodium Fluoride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/16495/orostar-plus-mouthwash"
+  },
+  {
+    "brandName": "Orotifen",
+    "strength": "1 mg",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/15967/orotifen-1-mg-tablet"
+  },
+  {
+    "brandName": "Orotifen",
+    "strength": "1 mg/5 ml",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/15968/orotifen-1-mg-syrup"
+  },
+  {
+    "brandName": "Oroxat",
+    "strength": "20 mg",
+    "genericName": "Roxadustat",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/34313/oroxat-20-mg-tablet"
+  },
+  {
+    "brandName": "Oroxat",
+    "strength": "50 mg",
+    "genericName": "Roxadustat",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/34314/oroxat-50-mg-tablet"
+  },
+  {
+    "brandName": "Oroxat",
+    "strength": "100 mg",
+    "genericName": "Roxadustat",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/34315/oroxat-100-mg-tablet"
+  },
+  {
+    "brandName": "Oroxat",
+    "strength": "70 mg",
+    "genericName": "Roxadustat",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/35642/oroxat-70-mg-tablet"
+  },
+  {
+    "brandName": "Orozole",
+    "strength": "400 mg",
+    "genericName": "Metronidazole",
+    "manufacturer": "Quality Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 558,
+    "sourceUrl": "https://medex.com.bd/brands?page=558",
+    "detailUrl": "https://medex.com.bd/brands/22424/orozole-400-mg-tablet"
+  }
+]

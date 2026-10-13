@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Kofen",
+    "strength": "0.025%",
+    "genericName": "Ketotifen Fumarate (Ophthalmic)",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/21296/kofen-0025-eye-drop"
+  },
+  {
+    "brandName": "Kofmelt",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "SMC Enterprise Ltd",
+    "dosageForm": "Syrup",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/37416/kofmelt-15-mg-syrup"
+  },
+  {
+    "brandName": "Kofnix",
+    "strength": "7.5 mg/5 ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/18415/kofnix-75-mg-syrup"
+  },
+  {
+    "brandName": "Kofnix",
+    "strength": "5 mg/ml",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/26360/kofnix-5-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Kofnix SR",
+    "strength": "50 mg",
+    "genericName": "Butamirate Citrate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/3972/kofnix-sr-50-mg-sr-tablet"
+  },
+  {
+    "brandName": "Kofstar",
+    "strength": "(20 mg+10 mg+2.5 mg)/5 ml",
+    "genericName": "Dextromethorphan + Phenylephrine + Triprolidine",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/33194/kofstar-20-mg-syrup"
+  },
+  {
+    "brandName": "Koftex",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "genericName": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/4149/koftex-30-mg-syrup"
+  },
+  {
+    "brandName": "Koftex-D",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "genericName": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/4019/koftex-d-10-mg-syrup"
+  },
+  {
+    "brandName": "Kolchin",
+    "strength": "0.5 mg",
+    "genericName": "Colchicine",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/11676/kolchin-05-mg-tablet"
+  },
+  {
+    "brandName": "Kolchin",
+    "strength": "0.6 mg",
+    "genericName": "Colchicine",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/11677/kolchin-06-mg-tablet"
+  },
+  {
+    "brandName": "Koloride",
+    "strength": null,
+    "genericName": "Cholera Saline",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/14888/koloride-injection"
+  },
+  {
+    "brandName": "Kolosal",
+    "strength": null,
+    "genericName": "Cholera Saline",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/14889/kolosal-injection"
+  },
+  {
+    "brandName": "Kona",
+    "strength": "2%",
+    "genericName": "Ketoconazole",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Shampoo",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/37062/kona-2-shampoo"
+  },
+  {
+    "brandName": "Konabiz",
+    "strength": "2%",
+    "genericName": "Ketoconazole",
+    "manufacturer": "Health Pro International",
+    "dosageForm": "Shampoo",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/37711/konabiz-2-shampoo"
+  },
+  {
+    "brandName": "Konakion",
+    "strength": "2 mg/0.2 ml",
+    "genericName": "Phytomenadione (Injection)",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/3303/konakion-2-mg-injection"
+  },
+  {
+    "brandName": "Konakion",
+    "strength": "10 mg/ml",
+    "genericName": "Phytomenadione (Injection)",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/3304/konakion-10-mg-injection"
+  },
+  {
+    "brandName": "Konaz Shampoo",
+    "strength": "2%",
+    "genericName": "Ketoconazole",
+    "manufacturer": "Wellcare Nutriscience Ltd.",
+    "dosageForm": "Shampoo",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/37703/konaz-shampoo-2-shampoo"
+  },
+  {
+    "brandName": "Koolmint",
+    "strength": "30%+8%",
+    "genericName": "Methyl Salicylate + Menthol",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/27050/koolmint-30-8-cream"
+  },
+  {
+    "brandName": "Koolmint",
+    "strength": "15%+10%",
+    "genericName": "Methyl Salicylate + Menthol",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/29494/koolmint-15-10-cream"
+  },
+  {
+    "brandName": "Kop SR",
+    "strength": "100 mg",
+    "genericName": "Ketoprofen",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule (Sustained Release)",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/11354/kop-sr-100-mg-sr-capsule"
+  },
+  {
+    "brandName": "Korac",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/36385/korac-30-mg-injection"
+  },
+  {
+    "brandName": "Koreg",
+    "strength": "25 mg",
+    "genericName": "Carvedilol",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/30727/koreg-25-mg-tablet"
+  },
+  {
+    "brandName": "Koreg",
+    "strength": "6.25 mg",
+    "genericName": "Carvedilol",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/2543/koreg-625-mg-tablet"
+  },
+  {
+    "brandName": "Koreg",
+    "strength": "12.5 mg",
+    "genericName": "Carvedilol",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/2544/koreg-125-mg-tablet"
+  },
+  {
+    "brandName": "Korola",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/32534/korola-10-mg-tablet"
+  },
+  {
+    "brandName": "Korola",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/32535/korola-30-mg-injection"
+  },
+  {
+    "brandName": "Kovicin",
+    "strength": "200 mg",
+    "genericName": "Hydroxychloroquine Sulphate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/29401/kovicin-200-mg-tablet"
+  },
+  {
+    "brandName": "Kovlon",
+    "strength": "1%",
+    "genericName": "Benzalkonium chloride",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Hand Rub",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/28955/kovlon-1-hand-rub"
+  },
+  {
+    "brandName": "Kpam",
+    "strength": "3 mg",
+    "genericName": "Bromazepam",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/4252/kpam-3-mg-tablet"
+  },
+  {
+    "brandName": "KPR",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Central Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 400,
+    "sourceUrl": "https://medex.com.bd/brands?page=400",
+    "detailUrl": "https://medex.com.bd/brands/15350/kpr-10-mg-tablet"
+  }
+]

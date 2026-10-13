@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Losacard HZ",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2953/losacard-hz-50-mg-tablet"
+  },
+  {
+    "brandName": "Losacor",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2732/losacor-50-mg-tablet"
+  },
+  {
+    "brandName": "Losacor Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2954/losacor-plus-50-mg-tablet"
+  },
+  {
+    "brandName": "Losamax",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/21870/losamax-50-mg-tablet"
+  },
+  {
+    "brandName": "Losamax-H",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/21899/losamax-h-50-mg-tablet"
+  },
+  {
+    "brandName": "Losan",
+    "strength": "25 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2733/losan-25-mg-tablet"
+  },
+  {
+    "brandName": "Losan",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2734/losan-50-mg-tablet"
+  },
+  {
+    "brandName": "Losan Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2955/losan-plus-50-mg-tablet"
+  },
+  {
+    "brandName": "Losanil",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/27265/losanil-50-mg-tablet"
+  },
+  {
+    "brandName": "Losap",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Doctor’s Chemical Works Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2735/losap-50-mg-tablet"
+  },
+  {
+    "brandName": "Losapot",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/27790/losapot-50-mg-tablet"
+  },
+  {
+    "brandName": "Losapot Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/27791/losapot-plus-50-mg-tablet"
+  },
+  {
+    "brandName": "Losapot Plus",
+    "strength": "100 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/33776/losapot-plus-100-mg-tablet"
+  },
+  {
+    "brandName": "Losapress",
+    "strength": "25 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/21826/losapress-25-mg-tablet"
+  },
+  {
+    "brandName": "Losapress",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/21827/losapress-50-mg-tablet"
+  },
+  {
+    "brandName": "Losar",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2736/losar-50-mg-tablet"
+  },
+  {
+    "brandName": "Losarcar",
+    "strength": "25 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2737/losarcar-25-mg-tablet"
+  },
+  {
+    "brandName": "Losarcar",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2738/losarcar-50-mg-tablet"
+  },
+  {
+    "brandName": "Losarcar Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/21887/losarcar-plus-50-mg-tablet"
+  },
+  {
+    "brandName": "Losardil",
+    "strength": "25 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2739/losardil-25-mg-tablet"
+  },
+  {
+    "brandName": "Losardil",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2740/losardil-50-mg-tablet"
+  },
+  {
+    "brandName": "Losardil",
+    "strength": "100 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2741/losardil-100-mg-tablet"
+  },
+  {
+    "brandName": "Losardil 100/12.5",
+    "strength": "100 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2958/losardil-100125-100-mg-tablet"
+  },
+  {
+    "brandName": "Losardil 100/25",
+    "strength": "100 mg+25 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2959/losardil-10025-100-mg-tablet"
+  },
+  {
+    "brandName": "Losardil 25/12.5",
+    "strength": "25 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2956/losardil-25125-25-mg-tablet"
+  },
+  {
+    "brandName": "Losardil 50/12.5",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2957/losardil-50125-50-mg-tablet"
+  },
+  {
+    "brandName": "Losark",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/32538/losark-50-mg-tablet"
+  },
+  {
+    "brandName": "Losaron",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2742/losaron-50-mg-tablet"
+  },
+  {
+    "brandName": "Losarpex",
+    "strength": "50 mg",
+    "genericName": "Losartan Potassium",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/2744/losarpex-50-mg-tablet"
+  },
+  {
+    "brandName": "Losarpex Plus",
+    "strength": "50 mg+12.5 mg",
+    "genericName": "Losartan Potassium + Hydrochlorothiazide",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 432,
+    "sourceUrl": "https://medex.com.bd/brands?page=432",
+    "detailUrl": "https://medex.com.bd/brands/21877/losarpex-plus-50-mg-tablet"
+  }
+]

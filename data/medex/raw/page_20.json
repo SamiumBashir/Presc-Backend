@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Alaclov",
+    "strength": "500 mg",
+    "genericName": "Valacyclovir",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/9715/alaclov-500-mg-tablet"
+  },
+  {
+    "brandName": "Alacot",
+    "strength": "0.1%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/15972/alacot-01-eye-drop"
+  },
+  {
+    "brandName": "Alacot DS",
+    "strength": "0.2%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/15973/alacot-ds-02-eye-drop"
+  },
+  {
+    "brandName": "Alacot Max",
+    "strength": "0.7%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/27495/alacot-max-07-eye-drop"
+  },
+  {
+    "brandName": "Aladay",
+    "strength": "0.1%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/15974/aladay-01-eye-drop"
+  },
+  {
+    "brandName": "Aladay DS",
+    "strength": "0.2%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/15975/aladay-ds-02-eye-drop"
+  },
+  {
+    "brandName": "Aladay Max",
+    "strength": "0.7%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/29404/aladay-max-07-eye-drop"
+  },
+  {
+    "brandName": "Aladin",
+    "strength": "10 mg",
+    "genericName": "Rupatadine Fumarate",
+    "manufacturer": "Ad-din Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/34731/aladin-10-mg-tablet"
+  },
+  {
+    "brandName": "Alafix",
+    "strength": "1 mg/5 ml",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/36130/alafix-1-mg-syrup"
+  },
+  {
+    "brandName": "Alafree",
+    "strength": "120 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12055/alafree-120-mg-tablet"
+  },
+  {
+    "brandName": "Alafree",
+    "strength": "30 mg/5 ml",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/20332/alafree-30-mg-suspension"
+  },
+  {
+    "brandName": "Alagra",
+    "strength": "120 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12059/alagra-120-mg-tablet"
+  },
+  {
+    "brandName": "Alagra",
+    "strength": "180 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12060/alagra-180-mg-tablet"
+  },
+  {
+    "brandName": "Alagra",
+    "strength": "30 mg/5 ml",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12061/alagra-30-mg-suspension"
+  },
+  {
+    "brandName": "Alagra",
+    "strength": "60 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/27838/alagra-60-mg-tablet"
+  },
+  {
+    "brandName": "Alanil",
+    "strength": "120 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12062/alanil-120-mg-tablet"
+  },
+  {
+    "brandName": "Alanil",
+    "strength": "180 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12063/alanil-180-mg-tablet"
+  },
+  {
+    "brandName": "Alanil",
+    "strength": "30 mg/5 ml",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12064/alanil-30-mg-suspension"
+  },
+  {
+    "brandName": "Alaradate",
+    "strength": "10 mg",
+    "genericName": "Methylphenidate Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/37864/alaradate-10-mg-tablet"
+  },
+  {
+    "brandName": "Alargol",
+    "strength": "5 mg/5 ml",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/19143/alargol-5-mg-syrup"
+  },
+  {
+    "brandName": "Alargol",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/19144/alargol-10-mg-tablet"
+  },
+  {
+    "brandName": "Alarid",
+    "strength": "1 mg",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/3711/alarid-1-mg-tablet"
+  },
+  {
+    "brandName": "Alarid",
+    "strength": "1 mg/5 ml",
+    "genericName": "Ketotifen Fumarate (Oral)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/3712/alarid-1-mg-syrup"
+  },
+  {
+    "brandName": "Alarid",
+    "strength": "0.025%",
+    "genericName": "Ketotifen Fumarate (Ophthalmic)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/15944/alarid-0025-eye-drop"
+  },
+  {
+    "brandName": "Alaron",
+    "strength": "10 mg",
+    "genericName": "Loratadine",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12185/alaron-10-mg-tablet"
+  },
+  {
+    "brandName": "Alaron",
+    "strength": "5 mg/5 ml",
+    "genericName": "Loratadine",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/32197/alaron-5-mg-suspension"
+  },
+  {
+    "brandName": "Alartn",
+    "strength": "5 mg/5 ml",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Alkad Laboratories",
+    "dosageForm": "Syrup",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/19129/alartn-5-mg-syrup"
+  },
+  {
+    "brandName": "Alarup",
+    "strength": "10 mg",
+    "genericName": "Rupatadine Fumarate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12905/alarup-10-mg-tablet"
+  },
+  {
+    "brandName": "Alarzil",
+    "strength": "22.7 mg",
+    "genericName": "Pheniramine Maleate",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/37635/alarzil-227-mg-tablet"
+  },
+  {
+    "brandName": "Alat",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Premier Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 20,
+    "sourceUrl": "https://medex.com.bd/brands?page=20",
+    "detailUrl": "https://medex.com.bd/brands/12008/alat-10-mg-tablet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Taxim",
+    "strength": "500 mg/10 ml",
+    "genericName": "Cefotaxime",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/7724/taxim-500-mg-injection"
+  },
+  {
+    "brandName": "Taxim",
+    "strength": "1 gm/10 ml",
+    "genericName": "Cefotaxime",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/7725/taxim-1-gm-injection"
+  },
+  {
+    "brandName": "Taxodoc",
+    "strength": "20 mg/vial",
+    "genericName": "Docetaxel Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/34916/taxodoc-20-mg-injection"
+  },
+  {
+    "brandName": "Taxodoc",
+    "strength": "80 mg/vial",
+    "genericName": "Docetaxel Trihydrate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/34917/taxodoc-80-mg-injection"
+  },
+  {
+    "brandName": "Taxopac",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/34915/taxopac-6-mg-injection"
+  },
+  {
+    "brandName": "Taxotere",
+    "strength": "80 mg/vial",
+    "genericName": "Docetaxel Trihydrate",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/26687/taxotere-80-mg-injection"
+  },
+  {
+    "brandName": "Taxotere",
+    "strength": "20 mg/vial",
+    "genericName": "Docetaxel Trihydrate",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/15107/taxotere-20-mg-injection"
+  },
+  {
+    "brandName": "Taziaid",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/18940/taziaid-500-mg-injection"
+  },
+  {
+    "brandName": "Taziaid",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/28694/taziaid-1-gm-injection"
+  },
+  {
+    "brandName": "Taziaid",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/28695/taziaid-250-mg-injection"
+  },
+  {
+    "brandName": "Tazid",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/7883/tazid-250-mg-injection"
+  },
+  {
+    "brandName": "Tazid",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/7884/tazid-500-mg-injection"
+  },
+  {
+    "brandName": "Tazid",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/7885/tazid-1-gm-injection"
+  },
+  {
+    "brandName": "Tazimax",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/7908/tazimax-1-gm-injection"
+  },
+  {
+    "brandName": "Tazimax",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/7909/tazimax-250-mg-injection"
+  },
+  {
+    "brandName": "Tazobac",
+    "strength": "(2 gm+0.25 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/6679/tazobac-2-gm-injection"
+  },
+  {
+    "brandName": "Tazobac",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/6680/tazobac-4-gm-injection"
+  },
+  {
+    "brandName": "Tazocilin",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/6677/tazocilin-4-gm-injection"
+  },
+  {
+    "brandName": "Tazocilin",
+    "strength": "(2 gm+0.25 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/31221/tazocilin-2-gm-injection"
+  },
+  {
+    "brandName": "Tazocin",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/30875/tazocin-4-gm-injection"
+  },
+  {
+    "brandName": "Tazofort",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/39412/tazofort-4-gm-injection"
+  },
+  {
+    "brandName": "Tazofort",
+    "strength": "(2 gm+0.25 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/39413/tazofort-2-gm-injection"
+  },
+  {
+    "brandName": "Tazopen",
+    "strength": "(2 gm+0.25 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/28288/tazopen-2-gm-injection"
+  },
+  {
+    "brandName": "Tazopen",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "genericName": "Piperacillin + Tazobactam",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/6678/tazopen-4-gm-injection"
+  },
+  {
+    "brandName": "Tazoskin",
+    "strength": "0.1%",
+    "genericName": "Tazarotene",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/12738/tazoskin-01-cream"
+  },
+  {
+    "brandName": "Tazox",
+    "strength": "500 mg",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/2334/tazox-500-mg-tablet"
+  },
+  {
+    "brandName": "Tazox",
+    "strength": "100 mg/5 ml",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/2335/tazox-100-mg-suspension"
+  },
+  {
+    "brandName": "Tazumab",
+    "strength": "150 mg/7.4 ml",
+    "genericName": "Trastuzumab",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/39497/tazumab-150-mg-injection"
+  },
+  {
+    "brandName": "Tazumab",
+    "strength": "440 mg/20 ml",
+    "genericName": "Trastuzumab",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/31169/tazumab-440-mg-injection"
+  },
+  {
+    "brandName": "TBfin",
+    "strength": "250 mg",
+    "genericName": "Terbinafine Hydrochloride",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 729,
+    "sourceUrl": "https://medex.com.bd/brands?page=729",
+    "detailUrl": "https://medex.com.bd/brands/37930/tbfin-250-mg-tablet"
+  }
+]

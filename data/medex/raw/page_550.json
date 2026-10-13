@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Opsovit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/13809/opsovit-5-mg-tablet"
+  },
+  {
+    "brandName": "Opsovit",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/13810/opsovit-5-mg-syrup"
+  },
+  {
+    "brandName": "Opsovit",
+    "strength": "(50 mg+5.48 mg+100 mg+5 mg+10 mg)/2 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/13811/opsovit-50-mg-injection"
+  },
+  {
+    "brandName": "Opsovit C",
+    "strength": null,
+    "genericName": "Vitamin B complex + Vitamin C",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/14215/opsovit-c-capsule"
+  },
+  {
+    "brandName": "Opsovit MM",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/14217/opsovit-mm-tablet"
+  },
+  {
+    "brandName": "Opsovit Z",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/14691/opsovit-z-tablet"
+  },
+  {
+    "brandName": "Opsovit Z",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/14692/opsovit-z-syrup"
+  },
+  {
+    "brandName": "Opsovit ZI",
+    "strength": null,
+    "genericName": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/13376/opsovit-zi-syrup"
+  },
+  {
+    "brandName": "OPT",
+    "strength": "0.7%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "UNIDO Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/36597/opt-07-eye-drop"
+  },
+  {
+    "brandName": "Optabac",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/8901/optabac-05-eye-drop"
+  },
+  {
+    "brandName": "Optacarpine",
+    "strength": "2%",
+    "genericName": "Pilocarpine Hydrochloride (Ophthalmic)",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/16074/optacarpine-2-eye-drop"
+  },
+  {
+    "brandName": "Optacid",
+    "strength": "20%",
+    "genericName": "Sulfacetamide sodium",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/1272/optacid-20-eye-drop"
+  },
+  {
+    "brandName": "Optacrom",
+    "strength": "2%",
+    "genericName": "Sodium Cromoglicate [2%]",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/3700/optacrom-2-eye-drop"
+  },
+  {
+    "brandName": "Optadex",
+    "strength": "0.1%+0.5%",
+    "genericName": "Dexamethasone + Chloramphenicol",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/15809/optadex-01-05-eye-drop"
+  },
+  {
+    "brandName": "Optadin",
+    "strength": "0.1%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/15990/optadin-01-eye-drop"
+  },
+  {
+    "brandName": "Optadin-DS",
+    "strength": "0.2%",
+    "genericName": "Olopatadine Hydrochloride",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/22989/optadin-ds-02-eye-drop"
+  },
+  {
+    "brandName": "Optafenac",
+    "strength": "0.1%",
+    "genericName": "Nepafenac",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/1152/optafenac-01-suspension"
+  },
+  {
+    "brandName": "Optafenac TS",
+    "strength": "0.3%",
+    "genericName": "Nepafenac",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/1153/optafenac-ts-03-suspension"
+  },
+  {
+    "brandName": "Optafresh",
+    "strength": "0.2%+0.2%",
+    "genericName": "Dextran + Hypromellose",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/16136/optafresh-02-02-eye-drop"
+  },
+  {
+    "brandName": "Optagel",
+    "strength": "2%",
+    "genericName": "Hydroxypropyl Methylcellulose",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Viscoelastic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/16151/optagel-2-viscoelastic-solution"
+  },
+  {
+    "brandName": "Optagold",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/16200/optagold-60-mg-capsule"
+  },
+  {
+    "brandName": "Optaloc",
+    "strength": "0.5%",
+    "genericName": "Betaxolol Hydrochloride",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/16052/optaloc-05-eye-drop"
+  },
+  {
+    "brandName": "Optaphenicol",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/8902/optaphenicol-05-eye-drop"
+  },
+  {
+    "brandName": "Optaphenicol",
+    "strength": "1%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/8903/optaphenicol-1-eye-ointment"
+  },
+  {
+    "brandName": "Optaprost",
+    "strength": "0.004%",
+    "genericName": "Travoprost",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/34117/optaprost-0004-eye-drop"
+  },
+  {
+    "brandName": "Optavit",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/16201/optavit-60-mg-capsule"
+  },
+  {
+    "brandName": "Optear",
+    "strength": "5% v/v",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/16177/optear-5-v-eye-drop"
+  },
+  {
+    "brandName": "Opthacol",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/8904/opthacol-05-eye-drop"
+  },
+  {
+    "brandName": "Opthaflox",
+    "strength": "0.3%",
+    "genericName": "Lomefloxacin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/9603/opthaflox-03-eye-drop"
+  },
+  {
+    "brandName": "Opthalev TS",
+    "strength": "1.5%",
+    "genericName": "Levofloxacin (Eye/Ear)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 550,
+    "sourceUrl": "https://medex.com.bd/brands?page=550",
+    "detailUrl": "https://medex.com.bd/brands/35746/opthalev-ts-15-eye-drop"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Glica",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Modern Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5235/glica-80-mg-tablet"
+  },
+  {
+    "brandName": "Glicana",
+    "strength": "100 mg",
+    "genericName": "Canagliflozin Hemihydrate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/18514/glicana-100-mg-tablet"
+  },
+  {
+    "brandName": "Glicasil",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5236/glicasil-80-mg-tablet"
+  },
+  {
+    "brandName": "Gliclid",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5237/gliclid-80-mg-tablet"
+  },
+  {
+    "brandName": "Gliclid MR",
+    "strength": "30 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/20656/gliclid-mr-30-mg-mr-tablet"
+  },
+  {
+    "brandName": "Gliclid MR",
+    "strength": "60 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/28265/gliclid-mr-60-mg-mr-tablet"
+  },
+  {
+    "brandName": "Glicron",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5238/glicron-80-mg-tablet"
+  },
+  {
+    "brandName": "Glicron CR",
+    "strength": "30 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Capsule (Controlled Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5239/glicron-cr-30-mg-cr-capsule"
+  },
+  {
+    "brandName": "Glifo",
+    "strength": "10 mg",
+    "genericName": "Empagliflozin",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/26512/glifo-10-mg-tablet"
+  },
+  {
+    "brandName": "Glifo",
+    "strength": "25 mg",
+    "genericName": "Empagliflozin",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/26513/glifo-25-mg-tablet"
+  },
+  {
+    "brandName": "Glifo-M",
+    "strength": "5 mg+500 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/29307/glifo-m-5-mg-tablet"
+  },
+  {
+    "brandName": "Glifo-M",
+    "strength": "12.5 mg+500 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/35055/glifo-m-125-mg-tablet"
+  },
+  {
+    "brandName": "Glifo-M XR",
+    "strength": "10 mg+1000 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/35056/glifo-m-xr-10-mg-er-tablet"
+  },
+  {
+    "brandName": "Glifo-M XR",
+    "strength": "25 mg+1000 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/35057/glifo-m-xr-25-mg-er-tablet"
+  },
+  {
+    "brandName": "Glifo-M XR",
+    "strength": "5 mg+1000 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/35986/glifo-m-xr-5-mg-er-tablet"
+  },
+  {
+    "brandName": "Glifomet",
+    "strength": "5 mg+500 mg",
+    "genericName": "Empagliflozin + Metformin Hydrochloride",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/30908/glifomet-5-mg-tablet"
+  },
+  {
+    "brandName": "Glikazid",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/20674/glikazid-80-mg-tablet"
+  },
+  {
+    "brandName": "Glikazid MR",
+    "strength": "30 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/26756/glikazid-mr-30-mg-mr-tablet"
+  },
+  {
+    "brandName": "Glikazid MR",
+    "strength": "60 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5271/glikazid-mr-60-mg-mr-tablet"
+  },
+  {
+    "brandName": "Glimerol",
+    "strength": "5 mg",
+    "genericName": "Glipizide",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5353/glimerol-5-mg-tablet"
+  },
+  {
+    "brandName": "Glimet",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5381/glimet-850-mg-tablet"
+  },
+  {
+    "brandName": "Glimet",
+    "strength": "1 mg",
+    "genericName": "Repaglinide",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5542/glimet-1-mg-tablet"
+  },
+  {
+    "brandName": "Glimicron",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5240/glimicron-80-mg-tablet"
+  },
+  {
+    "brandName": "Glimicron MR",
+    "strength": "30 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/27920/glimicron-mr-30-mg-mr-tablet"
+  },
+  {
+    "brandName": "Glimicron MR",
+    "strength": "60 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/27921/glimicron-mr-60-mg-mr-tablet"
+  },
+  {
+    "brandName": "Glimirid",
+    "strength": "1 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5300/glimirid-1-mg-tablet"
+  },
+  {
+    "brandName": "Glimirid",
+    "strength": "2 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5301/glimirid-2-mg-tablet"
+  },
+  {
+    "brandName": "Glimirid",
+    "strength": "3 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5302/glimirid-3-mg-tablet"
+  },
+  {
+    "brandName": "Glimirid",
+    "strength": "4 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/5303/glimirid-4-mg-tablet"
+  },
+  {
+    "brandName": "Glimitus",
+    "strength": "1 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 345,
+    "sourceUrl": "https://medex.com.bd/brands?page=345",
+    "detailUrl": "https://medex.com.bd/brands/31067/glimitus-1-mg-tablet"
+  }
+]

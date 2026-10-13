@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Beloxin",
+    "strength": "500 mg",
+    "genericName": "Levofloxacin Hemihydrate",
+    "manufacturer": "Belsen Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/9540/beloxin-500-mg-tablet"
+  },
+  {
+    "brandName": "Belsar",
+    "strength": "20 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/30349/belsar-20-mg-tablet"
+  },
+  {
+    "brandName": "Belsar",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/30350/belsar-40-mg-tablet"
+  },
+  {
+    "brandName": "Belsar",
+    "strength": "10 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/33531/belsar-10-mg-tablet"
+  },
+  {
+    "brandName": "Belsar Plus",
+    "strength": "40 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/36784/belsar-plus-40-mg-tablet"
+  },
+  {
+    "brandName": "Belsar Plus",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/36783/belsar-plus-20-mg-tablet"
+  },
+  {
+    "brandName": "Belsar-M",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/33402/belsar-m-5-mg-tablet"
+  },
+  {
+    "brandName": "Belsar-M",
+    "strength": "5 mg+40 mg",
+    "genericName": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/33403/belsar-m-5-mg-tablet"
+  },
+  {
+    "brandName": "Beltas",
+    "strength": "12.5 mg/5 ml",
+    "genericName": "Bilastine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/36419/beltas-125-mg-oral-solution"
+  },
+  {
+    "brandName": "Beltas",
+    "strength": "20 mg",
+    "genericName": "Bilastine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/36417/beltas-20-mg-tablet"
+  },
+  {
+    "brandName": "Beltas Kids",
+    "strength": "10 mg",
+    "genericName": "Bilastine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/36418/beltas-kids-10-mg-tablet"
+  },
+  {
+    "brandName": "Bemodic",
+    "strength": "180 mg",
+    "genericName": "Bempedoic acid",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/37475/bemodic-180-mg-tablet"
+  },
+  {
+    "brandName": "Bempid",
+    "strength": "180 mg",
+    "genericName": "Bempedoic acid",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/31395/bempid-180-mg-tablet"
+  },
+  {
+    "brandName": "Bemsivir",
+    "strength": "5 mg/ml",
+    "genericName": "Remdesivir",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/28402/bemsivir-5-mg-injection"
+  },
+  {
+    "brandName": "Bemvas",
+    "strength": "180 mg",
+    "genericName": "Bempedoic acid",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/32625/bemvas-180-mg-tablet"
+  },
+  {
+    "brandName": "Ben-A",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/297/ben-a-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Ben-A",
+    "strength": "200 mg/5 ml",
+    "genericName": "Albendazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/298/ben-a-200-mg-suspension"
+  },
+  {
+    "brandName": "Ben-Kof",
+    "strength": "(20 mg+10 mg+2.5 mg)/5 ml",
+    "genericName": "Dextromethorphan + Phenylephrine + Triprolidine",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/23953/ben-kof-20-mg-syrup"
+  },
+  {
+    "brandName": "Bena-Flu",
+    "strength": "10 mg/5 ml",
+    "genericName": "Diphenhydramine Hydrochloride",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/11871/bena-flu-10-mg-syrup"
+  },
+  {
+    "brandName": "Benadip",
+    "strength": "5 mg+10 mg",
+    "genericName": "Amlodipine Besilate + Benazepril Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/3070/benadip-5-mg-capsule"
+  },
+  {
+    "brandName": "Benadip",
+    "strength": "10 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Benazepril Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/30579/benadip-10-mg-capsule"
+  },
+  {
+    "brandName": "Benadip",
+    "strength": "5 mg+20 mg",
+    "genericName": "Amlodipine Besilate + Benazepril Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/30580/benadip-5-mg-capsule"
+  },
+  {
+    "brandName": "Benadip",
+    "strength": "2.5 mg+10 mg",
+    "genericName": "Amlodipine Besilate + Benazepril Hydrochloride",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/30581/benadip-25-mg-capsule"
+  },
+  {
+    "brandName": "Benalgin",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/23400/benalgin-120-mg-suspension"
+  },
+  {
+    "brandName": "Benalgin Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/10637/benalgin-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Benalgin XR",
+    "strength": "665 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/23401/benalgin-xr-665-mg-er-tablet"
+  },
+  {
+    "brandName": "Benazin",
+    "strength": "25 mg",
+    "genericName": "Tetrabenazine",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/32357/benazin-25-mg-tablet"
+  },
+  {
+    "brandName": "Benazin",
+    "strength": "12.5 mg",
+    "genericName": "Tetrabenazine",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/32358/benazin-125-mg-tablet"
+  },
+  {
+    "brandName": "Bencart",
+    "strength": "250 mg+200 mg",
+    "genericName": "Glucosamine Sulfate + Chondroitin",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/20750/bencart-250-mg-tablet"
+  },
+  {
+    "brandName": "Benda DS",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Bristol Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 86,
+    "sourceUrl": "https://medex.com.bd/brands?page=86",
+    "detailUrl": "https://medex.com.bd/brands/299/benda-ds-400-mg-chewable-tablet"
+  }
+]

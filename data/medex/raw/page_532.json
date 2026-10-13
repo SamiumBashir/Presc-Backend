@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Oclazid MR",
+    "strength": "30 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet (Modified Release)",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/5254/oclazid-mr-30-mg-mr-tablet"
+  },
+  {
+    "brandName": "Oclube",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/23701/oclube-04-03-eye-drop"
+  },
+  {
+    "brandName": "Ocluma",
+    "strength": "0.2%+0.5%",
+    "genericName": "Brimonidine Tartrate + Timolol Maleate",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/35314/ocluma-02-05-eye-drop"
+  },
+  {
+    "brandName": "Ocluma B",
+    "strength": "1%+0.2%",
+    "genericName": "Brinzolamide + Brimonidine Tartrate",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/28576/ocluma-b-1-02-suspension"
+  },
+  {
+    "brandName": "Ocof",
+    "strength": "(20 mg+10 mg+2.5 mg)/5 ml",
+    "genericName": "Dextromethorphan + Phenylephrine + Triprolidine",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/23955/ocof-20-mg-syrup"
+  },
+  {
+    "brandName": "Ocoral D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Coral Calcium + Vitamin D3",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/33193/ocoral-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Ocoral DX",
+    "strength": "600 mg+400 IU",
+    "genericName": "Coral Calcium + Vitamin D3",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/27165/ocoral-dx-600-mg-tablet"
+  },
+  {
+    "brandName": "Ocrevus",
+    "strength": "300 mg/10 ml",
+    "genericName": "Ocrelizumab",
+    "manufacturer": "Roche Bangladesh Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/37527/ocrevus-300-mg-injection"
+  },
+  {
+    "brandName": "Octabid",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/9317/octabid-500-mg-tablet"
+  },
+  {
+    "brandName": "Octacod",
+    "strength": null,
+    "genericName": "Multivitamin + Cod Liver Oil",
+    "manufacturer": "Maks Drug Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/34883/octacod-syrup"
+  },
+  {
+    "brandName": "Octanate",
+    "strength": "500 IU/10 ml",
+    "genericName": "Human Coagulation Factor VIII",
+    "manufacturer": "City Overseas Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/34406/octanate-500-iu-injection"
+  },
+  {
+    "brandName": "Octanate",
+    "strength": "1000 IU/10 ml",
+    "genericName": "Human Coagulation Factor VIII",
+    "manufacturer": "City Overseas Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/34407/octanate-1000-iu-injection"
+  },
+  {
+    "brandName": "Octanine F",
+    "strength": "500 IU/vial",
+    "genericName": "Coagulation Factor IX",
+    "manufacturer": "City Overseas Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/34408/octanine-f-500-iu-injection"
+  },
+  {
+    "brandName": "Octreotide",
+    "strength": "100 mcg/ml",
+    "genericName": "Octreotide Acetate",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/31947/octreotide-100-mcg-injection"
+  },
+  {
+    "brandName": "Octreotide",
+    "strength": "50 mcg/ml",
+    "genericName": "Octreotide Acetate",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/31948/octreotide-50-mcg-injection"
+  },
+  {
+    "brandName": "Ocubac",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/8915/ocubac-05-eye-drop"
+  },
+  {
+    "brandName": "Ocubac-D",
+    "strength": "0.1%+0.5%",
+    "genericName": "Dexamethasone + Chloramphenicol",
+    "manufacturer": "Apex Pharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/15808/ocubac-d-01-05-eye-drop"
+  },
+  {
+    "brandName": "Ocubrin",
+    "strength": "1%",
+    "genericName": "Brinzolamide",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/17158/ocubrin-1-suspension"
+  },
+  {
+    "brandName": "Ocubrom",
+    "strength": "0.07%",
+    "genericName": "Bromfenac Sodium",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/18357/ocubrom-007-eye-drop"
+  },
+  {
+    "brandName": "Ocuclor",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/8916/ocuclor-05-eye-drop"
+  },
+  {
+    "brandName": "Ocudex",
+    "strength": "0.1%",
+    "genericName": "Dexamethasone (Ophthalmic)",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/15772/ocudex-01-eye-drop"
+  },
+  {
+    "brandName": "Ocufenac",
+    "strength": "0.1%",
+    "genericName": "Nepafenac",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Suspension",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/35745/ocufenac-01-suspension"
+  },
+  {
+    "brandName": "Ocuflox",
+    "strength": "0.3%",
+    "genericName": "Lomefloxacin",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/21782/ocuflox-03-eye-drop"
+  },
+  {
+    "brandName": "Ocugel",
+    "strength": "2%",
+    "genericName": "Hydroxypropyl Methylcellulose",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Viscoelastic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/16158/ocugel-2-viscoelastic-solution"
+  },
+  {
+    "brandName": "Oculant",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/16166/oculant-04-03-eye-drop"
+  },
+  {
+    "brandName": "Oculax",
+    "strength": "0.2%+0.36%+1%",
+    "genericName": "Glycerol + Hypromellose + Polyethylene Glycol 400",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/20944/oculax-02-036-eye-drop"
+  },
+  {
+    "brandName": "Ocumox",
+    "strength": "0.5%",
+    "genericName": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/9645/ocumox-05-eye-drop"
+  },
+  {
+    "brandName": "Ocupin",
+    "strength": "1%",
+    "genericName": "Atropine Sulfate (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/30623/ocupin-1-eye-drop"
+  },
+  {
+    "brandName": "Ocupin",
+    "strength": "1%",
+    "genericName": "Atropine Sulfate (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/30624/ocupin-1-eye-ointment"
+  },
+  {
+    "brandName": "Ocupres",
+    "strength": "0.5%",
+    "genericName": "Timolol Maleate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 532,
+    "sourceUrl": "https://medex.com.bd/brands?page=532",
+    "detailUrl": "https://medex.com.bd/brands/24990/ocupres-05-eye-drop"
+  }
+]

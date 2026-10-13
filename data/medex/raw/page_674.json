@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Salmolin-L",
+    "strength": "1 mg/5 ml",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/3596/salmolin-l-1-mg-syrup"
+  },
+  {
+    "brandName": "Salocin",
+    "strength": "200 mg",
+    "genericName": "Sparfloxacin",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/9670/salocin-200-mg-tablet"
+  },
+  {
+    "brandName": "Salol",
+    "strength": "2 mg/5 ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "Cosmic Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/3507/salol-2-mg-syrup"
+  },
+  {
+    "brandName": "Salomax",
+    "strength": "100 mcg/puff",
+    "genericName": "Salbutamol (Inhaler)",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/3508/salomax-100-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Salomax",
+    "strength": "4 mg",
+    "genericName": "Salbutamol",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/26794/salomax-4-mg-tablet"
+  },
+  {
+    "brandName": "Salomax",
+    "strength": "200 mcg",
+    "genericName": "Salbutamol",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/32442/salomax-200-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Salomax B",
+    "strength": "(90 mcg+80 mcg)/puff",
+    "genericName": "Salbutamol + Budesonide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/38271/salomax-b-90-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Salora",
+    "strength": "10 mg",
+    "genericName": "Loratadine",
+    "manufacturer": "Marker Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/12224/salora-10-mg-tablet"
+  },
+  {
+    "brandName": "Saloride",
+    "strength": "0.9%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/14870/saloride-09-injection"
+  },
+  {
+    "brandName": "Salost",
+    "strength": "5 mg",
+    "genericName": "Risedronate Sodium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/14937/salost-5-mg-tablet"
+  },
+  {
+    "brandName": "Salost",
+    "strength": "150 mg",
+    "genericName": "Risedronate Sodium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/14939/salost-150-mg-tablet"
+  },
+  {
+    "brandName": "Salost DR",
+    "strength": "35 mg",
+    "genericName": "Risedronate Sodium",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/14938/salost-dr-35-dr-tablet"
+  },
+  {
+    "brandName": "Salpac",
+    "strength": "0.9%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "Orion Infusion Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/14871/salpac-09-injection"
+  },
+  {
+    "brandName": "Salpac",
+    "strength": "3%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/37594/salpac-3-injection"
+  },
+  {
+    "brandName": "Salpium",
+    "strength": "(100 mcg+20 mcg)/puff",
+    "genericName": "Salbutamol + Ipratropium (Inhaler)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/21069/salpium-100-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Salpium",
+    "strength": "(2.5 mg+500 mcg)/3 ml",
+    "genericName": "Salbutamol + Ipratropium (Solution for inhalation)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/26532/salpium-25-mg-respirator-solution"
+  },
+  {
+    "brandName": "Saltamol",
+    "strength": "2 mg/5 ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "Leon Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/21627/saltamol-2-mg-syrup"
+  },
+  {
+    "brandName": "Saltica",
+    "strength": "(25 mcg+250 mcg)/puff",
+    "genericName": "Salmeterol + Fluticasone Propionate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/33562/saltica-25-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Saltica",
+    "strength": "(25 mcg+125 mcg)/puff",
+    "genericName": "Salmeterol + Fluticasone Propionate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/33563/saltica-25-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Saltica",
+    "strength": "50 mcg+500 mcg",
+    "genericName": "Salmeterol + Fluticasone Propionate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/33869/saltica-50-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Saltica",
+    "strength": "50 mcg+250 mcg",
+    "genericName": "Salmeterol + Fluticasone Propionate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/33870/saltica-50-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Saltica",
+    "strength": "50 mcg+100 mcg",
+    "genericName": "Salmeterol + Fluticasone Propionate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/38388/saltica-50-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Saltide",
+    "strength": "100 mcg/puff",
+    "genericName": "Salbutamol (Inhaler)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/30103/saltide-100-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Saltide",
+    "strength": "2.5 mg/3 ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/30104/saltide-25-mg-respirator-solution"
+  },
+  {
+    "brandName": "Saltrol",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Salton Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/39351/saltrol-10-mg-tablet"
+  },
+  {
+    "brandName": "Salviron",
+    "strength": "100 mg/5 ml",
+    "genericName": "Iron Sucrose",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/36510/salviron-100-mg-iv-injection"
+  },
+  {
+    "brandName": "Salzith",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Salton Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/39352/salzith-500-mg-tablet"
+  },
+  {
+    "brandName": "Salzith",
+    "strength": "200 mg/5 ml",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "Salton Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/39353/salzith-200-mg-suspension"
+  },
+  {
+    "brandName": "Samprid",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/31557/samprid-80-mg-tablet"
+  },
+  {
+    "brandName": "Sanbur",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 674,
+    "sourceUrl": "https://medex.com.bd/brands?page=674",
+    "detailUrl": "https://medex.com.bd/brands/35630/sanbur-30-mg-tablet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Derma Aid",
+    "strength": "(5 mg+250 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Topical Powder",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12337/derma-aid-5-mg-powder"
+  },
+  {
+    "brandName": "Derma Aid",
+    "strength": "(5 mg+500 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/18045/derma-aid-5-mg-ointment"
+  },
+  {
+    "brandName": "Dermabac",
+    "strength": "2%+1%",
+    "genericName": "Fusidic acid + Hydrocortisone",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12664/dermabac-2-1-cream"
+  },
+  {
+    "brandName": "Dermacom",
+    "strength": "0.05%+0.75%+2%+1%",
+    "genericName": "Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/33076/dermacom-005-075-cream"
+  },
+  {
+    "brandName": "Dermacort",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12569/dermacort-005-cream"
+  },
+  {
+    "brandName": "Dermacort",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12570/dermacort-005-ointment"
+  },
+  {
+    "brandName": "Dermafin",
+    "strength": "250 mg",
+    "genericName": "Terbinafine Hydrochloride",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/28726/dermafin-250-mg-tablet"
+  },
+  {
+    "brandName": "Dermalog",
+    "strength": "0.1%",
+    "genericName": "Halcinonide",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12647/dermalog-01-cream"
+  },
+  {
+    "brandName": "Dermanix",
+    "strength": "5% w/w",
+    "genericName": "Permethrin",
+    "manufacturer": "Novo Healthcare and Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12483/dermanix-5-w-cream"
+  },
+  {
+    "brandName": "Dermasim",
+    "strength": "1%",
+    "genericName": "Clotrimazole (Topical)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Topical Solution",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12391/dermasim-1-topical-solution"
+  },
+  {
+    "brandName": "Dermasim",
+    "strength": "1%",
+    "genericName": "Clotrimazole (Topical)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12392/dermasim-1-cream"
+  },
+  {
+    "brandName": "Dermasim VT",
+    "strength": "500 mg",
+    "genericName": "Clotrimazole (Vaginal tablet)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Vaginal Tablet",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12406/dermasim-vt-500-mg-vaginal-tablet"
+  },
+  {
+    "brandName": "Dermasim VT",
+    "strength": "200 mg",
+    "genericName": "Clotrimazole (Vaginal tablet)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Vaginal Tablet",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/37116/dermasim-vt-200-mg-vaginal-tablet"
+  },
+  {
+    "brandName": "Dermaskin",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/35577/dermaskin-2-w-ointment"
+  },
+  {
+    "brandName": "Dermasoft",
+    "strength": "2% w/w",
+    "genericName": "Mupirocin",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/27330/dermasoft-2-w-ointment"
+  },
+  {
+    "brandName": "Dermasol",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12571/dermasol-005-cream"
+  },
+  {
+    "brandName": "Dermasol",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12572/dermasol-005-ointment"
+  },
+  {
+    "brandName": "Dermasol Plus",
+    "strength": "0.05%+3%",
+    "genericName": "Clobetasol Propionate + Salicylic Acid",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/34448/dermasol-plus-005-3-ointment"
+  },
+  {
+    "brandName": "Dermasol-N",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12615/dermasol-n-005-05-cream"
+  },
+  {
+    "brandName": "Dermasol-N",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12616/dermasol-n-005-05-ointment"
+  },
+  {
+    "brandName": "Dermasol-S",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12601/dermasol-s-005-scalp-solution"
+  },
+  {
+    "brandName": "Dermastin",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/19446/dermastin-005-05-cream"
+  },
+  {
+    "brandName": "Dermastin",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/19447/dermastin-005-05-ointment"
+  },
+  {
+    "brandName": "Dermatas",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/27150/dermatas-005-cream"
+  },
+  {
+    "brandName": "Dermatas N",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/27151/dermatas-n-005-05-cream"
+  },
+  {
+    "brandName": "Dermazole Bar",
+    "strength": "2%",
+    "genericName": "Ketoconazole",
+    "manufacturer": "Derma Health Care",
+    "dosageForm": "Medicated Bar",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/34240/dermazole-bar-2-medicated-bar"
+  },
+  {
+    "brandName": "Dermex",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12574/dermex-005-cream"
+  },
+  {
+    "brandName": "Dermex",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12575/dermex-005-ointment"
+  },
+  {
+    "brandName": "Dermex",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Topical Spray",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/38813/dermex-005-spray"
+  },
+  {
+    "brandName": "Dermex NN",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 203,
+    "sourceUrl": "https://medex.com.bd/brands?page=203",
+    "detailUrl": "https://medex.com.bd/brands/12617/dermex-nn-005-05-cream"
+  }
+]

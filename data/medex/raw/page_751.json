@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "TMS",
+    "strength": "50 mg",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/1473/tms-50-mg-tablet"
+  },
+  {
+    "brandName": "TMZ",
+    "strength": "100 mg",
+    "genericName": "Temozolomide",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/37942/tmz-100-mg-capsule"
+  },
+  {
+    "brandName": "TMZ",
+    "strength": "250 mg",
+    "genericName": "Temozolomide",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/37943/tmz-250-mg-capsule"
+  },
+  {
+    "brandName": "Tobam",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15725/tobam-03-eye-drop"
+  },
+  {
+    "brandName": "Tobasol",
+    "strength": "300 mg/5 ml",
+    "genericName": "Tobramycin (Nebuliser Solution)",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15741/tobasol-300-mg-respirator-solution"
+  },
+  {
+    "brandName": "Tobi",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15726/tobi-03-eye-drop"
+  },
+  {
+    "brandName": "Tobicin",
+    "strength": "300 mg/5 ml",
+    "genericName": "Tobramycin (Nebuliser Solution)",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/35751/tobicin-300-mg-respirator-solution"
+  },
+  {
+    "brandName": "Tobicort",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15856/tobicort-01-03-eye-drop"
+  },
+  {
+    "brandName": "Tobidex",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15857/tobidex-01-03-eye-drop"
+  },
+  {
+    "brandName": "Tobidex",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15858/tobidex-01-03-eye-ointment"
+  },
+  {
+    "brandName": "Tobirax",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15727/tobirax-03-eye-drop"
+  },
+  {
+    "brandName": "Tobirax",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15728/tobirax-03-eye-ointment"
+  },
+  {
+    "brandName": "Tobrabac",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15729/tobrabac-03-eye-drop"
+  },
+  {
+    "brandName": "Tobrabac",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/26480/tobrabac-03-eye-ointment"
+  },
+  {
+    "brandName": "Tobracin",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/27746/tobracin-03-eye-drop"
+  },
+  {
+    "brandName": "Tobracin",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15731/tobracin-03-eye-ointment"
+  },
+  {
+    "brandName": "Tobracin D",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/27747/tobracin-d-01-03-eye-drop"
+  },
+  {
+    "brandName": "Tobracin D",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Ophthalmic Ointment",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/27748/tobracin-d-01-03-eye-ointment"
+  },
+  {
+    "brandName": "Tobram",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/28612/tobram-03-eye-drop"
+  },
+  {
+    "brandName": "Tobram-D",
+    "strength": "0.1%+0.3%",
+    "genericName": "Dexamethasone + Tobramycin",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/28613/tobram-d-01-03-eye-drop"
+  },
+  {
+    "brandName": "Tobramin",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15732/tobramin-03-eye-drop"
+  },
+  {
+    "brandName": "Tobrel",
+    "strength": "0.3%",
+    "genericName": "Tobramycin (Ophthalmic)",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/15733/tobrel-03-eye-drop"
+  },
+  {
+    "brandName": "Tocef",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/7661/tocef-200-mg-capsule"
+  },
+  {
+    "brandName": "Tocef",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/7662/tocef-400-mg-capsule"
+  },
+  {
+    "brandName": "Tocef",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/7663/tocef-100-mg-suspension"
+  },
+  {
+    "brandName": "Tocef DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/18738/tocef-ds-200-mg-suspension"
+  },
+  {
+    "brandName": "Tocimab",
+    "strength": "200 mg/10 ml",
+    "genericName": "Tocilizumab",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/34438/tocimab-200-mg-injection"
+  },
+  {
+    "brandName": "Tocit",
+    "strength": "5 mg",
+    "genericName": "Tofacitinib",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/26021/tocit-5-mg-tablet"
+  },
+  {
+    "brandName": "Tocit XR",
+    "strength": "11 mg",
+    "genericName": "Tofacitinib",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/26022/tocit-xr-11-mg-er-tablet"
+  },
+  {
+    "brandName": "Toco",
+    "strength": "6.75 mg/0.9 ml",
+    "genericName": "Atosiban Acetate",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 751,
+    "sourceUrl": "https://medex.com.bd/brands?page=751",
+    "detailUrl": "https://medex.com.bd/brands/38415/toco-675-mg-injection"
+  }
+]

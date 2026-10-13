@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Degut",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/1531/degut-10-mg-tablet"
+  },
+  {
+    "brandName": "Dejac",
+    "strength": "30 mg",
+    "genericName": "Dapoxetine Hydrochloride",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/16394/dejac-30-mg-tablet"
+  },
+  {
+    "brandName": "Dekalin VT",
+    "strength": "10 mg",
+    "genericName": "Dequalinium Chloride",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Vaginal Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/29501/dekalin-vt-10-mg-vaginal-tablet"
+  },
+  {
+    "brandName": "Del P",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/39384/del-p-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Del P",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/39385/del-p-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Delacin",
+    "strength": "100 mg",
+    "genericName": "Doxycycline Hydrochloride",
+    "manufacturer": "Aexim Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/8371/delacin-100-mg-capsule"
+  },
+  {
+    "brandName": "Delaflox",
+    "strength": "300 mg/vial",
+    "genericName": "Delafloxacin",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/31530/delaflox-300-mg-injection"
+  },
+  {
+    "brandName": "Delameg",
+    "strength": "300 mg/vial",
+    "genericName": "Delafloxacin",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/33227/delameg-300-mg-injection"
+  },
+  {
+    "brandName": "Delanix",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/19752/delanix-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Delanix",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/19753/delanix-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Delanix MUPS",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/37443/delanix-mups-30-mg-tablet"
+  },
+  {
+    "brandName": "Delanzo",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/28634/delanzo-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Delanzo",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/28635/delanzo-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Delaxin",
+    "strength": "300 mg/vial",
+    "genericName": "Delafloxacin",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/36344/delaxin-300-mg-injection"
+  },
+  {
+    "brandName": "Delentin",
+    "strength": "50 mg/ml",
+    "genericName": "Pyrantel Pamoate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/10348/delentin-50-mg-suspension"
+  },
+  {
+    "brandName": "Deleta",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Flupentixol + Melitracen",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/4331/deleta-05-mg-tablet"
+  },
+  {
+    "brandName": "Delfex",
+    "strength": "120 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/20342/delfex-120-mg-tablet"
+  },
+  {
+    "brandName": "Delfex",
+    "strength": "30 mg/5 ml",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/20343/delfex-30-mg-suspension"
+  },
+  {
+    "brandName": "Delfex",
+    "strength": "180 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/35895/delfex-180-mg-tablet"
+  },
+  {
+    "brandName": "Delice",
+    "strength": "5% w/w",
+    "genericName": "Permethrin",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/12482/delice-5-w-cream"
+  },
+  {
+    "brandName": "Delight",
+    "strength": "20000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/29427/delight-20000-iu-capsule"
+  },
+  {
+    "brandName": "Delight",
+    "strength": "40000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/29428/delight-40000-iu-capsule"
+  },
+  {
+    "brandName": "Delight",
+    "strength": "2000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/29429/delight-2000-iu-tablet"
+  },
+  {
+    "brandName": "Delight",
+    "strength": "200000 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Injectable Solution (Oral & IM)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/29430/delight-200000-iu-injectable-solution"
+  },
+  {
+    "brandName": "Delight",
+    "strength": "1000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/31212/delight-1000-iu-tablet"
+  },
+  {
+    "brandName": "Delight",
+    "strength": "50000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/34867/delight-50000-iu-capsule"
+  },
+  {
+    "brandName": "Delight",
+    "strength": "10000 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/34868/delight-10000-iu-oral-solution"
+  },
+  {
+    "brandName": "Delkof Plus",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "genericName": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/26462/delkof-plus-10-mg-syrup"
+  },
+  {
+    "brandName": "Delnet",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/38692/delnet-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Delosia",
+    "strength": "5 mg",
+    "genericName": "Desloratadine",
+    "manufacturer": "Pharmasia Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 198,
+    "sourceUrl": "https://medex.com.bd/brands?page=198",
+    "detailUrl": "https://medex.com.bd/brands/12233/delosia-5-mg-tablet"
+  }
+]

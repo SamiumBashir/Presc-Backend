@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Ceftalin",
+    "strength": "600 mg/vial",
+    "genericName": "Ceftaroline Fosamil",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/37353/ceftalin-600-mg-injection"
+  },
+  {
+    "brandName": "Ceftax",
+    "strength": "250 mg/5 ml",
+    "genericName": "Cefotaxime",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7712/ceftax-250-mg-injection"
+  },
+  {
+    "brandName": "Ceftax",
+    "strength": "500 mg/10 ml",
+    "genericName": "Cefotaxime",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7713/ceftax-500-mg-injection"
+  },
+  {
+    "brandName": "Ceftax",
+    "strength": "1 gm/10 ml",
+    "genericName": "Cefotaxime",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7714/ceftax-1-gm-injection"
+  },
+  {
+    "brandName": "Ceftazim",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7862/ceftazim-250-mg-injection"
+  },
+  {
+    "brandName": "Ceftazim",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7863/ceftazim-500-mg-injection"
+  },
+  {
+    "brandName": "Ceftazim",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7864/ceftazim-1-gm-injection"
+  },
+  {
+    "brandName": "Ceftazim AV",
+    "strength": "(2 gm+0.5 gm)/vial",
+    "genericName": "Ceftazidime + Avibactam",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/36277/ceftazim-av-2-gm-injection"
+  },
+  {
+    "brandName": "Ceftem",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/27324/ceftem-100-mg-suspension"
+  },
+  {
+    "brandName": "Ceftem",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/27323/ceftem-400-mg-capsule"
+  },
+  {
+    "brandName": "Ceftem",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/27322/ceftem-200-mg-capsule"
+  },
+  {
+    "brandName": "Ceftem-DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Team Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/37871/ceftem-ds-200-mg-suspension"
+  },
+  {
+    "brandName": "Cefteria",
+    "strength": "400 mg",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/18950/cefteria-400-mg-capsule"
+  },
+  {
+    "brandName": "Cefteria",
+    "strength": "90 mg/5 ml",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/18951/cefteria-90-mg-suspension"
+  },
+  {
+    "brandName": "Ceftiben",
+    "strength": "90 mg/5 ml",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/18975/ceftiben-90-mg-suspension"
+  },
+  {
+    "brandName": "Ceftiben",
+    "strength": "400 mg",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/18976/ceftiben-400-mg-capsule"
+  },
+  {
+    "brandName": "Ceftid",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/28315/ceftid-400-mg-tablet"
+  },
+  {
+    "brandName": "Ceftid",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/28314/ceftid-200-mg-tablet"
+  },
+  {
+    "brandName": "Ceftid",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7526/ceftid-200-mg-capsule"
+  },
+  {
+    "brandName": "Ceftid",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7527/ceftid-400-mg-capsule"
+  },
+  {
+    "brandName": "Ceftid",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7528/ceftid-100-mg-suspension"
+  },
+  {
+    "brandName": "Ceftid",
+    "strength": "25 mg/ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7530/ceftid-25-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Ceftid DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7529/ceftid-ds-200-mg-suspension"
+  },
+  {
+    "brandName": "Ceftid QS",
+    "strength": "100 mg/ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/29612/ceftid-qs-100-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Ceftipime",
+    "strength": "500 mg/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/8158/ceftipime-500-mg-injection"
+  },
+  {
+    "brandName": "Ceftipime",
+    "strength": "1 gm/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/8159/ceftipime-1-gm-injection"
+  },
+  {
+    "brandName": "Ceftipime",
+    "strength": "2 gm/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IV Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/8160/ceftipime-2-gm-injection"
+  },
+  {
+    "brandName": "Ceftiten",
+    "strength": "400 mg",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/18954/ceftiten-400-mg-capsule"
+  },
+  {
+    "brandName": "Ceftiten",
+    "strength": "90 mg/5 ml",
+    "genericName": "Ceftibuten Dihydrate",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/18955/ceftiten-90-mg-suspension"
+  },
+  {
+    "brandName": "Ceftizone",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "IM Injection",
+    "sourcePage": 139,
+    "sourceUrl": "https://medex.com.bd/brands?page=139",
+    "detailUrl": "https://medex.com.bd/brands/7944/ceftizone-250-mg-injection"
+  }
+]

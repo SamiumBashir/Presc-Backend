@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Ostoflex SR",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/33396/ostoflex-sr-200-mg-sr-tablet"
+  },
+  {
+    "brandName": "Ostogen",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14328/ostogen-500-mg-tablet"
+  },
+  {
+    "brandName": "Ostogen C",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "genericName": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Effervescent Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14395/ostogen-c-1000-mg-tablet"
+  },
+  {
+    "brandName": "Ostogen C Plus",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg+400 IU",
+    "genericName": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Effervescent Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14504/ostogen-c-plus-1000-mg-tablet"
+  },
+  {
+    "brandName": "Ostogen D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14463/ostogen-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Ostogen D Forte",
+    "strength": "600 mg+400 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/27063/ostogen-d-forte-600-mg-tablet"
+  },
+  {
+    "brandName": "Ostogen Jr",
+    "strength": "250 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/27064/ostogen-jr-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Ostogen Plus",
+    "strength": null,
+    "genericName": "Calcium + Vitamin D3 + Multimineral",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14535/ostogen-plus-tablet"
+  },
+  {
+    "brandName": "Ostogen Plus EF",
+    "strength": null,
+    "genericName": "Calcium + Vitamin D3 + Multimineral",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Effervescent Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/34310/ostogen-plus-ef-tablet"
+  },
+  {
+    "brandName": "Ostometa",
+    "strength": "4 mg/5 ml",
+    "genericName": "Zoledronic Acid [For hypercalcemia]",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14950/ostometa-4-mg-injection"
+  },
+  {
+    "brandName": "Ostoplus",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14330/ostoplus-500-mg-tablet"
+  },
+  {
+    "brandName": "Ostoplus-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/14464/ostoplus-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Ostoplus-DX",
+    "strength": "600 mg+400 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/39549/ostoplus-dx-600-mg-tablet"
+  },
+  {
+    "brandName": "Ostorate",
+    "strength": "400 mg",
+    "genericName": "Calcium Orotate",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/18496/ostorate-400-mg-tablet"
+  },
+  {
+    "brandName": "Ostorate",
+    "strength": "740 mg",
+    "genericName": "Calcium Orotate",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/18497/ostorate-740-mg-tablet"
+  },
+  {
+    "brandName": "Ostoref D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Coral Calcium + Vitamin D3",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/27065/ostoref-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Ostoref DX",
+    "strength": "600 mg+400 IU",
+    "genericName": "Coral Calcium + Vitamin D3",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/30868/ostoref-dx-600-mg-tablet"
+  },
+  {
+    "brandName": "Ostorin",
+    "strength": "750 mg+50 mg",
+    "genericName": "Glucosamine Sulfate + Diacerein",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/19794/ostorin-750-mg-tablet"
+  },
+  {
+    "brandName": "Ostriol",
+    "strength": "0.25 mcg",
+    "genericName": "Calcitriol",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/13524/ostriol-025-mcg-capsule"
+  },
+  {
+    "brandName": "Osyn-20",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "MST Pharma",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/1921/osyn-20-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "OT sol",
+    "strength": "0.5%+70%",
+    "genericName": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Hand Rub",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/12831/ot-sol-05-70-hand-rub"
+  },
+  {
+    "brandName": "OTC-DS",
+    "strength": "2%",
+    "genericName": "Ketoconazole",
+    "manufacturer": "Save Trading International",
+    "dosageForm": "Shampoo",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/37712/otc-ds-2-shampoo"
+  },
+  {
+    "brandName": "Otecon",
+    "strength": "150 mg",
+    "genericName": "Oteseconazole",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/36923/otecon-150-mg-capsule"
+  },
+  {
+    "brandName": "Otegal",
+    "strength": "150 mg",
+    "genericName": "Oteseconazole",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/38468/otegal-150-mg-capsule"
+  },
+  {
+    "brandName": "Otelast",
+    "strength": "10 mg",
+    "genericName": "Apremilast",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/25990/otelast-10-mg-tablet"
+  },
+  {
+    "brandName": "Otelast",
+    "strength": "30 mg",
+    "genericName": "Apremilast",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/25991/otelast-30-mg-tablet"
+  },
+  {
+    "brandName": "Otenox",
+    "strength": "150 mg",
+    "genericName": "Oteseconazole",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/39159/otenox-150-mg-capsule"
+  },
+  {
+    "brandName": "Otes",
+    "strength": "150 mg",
+    "genericName": "Oteseconazole",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/36451/otes-150-mg-capsule"
+  },
+  {
+    "brandName": "Otezol",
+    "strength": "150 mg",
+    "genericName": "Oteseconazole",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/37591/otezol-150-mg-capsule"
+  },
+  {
+    "brandName": "Othera",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule (Delayed Release)",
+    "sourcePage": 563,
+    "sourceUrl": "https://medex.com.bd/brands?page=563",
+    "detailUrl": "https://medex.com.bd/brands/37427/othera-20-mg-dr-capsule"
+  }
+]

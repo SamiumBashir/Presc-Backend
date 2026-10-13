@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Abetis",
+    "strength": "40 mg",
+    "genericName": "Olmesartan Medoxomil",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/2778/abetis-40-mg-tablet"
+  },
+  {
+    "brandName": "Abetis Plus",
+    "strength": "20 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/2981/abetis-plus-20-mg-tablet"
+  },
+  {
+    "brandName": "Abetis Plus",
+    "strength": "40 mg+12.5 mg",
+    "genericName": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/22974/abetis-plus-40-mg-tablet"
+  },
+  {
+    "brandName": "Abevmy",
+    "strength": "100 mg/4 ml",
+    "genericName": "Bevacizumab",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/38944/abevmy-100-mg-injection"
+  },
+  {
+    "brandName": "Abevmy",
+    "strength": "400 mg/16 ml",
+    "genericName": "Bevacizumab",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/38945/abevmy-400-mg-injection"
+  },
+  {
+    "brandName": "Abex",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "genericName": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/4132/abex-30-mg-syrup"
+  },
+  {
+    "brandName": "Abex Plus",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "genericName": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/35306/abex-plus-100-mg-syrup"
+  },
+  {
+    "brandName": "Abexol",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "genericName": "Guaifenesin + Dextromethorphan + Menthol",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/35307/abexol-200-mg-syrup"
+  },
+  {
+    "brandName": "Abeza",
+    "strength": "150 mg",
+    "genericName": "Abemaciclib",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/38906/abeza-150-mg-tablet"
+  },
+  {
+    "brandName": "Abeza",
+    "strength": "200 mg",
+    "genericName": "Abemaciclib",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/38907/abeza-200-mg-tablet"
+  },
+  {
+    "brandName": "Abezino",
+    "strength": "150 mg",
+    "genericName": "Abemaciclib",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/37280/abezino-150-mg-tablet"
+  },
+  {
+    "brandName": "Abezino",
+    "strength": "200 mg",
+    "genericName": "Abemaciclib",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/37281/abezino-200-mg-tablet"
+  },
+  {
+    "brandName": "Abicon",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/32587/abicon-500-mg-suspension"
+  },
+  {
+    "brandName": "Abicon",
+    "strength": "500 mg+100 mg",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/33570/abicon-500-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Abicon Max",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/36608/abicon-max-500-mg-suspension"
+  },
+  {
+    "brandName": "Abicon Plus",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/35489/abicon-plus-500-mg-suspension"
+  },
+  {
+    "brandName": "Abiraxen",
+    "strength": "250 mg",
+    "genericName": "Abiraterone Acetate",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/38107/abiraxen-250-mg-tablet"
+  },
+  {
+    "brandName": "Abiret",
+    "strength": "250 mg",
+    "genericName": "Abiraterone Acetate",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/30393/abiret-250-mg-tablet"
+  },
+  {
+    "brandName": "Abiron",
+    "strength": "250 mg",
+    "genericName": "Abiraterone Acetate",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/35187/abiron-250-mg-tablet"
+  },
+  {
+    "brandName": "Abixa",
+    "strength": "10 mg",
+    "genericName": "Memantine Hydrochloride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/32192/abixa-10-mg-tablet"
+  },
+  {
+    "brandName": "ABO Kit",
+    "strength": "200 mg+200 mcg",
+    "genericName": "Mifepristone + Misoprostol",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/28147/abo-kit-200-mg-tablet"
+  },
+  {
+    "brandName": "Aboprost",
+    "strength": "200 mcg",
+    "genericName": "Misoprostol",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/35355/aboprost-200-mcg-tablet"
+  },
+  {
+    "brandName": "ABpres",
+    "strength": "0.2%+0.5%",
+    "genericName": "Brimonidine Tartrate + Timolol Maleate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/18307/abpres-02-05-eye-drop"
+  },
+  {
+    "brandName": "ABZ",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/34002/abz-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "AC PR",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/8/ac-pr-100-mg-tablet"
+  },
+  {
+    "brandName": "AC PR SR",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/35308/ac-pr-sr-200-mg-sr-tablet"
+  },
+  {
+    "brandName": "Acaluxen",
+    "strength": "100 mg",
+    "genericName": "Acalabrutinib",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/38108/acaluxen-100-mg-capsule"
+  },
+  {
+    "brandName": "Acaril",
+    "strength": "50 mg",
+    "genericName": "Acarbose",
+    "manufacturer": "The White Horse Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/222/acaril-50-mg-tablet"
+  },
+  {
+    "brandName": "ACCU-CHEK Active",
+    "strength": null,
+    "genericName": "Blood glucose monitoring device",
+    "manufacturer": "Radiant Export Import Enterprise",
+    "dosageForm": "Test strip",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/34974/accu-chek-active-test-strip"
+  },
+  {
+    "brandName": "ACCU-CHEK Active",
+    "strength": null,
+    "genericName": "Blood glucose monitoring device",
+    "manufacturer": "Radiant Export Import Enterprise",
+    "dosageForm": "Glucometer",
+    "sourcePage": 4,
+    "sourceUrl": "https://medex.com.bd/brands?page=4",
+    "detailUrl": "https://medex.com.bd/brands/36119/accu-chek-active-glucometer"
+  }
+]

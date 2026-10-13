@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Zentixol D",
+    "strength": "200 mg/ml",
+    "genericName": "Zuclopenthixol",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/33835/zentixol-d-200-mg-injection"
+  },
+  {
+    "brandName": "Zentolin",
+    "strength": "4 mg",
+    "genericName": "Levosalbutamol (Oral)",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/28771/zentolin-4-mg-tablet"
+  },
+  {
+    "brandName": "Zentolin",
+    "strength": "2 mg/5 ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/3540/zentolin-2-mg-syrup"
+  },
+  {
+    "brandName": "Zenvit-C",
+    "strength": "250 mg",
+    "genericName": "Vitamin C [Ascorbic acid]",
+    "manufacturer": "Biogen Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/35894/zenvit-c-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Zenxit",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Flupentixol + Melitracen",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/4376/zenxit-05-mg-tablet"
+  },
+  {
+    "brandName": "Zenzide",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/5263/zenzide-80-mg-tablet"
+  },
+  {
+    "brandName": "Zeofit-CI",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "genericName": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/26967/zeofit-ci-50-mg-tr-capsule"
+  },
+  {
+    "brandName": "Zeosaline",
+    "strength": "10.25 gm",
+    "genericName": "Oral rehydration salt [glucose based]",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/27973/zeosaline-1025-gm-powder"
+  },
+  {
+    "brandName": "Zepac",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/15411/zepac-10-mg-tablet"
+  },
+  {
+    "brandName": "Zepam",
+    "strength": "3 mg",
+    "genericName": "Bromazepam",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/18315/zepam-3-mg-tablet"
+  },
+  {
+    "brandName": "Zepatid",
+    "strength": "2.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/37382/zepatid-25-mg-injection"
+  },
+  {
+    "brandName": "Zepatid",
+    "strength": "5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/37383/zepatid-5-mg-injection"
+  },
+  {
+    "brandName": "Zepatid",
+    "strength": "7.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/38030/zepatid-75-mg-injection"
+  },
+  {
+    "brandName": "Zepiron",
+    "strength": "47 mg+0.5 mg+22.5 mg",
+    "genericName": "Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/16471/zepiron-47-mg-tablet"
+  },
+  {
+    "brandName": "Zepiron-Plus",
+    "strength": null,
+    "genericName": "Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/20303/zepiron-plus-capsule"
+  },
+  {
+    "brandName": "Zeprox",
+    "strength": "250 mg/5 ml",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/36403/zeprox-250-mg-suspension"
+  },
+  {
+    "brandName": "Zepter",
+    "strength": "2.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/38226/zepter-25-mg-injection"
+  },
+  {
+    "brandName": "Zepter",
+    "strength": "5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/38227/zepter-5-mg-injection"
+  },
+  {
+    "brandName": "Zepter",
+    "strength": "7.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/39292/zepter-75-mg-injection"
+  },
+  {
+    "brandName": "Zeptide",
+    "strength": "2.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/37508/zeptide-25-mg-injection"
+  },
+  {
+    "brandName": "Zeptide",
+    "strength": "5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/37509/zeptide-5-mg-injection"
+  },
+  {
+    "brandName": "Zeptide",
+    "strength": "7.5 mg/0.5 ml",
+    "genericName": "Tirzepatide",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/37510/zeptide-75-mg-injection"
+  },
+  {
+    "brandName": "Zeptol",
+    "strength": "200 mg",
+    "genericName": "Carbamazepine",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/4813/zeptol-200-mg-tablet"
+  },
+  {
+    "brandName": "Zeptol CR",
+    "strength": "200 mg",
+    "genericName": "Carbamazepine",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet (Controlled Release)",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/4814/zeptol-cr-200-mg-cr-tablet"
+  },
+  {
+    "brandName": "Zeptol CR",
+    "strength": "400 mg",
+    "genericName": "Carbamazepine",
+    "manufacturer": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "dosageForm": "Tablet (Controlled Release)",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/4815/zeptol-cr-400-mg-cr-tablet"
+  },
+  {
+    "brandName": "Zerin",
+    "strength": "500 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/10552/zerin-500-mg-tablet"
+  },
+  {
+    "brandName": "Zerin",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/10553/zerin-120-mg-suspension"
+  },
+  {
+    "brandName": "Zerin",
+    "strength": "80 mg/ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/27427/zerin-80-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Zerin-XP",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/10634/zerin-xp-500-mg-tablet"
+  },
+  {
+    "brandName": "Zerlinda",
+    "strength": "4 mg/5 ml",
+    "genericName": "Zoledronic Acid [For hypercalcemia]",
+    "manufacturer": "BOTS Pvt. Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 834,
+    "sourceUrl": "https://medex.com.bd/brands?page=834",
+    "detailUrl": "https://medex.com.bd/brands/17283/zerlinda-4-mg-injection"
+  }
+]

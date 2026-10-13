@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "SB-Omec",
+    "strength": "40 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/23105/sb-omec-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "SB-Opa",
+    "strength": "500 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/27373/sb-opa-500-mg-tablet"
+  },
+  {
+    "brandName": "SB-Opa Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/27374/sb-opa-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "SB-Quik",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/27375/sb-quik-500-mg-tablet"
+  },
+  {
+    "brandName": "SB-Rabec",
+    "strength": "20 mg",
+    "genericName": "Rabeprazole Sodium",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24048/sb-rabec-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "SB-Rostin",
+    "strength": "20 mg",
+    "genericName": "Rosuvastatin Calcium",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24363/sb-rostin-20-mg-tablet"
+  },
+  {
+    "brandName": "SB-Rostin",
+    "strength": "10 mg",
+    "genericName": "Rosuvastatin Calcium",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24364/sb-rostin-10-mg-tablet"
+  },
+  {
+    "brandName": "SB-Serta",
+    "strength": "50 mg",
+    "genericName": "Sertraline Hydrochloride",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/27376/sb-serta-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Sild",
+    "strength": "50 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24465/sb-sild-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Sild",
+    "strength": "100 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24466/sb-sild-100-mg-tablet"
+  },
+  {
+    "brandName": "SB-Sita",
+    "strength": "50 mg",
+    "genericName": "Sitagliptin",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24524/sb-sita-50-mg-tablet"
+  },
+  {
+    "brandName": "SB-Sita",
+    "strength": "100 mg",
+    "genericName": "Sitagliptin",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24525/sb-sita-100-mg-tablet"
+  },
+  {
+    "brandName": "SB-Sol",
+    "strength": "0.2%",
+    "genericName": "Chlorhexidine Gluconate [0.2%]",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Mouthwash",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/33782/sb-sol-02-mouthwash"
+  },
+  {
+    "brandName": "SB-Sovir",
+    "strength": "400 mg",
+    "genericName": "Sofosbuvir",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/27377/sb-sovir-400-mg-tablet"
+  },
+  {
+    "brandName": "SB-Tad",
+    "strength": "5 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24782/sb-tad-5-mg-tablet"
+  },
+  {
+    "brandName": "SB-Tad",
+    "strength": "10 mg",
+    "genericName": "Tadalafil",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/24783/sb-tad-10-mg-tablet"
+  },
+  {
+    "brandName": "SB-Vilda",
+    "strength": "50 mg",
+    "genericName": "Vildagliptin",
+    "manufacturer": "Sunman-Birdem Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/25243/sb-vilda-50-mg-tablet"
+  },
+  {
+    "brandName": "Scabex",
+    "strength": "25% w/v",
+    "genericName": "Benzyl Benzoate",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Emulsion",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/30644/scabex-25-w-emulsion"
+  },
+  {
+    "brandName": "Scabex",
+    "strength": "5% w/w",
+    "genericName": "Permethrin",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/12505/scabex-5-w-cream"
+  },
+  {
+    "brandName": "Scabfre",
+    "strength": "5% w/w",
+    "genericName": "Permethrin",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/12506/scabfre-5-w-cream"
+  },
+  {
+    "brandName": "Scabicid",
+    "strength": "25% w/v",
+    "genericName": "Benzyl Benzoate",
+    "manufacturer": "Aexim Pharmaceuticals Ltd.",
+    "dosageForm": "Emulsion",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/12985/scabicid-25-w-emulsion"
+  },
+  {
+    "brandName": "Scabicon",
+    "strength": "25% w/v",
+    "genericName": "Benzyl Benzoate",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Emulsion",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/12476/scabicon-25-w-emulsion"
+  },
+  {
+    "brandName": "Scabicon Plus",
+    "strength": "5%+10%",
+    "genericName": "Permethrin + Crotamiton",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Lotion",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/35768/scabicon-plus-5-10-lotion"
+  },
+  {
+    "brandName": "Scabid",
+    "strength": "5% w/w",
+    "genericName": "Permethrin",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/12507/scabid-5-w-cream"
+  },
+  {
+    "brandName": "Scabin",
+    "strength": "25% w/v",
+    "genericName": "Benzyl Benzoate",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Emulsion",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/37727/scabin-25-w-emulsion"
+  },
+  {
+    "brandName": "Scabisad",
+    "strength": "0.9% w/w",
+    "genericName": "Spinosad",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Topical Suspension",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/38581/scabisad-09-w-suspension"
+  },
+  {
+    "brandName": "Scabisol",
+    "strength": "25% w/v",
+    "genericName": "Benzyl Benzoate",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Emulsion",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/12477/scabisol-25-w-emulsion"
+  },
+  {
+    "brandName": "Scabo",
+    "strength": "6 mg",
+    "genericName": "Ivermectin (Tablet)",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/10362/scabo-6-mg-tablet"
+  },
+  {
+    "brandName": "Scabo",
+    "strength": "12 mg",
+    "genericName": "Ivermectin (Tablet)",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/28717/scabo-12-mg-tablet"
+  },
+  {
+    "brandName": "Scabo",
+    "strength": "3 mg",
+    "genericName": "Ivermectin (Tablet)",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 679,
+    "sourceUrl": "https://medex.com.bd/brands?page=679",
+    "detailUrl": "https://medex.com.bd/brands/35374/scabo-3-mg-tablet"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "ACCU-CHEK Instant",
+    "strength": null,
+    "genericName": "Blood glucose monitoring device",
+    "manufacturer": "Radiant Export Import Enterprise",
+    "dosageForm": "Glucometer",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/36117/accu-chek-instant-glucometer"
+  },
+  {
+    "brandName": "ACCU-CHEK Instant",
+    "strength": null,
+    "genericName": "Blood glucose monitoring device",
+    "manufacturer": "Radiant Export Import Enterprise",
+    "dosageForm": "Test strip",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/36118/accu-chek-instant-test-strip"
+  },
+  {
+    "brandName": "ACCU-CHEK Instant S",
+    "strength": null,
+    "genericName": "Blood glucose monitoring device",
+    "manufacturer": "Radiant Export Import Enterprise",
+    "dosageForm": "Glucometer",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/34973/accu-chek-instant-s-glucometer"
+  },
+  {
+    "brandName": "ACCU-CHEK Softclix",
+    "strength": "28G",
+    "genericName": "Blood glucose monitoring device",
+    "manufacturer": "Radiant Export Import Enterprise",
+    "dosageForm": "Lancet Needle",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/39265/accu-chek-softclix-28g-needle"
+  },
+  {
+    "brandName": "Accuzith",
+    "strength": "500 mg",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/32289/accuzith-500-mg-tablet"
+  },
+  {
+    "brandName": "Accuzith",
+    "strength": "200 mg/5 ml",
+    "genericName": "Azithromycin Dihydrate",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/33078/accuzith-200-mg-suspension"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "500 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10377/ace-500-mg-tablet"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10380/ace-120-mg-suspension"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "80 mg/ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10381/ace-80-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "125 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10383/ace-125-mg-suppository"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "250 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10384/ace-250-mg-suppository"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "500 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Suppository",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10385/ace-500-mg-suppository"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "120 mg/5 ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/29606/ace-120-mg-syrup"
+  },
+  {
+    "brandName": "Ace",
+    "strength": "10 mg/ml",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/33987/ace-10-mg-injection"
+  },
+  {
+    "brandName": "Ace Duo",
+    "strength": "200 mg+500 mg",
+    "genericName": "Ibuprofen + Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/38985/ace-duo-200-mg-tablet"
+  },
+  {
+    "brandName": "Ace Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10557/ace-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Ace Power",
+    "strength": "1000 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/28573/ace-power-1000-mg-tablet"
+  },
+  {
+    "brandName": "Ace XR",
+    "strength": "665 mg",
+    "genericName": "Paracetamol",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/10378/ace-xr-665-mg-er-tablet"
+  },
+  {
+    "brandName": "Acebid",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/9/acebid-100-mg-tablet"
+  },
+  {
+    "brandName": "Acecard",
+    "strength": "1.25 mg",
+    "genericName": "Ramipril",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/2627/acecard-125-mg-tablet"
+  },
+  {
+    "brandName": "Acecard",
+    "strength": "2.5 mg",
+    "genericName": "Ramipril",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/2628/acecard-25-mg-tablet"
+  },
+  {
+    "brandName": "Acecard",
+    "strength": "5 mg",
+    "genericName": "Ramipril",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/2629/acecard-5-mg-tablet"
+  },
+  {
+    "brandName": "Aceclof",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Premier Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/17361/aceclof-100-mg-tablet"
+  },
+  {
+    "brandName": "Aceclofen",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Astra Biopharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/11/aceclofen-100-mg-tablet"
+  },
+  {
+    "brandName": "Aceclofenac",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Pristine Pharmaceuticals Ltd",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/35665/aceclofenac-100-mg-tablet"
+  },
+  {
+    "brandName": "Aceclofenac",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Pristine Pharmaceuticals Ltd",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/37389/aceclofenac-200-mg-sr-tablet"
+  },
+  {
+    "brandName": "Aceclofenac",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/37627/aceclofenac-100-mg-tablet"
+  },
+  {
+    "brandName": "Aceclofenac SR",
+    "strength": "200 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/37628/aceclofenac-sr-200-mg-sr-tablet"
+  },
+  {
+    "brandName": "Aceclora",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Marksman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/13/aceclora-100-mg-tablet"
+  },
+  {
+    "brandName": "Aceclosic",
+    "strength": "100 mg",
+    "genericName": "Aceclofenac",
+    "manufacturer": "Physic pharmaceuticals ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 5,
+    "sourceUrl": "https://medex.com.bd/brands?page=5",
+    "detailUrl": "https://medex.com.bd/brands/37789/aceclosic-100-mg-tablet"
+  }
+]

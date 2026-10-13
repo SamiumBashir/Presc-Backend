@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Algin",
+    "strength": "10 mg/5 ml",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/1431/algin-10-mg-syrup"
+  },
+  {
+    "brandName": "Algin",
+    "strength": "50 mg",
+    "genericName": "Tiemonium Methylsulfate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/1430/algin-50-mg-tablet"
+  },
+  {
+    "brandName": "Algirex",
+    "strength": "120 mg",
+    "genericName": "Etoricoxib",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/11152/algirex-120-mg-tablet"
+  },
+  {
+    "brandName": "Algirex",
+    "strength": "90 mg",
+    "genericName": "Etoricoxib",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/11151/algirex-90-mg-tablet"
+  },
+  {
+    "brandName": "Algirex",
+    "strength": "60 mg",
+    "genericName": "Etoricoxib",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/11150/algirex-60-mg-tablet"
+  },
+  {
+    "brandName": "Algisum",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/1398/algisum-500-mg-suspension"
+  },
+  {
+    "brandName": "Algisum",
+    "strength": "500 mg+100 mg",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/1397/algisum-500-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Algisum DX",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/35715/algisum-dx-500-mg-suspension"
+  },
+  {
+    "brandName": "Algisum Max",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/31531/algisum-max-500-mg-suspension"
+  },
+  {
+    "brandName": "Algita D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Algae Calcium + Vitamin D3",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/28633/algita-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Algita DX",
+    "strength": "600 mg+400 IU",
+    "genericName": "Algae Calcium + Vitamin D3",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/30004/algita-dx-600-mg-tablet"
+  },
+  {
+    "brandName": "Algrofin",
+    "strength": "250 mg",
+    "genericName": "Crizotinib",
+    "manufacturer": "Genvio Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/29317/algrofin-250-mg-capsule"
+  },
+  {
+    "brandName": "Alia",
+    "strength": "5 mg",
+    "genericName": "Allylestrenol",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/29306/alia-5-mg-tablet"
+  },
+  {
+    "brandName": "Alice",
+    "strength": "0.5%",
+    "genericName": "Ivermectin (Topical)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Lotion",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/26161/alice-05-lotion"
+  },
+  {
+    "brandName": "Alice",
+    "strength": "6 mg",
+    "genericName": "Ivermectin (Tablet)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/28709/alice-6-mg-tablet"
+  },
+  {
+    "brandName": "Alice",
+    "strength": "12 mg",
+    "genericName": "Ivermectin (Tablet)",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/28710/alice-12-mg-tablet"
+  },
+  {
+    "brandName": "Alimag",
+    "strength": "250 mg+400 mg",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/38031/alimag-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Alimta",
+    "strength": "100 mg/4 ml",
+    "genericName": "Pemetrexed",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/28995/alimta-100-mg-injection"
+  },
+  {
+    "brandName": "Alimta",
+    "strength": "500 mg/20 ml",
+    "genericName": "Pemetrexed",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/15073/alimta-500-mg-injection"
+  },
+  {
+    "brandName": "Alinix",
+    "strength": "100 mg/5 ml",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/2289/alinix-100-mg-suspension"
+  },
+  {
+    "brandName": "Alinix",
+    "strength": "500 mg",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/2288/alinix-500-mg-tablet"
+  },
+  {
+    "brandName": "Alistin",
+    "strength": "600 mg/3 ml",
+    "genericName": "Acetylcysteine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/39437/alistin-600-mg-respirator-solution"
+  },
+  {
+    "brandName": "Alistin DT",
+    "strength": "600 mg",
+    "genericName": "Acetylcysteine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/29462/alistin-dt-600-mg-tablet"
+  },
+  {
+    "brandName": "Alistin EF",
+    "strength": "600 mg",
+    "genericName": "Acetylcysteine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Effervescent Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/34390/alistin-ef-600-mg-tablet"
+  },
+  {
+    "brandName": "Alivio",
+    "strength": "15%+10%",
+    "genericName": "Methyl Salicylate + Menthol",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/32293/alivio-15-10-cream"
+  },
+  {
+    "brandName": "Alivio Extra",
+    "strength": "30%+10%+4%",
+    "genericName": "Methyl Salicylate + Menthol + Camphor",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/32294/alivio-extra-30-10-cream"
+  },
+  {
+    "brandName": "ALK",
+    "strength": "90 mg",
+    "genericName": "Brigatinib",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/33515/alk-90-mg-tablet"
+  },
+  {
+    "brandName": "Alkalina",
+    "strength": "600 mg",
+    "genericName": "Sodium Bicarbonate",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/34532/alkalina-600-mg-tablet"
+  },
+  {
+    "brandName": "Alkamax",
+    "strength": "(1500 mg+250 mg)/5 ml",
+    "genericName": "Potassium Citrate + Citric Acid",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/23722/alkamax-1500-mg-oral-solution"
+  },
+  {
+    "brandName": "Alkamin",
+    "strength": "2 mg/5 ml",
+    "genericName": "Chlorpheniramine Maleate",
+    "manufacturer": "Alkad Laboratories",
+    "dosageForm": "Syrup",
+    "sourcePage": 26,
+    "sourceUrl": "https://medex.com.bd/brands?page=26",
+    "detailUrl": "https://medex.com.bd/brands/19236/alkamin-2-mg-syrup"
+  }
+]

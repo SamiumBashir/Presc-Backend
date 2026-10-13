@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Dextrose",
+    "strength": "5%",
+    "genericName": "Dextrose",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/14846/dextrose-5-injection"
+  },
+  {
+    "brandName": "Dextrose",
+    "strength": "10%",
+    "genericName": "Dextrose",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/14847/dextrose-10-injection"
+  },
+  {
+    "brandName": "Dextrose",
+    "strength": "25%",
+    "genericName": "Dextrose",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/27715/dextrose-25-injection"
+  },
+  {
+    "brandName": "Dexzole",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/19750/dexzole-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dexzole",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/19751/dexzole-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Dezacot",
+    "strength": "6 mg",
+    "genericName": "Deflazacort",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/19701/dezacot-6-mg-tablet"
+  },
+  {
+    "brandName": "Dezacot",
+    "strength": "30 mg",
+    "genericName": "Deflazacort",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/29558/dezacot-30-mg-tablet"
+  },
+  {
+    "brandName": "Dezacot",
+    "strength": "24 mg",
+    "genericName": "Deflazacort",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/29775/dezacot-24-mg-tablet"
+  },
+  {
+    "brandName": "Dezacot",
+    "strength": "6 mg/5 ml",
+    "genericName": "Deflazacort",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/30411/dezacot-6-mg-suspension"
+  },
+  {
+    "brandName": "Dezco",
+    "strength": "6 mg",
+    "genericName": "Deflazacort",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/19696/dezco-6-mg-tablet"
+  },
+  {
+    "brandName": "Dezco",
+    "strength": "24 mg",
+    "genericName": "Deflazacort",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/26612/dezco-24-mg-tablet"
+  },
+  {
+    "brandName": "Dezert",
+    "strength": "6 mg",
+    "genericName": "Deflazacort",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/19697/dezert-6-mg-tablet"
+  },
+  {
+    "brandName": "Dezide",
+    "strength": "50 mg+25 mg",
+    "genericName": "Triamterene + Hydrochlorothiazide",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/2901/dezide-50-mg-tablet"
+  },
+  {
+    "brandName": "Dfc TR",
+    "strength": "100 mg",
+    "genericName": "Diclofenac Sodium",
+    "manufacturer": "Amulet Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/10967/dfc-tr-100-mg-tr-capsule"
+  },
+  {
+    "brandName": "DFN",
+    "strength": "400 mg",
+    "genericName": "Doxophylline",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/31467/dfn-400-mg-tablet"
+  },
+  {
+    "brandName": "DFX",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/9251/dfx-500-mg-tablet"
+  },
+  {
+    "brandName": "DFX",
+    "strength": "250 mg/5 ml",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "Delta Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/9252/dfx-250-mg-suspension"
+  },
+  {
+    "brandName": "DGM",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "genericName": "Guaifenesin + Dextromethorphan + Menthol",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/32002/dgm-200-mg-syrup"
+  },
+  {
+    "brandName": "DHEA",
+    "strength": "25 mg",
+    "genericName": "Dehydroepiandrosterone",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/31448/dhea-25-mg-tablet"
+  },
+  {
+    "brandName": "Dia M",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/22124/dia-m-850-mg-tablet"
+  },
+  {
+    "brandName": "Dia M",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/22125/dia-m-500-mg-tablet"
+  },
+  {
+    "brandName": "Dia M SR",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/22126/dia-m-sr-500-mg-sr-tablet"
+  },
+  {
+    "brandName": "Diabest",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/37051/diabest-500-mg-tablet"
+  },
+  {
+    "brandName": "Diabest",
+    "strength": "850 mh",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/37052/diabest-850-mh-tablet"
+  },
+  {
+    "brandName": "Diablo",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/33080/diablo-500-mg-tablet"
+  },
+  {
+    "brandName": "Diablo",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/33081/diablo-850-mg-tablet"
+  },
+  {
+    "brandName": "Diacana",
+    "strength": "100 mg",
+    "genericName": "Canagliflozin Hemihydrate",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/16351/diacana-100-mg-tablet"
+  },
+  {
+    "brandName": "Diacer Plus",
+    "strength": "750 mg+50 mg",
+    "genericName": "Glucosamine Sulfate + Diacerein",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/15005/diacer-plus-750-mg-tablet"
+  },
+  {
+    "brandName": "Diacon",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Credence Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/5220/diacon-80-mg-tablet"
+  },
+  {
+    "brandName": "Diacon",
+    "strength": "80 mg",
+    "genericName": "Gliclazide",
+    "manufacturer": "Millat Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 211,
+    "sourceUrl": "https://medex.com.bd/brands?page=211",
+    "detailUrl": "https://medex.com.bd/brands/5221/diacon-80-mg-tablet"
+  }
+]

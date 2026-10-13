@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Vital-D",
+    "strength": "2000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/30117/vital-d-2000-iu-capsule"
+  },
+  {
+    "brandName": "Vital-D",
+    "strength": "10000 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/30118/vital-d-10000-iu-oral-solution"
+  },
+  {
+    "brandName": "VitalAsta",
+    "strength": "2 mg",
+    "genericName": "Astaxanthin",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/17940/vitalasta-2-mg-capsule"
+  },
+  {
+    "brandName": "VitalAsta",
+    "strength": "4 mg",
+    "genericName": "Astaxanthin",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/17941/vitalasta-4-mg-capsule"
+  },
+  {
+    "brandName": "Vitalens",
+    "strength": "(2 mg+0.5 mg+0.6 mg+10 mg)/ml",
+    "genericName": "Adenosine + Cytochrome-C + Sodium Succinate + Nicotinamide",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/16218/vitalens-2-mg-eye-drop"
+  },
+  {
+    "brandName": "Vitalex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/13853/vitalex-5-mg-syrup"
+  },
+  {
+    "brandName": "Vitalex Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14125/vitalex-gold-tablet"
+  },
+  {
+    "brandName": "Vitalex-M",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral",
+    "manufacturer": "Supreme Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14237/vitalex-m-tablet"
+  },
+  {
+    "brandName": "Vitalgin",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z syrup preparation]",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14176/vitalgin-syrup"
+  },
+  {
+    "brandName": "Vitamax-D",
+    "strength": "2000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/28416/vitamax-d-2000-iu-capsule"
+  },
+  {
+    "brandName": "Vitamax-D",
+    "strength": "40000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/28418/vitamax-d-40000-iu-capsule"
+  },
+  {
+    "brandName": "Vitamax-D",
+    "strength": "20000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/36583/vitamax-d-20000-iu-capsule"
+  },
+  {
+    "brandName": "Vitamin B12",
+    "strength": "1000 mcg/ml",
+    "genericName": "Cyanocobalamin",
+    "manufacturer": "Rephco Pharmaceuticals Ltd.",
+    "dosageForm": "IM/SC Injection",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/13427/vitamin-b12-1000-mcg-injection"
+  },
+  {
+    "brandName": "Vitamin BZ",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/37351/vitamin-bz-syrup"
+  },
+  {
+    "brandName": "Vitamin-B1",
+    "strength": "100 mg/ml",
+    "genericName": "Thiamine Hydrochloride",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/34583/vitamin-b1-100-mg-injection"
+  },
+  {
+    "brandName": "Vitaminz",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14126/vitaminz-tablet"
+  },
+  {
+    "brandName": "Vitamom",
+    "strength": null,
+    "genericName": "Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/13270/vitamom-capsule"
+  },
+  {
+    "brandName": "Vitan",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14160/vitan-tablet"
+  },
+  {
+    "brandName": "Vitan Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14127/vitan-gold-tablet"
+  },
+  {
+    "brandName": "Vitanerv",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Goodman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/33632/vitanerv-100-mg-tablet"
+  },
+  {
+    "brandName": "Vitaplex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/13854/vitaplex-5-mg-tablet"
+  },
+  {
+    "brandName": "Vitaplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/13855/vitaplex-5-mg-syrup"
+  },
+  {
+    "brandName": "Vitaplex-Z",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14698/vitaplex-z-syrup"
+  },
+  {
+    "brandName": "Vitaplus",
+    "strength": null,
+    "genericName": "Multivitamin [Adult preparation]",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14066/vitaplus-tablet"
+  },
+  {
+    "brandName": "Vitaplus",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14235/vitaplus-tablet"
+  },
+  {
+    "brandName": "Vitared",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/16208/vitared-60-mg-capsule"
+  },
+  {
+    "brandName": "Vitasil B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/13858/vitasil-b-5-mg-syrup"
+  },
+  {
+    "brandName": "Vitasil M",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14238/vitasil-m-tablet"
+  },
+  {
+    "brandName": "VitaSilver",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/14159/vitasilver-tablet"
+  },
+  {
+    "brandName": "Vitatab",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Bristol Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 805,
+    "sourceUrl": "https://medex.com.bd/brands?page=805",
+    "detailUrl": "https://medex.com.bd/brands/13859/vitatab-5-mg-tablet"
+  }
+]

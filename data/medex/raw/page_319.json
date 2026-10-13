@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Foly",
+    "strength": "10 mg/ml",
+    "genericName": "Folinic Acid",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/28364/foly-10-mg-injection"
+  },
+  {
+    "brandName": "Foly",
+    "strength": "5 mg",
+    "genericName": "Folinic Acid",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/34124/foly-5-mg-tablet"
+  },
+  {
+    "brandName": "Folzin",
+    "strength": "5 mg+20 mg",
+    "genericName": "Folic Acid + Zinc Sulfate Monohydrate",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/14666/folzin-5-mg-tablet"
+  },
+  {
+    "brandName": "Folzin-CI",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "genericName": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/31701/folzin-ci-50-mg-tr-capsule"
+  },
+  {
+    "brandName": "Fomox",
+    "strength": "0.5%",
+    "genericName": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/9630/fomox-05-eye-drop"
+  },
+  {
+    "brandName": "Fomox XG",
+    "strength": "0.5%+0.4%",
+    "genericName": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/22684/fomox-xg-05-04-eye-drop"
+  },
+  {
+    "brandName": "Fona",
+    "strength": "0.1%",
+    "genericName": "Adapalene",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/172/fona-01-cream"
+  },
+  {
+    "brandName": "Fona",
+    "strength": "0.3%",
+    "genericName": "Adapalene",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Gel",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/175/fona-03-gel"
+  },
+  {
+    "brandName": "Fona Plus",
+    "strength": "0.1%+2.5%",
+    "genericName": "Adapalene + Benzoyl peroxide",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Gel",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/12793/fona-plus-01-25-gel"
+  },
+  {
+    "brandName": "Fondy",
+    "strength": "180 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/20370/fondy-180-mg-tablet"
+  },
+  {
+    "brandName": "Fondy",
+    "strength": "120 mg",
+    "genericName": "Fexofenadine Hydrochloride",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/20371/fondy-120-mg-tablet"
+  },
+  {
+    "brandName": "Fonidel",
+    "strength": "2.5 mg/0.5 ml",
+    "genericName": "Fondaparinux Sodium",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/29627/fonidel-25-mg-eye-drop"
+  },
+  {
+    "brandName": "Foos",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Kumudini Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/24559/foos-500-mg-suspension"
+  },
+  {
+    "brandName": "Forane",
+    "strength": "100% v/v",
+    "genericName": "Isoflurane",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Nebuliser Solution",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/15294/forane-100-v-respirator-solution"
+  },
+  {
+    "brandName": "Forbon",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "SMC Enterprise Ltd",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/25758/forbon-500-mg-tablet"
+  },
+  {
+    "brandName": "Forgen",
+    "strength": "500 mg/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/8163/forgen-500-mg-injection"
+  },
+  {
+    "brandName": "Forgen",
+    "strength": "1 gm/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/8164/forgen-1-gm-injection"
+  },
+  {
+    "brandName": "Forget Your Age Face Cream",
+    "strength": null,
+    "genericName": "Miscellaneous Topical Agents",
+    "manufacturer": "DBL Healthcare Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/38299/forget-your-age-face-cream-cream"
+  },
+  {
+    "brandName": "Formatide",
+    "strength": "100 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/18403/formatide-100-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Formatide",
+    "strength": "200 mcg+6 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/18404/formatide-200-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Formatide",
+    "strength": "400 mcg+12 mcg",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Dry Powder Inhalation Capsule (DPI)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/18405/formatide-400-mcg-inhalation-capsule"
+  },
+  {
+    "brandName": "Formatide",
+    "strength": "(80 mcg+4.5 mcg)/Puff",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/18406/formatide-80-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Formatide",
+    "strength": "(160 mcg+4.5 mcg)/Puff",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/18407/formatide-160-mcg-metered-dose-inhaler"
+  },
+  {
+    "brandName": "Formet",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/5379/formet-500-mg-tablet"
+  },
+  {
+    "brandName": "Formet",
+    "strength": "850 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/5380/formet-850-mg-tablet"
+  },
+  {
+    "brandName": "Formet L",
+    "strength": "2.5 mg+500 mg",
+    "genericName": "Linagliptin + Metformin Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/30993/formet-l-25-mg-tablet"
+  },
+  {
+    "brandName": "Formet V",
+    "strength": "50 mg+500 mg",
+    "genericName": "Vildagliptin + Metformin Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/31975/formet-v-50-mg-tablet"
+  },
+  {
+    "brandName": "Formet XR",
+    "strength": "500 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/22094/formet-xr-500-mg-er-tablet"
+  },
+  {
+    "brandName": "Formet XR",
+    "strength": "1000 mg",
+    "genericName": "Metformin Hydrochloride",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/32835/formet-xr-1000-mg-er-tablet"
+  },
+  {
+    "brandName": "Formocort",
+    "strength": "(80 mcg+4.5 mcg)/puff",
+    "genericName": "Budesonide + Formoterol Fumarate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Metered-Dose Inhaler (MDI)",
+    "sourcePage": 319,
+    "sourceUrl": "https://medex.com.bd/brands?page=319",
+    "detailUrl": "https://medex.com.bd/brands/18401/formocort-80-mcg-metered-dose-inhaler"
+  }
+]

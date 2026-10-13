@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "V-Nerve",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13714/v-nerve-100-mg-injection"
+  },
+  {
+    "brandName": "V-Nil",
+    "strength": "25 mg+50 mg",
+    "genericName": "Meclizine + Pyridoxine",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/26881/v-nil-25-mg-tablet"
+  },
+  {
+    "brandName": "V-Plex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13863/v-plex-5-mg-tablet"
+  },
+  {
+    "brandName": "V-Plex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13864/v-plex-5-mg-capsule"
+  },
+  {
+    "brandName": "V-Plex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13865/v-plex-5-mg-syrup"
+  },
+  {
+    "brandName": "V-Plex",
+    "strength": null,
+    "genericName": "Multivitamin [Pediatric preparation]",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13866/v-plex-pediatric-drop"
+  },
+  {
+    "brandName": "V-Plex",
+    "strength": "(50 mg+5.48 mg+100 mg+5 mg+10 mg)/2 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13867/v-plex-50-mg-injection"
+  },
+  {
+    "brandName": "V-Plex Plus",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/16650/v-plex-plus-tablet"
+  },
+  {
+    "brandName": "V3N",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13712/v3n-100-mg-tablet"
+  },
+  {
+    "brandName": "V4",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13844/v4-5-mg-syrup"
+  },
+  {
+    "brandName": "V4Z",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/13385/v4z-syrup"
+  },
+  {
+    "brandName": "Vabysmo",
+    "strength": "6 mg/0.05 ml",
+    "genericName": "Faricimab",
+    "manufacturer": "Roche Bangladesh Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/37525/vabysmo-6-mg-injection"
+  },
+  {
+    "brandName": "Valarux",
+    "strength": "1 gm",
+    "genericName": "Valacyclovir",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/17427/valarux-1-gm-tablet"
+  },
+  {
+    "brandName": "Valarux",
+    "strength": "500 mg",
+    "genericName": "Valacyclovir",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/28326/valarux-500-mg-tablet"
+  },
+  {
+    "brandName": "Valdipin",
+    "strength": "5 mg+80 mg",
+    "genericName": "Amlodipine Besilate + Valsartan",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/30590/valdipin-5-mg-tablet"
+  },
+  {
+    "brandName": "Valdipin",
+    "strength": "5 mg+160 mg",
+    "genericName": "Amlodipine Besilate + Valsartan",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/30591/valdipin-5-mg-tablet"
+  },
+  {
+    "brandName": "Valena",
+    "strength": "0.01%",
+    "genericName": "Estradiol (vaginal cream)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Vaginal Cream",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/35645/valena-001-vaginal-cream"
+  },
+  {
+    "brandName": "Valentino",
+    "strength": "3 mg+0.03 mg",
+    "genericName": "Drospirenone + Ethinyl Estradiol (0.03 mg)",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/35496/valentino-3-mg-tablet"
+  },
+  {
+    "brandName": "Valentino",
+    "strength": "3 mg+0.02 mg",
+    "genericName": "Drospirenone + Ethinyl Estradiol (0.02 mg)",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/35497/valentino-3-mg-tablet"
+  },
+  {
+    "brandName": "Valenty",
+    "strength": "10 mg",
+    "genericName": "Vardenafil",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/16745/valenty-10-mg-tablet"
+  },
+  {
+    "brandName": "Valenty",
+    "strength": "20 mg",
+    "genericName": "Vardenafil",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/16746/valenty-20-mg-tablet"
+  },
+  {
+    "brandName": "Valepi",
+    "strength": "200 mg",
+    "genericName": "Sodium Valproate",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/24627/valepi-200-mg-tablet"
+  },
+  {
+    "brandName": "Valepsy",
+    "strength": "200 mg/5 ml",
+    "genericName": "Sodium Valproate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/37437/valepsy-200-mg-syrup"
+  },
+  {
+    "brandName": "Valepsy CR",
+    "strength": "200 mg",
+    "genericName": "Sodium Valproate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Controlled Release)",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/37436/valepsy-cr-200-mg-cr-tablet"
+  },
+  {
+    "brandName": "Valepsy CR",
+    "strength": "300 mg",
+    "genericName": "Sodium Valproate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Controlled Release)",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/37438/valepsy-cr-300-mg-cr-tablet"
+  },
+  {
+    "brandName": "Valepsy CR",
+    "strength": "500 mg",
+    "genericName": "Sodium Valproate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Controlled Release)",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/37439/valepsy-cr-500-mg-cr-tablet"
+  },
+  {
+    "brandName": "Valestra",
+    "strength": "1 mg",
+    "genericName": "Estradiol Valerate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/30310/valestra-1-mg-tablet"
+  },
+  {
+    "brandName": "Valestra",
+    "strength": "2 mg",
+    "genericName": "Estradiol Valerate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/35339/valestra-2-mg-tablet"
+  },
+  {
+    "brandName": "Valex",
+    "strength": "500 mg/5 ml",
+    "genericName": "Sodium Valproate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/33829/valex-500-mg-injection"
+  },
+  {
+    "brandName": "Valex",
+    "strength": "200 mg",
+    "genericName": "Sodium Valproate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 785,
+    "sourceUrl": "https://medex.com.bd/brands?page=785",
+    "detailUrl": "https://medex.com.bd/brands/5076/valex-200-mg-tablet"
+  }
+]

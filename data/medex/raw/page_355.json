@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Gynoheal",
+    "strength": null,
+    "genericName": "Metronidazole + Neomycin Sulphate + Polymyxin B + Nystatin",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Vaginal Suppository",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/15684/gynoheal-vaginal-suppository"
+  },
+  {
+    "brandName": "Gynomix",
+    "strength": null,
+    "genericName": "Metronidazole + Neomycin Sulphate + Polymyxin B + Nystatin",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Vaginal Suppository",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/22461/gynomix-vaginal-suppository"
+  },
+  {
+    "brandName": "Gynoril",
+    "strength": null,
+    "genericName": "Metronidazole + Neomycin Sulphate + Polymyxin B + Nystatin",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Vaginal Suppository",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/15680/gynoril-vaginal-suppository"
+  },
+  {
+    "brandName": "Gynositol",
+    "strength": "500 mg",
+    "genericName": "D-chiro-inositol",
+    "manufacturer": "Total Herbal & Nutraceuticals",
+    "dosageForm": "Capsule",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/33698/gynositol-500-mg-capsule"
+  },
+  {
+    "brandName": "Gynova",
+    "strength": "2 mg",
+    "genericName": "Estradiol",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/16488/gynova-2-mg-tablet"
+  },
+  {
+    "brandName": "Gynoxin",
+    "strength": null,
+    "genericName": "Metronidazole + Neomycin Sulphate + Polymyxin B + Nystatin",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Vaginal Suppository",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/15681/gynoxin-vaginal-suppository"
+  },
+  {
+    "brandName": "H Ben",
+    "strength": "400 mg",
+    "genericName": "Albendazole",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/318/h-ben-400-mg-chewable-tablet"
+  },
+  {
+    "brandName": "H-CIN",
+    "strength": "4 mg",
+    "genericName": "Chlorpheniramine Maleate",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/37657/h-cin-4-mg-tablet"
+  },
+  {
+    "brandName": "H-Nap",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/22748/h-nap-500-mg-tablet"
+  },
+  {
+    "brandName": "H-Pen",
+    "strength": "250 mg",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/6154/h-pen-250-mg-tablet"
+  },
+  {
+    "brandName": "H-Quin",
+    "strength": "200 mg",
+    "genericName": "Hydroxychloroquine Sulphate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/29403/h-quin-200-mg-tablet"
+  },
+  {
+    "brandName": "H-Selax",
+    "strength": "4 mg",
+    "genericName": "Salbutamol",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/3473/h-selax-4-mg-tablet"
+  },
+  {
+    "brandName": "H-Selax",
+    "strength": "2 mg/5 ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "Hudson Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/3474/h-selax-2-mg-syrup"
+  },
+  {
+    "brandName": "H-Trimazole",
+    "strength": "1%+1%",
+    "genericName": "Clotrimazole + Hydrocortisone",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/12675/h-trimazole-1-1-cream"
+  },
+  {
+    "brandName": "H2O Moisturising Lotion",
+    "strength": null,
+    "genericName": "Miscellaneous Topical Agents",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "Lotion",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/39566/h2o-moisturising-lotion-lotion"
+  },
+  {
+    "brandName": "Haemee",
+    "strength": "30 mg",
+    "genericName": "Ferric Maltol",
+    "manufacturer": "C2C Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/37104/haemee-30-mg-capsule"
+  },
+  {
+    "brandName": "Haemozin TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "genericName": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Doctor’s Chemical Works Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/13305/haemozin-tr-150-mg-tr-capsule"
+  },
+  {
+    "brandName": "Hairgain",
+    "strength": "2%",
+    "genericName": "Minoxidil",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/33147/hairgain-2-scalp-solution"
+  },
+  {
+    "brandName": "Hairgain",
+    "strength": "5%",
+    "genericName": "Minoxidil",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/33148/hairgain-5-scalp-solution"
+  },
+  {
+    "brandName": "Hairgrow",
+    "strength": "2%",
+    "genericName": "Minoxidil",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/26757/hairgrow-2-scalp-solution"
+  },
+  {
+    "brandName": "Hairgrow",
+    "strength": "5%",
+    "genericName": "Minoxidil",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/26758/hairgrow-5-scalp-solution"
+  },
+  {
+    "brandName": "Halaven",
+    "strength": "0.44 mg/ml",
+    "genericName": "Eribulin Mesylate",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/38768/halaven-044-mg-injection"
+  },
+  {
+    "brandName": "Halobet",
+    "strength": "0.05%",
+    "genericName": "Halobetasol Propionate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/12650/halobet-005-cream"
+  },
+  {
+    "brandName": "Halobet",
+    "strength": "0.05%",
+    "genericName": "Halobetasol Propionate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Ointment",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/12651/halobet-005-ointment"
+  },
+  {
+    "brandName": "Halocort",
+    "strength": "0.05%",
+    "genericName": "Halobetasol Propionate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Cream",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/12652/halocort-005-cream"
+  },
+  {
+    "brandName": "Halocort",
+    "strength": "0.05%",
+    "genericName": "Halobetasol Propionate",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Ointment",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/12653/halocort-005-ointment"
+  },
+  {
+    "brandName": "Halonate",
+    "strength": "0.05%",
+    "genericName": "Halobetasol Propionate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/35494/halonate-005-cream"
+  },
+  {
+    "brandName": "Halonate",
+    "strength": "0.05%",
+    "genericName": "Halobetasol Propionate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/35495/halonate-005-ointment"
+  },
+  {
+    "brandName": "Halop",
+    "strength": "5 mg",
+    "genericName": "Haloperidol",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/4381/halop-5-mg-tablet"
+  },
+  {
+    "brandName": "Halopen",
+    "strength": "250 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 355,
+    "sourceUrl": "https://medex.com.bd/brands?page=355",
+    "detailUrl": "https://medex.com.bd/brands/6350/halopen-250-mg-capsule"
+  }
+]

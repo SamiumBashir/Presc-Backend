@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Maxclin",
+    "strength": "300 mg",
+    "genericName": "Clindamycin",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/27866/maxclin-300-mg-capsule"
+  },
+  {
+    "brandName": "Maxdol",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/21242/maxdol-30-mg-injection"
+  },
+  {
+    "brandName": "Maxdol",
+    "strength": "60 mg/2 ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/28176/maxdol-60-mg-injection"
+  },
+  {
+    "brandName": "Maxdol",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Concord Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/15357/maxdol-10-mg-tablet"
+  },
+  {
+    "brandName": "Maxfer",
+    "strength": "500 mg/10 ml",
+    "genericName": "Ferric Carboxymaltose",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/28410/maxfer-500-mg-iv-injection"
+  },
+  {
+    "brandName": "Maxfer",
+    "strength": "1 gm/20 ml",
+    "genericName": "Ferric Carboxymaltose",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/30921/maxfer-1-gm-iv-injection"
+  },
+  {
+    "brandName": "Maxflo-U",
+    "strength": "0.4 mg",
+    "genericName": "Tamsulosin Hydrochloride",
+    "manufacturer": "Rangs Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Modified Release)",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/15588/maxflo-u-04-mg-mr-capsule"
+  },
+  {
+    "brandName": "Maxgalin",
+    "strength": "10 mg",
+    "genericName": "Mirogabalin Besylate",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/37660/maxgalin-10-mg-tablet"
+  },
+  {
+    "brandName": "Maxgalin",
+    "strength": "5 mg",
+    "genericName": "Mirogabalin Besylate",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/37661/maxgalin-5-mg-tablet"
+  },
+  {
+    "brandName": "Maxical",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/14268/maxical-500-mg-tablet"
+  },
+  {
+    "brandName": "Maxical-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/14446/maxical-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Maxical-DX",
+    "strength": "600 mg+400 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/18450/maxical-dx-600-mg-tablet"
+  },
+  {
+    "brandName": "Maxicon",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/21939/maxicon-480-mg-suspension"
+  },
+  {
+    "brandName": "Maxidim",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/7874/maxidim-250-mg-injection"
+  },
+  {
+    "brandName": "Maxidim",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/7875/maxidim-500-mg-injection"
+  },
+  {
+    "brandName": "Maxidim",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftazidime Pentahydrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/7876/maxidim-1-gm-injection"
+  },
+  {
+    "brandName": "Maxifer",
+    "strength": "100 mg/5 ml",
+    "genericName": "Iron Sucrose",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/13149/maxifer-100-mg-iv-injection"
+  },
+  {
+    "brandName": "Maxiflox",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/9615/maxiflox-400-mg-tablet"
+  },
+  {
+    "brandName": "Maxiflox",
+    "strength": "0.5%",
+    "genericName": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/9635/maxiflox-05-eye-drop"
+  },
+  {
+    "brandName": "Maxilax",
+    "strength": "10 gm/sachet",
+    "genericName": "Lactitol Monohydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/2371/maxilax-10-gm-powder"
+  },
+  {
+    "brandName": "Maxilax",
+    "strength": "10 gm/15 ml",
+    "genericName": "Lactitol Monohydrate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/27052/maxilax-10-gm-oral-solution"
+  },
+  {
+    "brandName": "Maxima",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/26125/maxima-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Maxima",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/26521/maxima-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "Maxima",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/2073/maxima-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Maxima",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/2074/maxima-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Maxima",
+    "strength": "40 mg/vial",
+    "genericName": "Esomeprazole",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/2075/maxima-40-mg-injection"
+  },
+  {
+    "brandName": "Maxima MUPS",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/28273/maxima-mups-20-mg-tablet"
+  },
+  {
+    "brandName": "Maxima MUPS",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole (MUPS preparation)",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "MUPS Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/30224/maxima-mups-40-mg-tablet"
+  },
+  {
+    "brandName": "Maximox",
+    "strength": "400 mg/250 ml",
+    "genericName": "Moxifloxacin Hydrochloride (Injection)",
+    "manufacturer": "Orion Infusion Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/32483/maximox-400-mg-injection"
+  },
+  {
+    "brandName": "Maximox",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 448,
+    "sourceUrl": "https://medex.com.bd/brands?page=448",
+    "detailUrl": "https://medex.com.bd/brands/9616/maximox-400-mg-tablet"
+  }
+]

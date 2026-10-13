@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Xenapro",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/11513/xenapro-500-mg-tablet"
+  },
+  {
+    "brandName": "Xenapro Plus",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/11591/xenapro-plus-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Xenapro Plus",
+    "strength": "375 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/11592/xenapro-plus-375-mg-dr-tablet"
+  },
+  {
+    "brandName": "Xendox",
+    "strength": "200 mg",
+    "genericName": "Doxophylline",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/38104/xendox-200-mg-tablet"
+  },
+  {
+    "brandName": "Xendox",
+    "strength": "400 mg",
+    "genericName": "Doxophylline",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/38105/xendox-400-mg-tablet"
+  },
+  {
+    "brandName": "Xenim",
+    "strength": "500 mg/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/8190/xenim-500-mg-injection"
+  },
+  {
+    "brandName": "Xenim",
+    "strength": "1 gm/vial",
+    "genericName": "Cefepime Hydrochloride",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/8191/xenim-1-gm-injection"
+  },
+  {
+    "brandName": "Xenmep",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Ethical Drugs Limited",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/36509/xenmep-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Xenobese",
+    "strength": "120 mg",
+    "genericName": "Orlistat",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/5166/xenobese-120-mg-capsule"
+  },
+  {
+    "brandName": "Xenobid",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/37814/xenobid-500-mg-tablet"
+  },
+  {
+    "brandName": "Xenocort",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/12596/xenocort-005-cream"
+  },
+  {
+    "brandName": "Xenocort",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/12597/xenocort-005-ointment"
+  },
+  {
+    "brandName": "Xenoderm",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/19452/xenoderm-005-05-cream"
+  },
+  {
+    "brandName": "Xenoderm",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/19453/xenoderm-005-05-ointment"
+  },
+  {
+    "brandName": "Xenofer",
+    "strength": "100 mg/5 ml",
+    "genericName": "Iron Sucrose",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/13147/xenofer-100-mg-iv-injection"
+  },
+  {
+    "brandName": "Xenogrow",
+    "strength": "2%",
+    "genericName": "Minoxidil",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/12817/xenogrow-2-scalp-solution"
+  },
+  {
+    "brandName": "Xenogrow",
+    "strength": "5%",
+    "genericName": "Minoxidil",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/12818/xenogrow-5-scalp-solution"
+  },
+  {
+    "brandName": "Xenolac",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Marker Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/15407/xenolac-10-mg-tablet"
+  },
+  {
+    "brandName": "Xenole",
+    "strength": "375 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/11580/xenole-375-mg-dr-tablet"
+  },
+  {
+    "brandName": "Xenole",
+    "strength": "500 mg+20 mg",
+    "genericName": "Naproxen Sodium + Esomeprazole Magnesium",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/11581/xenole-500-mg-dr-tablet"
+  },
+  {
+    "brandName": "Xenolev",
+    "strength": "500 mg",
+    "genericName": "Levofloxacin Hemihydrate",
+    "manufacturer": "Virgo Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/9537/xenolev-500-mg-tablet"
+  },
+  {
+    "brandName": "Xenosal",
+    "strength": "0.05%+3%",
+    "genericName": "Clobetasol Propionate + Salicylic Acid",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/13022/xenosal-005-3-ointment"
+  },
+  {
+    "brandName": "Xenosol",
+    "strength": "0.9%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/14872/xenosol-09-injection"
+  },
+  {
+    "brandName": "Xenovate",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/12599/xenovate-005-ointment"
+  },
+  {
+    "brandName": "Xenovate",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Scalp Solution",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/39641/xenovate-005-scalp-solution"
+  },
+  {
+    "brandName": "Xenovate",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/31619/xenovate-005-cream"
+  },
+  {
+    "brandName": "Xenthol",
+    "strength": "30%+8%",
+    "genericName": "Methyl Salicylate + Menthol",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/10867/xenthol-30-8-cream"
+  },
+  {
+    "brandName": "Xentoin",
+    "strength": "100 mg",
+    "genericName": "Phenytoin Sodium",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/4897/xentoin-100-mg-tablet"
+  },
+  {
+    "brandName": "Xepadon",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/1660/xepadon-10-mg-tablet"
+  },
+  {
+    "brandName": "Xepadon",
+    "strength": "5 mg/5 ml",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 821,
+    "sourceUrl": "https://medex.com.bd/brands?page=821",
+    "detailUrl": "https://medex.com.bd/brands/1661/xepadon-5-mg-suspension"
+  }
+]

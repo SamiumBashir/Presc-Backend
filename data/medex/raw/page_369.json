@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Iben",
+    "strength": "400 mg",
+    "genericName": "Ibuprofen (Oral)",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/11276/iben-400-mg-tablet"
+  },
+  {
+    "brandName": "Iben",
+    "strength": "400 mg",
+    "genericName": "Ibuprofen (Oral)",
+    "manufacturer": "Central Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/11306/iben-400-mg-tablet"
+  },
+  {
+    "brandName": "IBF",
+    "strength": "400 mg",
+    "genericName": "Ibuprofen (Oral)",
+    "manufacturer": "Decent Pharma Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/11277/ibf-400-mg-tablet"
+  },
+  {
+    "brandName": "Ibida",
+    "strength": "200 mg",
+    "genericName": "Rifaximin",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/29285/ibida-200-mg-tablet"
+  },
+  {
+    "brandName": "Ibida",
+    "strength": "550 mg",
+    "genericName": "Rifaximin",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/29286/ibida-550-mg-tablet"
+  },
+  {
+    "brandName": "Ibnsina Tasty Saline",
+    "strength": null,
+    "genericName": "Oral rehydration salt [tasty]",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/37691/ibnsina-tasty-saline-powder"
+  },
+  {
+    "brandName": "Ibolax",
+    "strength": "2 mg",
+    "genericName": "Prucalopride Succinate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/38210/ibolax-2-mg-tablet"
+  },
+  {
+    "brandName": "Ibolax",
+    "strength": "1 mg",
+    "genericName": "Prucalopride Succinate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/38211/ibolax-1-mg-tablet"
+  },
+  {
+    "brandName": "Ibrucent",
+    "strength": "140 mg",
+    "genericName": "Ibrutinib",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/25998/ibrucent-140-mg-capsule"
+  },
+  {
+    "brandName": "Ibrucon",
+    "strength": "140 mg",
+    "genericName": "Ibrutinib",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/36731/ibrucon-140-mg-capsule"
+  },
+  {
+    "brandName": "Ibrunib",
+    "strength": "140 mg",
+    "genericName": "Ibrutinib",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/27010/ibrunib-140-mg-capsule"
+  },
+  {
+    "brandName": "Ibrutab",
+    "strength": "140 mg",
+    "genericName": "Ibrutinib",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/32451/ibrutab-140-mg-capsule"
+  },
+  {
+    "brandName": "Ibruxen",
+    "strength": "140 mg",
+    "genericName": "Ibrutinib",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/28836/ibruxen-140-mg-capsule"
+  },
+  {
+    "brandName": "Ibsan",
+    "strength": "75 mg",
+    "genericName": "Irbesartan",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/21084/ibsan-75-mg-tablet"
+  },
+  {
+    "brandName": "Ibsan",
+    "strength": "150 mg",
+    "genericName": "Irbesartan",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/26515/ibsan-150-mg-tablet"
+  },
+  {
+    "brandName": "Ibspa",
+    "strength": "10 mg/5 ml",
+    "genericName": "Dicycloverine Hydrochloride",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/28543/ibspa-10-mg-syrup"
+  },
+  {
+    "brandName": "Ibspa",
+    "strength": "10 mg",
+    "genericName": "Dicycloverine Hydrochloride",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/1330/ibspa-10-mg-tablet"
+  },
+  {
+    "brandName": "Iburex",
+    "strength": "200 mg",
+    "genericName": "Ibuprofen (Oral)",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/11278/iburex-200-mg-tablet"
+  },
+  {
+    "brandName": "Iburex",
+    "strength": "400 mg",
+    "genericName": "Ibuprofen (Oral)",
+    "manufacturer": "Medimet Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/11279/iburex-400-mg-tablet"
+  },
+  {
+    "brandName": "Ibutigen",
+    "strength": "140 mg",
+    "genericName": "Ibrutinib",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/32764/ibutigen-140-mg-capsule"
+  },
+  {
+    "brandName": "Icaft",
+    "strength": "0.25%",
+    "genericName": "Alcaftadine",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/17458/icaft-025-eye-drop"
+  },
+  {
+    "brandName": "Ican",
+    "strength": "20 mg/ml",
+    "genericName": "Irinotecan Hydrochloride",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/38810/ican-20-mg-injection"
+  },
+  {
+    "brandName": "Icand",
+    "strength": "100 mg",
+    "genericName": "Itraconazole",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/38543/icand-100-mg-capsule"
+  },
+  {
+    "brandName": "Icand",
+    "strength": "200 mg",
+    "genericName": "Itraconazole",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/38544/icand-200-mg-tablet"
+  },
+  {
+    "brandName": "Icefil",
+    "strength": "0.4%+0.3%",
+    "genericName": "Polyethylene Glycol + Propylene Glycol",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/29198/icefil-04-03-eye-drop"
+  },
+  {
+    "brandName": "Icid",
+    "strength": "20%",
+    "genericName": "Sulfacetamide sodium",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/30498/icid-20-eye-drop"
+  },
+  {
+    "brandName": "Icid",
+    "strength": "10%",
+    "genericName": "Sulfacetamide sodium",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/30499/icid-10-eye-drop"
+  },
+  {
+    "brandName": "Iclear",
+    "strength": "0.3%",
+    "genericName": "Hypromellose",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/16132/iclear-03-eye-drop"
+  },
+  {
+    "brandName": "Icol",
+    "strength": "0.5%",
+    "genericName": "Chloramphenicol (Ophthalmic)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/8897/icol-05-eye-drop"
+  },
+  {
+    "brandName": "Iconal",
+    "strength": "100 mg",
+    "genericName": "Itraconazole",
+    "manufacturer": "Kemiko Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 369,
+    "sourceUrl": "https://medex.com.bd/brands?page=369",
+    "detailUrl": "https://medex.com.bd/brands/9992/iconal-100-mg-capsule"
+  }
+]

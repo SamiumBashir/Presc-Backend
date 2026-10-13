@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Topcef",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/8079/topcef-1-gm-injection"
+  },
+  {
+    "brandName": "Topcef",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/8081/topcef-500-mg-injection"
+  },
+  {
+    "brandName": "Topcef",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/8082/topcef-1-gm-injection"
+  },
+  {
+    "brandName": "Topcef",
+    "strength": "2 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/8083/topcef-2-gm-injection"
+  },
+  {
+    "brandName": "Toperin",
+    "strength": "50 mg",
+    "genericName": "Tolperisone Hydrochloride",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/15499/toperin-50-mg-tablet"
+  },
+  {
+    "brandName": "Topflu",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/37053/topflu-500-mg-capsule"
+  },
+  {
+    "brandName": "Topflu",
+    "strength": "125 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/37054/topflu-125-mg-suspension"
+  },
+  {
+    "brandName": "Topibac",
+    "strength": "1%",
+    "genericName": "Retapamulin",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/29630/topibac-1-ointment"
+  },
+  {
+    "brandName": "Topibet CL",
+    "strength": "0.1%+1%",
+    "genericName": "Betamethasone + Clotrimazole",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/12553/topibet-cl-01-1-ointment"
+  },
+  {
+    "brandName": "Topicacin",
+    "strength": "0.025% w/w",
+    "genericName": "Capsaicin",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/30699/topicacin-0025-w-cream"
+  },
+  {
+    "brandName": "Topicare",
+    "strength": "0.05%+3%",
+    "genericName": "Clobetasol Propionate + Salicylic Acid",
+    "manufacturer": "Chemist Laboratories Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/34576/topicare-005-3-ointment"
+  },
+  {
+    "brandName": "Topicazole",
+    "strength": "2% w/w",
+    "genericName": "Miconazole Nitrate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/10032/topicazole-2-w-cream"
+  },
+  {
+    "brandName": "Topicazole Plus",
+    "strength": "2%+1%",
+    "genericName": "Miconazole Nitrate + Hydrocortisone",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/12688/topicazole-plus-2-1-cream"
+  },
+  {
+    "brandName": "Topiclo",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/12592/topiclo-005-cream"
+  },
+  {
+    "brandName": "Topiclo",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/12593/topiclo-005-ointment"
+  },
+  {
+    "brandName": "Topiclo",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Lotion",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/30034/topiclo-005-lotion"
+  },
+  {
+    "brandName": "Topiclo",
+    "strength": "0.05%",
+    "genericName": "Clobetasol Propionate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Topical Spray",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/30035/topiclo-005-spray"
+  },
+  {
+    "brandName": "Topiclo NN",
+    "strength": "0.05%+0.5%+2%",
+    "genericName": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/13028/topiclo-nn-005-05-ointment"
+  },
+  {
+    "brandName": "Topiclo S",
+    "strength": "0.05%+3%",
+    "genericName": "Clobetasol Propionate + Salicylic Acid",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/12611/topiclo-s-005-3-ointment"
+  },
+  {
+    "brandName": "Topicort",
+    "strength": "1%",
+    "genericName": "Hydrocortisone Acetate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Cream",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/12660/topicort-1-cream"
+  },
+  {
+    "brandName": "Topiderm",
+    "strength": "2%+1%",
+    "genericName": "Fusidic acid + Hydrocortisone",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/33941/topiderm-2-1-cream"
+  },
+  {
+    "brandName": "Topidin",
+    "strength": "5% w/w",
+    "genericName": "Povidone Iodine",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/28611/topidin-5-w-ointment"
+  },
+  {
+    "brandName": "Topimax",
+    "strength": "25 mg",
+    "genericName": "Topiramate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/30966/topimax-25-mg-tablet"
+  },
+  {
+    "brandName": "Topimax",
+    "strength": "50 mg",
+    "genericName": "Topiramate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/30967/topimax-50-mg-tablet"
+  },
+  {
+    "brandName": "Topirva",
+    "strength": "25 mg",
+    "genericName": "Topiramate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/5096/topirva-25-mg-tablet"
+  },
+  {
+    "brandName": "Topirva",
+    "strength": "50 mg",
+    "genericName": "Topiramate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/5097/topirva-50-mg-tablet"
+  },
+  {
+    "brandName": "Topirva XR",
+    "strength": "100 mg",
+    "genericName": "Topiramate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Extended Release)",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/33824/topirva-xr-100-mg-xr-capsule"
+  },
+  {
+    "brandName": "Topirva XR",
+    "strength": "50 mg",
+    "genericName": "Topiramate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Extended Release)",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/33825/topirva-xr-50-mg-xr-capsule"
+  },
+  {
+    "brandName": "Topirva XR",
+    "strength": "25 mg",
+    "genericName": "Topiramate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Extended Release)",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/33826/topirva-xr-25-mg-xr-capsule"
+  },
+  {
+    "brandName": "Topita SR",
+    "strength": "100 mg",
+    "genericName": "Tapentadol Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Sustained Release)",
+    "sourcePage": 755,
+    "sourceUrl": "https://medex.com.bd/brands?page=755",
+    "detailUrl": "https://medex.com.bd/brands/29100/topita-sr-100-mg-sr-tablet"
+  }
+]

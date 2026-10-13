@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "P-Don",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/1630/p-don-10-mg-tablet"
+  },
+  {
+    "brandName": "P-Don",
+    "strength": "5 mg/5 ml",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/1631/p-don-5-mg-suspension"
+  },
+  {
+    "brandName": "P-Gut",
+    "strength": "20 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/2144/p-gut-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "P-Gut",
+    "strength": "40 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/2145/p-gut-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "P-Gut",
+    "strength": "40 mg/vial",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/2146/p-gut-40-mg-injection"
+  },
+  {
+    "brandName": "P-L Jelly",
+    "strength": "(1 gm+1.3 gm)/50 gm",
+    "genericName": "Hydroxyethyl Cellulose + Glycerin",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Topical Gel",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/30099/p-l-jelly-1-gm-topical-gel"
+  },
+  {
+    "brandName": "P-Lock",
+    "strength": "40 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "One Pharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/23345/p-lock-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "P-Lock",
+    "strength": "20 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "One Pharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/23346/p-lock-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "P-Moxlocin",
+    "strength": "0.5%",
+    "genericName": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/22687/p-moxlocin-05-eye-drop"
+  },
+  {
+    "brandName": "P-Plex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Prime Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/13890/p-plex-5-mg-tablet"
+  },
+  {
+    "brandName": "P-Proton",
+    "strength": "20 mg",
+    "genericName": "Pantoprazole Sodium",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/32550/p-proton-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "P-Tetracycline",
+    "strength": "250 mg",
+    "genericName": "Tetracycline Hydrochloride",
+    "manufacturer": "Pristine Pharmaceuticals Ltd",
+    "dosageForm": "Capsule",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/35663/p-tetracycline-250-mg-capsule"
+  },
+  {
+    "brandName": "P-Zink",
+    "strength": "20 mg",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/28761/p-zink-20-mg-tablet"
+  },
+  {
+    "brandName": "P+C",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Alco Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/10608/pc-500-mg-tablet"
+  },
+  {
+    "brandName": "PAC",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/10597/pac-500-mg-tablet"
+  },
+  {
+    "brandName": "Pace",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "Marksman Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/10644/pace-500-mg-tablet"
+  },
+  {
+    "brandName": "Pacet",
+    "strength": "200 mg",
+    "genericName": "Amiodarone Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/615/pacet-200-mg-tablet"
+  },
+  {
+    "brandName": "Pacet",
+    "strength": "100 mg",
+    "genericName": "Amiodarone Hydrochloride",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/616/pacet-100-mg-tablet"
+  },
+  {
+    "brandName": "Pacibion",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/13688/pacibion-100-mg-tablet"
+  },
+  {
+    "brandName": "Pacibion",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/28584/pacibion-100-mg-injection"
+  },
+  {
+    "brandName": "Pacin-V",
+    "strength": "250 mg",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/6142/pacin-v-250-mg-tablet"
+  },
+  {
+    "brandName": "Pacli",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/31436/pacli-6-mg-injection"
+  },
+  {
+    "brandName": "Paclitaxel",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "CuRx",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/35918/paclitaxel-6-mg-injection"
+  },
+  {
+    "brandName": "Paclitaxel Actavis",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "BOTS Pvt. Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/17272/paclitaxel-actavis-6-mg-injection"
+  },
+  {
+    "brandName": "Paclitaxel AqVida",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "AqVida bangladesh",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/17346/paclitaxel-aqvida-6-mg-injection"
+  },
+  {
+    "brandName": "Paclitaxel PhaRes",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/17300/paclitaxel-phares-6-mg-injection"
+  },
+  {
+    "brandName": "Paclitaxel Sandoz",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/15135/paclitaxel-sandoz-6-mg-injection"
+  },
+  {
+    "brandName": "Paclitex",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/15136/paclitex-6-mg-injection"
+  },
+  {
+    "brandName": "Paclitor",
+    "strength": "6 mg/ml",
+    "genericName": "Paclitaxel",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/29807/paclitor-6-mg-injection"
+  },
+  {
+    "brandName": "Pactorin",
+    "strength": "400 mcg/spray",
+    "genericName": "Nitroglycerin",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Topical Spray",
+    "sourcePage": 569,
+    "sourceUrl": "https://medex.com.bd/brands?page=569",
+    "detailUrl": "https://medex.com.bd/brands/20770/pactorin-400-mcg-spray"
+  }
+]

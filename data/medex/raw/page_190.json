@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "D-Vital",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Doctor’s Chemical Works Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/13645/d-vital-100-mg-tablet"
+  },
+  {
+    "brandName": "D-Zole",
+    "strength": "1000 mg",
+    "genericName": "Secnidazole",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/34740/d-zole-1000-mg-tablet"
+  },
+  {
+    "brandName": "D3",
+    "strength": "400 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/37188/d3-400-iu-oral-solution"
+  },
+  {
+    "brandName": "D3",
+    "strength": "2000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/26347/d3-2000-iu-tablet"
+  },
+  {
+    "brandName": "D3",
+    "strength": "20000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/26348/d3-20000-iu-capsule"
+  },
+  {
+    "brandName": "D3",
+    "strength": "40000 IU",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/26349/d3-40000-iu-capsule"
+  },
+  {
+    "brandName": "D3",
+    "strength": "200 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/27547/d3-200-iu-pediatric-drop"
+  },
+  {
+    "brandName": "D3",
+    "strength": "200000 IU/ml",
+    "genericName": "Cholecalciferol [Vitamin D3]",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Injectable Solution (Oral & IM)",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/27548/d3-200000-iu-injectable-solution"
+  },
+  {
+    "brandName": "Dabigat",
+    "strength": "75 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/32716/dabigat-75-mg-capsule"
+  },
+  {
+    "brandName": "Dabigat",
+    "strength": "110 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/32715/dabigat-110-mg-capsule"
+  },
+  {
+    "brandName": "Dabigat",
+    "strength": "150 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/38241/dabigat-150-mg-capsule"
+  },
+  {
+    "brandName": "Dabiran",
+    "strength": "110 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/32713/dabiran-110-mg-capsule"
+  },
+  {
+    "brandName": "Dabiran",
+    "strength": "150 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/32712/dabiran-150-mg-capsule"
+  },
+  {
+    "brandName": "Dabiren",
+    "strength": "150 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/34717/dabiren-150-mg-capsule"
+  },
+  {
+    "brandName": "Dabiren",
+    "strength": "75 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "Renata PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/34478/dabiren-75-mg-capsule"
+  },
+  {
+    "brandName": "Dabixta",
+    "strength": "75 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/20527/dabixta-75-mg-capsule"
+  },
+  {
+    "brandName": "Dabixta",
+    "strength": "110 mg",
+    "genericName": "Dabigatran Etexilate Mesylate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/20528/dabixta-110-mg-capsule"
+  },
+  {
+    "brandName": "Dacarzin",
+    "strength": "200 mg/vial",
+    "genericName": "Dacarbazine",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/26011/dacarzin-200-mg-injection"
+  },
+  {
+    "brandName": "Dacivo",
+    "strength": "15 mg",
+    "genericName": "Upadacitinib",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/39604/dacivo-15-mg-er-tablet"
+  },
+  {
+    "brandName": "Daclacee",
+    "strength": "60 mg",
+    "genericName": "Daclatasvir",
+    "manufacturer": "Jenphar Bangladesh Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/30842/daclacee-60-mg-tablet"
+  },
+  {
+    "brandName": "Daclavir",
+    "strength": "60 mg",
+    "genericName": "Daclatasvir",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/16383/daclavir-60-mg-tablet"
+  },
+  {
+    "brandName": "Daclaxen",
+    "strength": "60 mg",
+    "genericName": "Daclatasvir",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/28838/daclaxen-60-mg-tablet"
+  },
+  {
+    "brandName": "Daclin",
+    "strength": "1%",
+    "genericName": "Clindamycin (Lotion)",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Lotion",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/12768/daclin-1-lotion"
+  },
+  {
+    "brandName": "Daclin",
+    "strength": "300 mg",
+    "genericName": "Clindamycin",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/8838/daclin-300-mg-capsule"
+  },
+  {
+    "brandName": "Daclin",
+    "strength": "150 mg",
+    "genericName": "Clindamycin",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/8837/daclin-150-mg-capsule"
+  },
+  {
+    "brandName": "Daclin T",
+    "strength": "1.2%+0.025%",
+    "genericName": "Clindamycin + Tretinoin",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Topical Gel",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/34522/daclin-t-12-0025-topical-gel"
+  },
+  {
+    "brandName": "Dacocent",
+    "strength": "45 mg",
+    "genericName": "Dacomitinib",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/33162/dacocent-45-mg-tablet"
+  },
+  {
+    "brandName": "Daconib",
+    "strength": "45 mg",
+    "genericName": "Dacomitinib",
+    "manufacturer": "Everest Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/34679/daconib-45-mg-tablet"
+  },
+  {
+    "brandName": "Dactus",
+    "strength": "1 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/5283/dactus-1-mg-tablet"
+  },
+  {
+    "brandName": "Dactus",
+    "strength": "2 mg",
+    "genericName": "Glimepiride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 190,
+    "sourceUrl": "https://medex.com.bd/brands?page=190",
+    "detailUrl": "https://medex.com.bd/brands/5284/dactus-2-mg-tablet"
+  }
+]

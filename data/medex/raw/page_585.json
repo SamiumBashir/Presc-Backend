@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Pep Plus",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/14694/pep-plus-tablet"
+  },
+  {
+    "brandName": "Pep Plus",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/14695/pep-plus-syrup"
+  },
+  {
+    "brandName": "Pep-2",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/14579/pep-2-10-mg-syrup"
+  },
+  {
+    "brandName": "Pep-20",
+    "strength": "20 mg",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/14580/pep-20-20-mg-tablet"
+  },
+  {
+    "brandName": "Pep-20",
+    "strength": "20 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/14581/pep-20-20-mg-syrup"
+  },
+  {
+    "brandName": "Pepcon Plus",
+    "strength": "480 mg+20 mg",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Leon Pharmaceuticals Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/16607/pepcon-plus-480-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Pepcon Plus",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "genericName": "Magaldrate + Simethicone",
+    "manufacturer": "Leon Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/16608/pepcon-plus-480-mg-suspension"
+  },
+  {
+    "brandName": "Pepgel",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Globe Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/33791/pepgel-500-mg-suspension"
+  },
+  {
+    "brandName": "Peplo",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/31496/peplo-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Peplo",
+    "strength": "40 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/31497/peplo-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Peptacid",
+    "strength": "(400 mg+400 mg+30 mg)/5 ml",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/28121/peptacid-400-mg-suspension"
+  },
+  {
+    "brandName": "Peptacid",
+    "strength": "200 mg+200 mg+30 mg",
+    "genericName": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/510/peptacid-200-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Peptex",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/31613/peptex-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Peptex",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "DBL Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/31614/peptex-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Peptid",
+    "strength": "40 mg",
+    "genericName": "Famotidine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/29521/peptid-40-mg-tablet"
+  },
+  {
+    "brandName": "Peptid",
+    "strength": "40 mg/5 ml",
+    "genericName": "Famotidine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/32649/peptid-40-mg-suspension"
+  },
+  {
+    "brandName": "Peptid",
+    "strength": "20 mg/2 ml",
+    "genericName": "Famotidine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/35860/peptid-20-mg-injection"
+  },
+  {
+    "brandName": "Peptid",
+    "strength": "20 mg",
+    "genericName": "Famotidine",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/16504/peptid-20-mg-tablet"
+  },
+  {
+    "brandName": "Peptin",
+    "strength": "4.05 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/14582/peptin-405-mg-syrup"
+  },
+  {
+    "brandName": "Peptin-DS",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "Nipa Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/14583/peptin-ds-10-mg-syrup"
+  },
+  {
+    "brandName": "Pepto",
+    "strength": "87.5 mg/5 ml",
+    "genericName": "Bismuth Subsalicylate",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/31147/pepto-875-mg-suspension"
+  },
+  {
+    "brandName": "Pepto-Care",
+    "strength": "87.5 mg/5 ml",
+    "genericName": "Bismuth Subsalicylate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/16329/pepto-care-875-mg-suspension"
+  },
+  {
+    "brandName": "Peptocid",
+    "strength": "87.5 mg/5 ml",
+    "genericName": "Bismuth Subsalicylate",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/18276/peptocid-875-mg-suspension"
+  },
+  {
+    "brandName": "Peptofit",
+    "strength": "87.5 mg/5 ml",
+    "genericName": "Bismuth Subsalicylate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/27067/peptofit-875-mg-suspension"
+  },
+  {
+    "brandName": "Peptral",
+    "strength": "40 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/23057/peptral-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Peptral",
+    "strength": "20 mg",
+    "genericName": "Omeprazole",
+    "manufacturer": "Labaid Pharma Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/1923/peptral-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Pepzol",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Leon Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/27194/pepzol-20-mg-ec-capsule"
+  },
+  {
+    "brandName": "Pepzol",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Leon Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/27195/pepzol-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Peranel",
+    "strength": "2 mg",
+    "genericName": "Perampanel",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/30510/peranel-2-mg-tablet"
+  },
+  {
+    "brandName": "Peranel",
+    "strength": "4 mg",
+    "genericName": "Perampanel",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 585,
+    "sourceUrl": "https://medex.com.bd/brands?page=585",
+    "detailUrl": "https://medex.com.bd/brands/30511/peranel-4-mg-tablet"
+  }
+]

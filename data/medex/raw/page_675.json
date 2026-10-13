@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Sancal",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Prime Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/14367/sancal-500-mg-tablet"
+  },
+  {
+    "brandName": "Sancal-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Prime Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/14500/sancal-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Sandimmun Neoral",
+    "strength": "100 mg",
+    "genericName": "Cyclosporine (Oral)",
+    "manufacturer": "Nevian Lifescience PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/35024/sandimmun-neoral-100-mg-capsule"
+  },
+  {
+    "brandName": "Sandimmun Neoral",
+    "strength": "25 mg",
+    "genericName": "Cyclosporine (Oral)",
+    "manufacturer": "Nevian Lifescience PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/35026/sandimmun-neoral-25-mg-capsule"
+  },
+  {
+    "brandName": "Sandimmun Neoral",
+    "strength": "50 mg",
+    "genericName": "Cyclosporine (Oral)",
+    "manufacturer": "Nevian Lifescience PLC",
+    "dosageForm": "Capsule",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/35027/sandimmun-neoral-50-mg-capsule"
+  },
+  {
+    "brandName": "Sandocal",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/14334/sandocal-500-mg-tablet"
+  },
+  {
+    "brandName": "Sandocal-D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "SANDOZ (A Novartis Division)",
+    "dosageForm": "Tablet",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/14470/sandocal-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Sandom",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Tablet",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/1644/sandom-10-mg-tablet"
+  },
+  {
+    "brandName": "Sandom",
+    "strength": "5 mg/5 ml",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/1645/sandom-5-mg-suspension"
+  },
+  {
+    "brandName": "Sandom",
+    "strength": "5 mg/ml",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/28348/sandom-5-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Sandostatin",
+    "strength": "50 mcg/ml",
+    "genericName": "Octreotide Acetate",
+    "manufacturer": "Nevian Lifescience PLC",
+    "dosageForm": "Injection",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/15196/sandostatin-50-mcg-injection"
+  },
+  {
+    "brandName": "Sandostatin LAR",
+    "strength": "20 mg/vial",
+    "genericName": "Octreotide Acetate",
+    "manufacturer": "Nevian Lifescience PLC",
+    "dosageForm": "Injection",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/15195/sandostatin-lar-20-mg-injection"
+  },
+  {
+    "brandName": "Sandostatin LAR",
+    "strength": "10 mg/vial",
+    "genericName": "Octreotide Acetate",
+    "manufacturer": "Nevian Lifescience PLC",
+    "dosageForm": "Injection",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/35018/sandostatin-lar-10-mg-injection"
+  },
+  {
+    "brandName": "Sanfix",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/18775/sanfix-400-mg-capsule"
+  },
+  {
+    "brandName": "Sanfix",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/7634/sanfix-200-mg-capsule"
+  },
+  {
+    "brandName": "Sanfix",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/7635/sanfix-100-mg-suspension"
+  },
+  {
+    "brandName": "Sanfix DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/18776/sanfix-ds-200-mg-suspension"
+  },
+  {
+    "brandName": "Sanflore",
+    "strength": "20 gm/ml",
+    "genericName": "Tea tree oil + Geothermal water (hair & body)",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Shampoo",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/29191/sanflore-20-gm-shampoo"
+  },
+  {
+    "brandName": "Sanflore",
+    "strength": "20%+5%",
+    "genericName": "Aluminium Chloride + Melaleuca Alternifolia Oil + Geothermal water",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Topical Spray",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/30300/sanflore-20-5-spray"
+  },
+  {
+    "brandName": "Sanflore",
+    "strength": null,
+    "genericName": "Tea Tree Oil + Geothermal Water + Vitamin E",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Topical Gel",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/30301/sanflore-topical-gel"
+  },
+  {
+    "brandName": "Sangril",
+    "strength": "450 mg+50 mg",
+    "genericName": "Diosmin + Hesperidin",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/2424/sangril-450-mg-tablet"
+  },
+  {
+    "brandName": "Sangril DS",
+    "strength": "900 mg+100 mg",
+    "genericName": "Diosmin + Hesperidin",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/33647/sangril-ds-900-mg-tablet"
+  },
+  {
+    "brandName": "Sanicord",
+    "strength": "7.1%",
+    "genericName": "Chlorhexidine Gluconate [7.1%]",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Topical Solution",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/33812/sanicord-71-topical-solution"
+  },
+  {
+    "brandName": "Sanicord",
+    "strength": "7.1%",
+    "genericName": "Chlorhexidine Gluconate [7.1%]",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Topical Gel",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/33815/sanicord-71-topical-gel"
+  },
+  {
+    "brandName": "Sanimet",
+    "strength": "0.5%+70%",
+    "genericName": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Hand Rub",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/34822/sanimet-05-70-hand-rub"
+  },
+  {
+    "brandName": "Saniscrub",
+    "strength": "4%",
+    "genericName": "Chlorhexidine Gluconate [4%]",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Hand Rub",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/34943/saniscrub-4-hand-rub"
+  },
+  {
+    "brandName": "Sanityza",
+    "strength": "0.5%+70%",
+    "genericName": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Hand Rub",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/27641/sanityza-05-70-hand-rub"
+  },
+  {
+    "brandName": "Sanityza Clear",
+    "strength": "0.5%+70%",
+    "genericName": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Hand Rub",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/28858/sanityza-clear-05-70-hand-rub"
+  },
+  {
+    "brandName": "Sanoket",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/28349/sanoket-30-mg-injection"
+  },
+  {
+    "brandName": "Sanoket",
+    "strength": "60 mg/2 ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 675,
+    "sourceUrl": "https://medex.com.bd/brands?page=675",
+    "detailUrl": "https://medex.com.bd/brands/28350/sanoket-60-mg-injection"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Endoxan",
+    "strength": "50 mg",
+    "genericName": "Cyclophosphamide",
+    "manufacturer": "Baxter Oncology GmbH, Germany",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/15017/endoxan-50-mg-tablet"
+  },
+  {
+    "brandName": "Endozol",
+    "strength": "100 mg",
+    "genericName": "Danazol",
+    "manufacturer": "Drug International Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/34387/endozol-100-mg-capsule"
+  },
+  {
+    "brandName": "Enegra",
+    "strength": "50 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/6003/enegra-50-mg-tablet"
+  },
+  {
+    "brandName": "Enema",
+    "strength": "(19 gm+7 gm)/118 ml",
+    "genericName": "Monobasic Sodium Phosphate + Dibasic Sodium Phosphate",
+    "manufacturer": "West-Coast pharmaceutical works ltd.",
+    "dosageForm": "Rectal Saline",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/29885/enema-19-gm-rectal-saline"
+  },
+  {
+    "brandName": "Ener-G Tasty Saline",
+    "strength": null,
+    "genericName": "Oral rehydration salt [tasty]",
+    "manufacturer": "Care Nutrition Limited",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/37693/ener-g-tasty-saline-powder"
+  },
+  {
+    "brandName": "Enerplat",
+    "strength": "50 mg",
+    "genericName": "Eltrombopag Olamine",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/38799/enerplat-50-mg-tablet"
+  },
+  {
+    "brandName": "Enigma",
+    "strength": "100 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/29199/enigma-100-mg-tablet"
+  },
+  {
+    "brandName": "Enigma",
+    "strength": "50 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/6047/enigma-50-mg-tablet"
+  },
+  {
+    "brandName": "Enjofil",
+    "strength": "50 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28481/enjofil-50-mg-tablet"
+  },
+  {
+    "brandName": "Enjofil",
+    "strength": "100 mg",
+    "genericName": "Sildenafil Citrate",
+    "manufacturer": "Navana Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28482/enjofil-100-mg-tablet"
+  },
+  {
+    "brandName": "Enliven",
+    "strength": "100 mg",
+    "genericName": "Imatinib Mesylate",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/15117/enliven-100-mg-capsule"
+  },
+  {
+    "brandName": "ENO (Lemon Flavor)",
+    "strength": "(2.32 gm+2.18 gm+0.50 gm)/5 gm",
+    "genericName": "Sodium Bicarbonate + Citric Acid + Sodium Carbonate",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals",
+    "dosageForm": "Powder for Solution",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/34104/eno-lemon-flavor-232-gm-powder-for-solution"
+  },
+  {
+    "brandName": "ENO (Orange Flavor)",
+    "strength": "(2.32 gm+2.18 gm+0.50 gm)/5 gm",
+    "genericName": "Sodium Bicarbonate + Citric Acid + Sodium Carbonate",
+    "manufacturer": "GlaxoSmithKline Pharmaceuticals",
+    "dosageForm": "Powder for Solution",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/34105/eno-orange-flavor-232-gm-powder-for-solution"
+  },
+  {
+    "brandName": "Enocam",
+    "strength": "20 mg",
+    "genericName": "Tenoxicam",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/11624/enocam-20-mg-tablet"
+  },
+  {
+    "brandName": "Enocef",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28330/enocef-1-gm-injection"
+  },
+  {
+    "brandName": "Enocef",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28331/enocef-1-gm-injection"
+  },
+  {
+    "brandName": "Enocef",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28332/enocef-250-mg-injection"
+  },
+  {
+    "brandName": "Enocef",
+    "strength": "250 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28333/enocef-250-mg-injection"
+  },
+  {
+    "brandName": "Enocef",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28334/enocef-500-mg-injection"
+  },
+  {
+    "brandName": "Enocef",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/28335/enocef-500-mg-injection"
+  },
+  {
+    "brandName": "Enoclox",
+    "strength": "500 mg",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Modern Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/6242/enoclox-500-mg-capsule"
+  },
+  {
+    "brandName": "Enoclox",
+    "strength": "125 mg/5 ml",
+    "genericName": "Flucloxacillin Sodium",
+    "manufacturer": "Modern Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/6243/enoclox-125-mg-suspension"
+  },
+  {
+    "brandName": "EnoFab",
+    "strength": "200 mg",
+    "genericName": "Fenofibrate",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/20169/enofab-200-mg-capsule"
+  },
+  {
+    "brandName": "ENOfiz",
+    "strength": "(2.32 gm+2.18 gm+0.50 gm)/5 gm",
+    "genericName": "Sodium Bicarbonate + Citric Acid + Sodium Carbonate",
+    "manufacturer": "Pharmasia Limited",
+    "dosageForm": "Powder for Solution",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/34103/enofiz-232-gm-powder-for-solution"
+  },
+  {
+    "brandName": "ENOgut",
+    "strength": "(2.32 gm+2.18 gm+0.50 gm)/5 gm",
+    "genericName": "Sodium Bicarbonate + Citric Acid + Sodium Carbonate",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Powder for Solution",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/37925/enogut-232-gm-powder-for-solution"
+  },
+  {
+    "brandName": "Enoject",
+    "strength": "4000 Anti-Xa IU/0.4 ml",
+    "genericName": "Enoxaparin Sodium",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/38957/enoject-4000-anti-xa-injection"
+  },
+  {
+    "brandName": "Enoject",
+    "strength": "6000 Anti-Xa IU/0.6 ml",
+    "genericName": "Enoxaparin Sodium",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/38958/enoject-6000-anti-xa-injection"
+  },
+  {
+    "brandName": "Enoject",
+    "strength": "8000 Anti-Xa IU/0.8 ml",
+    "genericName": "Enoxaparin Sodium",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "SC Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/38959/enoject-8000-anti-xa-injection"
+  },
+  {
+    "brandName": "Enol",
+    "strength": "50 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Edruc Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/1086/enol-50-mg-tablet"
+  },
+  {
+    "brandName": "Enoma",
+    "strength": "4000 Anti-Xa IU/0.4 ml",
+    "genericName": "Enoxaparin Sodium",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "SC Injection",
+    "sourcePage": 255,
+    "sourceUrl": "https://medex.com.bd/brands?page=255",
+    "detailUrl": "https://medex.com.bd/brands/31970/enoma-4000-anti-xa-injection"
+  }
+]

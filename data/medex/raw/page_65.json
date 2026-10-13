@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Astro-Z",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "genericName": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Syntho Laboratories Ltd.",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/13281/astro-z-150-mg-tr-capsule"
+  },
+  {
+    "brandName": "Asul",
+    "strength": "2 mg/5 ml",
+    "genericName": "Salbutamol",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/3436/asul-2-mg-syrup"
+  },
+  {
+    "brandName": "Asul",
+    "strength": "4 mg",
+    "genericName": "Salbutamol",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/38045/asul-4-mg-tablet"
+  },
+  {
+    "brandName": "Asvast",
+    "strength": "10 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "Pharmik Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/37629/asvast-10-mg-tablet"
+  },
+  {
+    "brandName": "Asynta",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1399/asynta-500-mg-suspension"
+  },
+  {
+    "brandName": "Asynta",
+    "strength": "500 mg+100 mg",
+    "genericName": "Sodium Alginate + Potassium Bicarbonate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/16687/asynta-500-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Asynta Max",
+    "strength": "250 mg+106.5 mg+187.5 mg",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Chewable Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/37069/asynta-max-250-mg-chewable-tablet"
+  },
+  {
+    "brandName": "Asynta Max",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "genericName": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "manufacturer": "Square Pharmaceuticals PLC",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/31093/asynta-max-500-mg-suspension"
+  },
+  {
+    "brandName": "Atanib",
+    "strength": "40 mg",
+    "genericName": "Afatinib Dimaleate",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/31294/atanib-40-mg-tablet"
+  },
+  {
+    "brandName": "Atasin",
+    "strength": "80 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/32200/atasin-80-mg-tablet"
+  },
+  {
+    "brandName": "Atasin",
+    "strength": "40 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1126/atasin-40-mg-tablet"
+  },
+  {
+    "brandName": "Atasin",
+    "strength": "20 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/3373/atasin-20-mg-tablet"
+  },
+  {
+    "brandName": "Atasin",
+    "strength": "10 mg",
+    "genericName": "Atorvastatin Calcium",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/3371/atasin-10-mg-tablet"
+  },
+  {
+    "brandName": "Atasin EZ",
+    "strength": "10 mg+10 mg",
+    "genericName": "Atorvastatin + Ezetimibe",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/38137/atasin-ez-10-mg-tablet"
+  },
+  {
+    "brandName": "Atasin EZ",
+    "strength": "20 mg+10 mg",
+    "genericName": "Atorvastatin + Ezetimibe",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/38138/atasin-ez-20-mg-tablet"
+  },
+  {
+    "brandName": "Atebit",
+    "strength": "50 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1064/atebit-50-mg-tablet"
+  },
+  {
+    "brandName": "Atebit",
+    "strength": "100 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1063/atebit-100-mg-tablet"
+  },
+  {
+    "brandName": "Atechlor",
+    "strength": "50 mg+25 mg",
+    "genericName": "Atenolol + Chlorthalidone",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1105/atechlor-50-mg-tablet"
+  },
+  {
+    "brandName": "Atechlor",
+    "strength": "100 mg+25 mg",
+    "genericName": "Atenolol + Chlorthalidone",
+    "manufacturer": "Silva Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1104/atechlor-100-mg-tablet"
+  },
+  {
+    "brandName": "Atenol",
+    "strength": "50 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/2470/atenol-50-mg-tablet"
+  },
+  {
+    "brandName": "Atenol",
+    "strength": "100 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/17979/atenol-100-mg-tablet"
+  },
+  {
+    "brandName": "Atenolol",
+    "strength": "100 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Albion Laboratories Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/17957/atenolol-100-mg-tablet"
+  },
+  {
+    "brandName": "Atepine",
+    "strength": "5 mg+50 mg",
+    "genericName": "Amlodipine Besilate + Atenolol",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/807/atepine-5-mg-tablet"
+  },
+  {
+    "brandName": "Atezen",
+    "strength": "50 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1068/atezen-50-mg-tablet"
+  },
+  {
+    "brandName": "Atezen",
+    "strength": "100 mg",
+    "genericName": "Atenolol",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/1067/atezen-100-mg-tablet"
+  },
+  {
+    "brandName": "Atezen Plus",
+    "strength": "5 mg+50 mg",
+    "genericName": "Amlodipine Besilate + Atenolol",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/808/atezen-plus-5-mg-tablet"
+  },
+  {
+    "brandName": "Athena",
+    "strength": "30 mg",
+    "genericName": "Ulipristal Acetate [For emergency contraception]",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/34621/athena-30-mg-tablet"
+  },
+  {
+    "brandName": "Athexim",
+    "strength": "500 mg",
+    "genericName": "Cefuroxime Axetil",
+    "manufacturer": "C2C Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/37098/athexim-500-mg-tablet"
+  },
+  {
+    "brandName": "Athexim CV",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "C2C Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/37097/athexim-cv-500-mg-tablet"
+  },
+  {
+    "brandName": "Atidon",
+    "strength": "5 mg/5 ml",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 65,
+    "sourceUrl": "https://medex.com.bd/brands?page=65",
+    "detailUrl": "https://medex.com.bd/brands/38046/atidon-5-mg-suspension"
+  }
+]

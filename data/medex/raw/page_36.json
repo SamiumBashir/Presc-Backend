@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Aminomix",
+    "strength": "10%",
+    "genericName": "Amino Acid, D-Sorbitol & Electrolytes",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/28228/aminomix-10-injection"
+  },
+  {
+    "brandName": "Aminophylline",
+    "strength": "100 mg",
+    "genericName": "Aminophylline",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/595/aminophylline-100-mg-tablet"
+  },
+  {
+    "brandName": "Aminophylline",
+    "strength": "125 mg/5 ml",
+    "genericName": "Aminophylline",
+    "manufacturer": "Ambee Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/596/aminophylline-125-mg-injection"
+  },
+  {
+    "brandName": "Aminophylline",
+    "strength": "100 mg",
+    "genericName": "Aminophylline",
+    "manufacturer": "Bristol Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/597/aminophylline-100-mg-tablet"
+  },
+  {
+    "brandName": "Aminosin",
+    "strength": "5%",
+    "genericName": "Amino Acid, D-Sorbitol & Electrolytes",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/14792/aminosin-5-injection"
+  },
+  {
+    "brandName": "Aminosin Plus",
+    "strength": "7%+10%",
+    "genericName": "Amino acids, Glucose & Electrolytes",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/14793/aminosin-plus-7-10-injection"
+  },
+  {
+    "brandName": "Aminosol Gold",
+    "strength": "7%+10%",
+    "genericName": "Amino acids, Glucose & Electrolytes",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/27697/aminosol-gold-7-10-injection"
+  },
+  {
+    "brandName": "Aminosol IV",
+    "strength": "5%+10%",
+    "genericName": "Amino Acid, D-sorbitol, Vitamins & Electrolytes",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/35379/aminosol-iv-5-10-injection"
+  },
+  {
+    "brandName": "Aminosol Vit",
+    "strength": "5%",
+    "genericName": "Amino Acid, D-Sorbitol & Electrolytes",
+    "manufacturer": "OSL Pharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/14769/aminosol-vit-5-injection"
+  },
+  {
+    "brandName": "Aminosteril N-Hepa",
+    "strength": "8%",
+    "genericName": "Amino Acid",
+    "manufacturer": "Radiant Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/31118/aminosteril-n-hepa-8-injection"
+  },
+  {
+    "brandName": "Aminosyn",
+    "strength": "10%",
+    "genericName": "Amino Acid, D-Sorbitol & Electrolytes",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/14794/aminosyn-10-injection"
+  },
+  {
+    "brandName": "Amiodarone Hameln",
+    "strength": "150 mg/3 ml",
+    "genericName": "Amiodarone Hydrochloride",
+    "manufacturer": "ZAS Corporation",
+    "dosageForm": "Injection",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/33951/amiodarone-hameln-150-mg-injection"
+  },
+  {
+    "brandName": "Amiphin",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/34003/amiphin-1-gm-injection"
+  },
+  {
+    "brandName": "Amiphin",
+    "strength": "2 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Al-Madina Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/32329/amiphin-2-gm-injection"
+  },
+  {
+    "brandName": "Amipride",
+    "strength": "100 mg",
+    "genericName": "Amisulpride",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/32074/amipride-100-mg-tablet"
+  },
+  {
+    "brandName": "Amipride",
+    "strength": "200 mg",
+    "genericName": "Amisulpride",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/32075/amipride-200-mg-tablet"
+  },
+  {
+    "brandName": "Amipride",
+    "strength": "50 mg",
+    "genericName": "Amisulpride",
+    "manufacturer": "Beacon Pharmaceuticals PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/29382/amipride-50-mg-tablet"
+  },
+  {
+    "brandName": "Amirid",
+    "strength": "400 mg",
+    "genericName": "Metronidazole",
+    "manufacturer": "Veritas Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/22457/amirid-400-mg-tablet"
+  },
+  {
+    "brandName": "Amiron",
+    "strength": "7.5 mg",
+    "genericName": "Mirtazapine",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/31621/amiron-75-mg-tablet"
+  },
+  {
+    "brandName": "Amiron",
+    "strength": "15 mg",
+    "genericName": "Mirtazapine",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/31622/amiron-15-mg-tablet"
+  },
+  {
+    "brandName": "Amiron",
+    "strength": "30 mg",
+    "genericName": "Mirtazapine",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/31623/amiron-30-mg-tablet"
+  },
+  {
+    "brandName": "Amisol",
+    "strength": "5%",
+    "genericName": "Amino Acid, D-Sorbitol & Electrolytes",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/14771/amisol-5-injection"
+  },
+  {
+    "brandName": "Amisol Gold",
+    "strength": "7%+10%",
+    "genericName": "Amino acids, Glucose & Electrolytes",
+    "manufacturer": "Popular Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/14772/amisol-gold-7-10-injection"
+  },
+  {
+    "brandName": "Amisure",
+    "strength": "5 mg/2 ml",
+    "genericName": "Amisulpride",
+    "manufacturer": "ACME Laboratories Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/32415/amisure-5-mg-injection"
+  },
+  {
+    "brandName": "Amit",
+    "strength": "25 mg",
+    "genericName": "Amitriptyline Hydrochloride",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/619/amit-25-mg-tablet"
+  },
+  {
+    "brandName": "Amit",
+    "strength": "10 mg",
+    "genericName": "Amitriptyline Hydrochloride",
+    "manufacturer": "General Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/620/amit-10-mg-tablet"
+  },
+  {
+    "brandName": "Amitip",
+    "strength": "25 mg",
+    "genericName": "Amitriptyline Hydrochloride",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/28505/amitip-25-mg-tablet"
+  },
+  {
+    "brandName": "Amitip",
+    "strength": "10 mg",
+    "genericName": "Amitriptyline Hydrochloride",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/28504/amitip-10-mg-tablet"
+  },
+  {
+    "brandName": "Amival",
+    "strength": "0.5 mg+10 mg",
+    "genericName": "Fluphenazine + Nortriptyline",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/4580/amival-05-mg-tablet"
+  },
+  {
+    "brandName": "Amlevo",
+    "strength": "5 mg",
+    "genericName": "Levamlodipine Maleate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 36,
+    "sourceUrl": "https://medex.com.bd/brands?page=36",
+    "detailUrl": "https://medex.com.bd/brands/31511/amlevo-5-mg-tablet"
+  }
+]

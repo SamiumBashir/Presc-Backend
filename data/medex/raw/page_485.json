@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Moxivin DX",
+    "strength": "0.5%+0.1%",
+    "genericName": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "manufacturer": "Healthcare Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/30067/moxivin-dx-05-01-eye-drop"
+  },
+  {
+    "brandName": "Moxiwell",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "National Drug Co. Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/37836/moxiwell-400-mg-tablet"
+  },
+  {
+    "brandName": "Moxiwin",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "Salton Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/39342/moxiwin-400-mg-tablet"
+  },
+  {
+    "brandName": "Moxkil",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "Naafco Pharma PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/36806/moxkil-400-mg-tablet"
+  },
+  {
+    "brandName": "Moxlocin D",
+    "strength": "0.5%+0.1%",
+    "genericName": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/28564/moxlocin-d-05-01-eye-drop"
+  },
+  {
+    "brandName": "Moxlocin XG",
+    "strength": "0.5%+0.4%",
+    "genericName": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "manufacturer": "Pacific Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/28565/moxlocin-xg-05-04-eye-drop"
+  },
+  {
+    "brandName": "Moxquin",
+    "strength": "0.5%",
+    "genericName": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Intraocular Injection",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/36115/moxquin-05-intraocular-injection"
+  },
+  {
+    "brandName": "Moxquin",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/9611/moxquin-400-mg-tablet"
+  },
+  {
+    "brandName": "Moxquin",
+    "strength": "400 mg/250 ml",
+    "genericName": "Moxifloxacin Hydrochloride (Injection)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/9623/moxquin-400-mg-injection"
+  },
+  {
+    "brandName": "Moxquin",
+    "strength": "0.5%",
+    "genericName": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/9643/moxquin-05-eye-drop"
+  },
+  {
+    "brandName": "Moxquin D",
+    "strength": "0.5%+0.1%",
+    "genericName": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/27627/moxquin-d-05-01-eye-drop"
+  },
+  {
+    "brandName": "Moxquin XG",
+    "strength": "0.5%+0.4%",
+    "genericName": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "manufacturer": "Incepta Pharmaceuticals Ltd.",
+    "dosageForm": "Ophthalmic Solution",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/9644/moxquin-xg-05-04-eye-drop"
+  },
+  {
+    "brandName": "MQ-4",
+    "strength": "400 mg",
+    "genericName": "Moxifloxacin Hydrochloride (Tablet)",
+    "manufacturer": "Silco Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/31485/mq-4-400-mg-tablet"
+  },
+  {
+    "brandName": "MR Kit",
+    "strength": "200 mg+200 mcg",
+    "genericName": "Mifepristone + Misoprostol",
+    "manufacturer": "Euro Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/27242/mr-kit-200-mg-tablet"
+  },
+  {
+    "brandName": "MSL",
+    "strength": "5 mg/5 ml",
+    "genericName": "Morphine Sulfate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Solution",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/22671/msl-5-mg-oral-solution"
+  },
+  {
+    "brandName": "MSL",
+    "strength": "10 mg",
+    "genericName": "Morphine Sulfate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/10673/msl-10-mg-tablet"
+  },
+  {
+    "brandName": "MSL Retard",
+    "strength": "15 mg",
+    "genericName": "Morphine Sulfate",
+    "manufacturer": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "dosageForm": "Retard Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/22669/msl-retard-15-mg-tablet"
+  },
+  {
+    "brandName": "MTP Kit",
+    "strength": "200 mg+200 mcg",
+    "genericName": "Mifepristone + Misoprostol",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/15689/mtp-kit-200-mg-tablet"
+  },
+  {
+    "brandName": "Mtrex",
+    "strength": "50 mg/2 ml",
+    "genericName": "Methotrexate",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/15059/mtrex-50-mg-iv-injection"
+  },
+  {
+    "brandName": "Mtrex",
+    "strength": "2.5 mg",
+    "genericName": "Methotrexate",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/27352/mtrex-25-mg-tablet"
+  },
+  {
+    "brandName": "Mtrex",
+    "strength": "10 mg",
+    "genericName": "Methotrexate",
+    "manufacturer": "Techno Drugs Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/27353/mtrex-10-mg-tablet"
+  },
+  {
+    "brandName": "MTS",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Medicon Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/22616/mts-10-mg-tablet"
+  },
+  {
+    "brandName": "MTX",
+    "strength": "2.5 mg",
+    "genericName": "Methotrexate",
+    "manufacturer": "Choongwae Pharma Corporation",
+    "dosageForm": "Tablet",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/15065/mtx-25-mg-tablet"
+  },
+  {
+    "brandName": "MTX",
+    "strength": "50 mg/2 ml",
+    "genericName": "Methotrexate",
+    "manufacturer": "Choongwae Pharma Corporation",
+    "dosageForm": "IV Injection or Infusion",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/15066/mtx-50-mg-iv-injection"
+  },
+  {
+    "brandName": "Mubrox",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Hallmark Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/4054/mubrox-15-mg-syrup"
+  },
+  {
+    "brandName": "Mubrox",
+    "strength": "6 mg/ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Hallmark Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/4055/mubrox-6-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Mucobrox",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/4056/mucobrox-15-mg-syrup"
+  },
+  {
+    "brandName": "Mucobrox",
+    "strength": "6 mg/ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Somatec Pharmaceuticals Ltd.",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/4057/mucobrox-6-mg-pediatric-drop"
+  },
+  {
+    "brandName": "Mucoclean",
+    "strength": "15 mg/5 ml",
+    "genericName": "Ambroxol Hydrochloride",
+    "manufacturer": "Doctor TIMS Pharmaceuticals Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/32542/mucoclean-15-mg-syrup"
+  },
+  {
+    "brandName": "Mucodil",
+    "strength": "4 mg/5 ml",
+    "genericName": "Bromhexine Hydrochloride",
+    "manufacturer": "NIPRO JMI Pharma Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 485,
+    "sourceUrl": "https://medex.com.bd/brands?page=485",
+    "detailUrl": "https://medex.com.bd/brands/4097/mucodil-4-mg-syrup"
+  }
+]

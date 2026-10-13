@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Biovit",
+    "strength": null,
+    "genericName": "Multivitamin [Pediatric preparation]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Pediatric Drops",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/14070/biovit-pediatric-drop"
+  },
+  {
+    "brandName": "Biovit",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/13761/biovit-5-mg-syrup"
+  },
+  {
+    "brandName": "Biovit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/13760/biovit-5-mg-capsule"
+  },
+  {
+    "brandName": "Biovit Gold",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/14091/biovit-gold-tablet"
+  },
+  {
+    "brandName": "Biovit Plus",
+    "strength": null,
+    "genericName": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Syrup",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/13365/biovit-plus-syrup"
+  },
+  {
+    "brandName": "Biovit PN",
+    "strength": null,
+    "genericName": "Multivitamins & Multiminerals [A-Z prenatal preparation]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/14737/biovit-pn-tablet"
+  },
+  {
+    "brandName": "Biovit Silver",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/14141/biovit-silver-tablet"
+  },
+  {
+    "brandName": "Biovit-I",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "genericName": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Capsule",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/25396/biovit-i-60-mg-capsule"
+  },
+  {
+    "brandName": "Biovit-M",
+    "strength": null,
+    "genericName": "Multivitamin & Multimineral",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/14193/biovit-m-tablet"
+  },
+  {
+    "brandName": "Bioxim",
+    "strength": "200 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/7481/bioxim-200-mg-capsule"
+  },
+  {
+    "brandName": "Bioxim",
+    "strength": "400 mg",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/7482/bioxim-400-mg-capsule"
+  },
+  {
+    "brandName": "Bioxim",
+    "strength": "100 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/7483/bioxim-100-mg-suspension"
+  },
+  {
+    "brandName": "Bioxim DS",
+    "strength": "200 mg/5 ml",
+    "genericName": "Cefixime Trihydrate",
+    "manufacturer": "Sharif Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/27953/bioxim-ds-200-mg-suspension"
+  },
+  {
+    "brandName": "Bioxon",
+    "strength": "2 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/27460/bioxon-2-gm-injection"
+  },
+  {
+    "brandName": "Bioxon",
+    "strength": "1 gm/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/27459/bioxon-1-gm-injection"
+  },
+  {
+    "brandName": "Bioxon",
+    "strength": "500 mg/vial",
+    "genericName": "Ceftriaxone Sodium",
+    "manufacturer": "Benham Pharmaceuticals Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/27457/bioxon-500-mg-injection"
+  },
+  {
+    "brandName": "Biozinc",
+    "strength": "10 mg/5 ml",
+    "genericName": "Zinc Sulfate Monohydrate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/14551/biozinc-10-mg-syrup"
+  },
+  {
+    "brandName": "Biozinc-B",
+    "strength": null,
+    "genericName": "Vitamin B Complex + Zinc",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/26591/biozinc-b-syrup"
+  },
+  {
+    "brandName": "Biozinc-I",
+    "strength": null,
+    "genericName": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Syrup",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/13366/biozinc-i-syrup"
+  },
+  {
+    "brandName": "Biozyl",
+    "strength": "400 mg",
+    "genericName": "Metronidazole",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/10082/biozyl-400-mg-tablet"
+  },
+  {
+    "brandName": "Biozyl",
+    "strength": "200 mg/5 ml",
+    "genericName": "Metronidazole",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/10083/biozyl-200-mg-suspension"
+  },
+  {
+    "brandName": "Biozyl",
+    "strength": "500 mg/100 ml",
+    "genericName": "Metronidazole",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "IV Infusion",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/28888/biozyl-500-mg-injection"
+  },
+  {
+    "brandName": "Bipinor",
+    "strength": "2.5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/2582/bipinor-25-mg-tablet"
+  },
+  {
+    "brandName": "Bipinor",
+    "strength": "5 mg",
+    "genericName": "Nebivolol Hydrochloride",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/2583/bipinor-5-mg-tablet"
+  },
+  {
+    "brandName": "Bipinor Plus",
+    "strength": "5 mg+12.5 mg",
+    "genericName": "Nebivolol + Hydrochlorothiazide",
+    "manufacturer": "ACI Limited",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/34502/bipinor-plus-5-mg-tablet"
+  },
+  {
+    "brandName": "Biron Plus",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "genericName": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Capsule (Timed Release)",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/13324/biron-plus-150-mg-tr-capsule"
+  },
+  {
+    "brandName": "Biscard",
+    "strength": "2.5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/33262/biscard-25-mg-tablet"
+  },
+  {
+    "brandName": "Biscard",
+    "strength": "5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/33263/biscard-5-mg-tablet"
+  },
+  {
+    "brandName": "Bislol",
+    "strength": "1.25 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/29561/bislol-125-mg-tablet"
+  },
+  {
+    "brandName": "Bislol",
+    "strength": "2.5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Opsonin Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 100,
+    "sourceUrl": "https://medex.com.bd/brands?page=100",
+    "detailUrl": "https://medex.com.bd/brands/2477/bislol-25-mg-tablet"
+  }
+]

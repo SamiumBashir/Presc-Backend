@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Nozee",
+    "strength": "500 mg",
+    "genericName": "Naproxen Sodium",
+    "manufacturer": "Syntho Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/11530/nozee-500-mg-tablet"
+  },
+  {
+    "brandName": "Nozma",
+    "strength": "10 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/27221/nozma-10-mg-tablet"
+  },
+  {
+    "brandName": "Nozma ODT",
+    "strength": "4 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/33284/nozma-odt-4-mg-tablet"
+  },
+  {
+    "brandName": "Nozma ODT",
+    "strength": "5 mg",
+    "genericName": "Montelukast Sodium",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/33285/nozma-odt-5-mg-tablet"
+  },
+  {
+    "brandName": "NPH",
+    "strength": "(10 mg+3400 Units+10000 Units)/ml",
+    "genericName": "Hydrocortisone + Neomycin Sulphate + Polymixin B",
+    "manufacturer": "Reman Drug Laboratories Ltd.",
+    "dosageForm": "Ear Drop",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/15894/nph-10-mg-ear-drop"
+  },
+  {
+    "brandName": "NPV",
+    "strength": "10 mg+10 mg",
+    "genericName": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "manufacturer": "Ziska Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Delayed Release)",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/26733/npv-10-mg-dr-tablet"
+  },
+  {
+    "brandName": "NRG",
+    "strength": "100%",
+    "genericName": "Dextrose Monohydrate",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Powder",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/14857/nrg-100-powder"
+  },
+  {
+    "brandName": "NSB",
+    "strength": "(5 mg+500 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Mystic Pharmaceuticals Ltd.",
+    "dosageForm": "Ointment",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/12356/nsb-5-mg-ointment"
+  },
+  {
+    "brandName": "NSC",
+    "strength": "0.9%",
+    "genericName": "Sodium Chloride",
+    "manufacturer": "Gaco Pharmaceuticals Ltd.",
+    "dosageForm": "Nasal Drop",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/32378/nsc-09-nasal-drop"
+  },
+  {
+    "brandName": "NTI Blood Lancets",
+    "strength": "30G",
+    "genericName": "Blood glucose monitoring device",
+    "manufacturer": "Noor Worldwide Ltd.",
+    "dosageForm": "Lancet Needle",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/36036/nti-blood-lancets-30g-needle"
+  },
+  {
+    "brandName": "NTZ",
+    "strength": "500 mg",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/38063/ntz-500-mg-tablet"
+  },
+  {
+    "brandName": "NTZ",
+    "strength": "100 mg/5 ml",
+    "genericName": "Nitazoxanide",
+    "manufacturer": "Asiatic Laboratories Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/2330/ntz-100-mg-suspension"
+  },
+  {
+    "brandName": "Nuba",
+    "strength": "(5 mg+500 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Ointment",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/12357/nuba-5-mg-ointment"
+  },
+  {
+    "brandName": "Nuba Plus",
+    "strength": "(3.5 mg+400 IU+5000 IU)/gm",
+    "genericName": "Neomycin Sulfate + Bacitracin Zinc + Polymyxin B Sulfate",
+    "manufacturer": "Biopharma Limited",
+    "dosageForm": "Ointment",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/12358/nuba-plus-35-mg-ointment"
+  },
+  {
+    "brandName": "Nubis",
+    "strength": "2.5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/25731/nubis-25-mg-tablet"
+  },
+  {
+    "brandName": "Nubis",
+    "strength": "5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/25732/nubis-5-mg-tablet"
+  },
+  {
+    "brandName": "Nucef CV",
+    "strength": "250 mg+62.5 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/36447/nucef-cv-250-mg-tablet"
+  },
+  {
+    "brandName": "Nucef CV",
+    "strength": "500 mg+125 mg",
+    "genericName": "Cefuroxime Axetil + Clavulanic Acid",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/36448/nucef-cv-500-mg-tablet"
+  },
+  {
+    "brandName": "Nuceta Plus",
+    "strength": "500 mg+65 mg",
+    "genericName": "Paracetamol + Caffeine",
+    "manufacturer": "FnF Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/23557/nuceta-plus-500-mg-tablet"
+  },
+  {
+    "brandName": "Nucip",
+    "strength": "500 mg",
+    "genericName": "Ciprofloxacin",
+    "manufacturer": "FnF Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/32927/nucip-500-mg-tablet"
+  },
+  {
+    "brandName": "Nudom",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "FnF Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/32928/nudom-10-mg-tablet"
+  },
+  {
+    "brandName": "Nudon",
+    "strength": "10 mg",
+    "genericName": "Domperidone Maleate",
+    "manufacturer": "Novatek Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/1621/nudon-10-mg-tablet"
+  },
+  {
+    "brandName": "Nugesic",
+    "strength": "100 mg+200 mg+200 mcg",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/13682/nugesic-100-mg-tablet"
+  },
+  {
+    "brandName": "Nugesic",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "genericName": "Vitamin B1, B6 & B12",
+    "manufacturer": "Orion Pharma Ltd.",
+    "dosageForm": "IM Injection",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/36129/nugesic-100-mg-injection"
+  },
+  {
+    "brandName": "Nulanso",
+    "strength": "30 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "SMC Enterprise Ltd",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/37457/nulanso-30-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nulanso",
+    "strength": "60 mg",
+    "genericName": "Dexlansoprazole",
+    "manufacturer": "SMC Enterprise Ltd",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/37458/nulanso-60-mg-ec-capsule"
+  },
+  {
+    "brandName": "Nulevi",
+    "strength": "1% w/w",
+    "genericName": "Clascoterone",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/34689/nulevi-1-w-cream"
+  },
+  {
+    "brandName": "Nuliza",
+    "strength": "1%",
+    "genericName": "Luliconazole",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Cream",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/34244/nuliza-1-cream"
+  },
+  {
+    "brandName": "Nuloc",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/28065/nuloc-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Nuloc",
+    "strength": "40 mg/vial",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Monicopharma Ltd.",
+    "dosageForm": "IV Injection",
+    "sourcePage": 527,
+    "sourceUrl": "https://medex.com.bd/brands?page=527",
+    "detailUrl": "https://medex.com.bd/brands/30917/nuloc-40-mg-injection"
+  }
+]

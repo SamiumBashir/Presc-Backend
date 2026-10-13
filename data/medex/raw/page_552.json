@@ -1,0 +1,302 @@
+[
+  {
+    "brandName": "Opton",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule (Enteric Coated)",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/26310/opton-40-mg-ec-capsule"
+  },
+  {
+    "brandName": "Opton",
+    "strength": "20 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/2092/opton-20-mg-ec-tablet"
+  },
+  {
+    "brandName": "Opton",
+    "strength": "40 mg",
+    "genericName": "Esomeprazole",
+    "manufacturer": "Beximco Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Enteric Coated)",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/2093/opton-40-mg-ec-tablet"
+  },
+  {
+    "brandName": "Opzin",
+    "strength": "10 mg",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/11978/opzin-10-mg-tablet"
+  },
+  {
+    "brandName": "Opzin",
+    "strength": "5 mg/5 ml",
+    "genericName": "Cetirizine Hydrochloride",
+    "manufacturer": "Pharmadesh Laboratories Ltd.",
+    "dosageForm": "Syrup",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/11979/opzin-5-mg-syrup"
+  },
+  {
+    "brandName": "OR",
+    "strength": "500 mg",
+    "genericName": "Ornidazole",
+    "manufacturer": "Zenith Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/10236/or-500-mg-tablet"
+  },
+  {
+    "brandName": "Ora-K",
+    "strength": "250 mg",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/6140/ora-k-250-mg-tablet"
+  },
+  {
+    "brandName": "Ora-K",
+    "strength": "125 mg/5 ml",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/6141/ora-k-125-mg-suspension"
+  },
+  {
+    "brandName": "Orabex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/13812/orabex-5-mg-capsule"
+  },
+  {
+    "brandName": "Orabex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "genericName": "Vitamin B complex",
+    "manufacturer": "Jayson Pharmaceutical Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/13813/orabex-5-mg-tablet"
+  },
+  {
+    "brandName": "Orabis",
+    "strength": "2.5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/25720/orabis-25-mg-tablet"
+  },
+  {
+    "brandName": "Orabis",
+    "strength": "5 mg",
+    "genericName": "Bisoprolol Fumarate",
+    "manufacturer": "The IBN SINA Pharmaceutical PLC",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/25721/orabis-5-mg-tablet"
+  },
+  {
+    "brandName": "Oracal",
+    "strength": "500 mg",
+    "genericName": "Calcium Carbonate",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/14318/oracal-500-mg-tablet"
+  },
+  {
+    "brandName": "Oracal D",
+    "strength": "500 mg+200 IU",
+    "genericName": "Conventional Calcium + Vitamin D3",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/14452/oracal-d-500-mg-tablet"
+  },
+  {
+    "brandName": "Oracal M",
+    "strength": null,
+    "genericName": "Calcium + Vitamin D3 + Multimineral",
+    "manufacturer": "Amico Laboratories Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/14532/oracal-m-tablet"
+  },
+  {
+    "brandName": "Oracort",
+    "strength": "0.5 mg",
+    "genericName": "Dexamethasone",
+    "manufacturer": "Desh Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/34779/oracort-05-mg-tablet"
+  },
+  {
+    "brandName": "Oracyn-K",
+    "strength": "250 mg",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/6137/oracyn-k-250-mg-tablet"
+  },
+  {
+    "brandName": "Oracyn-K",
+    "strength": "500 mg",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/6138/oracyn-k-500-mg-tablet"
+  },
+  {
+    "brandName": "Oracyn-K",
+    "strength": "125 mg/5 ml",
+    "genericName": "Phenoxymethyl Penicillin [Penicillin V]",
+    "manufacturer": "Synovia Pharma PLC.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/6139/oracyn-k-125-mg-suspension"
+  },
+  {
+    "brandName": "Oradexon",
+    "strength": "0.5 mg",
+    "genericName": "Dexamethasone",
+    "manufacturer": "Nuvista Pharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/5772/oradexon-05-mg-tablet"
+  },
+  {
+    "brandName": "Oradin",
+    "strength": "10 mg",
+    "genericName": "Loratadine",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/12219/oradin-10-mg-tablet"
+  },
+  {
+    "brandName": "Oradin",
+    "strength": "5 mg/5 ml",
+    "genericName": "Loratadine",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Oral Suspension",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/12220/oradin-5-mg-suspension"
+  },
+  {
+    "brandName": "Oradin FT",
+    "strength": "10 mg",
+    "genericName": "Loratadine",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Dispersible Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/12221/oradin-ft-10-mg-tablet"
+  },
+  {
+    "brandName": "Oradin Plus",
+    "strength": "10 mg+240 mg",
+    "genericName": "Loratadine + Pseudoephedrine",
+    "manufacturer": "Eskayef Pharmaceuticals Ltd.",
+    "dosageForm": "Tablet (Extended Release)",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/12297/oradin-plus-10-mg-er-tablet"
+  },
+  {
+    "brandName": "Oradol",
+    "strength": "10 mg",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "Tablet",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/15362/oradol-10-mg-tablet"
+  },
+  {
+    "brandName": "Oradol",
+    "strength": "30 mg/ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/15363/oradol-30-mg-injection"
+  },
+  {
+    "brandName": "Oradol",
+    "strength": "60 mg/2 ml",
+    "genericName": "Ketorolac Tromethamine",
+    "manufacturer": "Aristopharma Ltd.",
+    "dosageForm": "IM/IV Injection",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/27579/oradol-60-mg-injection"
+  },
+  {
+    "brandName": "Oraf",
+    "strength": "50 mg",
+    "genericName": "Fluconazole",
+    "manufacturer": "Hallmark Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/9957/oraf-50-mg-capsule"
+  },
+  {
+    "brandName": "Oraf",
+    "strength": "150 mg",
+    "genericName": "Fluconazole",
+    "manufacturer": "Hallmark Pharmaceuticals Ltd.",
+    "dosageForm": "Capsule",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/9958/oraf-150-mg-capsule"
+  },
+  {
+    "brandName": "Oraf",
+    "strength": "50 mg/5 ml",
+    "genericName": "Fluconazole",
+    "manufacturer": "Hallmark Pharmaceuticals Ltd.",
+    "dosageForm": "Powder for Suspension",
+    "sourcePage": 552,
+    "sourceUrl": "https://medex.com.bd/brands?page=552",
+    "detailUrl": "https://medex.com.bd/brands/9959/oraf-50-mg-suspension"
+  }
+]
