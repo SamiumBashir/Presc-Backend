@@ -1,0 +1,42 @@
+services:
+  - type: web
+    name: docpresc-backend
+    runtime: node
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    plan: free
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 5000
+      - key: JWT_EXPIRES_IN
+        value: 7d
+      - key: OTP_EXPIRES_IN
+        value: 600
+      - key: OTP_RESEND_COOLDOWN
+        value: 60
+      - key: OTP_PEPPER
+        value: docpresc_otp_security_pepper_2026
+      - key: FRONTEND_URL
+        value: https://doc-presc.vercel.app
+      - key: CORS_ORIGIN
+        value: https://doc-presc.vercel.app
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: COOKIE_SECRET
+        sync: false
+      - key: SMTP_HOST
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: 465
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: EMAIL_FROM
+        value: Doc Presc <7232.badhan@gmail.com>
