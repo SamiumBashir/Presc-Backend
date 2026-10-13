@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const prescription_controller_1 = require("../controllers/prescription.controller");
+const auth_1 = require("../middleware/auth");
+const asyncHandler_1 = require("../utils/asyncHandler");
+const router = (0, express_1.Router)();
+router.use(auth_1.authenticate, auth_1.requireDoctor);
+router.get('/', (0, asyncHandler_1.asyncHandler)(prescription_controller_1.getPrescriptions));
+router.post('/', (0, asyncHandler_1.asyncHandler)(prescription_controller_1.createPrescription));
+router.get('/:id', (0, asyncHandler_1.asyncHandler)(prescription_controller_1.getPrescriptionById));
+router.put('/:id', (0, asyncHandler_1.asyncHandler)(prescription_controller_1.updatePrescription));
+router.post('/:id/duplicate', (0, asyncHandler_1.asyncHandler)(prescription_controller_1.duplicatePrescription));
+exports.default = router;

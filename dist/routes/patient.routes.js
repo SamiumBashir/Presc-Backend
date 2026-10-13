@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const patient_controller_1 = require("../controllers/patient.controller");
+const auth_1 = require("../middleware/auth");
+const asyncHandler_1 = require("../utils/asyncHandler");
+const router = (0, express_1.Router)();
+router.use(auth_1.authenticate, auth_1.requireDoctor);
+router.get('/', (0, asyncHandler_1.asyncHandler)(patient_controller_1.getPatients));
+router.post('/', (0, asyncHandler_1.asyncHandler)(patient_controller_1.createPatient));
+router.get('/:id', (0, asyncHandler_1.asyncHandler)(patient_controller_1.getPatientById));
+router.put('/:id', (0, asyncHandler_1.asyncHandler)(patient_controller_1.updatePatient));
+router.get('/:id/history', (0, asyncHandler_1.asyncHandler)(patient_controller_1.getPatientMedicalHistory));
+exports.default = router;

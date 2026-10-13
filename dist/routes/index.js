@@ -1,0 +1,26 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const auth_routes_1 = __importDefault(require("./auth.routes"));
+const patient_routes_1 = __importDefault(require("./patient.routes"));
+const medicine_routes_1 = __importDefault(require("./medicine.routes"));
+const prescription_routes_1 = __importDefault(require("./prescription.routes"));
+const chamber_routes_1 = __importDefault(require("./chamber.routes"));
+const template_routes_1 = __importDefault(require("./template.routes"));
+const admin_routes_1 = __importDefault(require("./admin.routes"));
+const public_routes_1 = __importDefault(require("./public.routes"));
+const upload_routes_1 = __importDefault(require("./upload.routes"));
+const router = (0, express_1.Router)();
+router.use('/auth', auth_routes_1.default);
+router.use('/patients', patient_routes_1.default);
+router.use('/medicines', medicine_routes_1.default);
+router.use('/prescriptions', prescription_routes_1.default);
+router.use('/chambers', chamber_routes_1.default);
+router.use('/templates', template_routes_1.default);
+router.use('/admin', admin_routes_1.default);
+router.use('/public', public_routes_1.default);
+router.use('/upload', upload_routes_1.default);
+exports.default = router;

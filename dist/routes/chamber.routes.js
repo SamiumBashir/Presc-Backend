@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const chamber_controller_1 = require("../controllers/chamber.controller");
+const auth_1 = require("../middleware/auth");
+const asyncHandler_1 = require("../utils/asyncHandler");
+const router = (0, express_1.Router)();
+router.use(auth_1.authenticate, auth_1.requireDoctor);
+router.get('/', (0, asyncHandler_1.asyncHandler)(chamber_controller_1.getChambers));
+router.post('/', (0, asyncHandler_1.asyncHandler)(chamber_controller_1.createChamber));
+router.put('/:id', (0, asyncHandler_1.asyncHandler)(chamber_controller_1.updateChamber));
+router.delete('/:id', (0, asyncHandler_1.asyncHandler)(chamber_controller_1.deleteChamber));
+exports.default = router;
