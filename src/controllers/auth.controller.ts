@@ -407,20 +407,14 @@ export const forgotPassword = async (req: AuthRequest, res: Response): Promise<v
     expiresInMinutes: Math.round(ENV.OTP_EXPIRES_IN / 60),
   });
 
-  // Graceful fallback when cloud hosting blocks outbound SMTP: provide emergency recovery OTP so user is never locked out
   if (!emailResult.success) {
-    console.warn(`[Auth Controller] Email delivery unavailable for ${user.email}. Providing fallback recovery OTP.`);
-    await logAuditEvent(req, {
-      action: 'PASSWORD_RESET_OTP_FALLBACK_ISSUED',
-      resource: 'User',
-      resourceId: user._id.toString(),
-      details: { email: user.email, reason: 'SMTP_TIMEOUT' },
-    });
-    res.status(200).json({
-      success: true,
-      message: 'Email service unavailable on cloud server. Emergency verification code provided below.',
-      devOtp: generatedOtp,
-      devWarning: 'Server mail delivery is restricted. Please use the verification code shown on screen.',
+    console.error(`[Auth Controller] Email delivery unavailable for ${user.email}`);
+    if (record) {
+      await PasswordResetOtp.findByIdAndDelete(record._id);
+    }
+    res.status(503).json({
+      success: false,
+      message: 'Failed to send OTP to your email. Outbound mail delivery is unavailable. Please check your email configuration.',
     });
     return;
   }
@@ -558,20 +552,14 @@ export const resendOtp = async (req: AuthRequest, res: Response): Promise<void> 
     expiresInMinutes: Math.round(ENV.OTP_EXPIRES_IN / 60),
   });
 
-  // Graceful fallback when cloud hosting blocks outbound SMTP
   if (!emailResult.success) {
-    console.warn(`[Auth Controller] Resend OTP email delivery unavailable for ${user.email}. Providing fallback recovery OTP.`);
-    await logAuditEvent(req, {
-      action: 'PASSWORD_RESET_OTP_FALLBACK_RESENT',
-      resource: 'User',
-      resourceId: user._id.toString(),
-      details: { email: user.email, reason: 'SMTP_TIMEOUT' },
-    });
-    res.status(200).json({
-      success: true,
-      message: 'Email service unavailable on cloud server. A new emergency verification code is provided below.',
-      devOtp: generatedOtp,
-      devWarning: 'Server mail delivery is restricted. Please use the verification code shown on screen.',
+    console.error(`[Auth Controller] Resend OTP email delivery unavailable for ${user.email}`);
+    if (updatedRecord) {
+      await PasswordResetOtp.findByIdAndDelete(updatedRecord._id);
+    }
+    res.status(503).json({
+      success: false,
+      message: 'Failed to send OTP to your email. Outbound mail delivery is unavailable. Please check your email configuration.',
     });
     return;
   }

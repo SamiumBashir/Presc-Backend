@@ -169,13 +169,9 @@ const dispatchEmail = async ({ to, subject, html, text, contextTag, }) => {
             console.error(`[Email Service] Fallback TLS SMTP failed for ${contextTag}:`, error.message);
         }
     }
-    // Development/Local Fallback when email dispatch is unavailable
+    // If all email providers failed, do not pretend it succeeded
     if (env_1.ENV.NODE_ENV !== 'production') {
-        console.log(`\n======================================================`);
-        console.log(`[DEV ${contextTag.toUpperCase()} EMAIL] Recipient: ${to}`);
-        console.log(`[DEV ${contextTag.toUpperCase()} SUBJECT] ${subject}`);
-        console.log(`======================================================\n`);
-        return { success: true, devPreview: true };
+        console.warn(`[Email Service] Warning: Real email delivery to ${to} failed.`);
     }
     return { success: false };
 };
