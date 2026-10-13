@@ -109,12 +109,19 @@ export const registerDoctor = async (req: AuthRequest, res: Response): Promise<v
   });
 
   // Dispatch Welcome Email asynchronously to onboard the new doctor
+  const frontendBaseUrl =
+    ENV.NODE_ENV === 'production'
+      ? 'https://doc-presc.vercel.app'
+      : (process.env.FRONTEND_URL || (ENV.CORS_ORIGIN ? ENV.CORS_ORIGIN.split(',')[0].trim() : 'http://localhost:5173'));
+
+  console.log(`[Auth Controller] Registered doctor ${user.email}. Triggering welcome email...`);
   sendWelcomeEmail({
     to: user.email,
     name: user.name,
     specialization: doctor.specialization,
+    loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
   }).catch((err: any) => {
-    console.error('[Auth Controller] Failed to dispatch welcome email:', err.message);
+    console.error(`[Auth Controller] Failed to dispatch welcome email to ${user.email}:`, err.message);
   });
 
   res.status(201).json({

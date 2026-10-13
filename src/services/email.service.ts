@@ -359,6 +359,9 @@ export const sendWelcomeEmail = async ({
       <p class="intro">
         Welcome to <strong>DocPresc</strong>! Your doctor account has been successfully registered. You now have immediate access to our digital prescription pad, patient record history, and chamber management suite.
       </p>
+      <div style="background: #e0f2fe; border-left: 4px solid #008ba3; padding: 12px 16px; border-radius: 6px; margin-bottom: 20px; font-size: 13px; color: #0e7490; font-weight: 500; line-height: 1.5;">
+        🌟 DocPresc-এ আপনাকে স্বাগতম! আপনার অ্যাকাউন্ট সফলভাবে তৈরি হয়েছে। এখন আপনি ডিজিটাল প্রেসক্রিপশন তৈরি, চেম্বার শিডিউল এবং পেশেন্ট রেকর্ড নিরাপদে পরিচালনা করতে পারবেন।
+      </div>
 
       <div class="account-card">
         <div class="account-card-title">Account Summary</div>
