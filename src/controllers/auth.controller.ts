@@ -120,9 +120,17 @@ export const registerDoctor = async (req: AuthRequest, res: Response): Promise<v
     name: user.name,
     specialization: doctor.specialization,
     loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
-  }).catch((err: any) => {
-    console.error(`[Auth Controller] Failed to dispatch welcome email to ${user.email}:`, err.message);
-  });
+  })
+    .then((res) => {
+      if (res.success) {
+        console.log(`[Auth Controller] ✅ Welcome email delivered successfully to ${user.email} (Message ID: ${res.messageId})`);
+      } else {
+        console.warn(`[Auth Controller] ⚠️ Welcome email could not be delivered to ${user.email}:`, res.error);
+      }
+    })
+    .catch((err: any) => {
+      console.error(`[Auth Controller] Failed to dispatch welcome email to ${user.email}:`, err.message);
+    });
 
   res.status(201).json({
     success: true,
