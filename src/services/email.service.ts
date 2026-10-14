@@ -2,13 +2,32 @@ import nodemailer, { Transporter } from 'nodemailer';
 import { Resend } from 'resend';
 import { ENV } from '../config/env';
 
-let resendClient: Resend | null = null;
-if (ENV.RESEND_API_KEY) {
-  resendClient = new Resend(ENV.RESEND_API_KEY);
-}
+let cachedResendClient: Resend | null = null;
+let mockTransporter: Transporter | null = null;
+
+/**
+ * Allows automated test suites to inject a mock transporter without sending real emails.
+ */
+export const setMockTransporter = (transporter: Transporter | null) => {
+  mockTransporter = transporter;
+};
+
+export const getMockTransporter = (): Transporter | null => mockTransporter;
+
+/**
+ * Returns a Resend client instance dynamically using the latest environment configuration.
+ */
+export const getResendClient = (apiKeyOverride?: string): Resend | null => {
+  const apiKey = apiKeyOverride || ENV.RESEND_API_KEY || process.env.RESEND_API_KEY;
+  if (!apiKey) return null;
+  if (!cachedResendClient) {
+    cachedResendClient = new Resend(apiKey);
+  }
+  return cachedResendClient;
+};
 
 const getCleanCredentials = () => {
-  const rawUser = (ENV.SMTP_USER || '').replace(/['"]/g, '').trim();
+  const rawUser = (ENV.SMTP_USER || process.env.SMTP_USER || '').replace(/['"]/g, '').trim();
   const angleMatch = rawUser.match(/<([^>]+)>/);
   const userCandidate = angleMatch ? angleMatch[1].trim() : rawUser;
   const emailRegexMatch = userCandidate.match(/([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/);
@@ -16,51 +35,55 @@ const getCleanCredentials = () => {
     .trim()
     .replace(/@gamil\.com$/i, '@gmail.com');
 
-  const cleanPass = (ENV.SMTP_PASS || '').replace(/\s+/g, '').replace(/['"]/g, '').trim();
+  const cleanPass = (ENV.SMTP_PASS || process.env.SMTP_PASS || '').replace(/\s+/g, '').replace(/['"]/g, '').trim();
   const isGmail =
-    (ENV.SMTP_HOST || '').toLowerCase().includes('gmail') ||
+    (ENV.SMTP_HOST || process.env.SMTP_HOST || '').toLowerCase().includes('gmail') ||
     cleanUser.toLowerCase().includes('gmail');
   return { cleanUser, cleanPass, isGmail };
 };
 
 export const getPrimaryTransporter = (): Transporter | null => {
+  if (mockTransporter) return mockTransporter;
+
   const { cleanUser, cleanPass, isGmail } = getCleanCredentials();
   if (!cleanUser || !cleanPass) return null;
 
-  return nodemailer.createTransport(
-    isGmail
-      ? {
-          service: 'gmail',
-          auth: { user: cleanUser, pass: cleanPass },
-          connectionTimeout: 7000,
-          greetingTimeout: 7000,
-          socketTimeout: 10000,
-        }
-      : {
-          host: ENV.SMTP_HOST || 'smtp.gmail.com',
-          port: ENV.SMTP_PORT || 465,
-          secure: (ENV.SMTP_PORT || 465) === 465,
-          auth: { user: cleanUser, pass: cleanPass },
-          connectionTimeout: 7000,
-          greetingTimeout: 7000,
-          socketTimeout: 10000,
-        }
-  );
+  const port = Number(ENV.SMTP_PORT || process.env.SMTP_PORT) || 465;
+  const isSecure = port === 465;
+  const host = isGmail ? 'smtp.gmail.com' : (ENV.SMTP_HOST || process.env.SMTP_HOST || 'smtp.gmail.com');
+
+  return nodemailer.createTransport({
+    host,
+    port,
+    secure: isSecure,
+    requireTLS: !isSecure,
+    auth: { user: cleanUser, pass: cleanPass },
+    connectionTimeout: 8000,
+    greetingTimeout: 8000,
+    socketTimeout: 12000,
+  });
 };
 
 export const getFallbackTlsTransporter = (): Transporter | null => {
-  const { cleanUser, cleanPass } = getCleanCredentials();
+  if (mockTransporter) return mockTransporter;
+
+  const { cleanUser, cleanPass, isGmail } = getCleanCredentials();
   if (!cleanUser || !cleanPass) return null;
 
+  const primaryPort = Number(ENV.SMTP_PORT || process.env.SMTP_PORT) || 465;
+  const fallbackPort = primaryPort === 465 ? 587 : 465;
+  const isSecure = fallbackPort === 465;
+  const host = isGmail ? 'smtp.gmail.com' : (ENV.SMTP_HOST || process.env.SMTP_HOST || 'smtp.gmail.com');
+
   return nodemailer.createTransport({
-    host: 'smtp.gmail.com',
-    port: 587,
-    secure: false,
-    requireTLS: true,
+    host,
+    port: fallbackPort,
+    secure: isSecure,
+    requireTLS: !isSecure,
     auth: { user: cleanUser, pass: cleanPass },
-    connectionTimeout: 7000,
-    greetingTimeout: 7000,
-    socketTimeout: 10000,
+    connectionTimeout: 8000,
+    greetingTimeout: 8000,
+    socketTimeout: 12000,
   });
 };
 
@@ -83,62 +106,104 @@ const escapeHtml = (str: string): string =>
 
 /**
  * Robust Email Dispatcher:
- * 1. Prioritizes Resend via HTTPS (Port 443) - immune to cloud hosting SMTP firewall blocks (Render, etc.)
- * 2. Tries Primary SMTP Transporter (Port 465 SSL or Gmail Service)
- * 3. Falls back to Secondary SMTP Transporter (Port 587 STARTTLS)
- * 4. Prints Dev preview in development mode
+ * 1. Prioritizes Mock Transporter in test environments if injected
+ * 2. Prioritizes Resend via HTTPS (Port 443) - immune to cloud hosting SMTP firewall blocks (Render Free Tier, etc.)
+ * 3. Tries Brevo (Sendinblue) via HTTPS (Port 443)
+ * 4. Tries Primary SMTP Transporter (Port 465 SSL or configured port)
+ * 5. Falls back to Secondary SMTP Transporter (Port 587 STARTTLS)
  */
 const dispatchEmail = async ({
   to,
   subject,
   html,
-  text,
-  contextTag,
+  text = '',
+  contextTag = 'General',
 }: {
   to: string;
   subject: string;
   html: string;
-  text: string;
-  contextTag: string;
-}): Promise<{ success: boolean; messageId?: string; devPreview?: boolean }> => {
-  // 1. Resend API via HTTPS (Port 443)
-  if (resendClient && ENV.RESEND_API_KEY) {
+  text?: string;
+  contextTag?: string;
+}): Promise<{ success: boolean; messageId?: string; devPreview?: boolean; error?: string }> => {
+  if (!to || typeof to !== 'string' || !to.includes('@')) {
+    console.warn(`[Email Service] Invalid recipient address provided: "${to}"`);
+    return { success: false, error: `Invalid recipient address: "${to}"` };
+  }
+
+  // 0. Mock Transporter (Unit tests)
+  if (mockTransporter) {
     try {
-      const response = await resendClient.emails.send({
-        from: ENV.EMAIL_FROM,
+      const info = await mockTransporter.sendMail({
+        from: ENV.EMAIL_FROM || 'DocPresc <noreply@docpresc.com>',
         to,
         subject,
         html,
         text,
       });
+      return { success: true, messageId: info?.messageId || 'mock-msg-id-123' };
+    } catch (err: any) {
+      console.error(`[Email Service] Mock transporter simulated failure:`, err.message);
+      return { success: false, error: err.message };
+    }
+  }
 
-      if (response.error) {
-        console.error(`[Email Service] Resend API error sending ${contextTag} to ${to}:`, response.error);
-        // Do NOT return success: true! Resend failed (e.g. unverified sandbox recipient domain restriction)
-      } else if (response.data?.id) {
-        console.log(`[Email Service] Sent ${contextTag} email via Resend to ${to} (Message ID: ${response.data.id})`);
-        return { success: true, messageId: response.data.id };
+  // 1. Resend API via HTTPS (Port 443) - immune to cloud hosting SMTP firewall blocks
+  const resendApiKey = ENV.RESEND_API_KEY || process.env.RESEND_API_KEY;
+  if (resendApiKey) {
+    try {
+      const client = getResendClient(resendApiKey);
+      if (client) {
+        // Resend requires verified domains or onboarding@resend.dev during testing.
+        // If EMAIL_FROM contains a public domain like @gmail.com or @yahoo.com,
+        // using it directly will fail with "Domain not verified".
+        // In that case, use onboarding@resend.dev with the configured display name.
+        let fromAddress = ENV.EMAIL_FROM || process.env.EMAIL_FROM || 'DocPresc <onboarding@resend.dev>';
+        const isPublicWebmail = /@(gmail|yahoo|hotmail|outlook)\.com/i.test(fromAddress);
+        if (isPublicWebmail || !fromAddress.includes('@')) {
+          const nameMatch = fromAddress.match(/^([^<]+)/);
+          const displayName = nameMatch ? nameMatch[1].trim() : 'DocPresc';
+          fromAddress = `${displayName} <onboarding@resend.dev>`;
+        }
+
+        const response = await client.emails.send({
+          from: fromAddress,
+          to,
+          subject,
+          html,
+          text,
+        });
+
+        if (response.error) {
+          console.error(`[Email Service] Resend API error sending ${contextTag} to ${to}:`, response.error);
+        } else if (response.data?.id) {
+          console.log(`[Email Service] Sent ${contextTag} email via Resend to ${to} (Message ID: ${response.data.id})`);
+          return { success: true, messageId: response.data.id };
+        }
       }
     } catch (error: any) {
       console.error(`[Email Service] Exception sending ${contextTag} via Resend:`, error.message);
-      // Fall through to other providers
     }
   }
 
   // 2. Brevo (Sendinblue) HTTPS API (Port 443 - works on Render without custom domain restrictions)
-  if (ENV.BREVO_API_KEY) {
+  const brevoApiKey = ENV.BREVO_API_KEY || process.env.BREVO_API_KEY;
+  if (brevoApiKey) {
     try {
       const { cleanUser } = getCleanCredentials();
-      const senderEmail = cleanUser || 'onboarding@resend.dev';
+      const rawFrom = ENV.EMAIL_FROM || process.env.EMAIL_FROM || '';
+      const fromNameMatch = rawFrom.match(/^([^<]+)<([^>]+)>/);
+      const senderName = fromNameMatch ? fromNameMatch[1].trim() : 'DocPresc';
+      const senderEmail = fromNameMatch ? fromNameMatch[2].trim() : (cleanUser || 'onboarding@resend.dev');
+
       const brevoRes = await fetch('https://api.brevo.com/v3/smtp/email', {
         method: 'POST',
         headers: {
-          'api-key': ENV.BREVO_API_KEY,
+          'api-key': brevoApiKey,
           'Content-Type': 'application/json',
           Accept: 'application/json',
         },
         body: JSON.stringify({
-          sender: { name: 'DocPresc', email: senderEmail },
+          sender: { name: senderName, email: senderEmail },
           to: [{ email: to }],
           subject,
           htmlContent: html,
@@ -158,12 +223,12 @@ const dispatchEmail = async ({
     }
   }
 
-  // 3. Primary SMTP Transporter (Port 465 SSL or Gmail Service)
+  // 3. Primary SMTP Transporter (Port 465 SSL or configured port)
   const primaryTransporter = getPrimaryTransporter();
   if (primaryTransporter) {
     try {
       const { cleanUser } = getCleanCredentials();
-      const fromAddress = cleanUser ? `DocPresc <${cleanUser}>` : ENV.EMAIL_FROM;
+      const fromAddress = cleanUser ? `Doc Presc <${cleanUser}>` : (ENV.EMAIL_FROM || process.env.EMAIL_FROM || 'DocPresc <noreply@docpresc.com>');
       const info = await primaryTransporter.sendMail({
         from: fromAddress,
         to,
@@ -175,7 +240,15 @@ const dispatchEmail = async ({
       console.log(`[Email Service] Sent ${contextTag} email via Primary SMTP to ${to} (Message ID: ${info.messageId})`);
       return { success: true, messageId: info.messageId };
     } catch (error: any) {
-      console.error(`[Email Service] Primary SMTP failed for ${contextTag} (${error.code || error.message}), attempting Port 587 TLS...`);
+      const code = error.code || error.message || 'UNKNOWN';
+      const isNetworkTimeout = ['ETIMEDOUT', 'ECONNREFUSED', 'ESOCKETTIMEDOUT', 'ENOTFOUND'].includes(error.code);
+      if (isNetworkTimeout) {
+        console.error(
+          `[Email Service] Primary SMTP network connection failed (${code}). Cloud firewalls (e.g. Render Free Tier) block ports 25, 465, and 587. Attempting fallback port...`
+        );
+      } else {
+        console.error(`[Email Service] Primary SMTP failed for ${contextTag} (${code}): ${error.message}`);
+      }
     }
   }
 
@@ -184,7 +257,7 @@ const dispatchEmail = async ({
   if (fallbackTransporter) {
     try {
       const { cleanUser } = getCleanCredentials();
-      const fromAddress = cleanUser ? `DocPresc <${cleanUser}>` : ENV.EMAIL_FROM;
+      const fromAddress = cleanUser ? `Doc Presc <${cleanUser}>` : (ENV.EMAIL_FROM || process.env.EMAIL_FROM || 'DocPresc <noreply@docpresc.com>');
       const info = await fallbackTransporter.sendMail({
         from: fromAddress,
         to,
@@ -193,19 +266,43 @@ const dispatchEmail = async ({
         text,
       });
 
-      console.log(`[Email Service] Sent ${contextTag} email via Port 587 TLS to ${to} (Message ID: ${info.messageId})`);
+      console.log(`[Email Service] Sent ${contextTag} email via Fallback SMTP to ${to} (Message ID: ${info.messageId})`);
       return { success: true, messageId: info.messageId };
     } catch (error: any) {
-      console.error(`[Email Service] Fallback TLS SMTP failed for ${contextTag}:`, error.message);
+      const code = error.code || error.message || 'UNKNOWN';
+      const isNetworkTimeout = ['ETIMEDOUT', 'ECONNREFUSED', 'ESOCKETTIMEDOUT', 'ENOTFOUND'].includes(error.code);
+      if (isNetworkTimeout) {
+        console.error(
+          `[Email Service] Fallback SMTP connection failed (${code}). Both SMTP ports are blocked on this host. For free cloud hosting, configure RESEND_API_KEY (HTTPS port 443).`
+        );
+      } else {
+        console.error(`[Email Service] Fallback TLS SMTP failed for ${contextTag} (${code}): ${error.message}`);
+      }
     }
   }
 
-  // If all email providers failed, do not pretend it succeeded
-  if (ENV.NODE_ENV !== 'production') {
-    console.warn(`[Email Service] Warning: Real email delivery to ${to} failed.`);
-  }
+  // If all email providers failed, log diagnostic warning
+  console.warn(`[Email Service] Outbound delivery failed for ${to} (${contextTag}). No working email provider responded.`);
+  return { success: false, error: 'Outbound delivery failed. No working email provider responded.' };
+};
 
-  return { success: false };
+/**
+ * Public generic transactional email dispatcher
+ */
+export const sendEmail = async (options: {
+  to: string;
+  subject: string;
+  html: string;
+  text?: string;
+  contextTag?: string;
+}): Promise<{ success: boolean; messageId?: string; devPreview?: boolean; error?: string }> => {
+  return dispatchEmail({
+    to: options.to,
+    subject: options.subject,
+    html: options.html,
+    text: options.text || '',
+    contextTag: options.contextTag || 'General',
+  });
 };
 
 export const sendPasswordResetOtpEmail = async ({
@@ -441,6 +538,56 @@ The DocPresc Team
   });
 };
 
+/**
+ * Validates active email configuration and tests SMTP connectivity if configured.
+ * Does not block server startup or throw uncaught exceptions.
+ */
+export const verifyEmailConfiguration = async (): Promise<{
+  configured: boolean;
+  provider: 'resend' | 'brevo' | 'smtp' | 'none';
+  smtpVerified?: boolean;
+  details: string;
+}> => {
+  const resendApiKey = ENV.RESEND_API_KEY || process.env.RESEND_API_KEY;
+  if (resendApiKey) {
+    console.log('[Email Service] ✅ Resend provider configured via HTTPS API (Port 443).');
+    return { configured: true, provider: 'resend', details: 'Resend API (HTTPS Port 443)' };
+  }
+
+  const brevoApiKey = ENV.BREVO_API_KEY || process.env.BREVO_API_KEY;
+  if (brevoApiKey) {
+    console.log('[Email Service] ✅ Brevo provider configured via HTTPS API (Port 443).');
+    return { configured: true, provider: 'brevo', details: 'Brevo API (HTTPS Port 443)' };
+  }
+
+  const { cleanUser, cleanPass, isGmail } = getCleanCredentials();
+  if (cleanUser && cleanPass) {
+    const primary = getPrimaryTransporter();
+    if (primary) {
+      try {
+        await primary.verify();
+        const host = isGmail ? 'smtp.gmail.com' : (ENV.SMTP_HOST || 'smtp.gmail.com');
+        const port = Number(ENV.SMTP_PORT) || 465;
+        console.log(`[Email Service] ✅ SMTP connection verified with ${host}:${port} (${cleanUser})`);
+        return { configured: true, provider: 'smtp', smtpVerified: true, details: `SMTP (${cleanUser}) verified` };
+      } catch (err: any) {
+        const isTimeout = ['ETIMEDOUT', 'ECONNREFUSED', 'ESOCKETTIMEDOUT'].includes(err.code);
+        if (isTimeout) {
+          console.warn(
+            `[Email Service] ⚠️ SMTP connection to ${ENV.SMTP_HOST || 'smtp.gmail.com'}:${ENV.SMTP_PORT || 465} timed out (${err.code}). Notice: On free cloud hosting tiers (like Render Free Plan), outbound SMTP ports (25, 465, 587) are blocked by cloud firewalls. To enable email delivery on Render, add RESEND_API_KEY (HTTPS port 443) or BREVO_API_KEY to your Render environment variables.`
+          );
+        } else {
+          console.warn(`[Email Service] ⚠️ SMTP verification failed (${err.code || err.message}). Please verify SMTP credentials.`);
+        }
+        return { configured: true, provider: 'smtp', smtpVerified: false, details: `SMTP verification failed: ${err.message}` };
+      }
+    }
+  }
+
+  console.warn('[Email Service] ⚠️ No email provider configured. Please set SMTP_USER & SMTP_PASS, RESEND_API_KEY, or BREVO_API_KEY.');
+  return { configured: false, provider: 'none', details: 'No email credentials configured' };
+};
+
 export const testSmtpDiagnostics = async (targetEmail?: string) => {
   const { cleanUser, cleanPass } = getCleanCredentials();
   const info: any = {
@@ -450,8 +597,8 @@ export const testSmtpDiagnostics = async (targetEmail?: string) => {
       user: cleanUser || '(empty)',
       passProvided: !!cleanPass,
       passLength: cleanPass ? cleanPass.length : 0,
-      resendKeyProvided: !!ENV.RESEND_API_KEY,
-      brevoKeyProvided: !!ENV.BREVO_API_KEY,
+      resendKeyProvided: !!(ENV.RESEND_API_KEY || process.env.RESEND_API_KEY),
+      brevoKeyProvided: !!(ENV.BREVO_API_KEY || process.env.BREVO_API_KEY),
       emailFrom: ENV.EMAIL_FROM,
       nodeEnv: ENV.NODE_ENV,
     },
@@ -459,11 +606,21 @@ export const testSmtpDiagnostics = async (targetEmail?: string) => {
   };
 
   // Test Resend API if configured
-  if (resendClient && ENV.RESEND_API_KEY) {
-    if (targetEmail) {
+  const resendApiKey = ENV.RESEND_API_KEY || process.env.RESEND_API_KEY;
+  if (resendApiKey) {
+    const client = getResendClient(resendApiKey);
+    if (client && targetEmail) {
       try {
-        const resendRes = await resendClient.emails.send({
-          from: ENV.EMAIL_FROM,
+        let fromAddress = ENV.EMAIL_FROM || 'DocPresc <onboarding@resend.dev>';
+        const isPublicWebmail = /@(gmail|yahoo|hotmail|outlook)\.com/i.test(fromAddress);
+        if (isPublicWebmail || !fromAddress.includes('@')) {
+          const nameMatch = fromAddress.match(/^([^<]+)/);
+          const displayName = nameMatch ? nameMatch[1].trim() : 'DocPresc';
+          fromAddress = `${displayName} <onboarding@resend.dev>`;
+        }
+
+        const resendRes = await client.emails.send({
+          from: fromAddress,
           to: targetEmail,
           subject: 'DocPresc Diagnostic Test',
           html: '<p>Testing Resend delivery probe</p>',
@@ -482,14 +639,15 @@ export const testSmtpDiagnostics = async (targetEmail?: string) => {
   }
 
   // Test Brevo API if configured
-  if (ENV.BREVO_API_KEY) {
+  const brevoApiKey = ENV.BREVO_API_KEY || process.env.BREVO_API_KEY;
+  if (brevoApiKey) {
     if (targetEmail) {
       try {
         const senderEmail = cleanUser || 'onboarding@resend.dev';
         const brevoRes = await fetch('https://api.brevo.com/v3/smtp/email', {
           method: 'POST',
           headers: {
-            'api-key': ENV.BREVO_API_KEY,
+            'api-key': brevoApiKey,
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
@@ -513,7 +671,7 @@ export const testSmtpDiagnostics = async (targetEmail?: string) => {
     }
   }
 
-  // Test SSL / Service: gmail
+  // Test Primary SMTP
   try {
     const t1 = getPrimaryTransporter();
     if (t1) {
@@ -526,7 +684,7 @@ export const testSmtpDiagnostics = async (targetEmail?: string) => {
     info.results.primary_smtp = { error: e.message, code: e.code };
   }
 
-  // Test Port 587 STARTTLS
+  // Test Fallback TLS
   try {
     const t2 = getFallbackTlsTransporter();
     if (t2) {

@@ -363,9 +363,10 @@ export const forgotPassword = async (req: AuthRequest, res: Response): Promise<v
   let generatedOtp: string | undefined;
 
   if (!user) {
-    res.status(404).json({
-      success: false,
-      message: `No doctor account found with email "${email}". Please verify your email or create a new account.`,
+    // Prevent email enumeration attacks: return generic success without leaking account existence
+    res.status(200).json({
+      success: true,
+      message: 'If an account exists with this email, a verification code has been sent. Please check your inbox and spam folder.',
     });
     return;
   }
@@ -525,9 +526,10 @@ export const resendOtp = async (req: AuthRequest, res: Response): Promise<void> 
 
   const user = await User.findOne({ email });
   if (!user) {
-    res.status(404).json({
-      success: false,
-      message: `No doctor account found with email "${email}".`,
+    // Prevent email enumeration attacks: return generic success without leaking account existence
+    res.status(200).json({
+      success: true,
+      message: 'If an account exists with this email, a verification code has been sent. Please check your inbox and spam folder.',
     });
     return;
   }
