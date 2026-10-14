@@ -310,7 +310,7 @@ export const sendPasswordResetOtpEmail = async ({
   name,
   otp,
   expiresInMinutes = 10,
-}: ISendOtpEmailOptions): Promise<{ success: boolean; messageId?: string; devPreview?: boolean }> => {
+}: ISendOtpEmailOptions): Promise<{ success: boolean; messageId?: string; devPreview?: boolean; error?: string }> => {
   const recipientName = escapeHtml(name || 'Doctor');
   const subject = `Your DocPresc Password Reset OTP: ${otp}`;
 
@@ -401,7 +401,7 @@ export const sendWelcomeEmail = async ({
   name,
   specialization,
   loginUrl = 'https://doc-presc.vercel.app/login',
-}: ISendWelcomeEmailOptions): Promise<{ success: boolean; messageId?: string; devPreview?: boolean }> => {
+}: ISendWelcomeEmailOptions): Promise<{ success: boolean; messageId?: string; devPreview?: boolean; error?: string }> => {
   const recipientName = escapeHtml(name || 'Doctor');
   const specText = specialization ? escapeHtml(specialization) : 'Physician';
   const subject = `Welcome to DocPresc, Dr. ${recipientName}!`;
