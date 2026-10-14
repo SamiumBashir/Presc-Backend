@@ -147,6 +147,8 @@ const dispatchEmail = async ({
     }
   }
 
+  let lastError = '';
+
   // 1. Resend API via HTTPS (Port 443) - immune to cloud hosting SMTP firewall blocks
   const resendApiKey = ENV.RESEND_API_KEY || process.env.RESEND_API_KEY;
   if (resendApiKey) {
@@ -174,6 +176,12 @@ const dispatchEmail = async ({
         });
 
         if (response.error) {
+          const errMsg = response.error.message || JSON.stringify(response.error);
+          if (errMsg.includes('You can only send testing emails to your own email address')) {
+            lastError = 'In Resend free test mode, emails can only be sent to the account owner (7232.badhan@gmail.com). To send to any recipient, add BREVO_API_KEY to Render or verify your domain in Resend.';
+          } else {
+            lastError = errMsg;
+          }
           console.error(`[Email Service] Resend API error sending ${contextTag} to ${to}:`, response.error);
         } else if (response.data?.id) {
           console.log(`[Email Service] Sent ${contextTag} email via Resend to ${to} (Message ID: ${response.data.id})`);
@@ -181,6 +189,7 @@ const dispatchEmail = async ({
         }
       }
     } catch (error: any) {
+      lastError = error.message;
       console.error(`[Email Service] Exception sending ${contextTag} via Resend:`, error.message);
     }
   }
@@ -216,9 +225,11 @@ const dispatchEmail = async ({
         console.log(`[Email Service] Sent ${contextTag} email via Brevo to ${to} (Message ID: ${brevoData.messageId})`);
         return { success: true, messageId: brevoData.messageId };
       } else {
+        lastError = brevoData?.message || JSON.stringify(brevoData);
         console.error(`[Email Service] Brevo API error for ${to}:`, brevoData);
       }
     } catch (error: any) {
+      lastError = error.message;
       console.error(`[Email Service] Exception sending ${contextTag} via Brevo:`, error.message);
     }
   }
@@ -283,7 +294,7 @@ const dispatchEmail = async ({
 
   // If all email providers failed, log diagnostic warning
   console.warn(`[Email Service] Outbound delivery failed for ${to} (${contextTag}). No working email provider responded.`);
-  return { success: false, error: 'Outbound delivery failed. No working email provider responded.' };
+  return { success: false, error: lastError || 'Outbound delivery failed. No working email provider responded.' };
 };
 
 /**

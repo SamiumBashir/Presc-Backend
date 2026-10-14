@@ -368,7 +368,7 @@ const forgotPassword = async (req, res) => {
         }
         res.status(503).json({
             success: false,
-            message: 'Failed to send OTP to your email. Outbound mail delivery is unavailable. Please check your email configuration.',
+            message: emailResult.error || 'Failed to send OTP to your email. Outbound mail delivery is unavailable. Please check your email configuration.',
         });
         return;
     }
@@ -492,7 +492,7 @@ const resendOtp = async (req, res) => {
         }
         res.status(503).json({
             success: false,
-            message: 'Failed to send OTP to your email. Outbound mail delivery is unavailable. Please check your email configuration.',
+            message: emailResult.error || 'Failed to send OTP to your email. Outbound mail delivery is unavailable. Please check your email configuration.',
         });
         return;
     }
