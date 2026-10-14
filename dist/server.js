@@ -4,6 +4,7 @@ const app_1 = require("./app");
 const db_1 = require("./config/db");
 const env_1 = require("./config/env");
 const seed_1 = require("./seeds/seed");
+const email_service_1 = require("./services/email.service");
 process.on('unhandledRejection', (reason) => {
     console.error('[Unhandled Rejection]', reason);
 });
@@ -42,6 +43,10 @@ const startServer = async () => {
             catch (seedErr) {
                 console.error('[DocRx Backend] Auto-seed warning:', seedErr);
             }
+            // Non-blocking email provider diagnostics check
+            (0, email_service_1.verifyEmailConfiguration)().catch((mailErr) => {
+                console.warn('[DocRx Backend] Email configuration verification warning:', mailErr.message);
+            });
         })
             .catch((dbErr) => {
             console.error('[DocRx Backend] Database initial connection error:', dbErr.message);

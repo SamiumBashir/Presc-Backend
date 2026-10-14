@@ -97,7 +97,16 @@ const registerDoctor = async (req, res) => {
         name: user.name,
         specialization: doctor.specialization,
         loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
-    }).catch((err) => {
+    })
+        .then((res) => {
+        if (res.success) {
+            console.log(`[Auth Controller] ✅ Welcome email delivered successfully to ${user.email} (Message ID: ${res.messageId})`);
+        }
+        else {
+            console.warn(`[Auth Controller] ⚠️ Welcome email could not be delivered to ${user.email}:`, res.error);
+        }
+    })
+        .catch((err) => {
         console.error(`[Auth Controller] Failed to dispatch welcome email to ${user.email}:`, err.message);
     });
     res.status(201).json({
@@ -310,9 +319,10 @@ const forgotPassword = async (req, res) => {
     const user = await User_1.User.findOne({ email });
     let generatedOtp;
     if (!user) {
-        res.status(404).json({
-            success: false,
-            message: `No doctor account found with email "${email}". Please verify your email or create a new account.`,
+        // Prevent email enumeration attacks: return generic success without leaking account existence
+        res.status(200).json({
+            success: true,
+            message: 'If an account exists with this email, a verification code has been sent. Please check your inbox and spam folder.',
         });
         return;
     }
@@ -448,9 +458,10 @@ const resendOtp = async (req, res) => {
     }
     const user = await User_1.User.findOne({ email });
     if (!user) {
-        res.status(404).json({
-            success: false,
-            message: `No doctor account found with email "${email}".`,
+        // Prevent email enumeration attacks: return generic success without leaking account existence
+        res.status(200).json({
+            success: true,
+            message: 'If an account exists with this email, a verification code has been sent. Please check your inbox and spam folder.',
         });
         return;
     }
