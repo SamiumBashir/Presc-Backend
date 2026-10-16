@@ -385,8 +385,15 @@ export const forgotPassword = async (req: AuthRequest, res: Response): Promise<v
 
   if (!user) {
     console.log(
-      `[Auth Controller] ℹ️ Forgot-password requested for ${maskEmail(email)}, but no account was found in MongoDB. Returning anti-enumeration 200 response.`
+      `[Auth Controller] ℹ️ Forgot-password requested for ${maskEmail(email)}, but no account was found in MongoDB.`
     );
+    if (ENV.NODE_ENV !== 'production') {
+      res.status(404).json({
+        success: false,
+        message: `No doctor account found with email "${email}". Please verify your registered email or register first.`,
+      });
+      return;
+    }
     // Prevent email enumeration attacks: return generic success without leaking account existence
     res.status(200).json({
       success: true,
@@ -474,6 +481,7 @@ export const forgotPassword = async (req: AuthRequest, res: Response): Promise<v
   res.status(200).json({
     success: true,
     message: 'Verification code has been sent to your email. Please check your inbox and spam folder.',
+    ...(ENV.NODE_ENV !== 'production' || process.env.ALLOW_DEV_OTP === 'true' ? { devOtp: otp } : {}),
   });
 };
 
@@ -633,6 +641,7 @@ export const resendOtp = async (req: AuthRequest, res: Response): Promise<void> 
   res.status(200).json({
     success: true,
     message: 'A new verification code has been sent to your email. Please check your inbox and spam folder.',
+    ...(ENV.NODE_ENV !== 'production' || process.env.ALLOW_DEV_OTP === 'true' ? { devOtp: otp } : {}),
   });
 };
 

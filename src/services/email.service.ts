@@ -203,6 +203,8 @@ export const getPrimaryTransporter = (): Transporter | null => {
   const isSecure = port === 465;
   const host = isGmail ? 'smtp.gmail.com' : (ENV.SMTP_HOST || process.env.SMTP_HOST || 'smtp.gmail.com');
 
+  const isServerless = Boolean(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME || process.env.NODE_ENV === 'production');
+
   cachedPrimaryTransporter = nodemailer.createTransport({
     host,
     port,
@@ -212,9 +214,8 @@ export const getPrimaryTransporter = (): Transporter | null => {
     connectionTimeout: 10000,
     greetingTimeout: 10000,
     socketTimeout: 15000,
-    pool: true,
-    maxConnections: 5,
-    maxMessages: 100,
+    pool: !isServerless,
+    ...(!isServerless ? { maxConnections: 5, maxMessages: 100 } : {}),
   });
 
   return cachedPrimaryTransporter;
@@ -352,12 +353,20 @@ const sendViaSmtp = async ({
   console.log(`[Email Service] [${contextTag}] Provider: SMTP (port ${port}) | Recipient: ${maskEmail(to)} | Stage: Connecting...`);
 
   try {
+    const mailHeaders = {
+      'Auto-Submitted': 'auto-generated',
+      'X-Mailer': 'DocPresc Clinical Mailer',
+      'Precedence': 'bulk',
+    };
+
     const info = await primaryTransporter.sendMail({
       from: fromAddress,
       to,
+      replyTo: fromAddress,
       subject,
       html,
       text,
+      headers: mailHeaders,
     });
 
     console.log(`[Email Service] ✅ [${contextTag}] Sent successfully via Primary SMTP (port ${port}) to ${maskEmail(to)} (Message ID: ${info.messageId})`);
@@ -375,9 +384,15 @@ const sendViaSmtp = async ({
           const fallbackInfo = await fallbackTransporter.sendMail({
             from: fromAddress,
             to,
+            replyTo: fromAddress,
             subject,
             html,
             text,
+            headers: {
+              'Auto-Submitted': 'auto-generated',
+              'X-Mailer': 'DocPresc Clinical Mailer',
+              'Precedence': 'bulk',
+            },
           });
 
           console.log(`[Email Service] ✅ [${contextTag}] Sent successfully via Fallback SMTP (port 587) to ${maskEmail(to)} (Message ID: ${fallbackInfo.messageId})`);
@@ -664,8 +679,9 @@ export const sendPasswordResetOtpEmail = async ({
   otp,
   expiresInMinutes = 10,
 }: ISendOtpEmailOptions): Promise<IEmailDispatchResult> => {
-  const recipientName = escapeHtml(name || 'Doctor');
-  const subject = `Your DocPresc Password Reset OTP: ${otp}`;
+  const cleanName = (name || 'Doctor').replace(/^Dr\.?\s*/i, '').trim();
+  const recipientName = escapeHtml(cleanName || 'Doctor');
+  const subject = `DocPresc - Password Reset Verification Code (${otp})`;
 
   const htmlContent = `
 <!DOCTYPE html>
@@ -699,25 +715,25 @@ export const sendPasswordResetOtpEmail = async ({
     <div class="body">
       <div class="greeting">Hello Dr. ${recipientName},</div>
       <p class="message">
-        We received a request to reset the password for your DocPresc doctor account. Use the 6-digit verification code below to proceed:
+        We received a request to verify your account or reset your password for DocPresc. Use the 6-digit verification code below:
       </p>
 
       <div class="otp-box">
-        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #0f766e; font-weight: 700;">Password Reset OTP</div>
+        <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #0f766e; font-weight: 700;">Verification Code (OTP)</div>
         <div class="otp-code">${otp}</div>
-        <div class="otp-expiry">⏱ Valid for ${expiresInMinutes} minutes only</div>
+        <div class="otp-expiry">Valid for ${expiresInMinutes} minutes</div>
       </div>
 
       <div class="warning-box">
-        <strong>Security Notice:</strong> Never share this code with anyone. DocPresc support personnel will never ask for your verification code or password.
+        For your account safety, please do not share this verification code with anyone.
       </div>
 
       <p class="message" style="font-size: 12px; color: #64748b; margin-bottom: 0;">
-        If you did not initiate this password reset request, you can safely ignore this email. Your password will remain unchanged.
+        If you did not request this verification, you can safely ignore this email.
       </p>
     </div>
     <div class="footer">
-      &copy; ${new Date().getFullYear()} DocPresc &bull; High-Performance Clinical Management System
+      &copy; ${new Date().getFullYear()} DocPresc Clinical Management System
     </div>
   </div>
 </body>
@@ -725,16 +741,16 @@ export const sendPasswordResetOtpEmail = async ({
 `;
 
   const textContent = `
-DocPresc Password Reset OTP
+DocPresc Account Verification Code
 ----------------------------------------
 Hello Dr. ${recipientName},
 
-Your 6-digit password reset OTP is: ${otp}
+Your 6-digit verification code is: ${otp}
 
-This OTP is valid for ${expiresInMinutes} minutes only.
+This code is valid for ${expiresInMinutes} minutes.
 
-Security Notice: Never share this OTP with anyone.
-If you did not request a password reset, you can safely ignore this email.
+For your account safety, please do not share this code with anyone.
+If you did not initiate this request, you can safely ignore this email.
 `;
 
   return dispatchEmail({
@@ -755,10 +771,11 @@ export const sendWelcomeEmail = async ({
   specialization,
   loginUrl = 'https://doc-presc.vercel.app/login',
 }: ISendWelcomeEmailOptions): Promise<IEmailDispatchResult> => {
-  const recipientName = escapeHtml(name || 'Doctor');
+  const cleanName = (name || 'Doctor').replace(/^Dr\.?\s*/i, '').trim();
+  const recipientName = escapeHtml(cleanName || 'Doctor');
   const specText = specialization ? escapeHtml(specialization) : 'Physician';
   const cleanLoginUrl = escapeHtml(loginUrl);
-  const subject = `Welcome to DocPresc, Dr. ${recipientName}!`;
+  const subject = `Welcome to DocPresc, Dr. ${recipientName}`;
 
   const htmlContent = `
 <!DOCTYPE html>

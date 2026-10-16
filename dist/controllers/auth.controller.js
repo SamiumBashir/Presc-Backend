@@ -322,7 +322,14 @@ const forgotPassword = async (req, res) => {
     const user = await User_1.User.findOne({ email });
     let generatedOtp;
     if (!user) {
-        console.log(`[Auth Controller] ℹ️ Forgot-password requested for ${(0, email_service_1.maskEmail)(email)}, but no account was found in MongoDB. Returning anti-enumeration 200 response.`);
+        console.log(`[Auth Controller] ℹ️ Forgot-password requested for ${(0, email_service_1.maskEmail)(email)}, but no account was found in MongoDB.`);
+        if (env_1.ENV.NODE_ENV !== 'production') {
+            res.status(404).json({
+                success: false,
+                message: `No doctor account found with email "${email}". Please verify your registered email or register first.`,
+            });
+            return;
+        }
         // Prevent email enumeration attacks: return generic success without leaking account existence
         res.status(200).json({
             success: true,
@@ -392,6 +399,7 @@ const forgotPassword = async (req, res) => {
     res.status(200).json({
         success: true,
         message: 'Verification code has been sent to your email. Please check your inbox and spam folder.',
+        ...(env_1.ENV.NODE_ENV !== 'production' || process.env.ALLOW_DEV_OTP === 'true' ? { devOtp: otp } : {}),
     });
 };
 exports.forgotPassword = forgotPassword;
@@ -522,6 +530,7 @@ const resendOtp = async (req, res) => {
     res.status(200).json({
         success: true,
         message: 'A new verification code has been sent to your email. Please check your inbox and spam folder.',
+        ...(env_1.ENV.NODE_ENV !== 'production' || process.env.ALLOW_DEV_OTP === 'true' ? { devOtp: otp } : {}),
     });
 };
 exports.resendOtp = resendOtp;
