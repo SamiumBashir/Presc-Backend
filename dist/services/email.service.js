@@ -252,31 +252,18 @@ const resolveEmailProvider = () => {
     if (configuredProvider === 'brevo') {
         return 'brevo';
     }
-    // Auto-detection mode (in serverless, prefer HTTPS APIs over raw SMTP)
-    const isServerless = Boolean(process.env.VERCEL);
-    if (isServerless) {
-        if (env_1.ENV.RESEND_API_KEY || process.env.RESEND_API_KEY) {
-            return 'resend';
-        }
-        if (env_1.ENV.BREVO_API_KEY || process.env.BREVO_API_KEY) {
-            return 'brevo';
-        }
-        const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
-        if (cleanUser && cleanPass) {
-            return 'smtp';
-        }
+    // Priority rule: If SMTP credentials (such as Gmail App Password) are configured,
+    // SMTP via smtp.gmail.com:465 is prioritized because sending from @gmail.com via 3rd-party
+    // relays (Brevo/Resend) causes Google Mail to reject or spam-quarantine due to DMARC failure.
+    const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
+    if (cleanUser && cleanPass) {
+        return 'smtp';
     }
-    else {
-        const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
-        if (cleanUser && cleanPass) {
-            return 'smtp';
-        }
-        if (env_1.ENV.BREVO_API_KEY || process.env.BREVO_API_KEY) {
-            return 'brevo';
-        }
-        if (env_1.ENV.RESEND_API_KEY || process.env.RESEND_API_KEY) {
-            return 'resend';
-        }
+    if (env_1.ENV.BREVO_API_KEY || process.env.BREVO_API_KEY) {
+        return 'brevo';
+    }
+    if (env_1.ENV.RESEND_API_KEY || process.env.RESEND_API_KEY) {
+        return 'resend';
     }
     return 'none';
 };

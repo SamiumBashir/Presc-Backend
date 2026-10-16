@@ -9,6 +9,7 @@ import routes from './routes';
 import { errorHandler } from './middleware/errorHandler';
 import { ENV } from './config/env';
 import { connectDatabase, isDatabaseConnected } from './config/db';
+import { testSmtpDiagnostics } from './services/email.service';
 
 export const createApp = () => {
   const app = express();
@@ -130,7 +131,6 @@ export const createApp = () => {
   // SMTP Email Health Diagnostic Endpoint
   app.get('/api/health/email-diagnostic', async (req, res) => {
     try {
-      const { testSmtpDiagnostics } = await import('./services/email.service');
       const diagnostics = await testSmtpDiagnostics((req.query.to as string) || undefined);
       res.json(diagnostics);
     } catch (err: any) {
