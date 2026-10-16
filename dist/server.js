@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.startServer = void 0;
 const app_1 = require("./app");
 const db_1 = require("./config/db");
 const env_1 = require("./config/env");
@@ -45,4 +46,7 @@ const startServer = async () => {
         process.exit(1);
     }
 };
-startServer();
+exports.startServer = startServer;
+if (!process.env.VERCEL) {
+    startServer();
+}

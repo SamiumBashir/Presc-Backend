@@ -1,6 +1,12 @@
-import { createApp } from '../src/app';
+import app, { createApp, handler } from '../src/app';
 
-const app = createApp();
-
+export { createApp, handler };
 export default app;
-module.exports = app;
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = Object.assign(app, {
+    createApp,
+    handler,
+    default: app,
+  });
+}

@@ -154,3 +154,17 @@ export const createApp = () => {
 
   return app;
 };
+
+const defaultApp = createApp();
+
+export const handler = (req: any, res: any) => defaultApp(req, res);
+export default defaultApp;
+
+// Support both CommonJS require() and ESM import for Vercel Serverless Function compatibility
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = Object.assign(defaultApp, {
+    createApp,
+    handler,
+    default: defaultApp,
+  });
+}

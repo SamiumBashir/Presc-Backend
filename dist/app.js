@@ -36,7 +36,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.createApp = void 0;
+exports.handler = exports.createApp = void 0;
 const express_1 = __importDefault(require("express"));
 const compression_1 = __importDefault(require("compression"));
 const cors_1 = __importDefault(require("cors"));
@@ -174,3 +174,15 @@ const createApp = () => {
     return app;
 };
 exports.createApp = createApp;
+const defaultApp = (0, exports.createApp)();
+const handler = (req, res) => defaultApp(req, res);
+exports.handler = handler;
+exports.default = defaultApp;
+// Support both CommonJS require() and ESM import for Vercel Serverless Function compatibility
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = Object.assign(defaultApp, {
+        createApp: exports.createApp,
+        handler: exports.handler,
+        default: defaultApp,
+    });
+}
