@@ -50,6 +50,8 @@ const env_1 = require("./config/env");
 const db_1 = require("./config/db");
 const createApp = () => {
     const app = (0, express_1.default)();
+    // Trust first proxy hop (Vercel, Cloudflare, etc.) to accurately extract client IP in serverless
+    app.set('trust proxy', 1);
     // Security Middleware
     app.use((0, helmet_1.default)({
         contentSecurityPolicy: false, // Allows flexible PDF and frontend embedding
@@ -79,6 +81,7 @@ const createApp = () => {
     const authLimiter = (0, express_rate_limit_1.default)({
         windowMs: 15 * 60 * 1000,
         max: 100,
+        validate: { xForwardedForHeader: false },
         message: {
             success: false,
             message: 'Too many requests, please try again later.',
@@ -94,6 +97,7 @@ const createApp = () => {
         max: env_1.ENV.NODE_ENV === 'test' ? 1000 : 30,
         standardHeaders: true,
         legacyHeaders: false,
+        validate: { xForwardedForHeader: false },
         message: {
             success: false,
             message: 'Too many password recovery requests from this IP. Please try again later.',

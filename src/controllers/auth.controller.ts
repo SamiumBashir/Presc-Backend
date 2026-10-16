@@ -384,6 +384,9 @@ export const forgotPassword = async (req: AuthRequest, res: Response): Promise<v
   let generatedOtp: string | undefined;
 
   if (!user) {
+    console.log(
+      `[Auth Controller] ℹ️ Forgot-password requested for ${maskEmail(email)}, but no account was found in MongoDB. Returning anti-enumeration 200 response.`
+    );
     // Prevent email enumeration attacks: return generic success without leaking account existence
     res.status(200).json({
       success: true,
@@ -391,6 +394,8 @@ export const forgotPassword = async (req: AuthRequest, res: Response): Promise<v
     });
     return;
   }
+
+  console.log(`[Auth Controller] Forgot-password requested for registered user ${maskEmail(email)}. Generating OTP...`);
 
   // Check if there is an active resend cooldown (60s)
   const existingOtp = await PasswordResetOtp.findOne({ email });
@@ -558,6 +563,9 @@ export const resendOtp = async (req: AuthRequest, res: Response): Promise<void> 
 
   const user = await User.findOne({ email });
   if (!user) {
+    console.log(
+      `[Auth Controller] ℹ️ Resend-OTP requested for ${maskEmail(email)}, but no account was found in MongoDB. Returning anti-enumeration 200 response.`
+    );
     // Prevent email enumeration attacks: return generic success without leaking account existence
     res.status(200).json({
       success: true,
@@ -565,6 +573,8 @@ export const resendOtp = async (req: AuthRequest, res: Response): Promise<void> 
     });
     return;
   }
+
+  console.log(`[Auth Controller] Resend-OTP requested for registered user ${maskEmail(email)}. Generating fresh OTP...`);
 
   const otp = generateSecureOtp();
   const otpHash = hashOtp(otp);

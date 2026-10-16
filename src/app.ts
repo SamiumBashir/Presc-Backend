@@ -13,6 +13,9 @@ import { connectDatabase, isDatabaseConnected } from './config/db';
 export const createApp = () => {
   const app = express();
 
+  // Trust first proxy hop (Vercel, Cloudflare, etc.) to accurately extract client IP in serverless
+  app.set('trust proxy', 1);
+
   // Security Middleware
   app.use(
     helmet({
@@ -51,6 +54,7 @@ export const createApp = () => {
   const authLimiter = rateLimit({
     windowMs: 15 * 60 * 1000,
     max: 100,
+    validate: { xForwardedForHeader: false },
     message: {
       success: false,
       message: 'Too many requests, please try again later.',
@@ -67,6 +71,7 @@ export const createApp = () => {
     max: ENV.NODE_ENV === 'test' ? 1000 : 30,
     standardHeaders: true,
     legacyHeaders: false,
+    validate: { xForwardedForHeader: false },
     message: {
       success: false,
       message: 'Too many password recovery requests from this IP. Please try again later.',
