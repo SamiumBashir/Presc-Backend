@@ -30,10 +30,14 @@ services:
         sync: false
       - key: COOKIE_SECRET
         sync: false
+      - key: EMAIL_PROVIDER
+        value: smtp
+      - key: ENABLE_EMAIL_FALLBACK
+        value: "false"
       - key: SMTP_HOST
         value: smtp.gmail.com
       - key: SMTP_PORT
-        value: 465
+        value: "465"
       - key: SMTP_USER
         sync: false
       - key: SMTP_PASS
@@ -43,4 +47,10 @@ services:
       - key: RESEND_API_KEY
         sync: false
       - key: BREVO_API_KEY
+        sync: false
+      - key: CLOUDINARY_CLOUD_NAME
+        value: p9iqjn0m
+      - key: CLOUDINARY_API_KEY
+        value: "856776764957582"
+      - key: CLOUDINARY_API_SECRET
         sync: false

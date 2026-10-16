@@ -14,6 +14,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const db_1 = require("../config/db");
+const seed_1 = require("../seeds/seed");
 const User_1 = require("../models/User");
 const jsonwebtoken_1 = __importDefault(require("jsonwebtoken"));
 const env_1 = require("../config/env");
@@ -78,6 +79,7 @@ const runRegressionSuite = async () => {
     // ----------------------------------------------------
     console.log('\n🔹 Suite 2: Authentication Profile Route Verification');
     await (0, db_1.connectDatabase)();
+    await (0, seed_1.seedDatabase)(false);
     const doctorUser = await User_1.User.findOne({ email: 'doctor@prescription.com' });
     assert(!!doctorUser, 'Doctor test account exists');
     const token = generateToken(doctorUser._id.toString(), 'doctor', true);

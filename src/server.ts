@@ -36,6 +36,11 @@ const startServer = async () => {
       }
     });
 
+    // Non-blocking email provider diagnostics check on startup
+    verifyEmailConfiguration().catch((mailErr) => {
+      console.warn('[DocRx Backend] Email configuration verification warning:', mailErr.message);
+    });
+
     // Connect database and seed in background without blocking port binding
     connectDatabase()
       .then(async () => {
@@ -44,11 +49,6 @@ const startServer = async () => {
         } catch (seedErr) {
           console.error('[DocRx Backend] Auto-seed warning:', seedErr);
         }
-
-        // Non-blocking email provider diagnostics check
-        verifyEmailConfiguration().catch((mailErr) => {
-          console.warn('[DocRx Backend] Email configuration verification warning:', mailErr.message);
-        });
       })
       .catch((dbErr) => {
         console.error('[DocRx Backend] Database initial connection error:', dbErr.message);

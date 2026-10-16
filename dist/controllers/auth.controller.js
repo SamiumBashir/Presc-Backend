@@ -87,28 +87,31 @@ const registerDoctor = async (req, res) => {
         resourceId: doctor._id.toString(),
         details: { email: user.email, bmdcNumber: doctor.bmdcNumber },
     });
-    // Dispatch Welcome Email asynchronously to onboard the new doctor
+    // Dispatch Welcome Email asynchronously to onboard the new doctor (non-blocking, idempotent)
     const frontendBaseUrl = env_1.ENV.NODE_ENV === 'production'
         ? 'https://doc-presc.vercel.app'
         : (process.env.FRONTEND_URL || (env_1.ENV.CORS_ORIGIN ? env_1.ENV.CORS_ORIGIN.split(',')[0].trim() : 'http://localhost:5173'));
-    console.log(`[Auth Controller] Registered doctor ${user.email}. Triggering welcome email...`);
-    (0, email_service_1.sendWelcomeEmail)({
-        to: user.email,
-        name: user.name,
-        specialization: doctor.specialization,
-        loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
-    })
-        .then((res) => {
-        if (res.success) {
-            console.log(`[Auth Controller] ✅ Welcome email delivered successfully to ${user.email} (Message ID: ${res.messageId})`);
-        }
-        else {
-            console.warn(`[Auth Controller] ⚠️ Welcome email could not be delivered to ${user.email}:`, res.error);
-        }
-    })
-        .catch((err) => {
-        console.error(`[Auth Controller] Failed to dispatch welcome email to ${user.email}:`, err.message);
-    });
+    if (!user.welcomeEmailSent) {
+        console.log(`[Auth Controller] Registered doctor ${(0, email_service_1.maskEmail)(user.email)}. Triggering welcome email...`);
+        (0, email_service_1.sendWelcomeEmail)({
+            to: user.email,
+            name: user.name,
+            specialization: doctor.specialization,
+            loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
+        })
+            .then(async (emailRes) => {
+            if (emailRes.success) {
+                await User_1.User.updateOne({ _id: user._id }, { welcomeEmailSent: true, welcomeEmailSentAt: new Date() });
+                console.log(`[Auth Controller] ✅ Welcome email delivered successfully to ${(0, email_service_1.maskEmail)(user.email)} (Message ID: ${emailRes.messageId})`);
+            }
+            else {
+                console.warn(`[Auth Controller] ⚠️ Welcome email could not be delivered to ${(0, email_service_1.maskEmail)(user.email)}: ${emailRes.error}`);
+            }
+        })
+            .catch((err) => {
+            console.error(`[Auth Controller] Failed to dispatch welcome email to ${(0, email_service_1.maskEmail)(user.email)}:`, err.message);
+        });
+    }
     res.status(201).json({
         success: true,
         message: 'Doctor account registered successfully.',
@@ -362,18 +365,19 @@ const forgotPassword = async (req, res) => {
         expiresInMinutes: Math.round(env_1.ENV.OTP_EXPIRES_IN / 60),
     });
     if (!emailResult.success) {
-        console.warn(`[Auth Controller] Email delivery unavailable for ${user.email}. Providing fallback OTP for verification.`);
+        // Purge the unreceived OTP challenge from the database so the user is not locked out or waiting for a phantom OTP
+        await PasswordResetOtp_1.PasswordResetOtp.deleteOne({ email });
+        console.error(`[Auth Controller] ❌ Failed to dispatch password reset OTP to ${(0, email_service_1.maskEmail)(user.email)} (${emailResult.code || 'UNKNOWN'}): ${emailResult.error}`);
         await (0, audit_1.logAuditEvent)(req, {
-            action: 'PASSWORD_RESET_OTP_REQUESTED',
+            action: 'PASSWORD_RESET_OTP_FAILED',
             resource: 'User',
             resourceId: user._id.toString(),
-            details: { email: user.email, fallbackUsed: true },
+            details: { email: user.email, error: emailResult.error, code: emailResult.code },
         });
-        res.status(200).json({
-            success: true,
-            message: `Verification code: ${otp}`,
-            devOtp: otp,
-            devWarning: emailResult.error || 'Outbound mail delivery is unavailable on this host.',
+        res.status(503).json({
+            success: false,
+            message: 'Unable to deliver verification code to your email at this time. Please try again shortly or contact support.',
+            code: emailResult.code || 'EMAIL_DELIVERY_FAILED',
         });
         return;
     }
@@ -491,18 +495,17 @@ const resendOtp = async (req, res) => {
         expiresInMinutes: Math.round(env_1.ENV.OTP_EXPIRES_IN / 60),
     });
     if (!emailResult.success) {
-        console.warn(`[Auth Controller] Resend OTP email delivery unavailable for ${user.email}. Providing fallback OTP for verification.`);
+        console.error(`[Auth Controller] ❌ Failed to resend password reset OTP to ${(0, email_service_1.maskEmail)(user.email)} (${emailResult.code || 'UNKNOWN'}): ${emailResult.error}`);
         await (0, audit_1.logAuditEvent)(req, {
-            action: 'PASSWORD_RESET_OTP_RESENT',
+            action: 'PASSWORD_RESET_OTP_RESEND_FAILED',
             resource: 'User',
             resourceId: user._id.toString(),
-            details: { email: user.email, fallbackUsed: true },
+            details: { email: user.email, error: emailResult.error, code: emailResult.code },
         });
-        res.status(200).json({
-            success: true,
-            message: `New verification code: ${otp}`,
-            devOtp: otp,
-            devWarning: emailResult.error || 'Outbound mail delivery is unavailable on this host.',
+        res.status(503).json({
+            success: false,
+            message: 'Unable to resend verification code to your email at this time. Please try again shortly or contact support.',
+            code: emailResult.code || 'EMAIL_DELIVERY_FAILED',
         });
         return;
     }

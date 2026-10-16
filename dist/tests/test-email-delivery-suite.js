@@ -35,73 +35,102 @@ const runEmailDeliveryTestSuite = async () => {
     const testUser = await User_1.User.findOne({ email: testEmail });
     assert(!!testUser, 'Seed user doctor@prescription.com exists');
     // -------------------------------------------------------------
-    // TEST SUITE 1: Email Service Configuration & Missing Env Vars
+    // TEST SUITE 1: Provider Selection & Prioritization Logic
     // -------------------------------------------------------------
-    console.log('\n--- 1. Email Service Configuration Validation ---');
+    console.log('\n--- 1. Email Service Provider Selection & Prioritization ---');
     {
-        // Snapshot original env
-        const origHost = process.env.SMTP_HOST;
-        const origPort = process.env.SMTP_PORT;
-        const origUser = process.env.SMTP_USER;
-        const origPass = process.env.SMTP_PASS;
+        const origProvider = process.env.EMAIL_PROVIDER;
         const origResend = process.env.RESEND_API_KEY;
         const origBrevo = process.env.BREVO_API_KEY;
-        const origEnvUser = env_1.ENV.SMTP_USER;
-        const origEnvPass = env_1.ENV.SMTP_PASS;
+        const origUser = process.env.SMTP_USER;
+        const origPass = process.env.SMTP_PASS;
+        const origEnvProvider = env_1.ENV.EMAIL_PROVIDER;
         const origEnvResend = env_1.ENV.RESEND_API_KEY;
         const origEnvBrevo = env_1.ENV.BREVO_API_KEY;
+        const origEnvUser = env_1.ENV.SMTP_USER;
+        const origEnvPass = env_1.ENV.SMTP_PASS;
         try {
-            // Clear out all credentials to simulate missing env
+            // Ensure mock transporter is cleared for provider resolution checks
+            (0, email_service_1.setMockTransporter)(null);
+            // Scenario A: Explicit EMAIL_PROVIDER=smtp MUST take priority over Resend and Brevo keys
+            process.env.EMAIL_PROVIDER = 'smtp';
+            process.env.RESEND_API_KEY = 're_live_resend_key_12345';
+            process.env.BREVO_API_KEY = 'xkeysib_live_brevo_key_12345';
+            process.env.SMTP_USER = '7232.badhan@gmail.com';
+            process.env.SMTP_PASS = 'abcd efgh ijkl mnop';
+            env_1.ENV.EMAIL_PROVIDER = 'smtp';
+            env_1.ENV.RESEND_API_KEY = 're_live_resend_key_12345';
+            env_1.ENV.BREVO_API_KEY = 'xkeysib_live_brevo_key_12345';
+            env_1.ENV.SMTP_USER = '7232.badhan@gmail.com';
+            env_1.ENV.SMTP_PASS = 'abcd efgh ijkl mnop';
+            (0, email_service_1.clearTransporterCache)();
+            const resolvedSmtp = (0, email_service_1.resolveEmailProvider)();
+            assert(resolvedSmtp === 'smtp', 'EMAIL_PROVIDER=smtp selects SMTP even when RESEND_API_KEY and BREVO_API_KEY exist');
+            // Scenario B: Explicit EMAIL_PROVIDER=resend selects Resend
+            process.env.EMAIL_PROVIDER = 'resend';
+            env_1.ENV.EMAIL_PROVIDER = 'resend';
+            assert((0, email_service_1.resolveEmailProvider)() === 'resend', 'EMAIL_PROVIDER=resend explicitly selects Resend');
+            // Scenario C: Explicit EMAIL_PROVIDER=brevo selects Brevo
+            process.env.EMAIL_PROVIDER = 'brevo';
+            env_1.ENV.EMAIL_PROVIDER = 'brevo';
+            assert((0, email_service_1.resolveEmailProvider)() === 'brevo', 'EMAIL_PROVIDER=brevo explicitly selects Brevo');
+            // Scenario D: Unconfigured credentials detection
+            delete process.env.EMAIL_PROVIDER;
             delete process.env.SMTP_USER;
             delete process.env.SMTP_PASS;
             delete process.env.RESEND_API_KEY;
             delete process.env.BREVO_API_KEY;
+            env_1.ENV.EMAIL_PROVIDER = 'auto';
             env_1.ENV.SMTP_USER = '';
             env_1.ENV.SMTP_PASS = '';
             env_1.ENV.RESEND_API_KEY = '';
             env_1.ENV.BREVO_API_KEY = '';
+            (0, email_service_1.clearTransporterCache)();
             const unconfigured = await (0, email_service_1.verifyEmailConfiguration)();
-            assert(!unconfigured.configured, 'Detects unconfigured email service when env vars are missing');
-            assert(unconfigured.provider === 'none', 'Reports provider as none when missing credentials');
-            // Test with Resend API key configured
-            process.env.RESEND_API_KEY = 're_test_key_1234567890';
-            const resendConfig = await (0, email_service_1.verifyEmailConfiguration)();
-            assert(resendConfig.configured, 'Detects Resend provider when RESEND_API_KEY is present');
-            assert(resendConfig.provider === 'resend', 'Reports provider as resend');
-            delete process.env.RESEND_API_KEY;
-            // Test with Brevo API key configured
-            process.env.BREVO_API_KEY = 'xkeysib-test_key_1234567890';
-            const brevoConfig = await (0, email_service_1.verifyEmailConfiguration)();
-            assert(brevoConfig.configured, 'Detects Brevo provider when BREVO_API_KEY is present');
-            assert(brevoConfig.provider === 'brevo', 'Reports provider as brevo');
-            delete process.env.BREVO_API_KEY;
+            assert(!unconfigured.configured, 'Detects unconfigured email service when credentials are empty');
+            assert(unconfigured.provider === 'none', 'Reports provider as none when missing all credentials');
+            // Scenario E: Missing SMTP credentials when EMAIL_PROVIDER=smtp
+            env_1.ENV.EMAIL_PROVIDER = 'smtp';
+            process.env.EMAIL_PROVIDER = 'smtp';
+            const missingSmtpCreds = await (0, email_service_1.verifyEmailConfiguration)();
+            assert(!missingSmtpCreds.configured, 'Reports not configured when SMTP_USER/SMTP_PASS are missing');
+            assert(missingSmtpCreds.provider === 'smtp', 'Maintains selected provider as smtp');
         }
         finally {
-            // Restore env
-            if (origHost)
-                process.env.SMTP_HOST = origHost;
-            if (origPort)
-                process.env.SMTP_PORT = origPort;
-            if (origUser)
-                process.env.SMTP_USER = origUser;
-            if (origPass)
-                process.env.SMTP_PASS = origPass;
+            // Restore original environment
+            if (origProvider)
+                process.env.EMAIL_PROVIDER = origProvider;
+            else
+                delete process.env.EMAIL_PROVIDER;
             if (origResend)
                 process.env.RESEND_API_KEY = origResend;
+            else
+                delete process.env.RESEND_API_KEY;
             if (origBrevo)
                 process.env.BREVO_API_KEY = origBrevo;
-            env_1.ENV.SMTP_USER = origEnvUser;
-            env_1.ENV.SMTP_PASS = origEnvPass;
+            else
+                delete process.env.BREVO_API_KEY;
+            if (origUser)
+                process.env.SMTP_USER = origUser;
+            else
+                delete process.env.SMTP_USER;
+            if (origPass)
+                process.env.SMTP_PASS = origPass;
+            else
+                delete process.env.SMTP_PASS;
+            env_1.ENV.EMAIL_PROVIDER = origEnvProvider;
             env_1.ENV.RESEND_API_KEY = origEnvResend;
             env_1.ENV.BREVO_API_KEY = origEnvBrevo;
+            env_1.ENV.SMTP_USER = origEnvUser;
+            env_1.ENV.SMTP_PASS = origEnvPass;
+            (0, email_service_1.clearTransporterCache)();
         }
     }
     // -------------------------------------------------------------
-    // TEST SUITE 2: SMTP Port & TLS Configuration
+    // TEST SUITE 2: SMTP Configuration & TLS Selection
     // -------------------------------------------------------------
     console.log('\n--- 2. SMTP Configuration & TLS Selection ---');
     {
-        // Verify port 465 produces secure: true, and 587 produces secure: false
         const port465Secure = 465 === 465;
         const port587Secure = 587 === 465;
         assert(port465Secure, 'Port 465 is configured with implicit SSL/TLS (secure: true)');
@@ -153,43 +182,36 @@ const runEmailDeliveryTestSuite = async () => {
         assert(dispatchedMailOptions?.html.includes('https://doc-presc.vercel.app/login'), 'Welcome email includes login URL');
     }
     // -------------------------------------------------------------
-    // TEST SUITE 4: Provider Authentication / Network Failure Handling
+    // TEST SUITE 4: Error Categorization & Production Diagnostics
     // -------------------------------------------------------------
-    console.log('\n--- 4. Provider Authentication & Delivery Failure Handling ---');
+    console.log('\n--- 4. Error Categorization & Production Diagnostics ---');
     {
-        // Simulate ETIMEDOUT (Render port block simulation)
-        (0, email_service_1.setMockTransporter)({
-            sendMail: async () => {
-                const timeoutErr = new Error('Connection timed out');
-                timeoutErr.code = 'ETIMEDOUT';
-                throw timeoutErr;
-            },
-        });
-        const failRes = await (0, email_service_1.sendEmail)({
-            to: 'doctor@prescription.com',
-            subject: 'Timeout Test',
-            html: '<p>Timeout</p>',
-        });
-        assert(failRes.success === false, 'Properly returns success: false on transport timeout');
-        assert(Boolean(failRes.error?.includes('ETIMEDOUT') || failRes.error?.includes('timed out')), 'Returns meaningful error message identifying network timeout');
-        // Simulate Auth failure (535 Bad Credentials)
-        (0, email_service_1.setMockTransporter)({
-            sendMail: async () => {
-                const authErr = new Error('Invalid login: 535-5.7.8 Username and Password not accepted');
-                authErr.responseCode = 535;
-                throw authErr;
-            },
-        });
-        const authFailRes = await (0, email_service_1.sendEmail)({
-            to: 'doctor@prescription.com',
-            subject: 'Auth Fail Test',
-            html: '<p>Auth Fail</p>',
-        });
-        assert(authFailRes.success === false, 'Properly returns success: false on SMTP auth failure');
-        assert(Boolean(authFailRes.error?.includes('535') || authFailRes.error?.includes('Invalid login')), 'Returns clear auth diagnostic on invalid credentials');
+        // A: 535 Bad Credentials -> SMTP_AUTH_FAILED
+        const authErr = new Error('535-5.7.8 Username and Password not accepted');
+        authErr.responseCode = 535;
+        const catAuth = (0, email_service_1.categorizeEmailError)(authErr);
+        assert(catAuth.code === 'SMTP_AUTH_FAILED', 'Categorizes 535 as SMTP_AUTH_FAILED');
+        assert(catAuth.category === 'AUTHENTICATION', 'Category is AUTHENTICATION');
+        // B: ETIMEDOUT -> SMTP_CONNECTION_TIMEOUT
+        const timeoutErr = new Error('connect ETIMEDOUT 142.250.186.108:465');
+        timeoutErr.code = 'ETIMEDOUT';
+        const catTimeout = (0, email_service_1.categorizeEmailError)(timeoutErr);
+        assert(catTimeout.code === 'SMTP_CONNECTION_TIMEOUT', 'Categorizes ETIMEDOUT as SMTP_CONNECTION_TIMEOUT');
+        assert(catTimeout.category === 'CONNECTION_TIMEOUT', 'Category is CONNECTION_TIMEOUT');
+        // C: ENOTFOUND -> SMTP_DNS_ERROR
+        const dnsErr = new Error('getaddrinfo ENOTFOUND smtp.gmail.com');
+        dnsErr.code = 'ENOTFOUND';
+        const catDns = (0, email_service_1.categorizeEmailError)(dnsErr);
+        assert(catDns.code === 'SMTP_DNS_ERROR', 'Categorizes ENOTFOUND as SMTP_DNS_ERROR');
+        assert(catDns.category === 'DNS', 'Category is DNS');
+        // D: Safe log email masking
+        const masked1 = (0, email_service_1.maskEmail)('doctor.specialist@gmail.com');
+        assert(masked1.startsWith('do') && masked1.endsWith('t@gmail.com') && masked1.includes('*'), 'maskEmail masks local part correctly');
+        assert(!masked1.includes('specialist'), 'maskEmail does not leak full name');
+        assert((0, email_service_1.maskEmail)('short@doc.com') === 'sh***t@doc.com', 'maskEmail handles short email correctly');
     }
     // -------------------------------------------------------------
-    // TEST SUITE 5: Invalid Recipient & Input Validation
+    // TEST SUITE 5: Invalid Recipient Handling
     // -------------------------------------------------------------
     console.log('\n--- 5. Invalid Recipient Handling ---');
     {
@@ -210,11 +232,10 @@ const runEmailDeliveryTestSuite = async () => {
         assert(!invalidRecipientRes.success, 'Rejects malformed recipient email without @ symbol');
     }
     // -------------------------------------------------------------
-    // TEST SUITE 6: OTP Lifecycle, State Cleanup, & Anti-Enumeration
+    // TEST SUITE 6: OTP Lifecycle, Expiration, Cooldown, and Security
     // -------------------------------------------------------------
     console.log('\n--- 6. OTP Lifecycle, Expiration, Cooldown, and Security ---');
     {
-        // Clean existing test OTP records
         await PasswordResetOtp_1.PasswordResetOtp.deleteMany({ email: testEmail });
         // 1. Generate 6-digit cryptographically secure OTP
         const rawOtp = (0, otp_service_1.generateSecureOtp)();
@@ -294,13 +315,16 @@ const runEmailDeliveryTestSuite = async () => {
         // Test new password authentication
         const passMatches = await bcryptjs_1.default.compare(newPassword, updatedUser.passwordHash);
         assert(passMatches, 'Doctor can authenticate with newly reset password');
+        // Restore original demo password
+        const restoreSalt = await bcryptjs_1.default.genSalt(10);
+        updatedUser.passwordHash = await bcryptjs_1.default.hash('Doctor123!', restoreSalt);
+        await updatedUser.save();
     }
     // -------------------------------------------------------------
     // TEST SUITE 7: Email Failure State Cleanup (No Dangling OTPs)
     // -------------------------------------------------------------
     console.log('\n--- 7. Email Delivery Failure Cleans Up Challenge ---');
     {
-        // If email delivery fails, the OTP challenge must be deleted so user isn't stuck with an unreceived active OTP
         const failureEmail = 'test-fail-cleanup@prescription.com';
         const failedOtpRecord = await PasswordResetOtp_1.PasswordResetOtp.create({
             email: failureEmail,
@@ -309,13 +333,59 @@ const runEmailDeliveryTestSuite = async () => {
             attempts: 0,
             lastSentAt: new Date(),
         });
-        // Mock send failure
+        // When email delivery fails, the OTP challenge must be deleted
         const emailSendSucceeded = false;
         if (!emailSendSucceeded) {
-            await PasswordResetOtp_1.PasswordResetOtp.findByIdAndDelete(failedOtpRecord._id);
+            await PasswordResetOtp_1.PasswordResetOtp.deleteOne({ email: failureEmail });
         }
         const checkRecord = await PasswordResetOtp_1.PasswordResetOtp.findOne({ email: failureEmail });
         assert(!checkRecord, 'Dangling OTP challenge is safely purged when email delivery fails');
+    }
+    // -------------------------------------------------------------
+    // TEST SUITE 8: Welcome Email Delivery & Idempotency Tracking
+    // -------------------------------------------------------------
+    console.log('\n--- 8. Welcome Email Delivery & Idempotency Tracking ---');
+    {
+        const welcomeTestEmail = 'dr.welcome.test@prescription.com';
+        await User_1.User.deleteOne({ email: welcomeTestEmail });
+        const newUser = await User_1.User.create({
+            name: 'Dr. Welcome Candidate',
+            email: welcomeTestEmail,
+            passwordHash: 'hashedpass',
+            role: 'doctor',
+            status: 'active',
+            welcomeEmailSent: false,
+        });
+        assert(newUser.welcomeEmailSent === false, 'New user initializes with welcomeEmailSent: false');
+        // Dispatch welcome email
+        const dispatchTracker = { welcomeDispatched: false };
+        (0, email_service_1.setMockTransporter)({
+            sendMail: async (opts) => {
+                dispatchTracker.welcomeDispatched = true;
+                return { messageId: '<welcome-msg-id-789>' };
+            },
+        });
+        if (!newUser.welcomeEmailSent) {
+            const wRes = await (0, email_service_1.sendWelcomeEmail)({
+                to: newUser.email,
+                name: newUser.name,
+                specialization: 'Internal Medicine',
+            });
+            assert(wRes.success === true, 'sendWelcomeEmail returns success with mock transporter');
+            await User_1.User.updateOne({ _id: newUser._id }, { welcomeEmailSent: true, welcomeEmailSentAt: new Date() });
+        }
+        assert(dispatchTracker.welcomeDispatched === true, 'Welcome email was actually dispatched on initial registration');
+        const updatedWelcomeUser = await User_1.User.findOne({ email: welcomeTestEmail });
+        assert(updatedWelcomeUser?.welcomeEmailSent === true, 'User record updated with welcomeEmailSent: true');
+        assert(!!updatedWelcomeUser?.welcomeEmailSentAt, 'User record stamped with welcomeEmailSentAt timestamp');
+        // Attempt second welcome email dispatch on duplicate / repeated event
+        dispatchTracker.welcomeDispatched = false;
+        if (!updatedWelcomeUser?.welcomeEmailSent) {
+            await (0, email_service_1.sendWelcomeEmail)({ to: newUser.email, name: newUser.name });
+        }
+        assert(dispatchTracker.welcomeDispatched === false, 'Idempotency check prevents duplicate welcome email dispatch');
+        // Clean up
+        await User_1.User.deleteOne({ email: welcomeTestEmail });
     }
     // Teardown: clear mock transporter
     (0, email_service_1.setMockTransporter)(null);

@@ -15,6 +15,7 @@
     "test": "tsx src/tests/run-tests.ts",
     "test:email": "tsx src/tests/test-email-delivery-suite.ts",
     "test:otp": "tsx src/tests/test-otp-flow.ts",
+    "test:reset": "tsx src/tests/test-password-reset-complete.ts",
     "test:regression": "tsx src/tests/regression-server-connection.ts",
     "test:e2e": "tsx src/tests/e2e-verification.ts",
     "test:all": "tsx src/tests/run-tests.ts && tsx src/tests/test-email-delivery-suite.ts && tsx src/tests/test-otp-flow.ts && tsx src/tests/regression-server-connection.ts && tsx src/tests/e2e-verification.ts",

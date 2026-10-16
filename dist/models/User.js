@@ -45,5 +45,7 @@ const UserSchema = new mongoose_1.Schema({
     resetPasswordToken: { type: String },
     resetPasswordExpire: { type: Date },
     passwordChangedAt: { type: Date },
+    welcomeEmailSent: { type: Boolean, default: false },
+    welcomeEmailSentAt: { type: Date },
 }, { timestamps: true });
 exports.User = mongoose_1.default.model('User', UserSchema);

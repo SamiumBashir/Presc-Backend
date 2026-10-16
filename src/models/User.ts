@@ -10,6 +10,8 @@ export interface IUser extends Document {
   resetPasswordToken?: string;
   resetPasswordExpire?: Date;
   passwordChangedAt?: Date;
+  welcomeEmailSent?: boolean;
+  welcomeEmailSentAt?: Date;
   createdAt: Date;
   updatedAt: Date;
 }
@@ -25,6 +27,8 @@ const UserSchema: Schema = new Schema(
     resetPasswordToken: { type: String },
     resetPasswordExpire: { type: Date },
     passwordChangedAt: { type: Date },
+    welcomeEmailSent: { type: Boolean, default: false },
+    welcomeEmailSentAt: { type: Date },
   },
   { timestamps: true }
 );

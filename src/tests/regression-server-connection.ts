@@ -10,6 +10,7 @@
  */
 
 import { connectDatabase, closeDatabase } from '../config/db';
+import { seedDatabase } from '../seeds/seed';
 import { User } from '../models/User';
 import { Doctor } from '../models/Doctor';
 import jwt from 'jsonwebtoken';
@@ -107,6 +108,7 @@ const runRegressionSuite = async () => {
   // ----------------------------------------------------
   console.log('\n🔹 Suite 2: Authentication Profile Route Verification');
   await connectDatabase();
+  await seedDatabase(false);
 
   const doctorUser = await User.findOne({ email: 'doctor@prescription.com' });
   assert(!!doctorUser, 'Doctor test account exists');

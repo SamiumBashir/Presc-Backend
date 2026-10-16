@@ -15,7 +15,7 @@ import {
   generateResetGrant,
   sha256,
 } from '../services/otp.service';
-import { sendPasswordResetOtpEmail } from '../services/email.service';
+import { sendPasswordResetOtpEmail, setMockTransporter } from '../services/email.service';
 
 let totalAsserts = 0;
 let passedAsserts = 0;
@@ -35,6 +35,14 @@ const runPasswordResetTestSuite = async () => {
   console.log('\n================================================================');
   console.log('🧪 COMPREHENSIVE PRODUCTION FORGOT-PASSWORD & OTP TEST SUITE');
   console.log('================================================================\n');
+
+  // Inject mock transporter for test isolation
+  setMockTransporter({
+    sendMail: async () => ({
+      messageId: '<test-reset-otp-msg-123@docpresc.test>',
+      response: '250 2.0.0 OK',
+    }),
+  } as any);
 
   await connectDatabase();
   await seedDatabase(false);
@@ -220,6 +228,7 @@ const runPasswordResetTestSuite = async () => {
   await updatedUser!.save();
   console.log('\n✅ Demo doctor credentials safely reset to Doctor123!');
 
+  setMockTransporter(null);
   await closeDatabase();
 
   console.log('\n================================================================');

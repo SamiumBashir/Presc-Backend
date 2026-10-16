@@ -30,6 +30,13 @@ const runPasswordResetTestSuite = async () => {
     console.log('\n================================================================');
     console.log('🧪 COMPREHENSIVE PRODUCTION FORGOT-PASSWORD & OTP TEST SUITE');
     console.log('================================================================\n');
+    // Inject mock transporter for test isolation
+    (0, email_service_1.setMockTransporter)({
+        sendMail: async () => ({
+            messageId: '<test-reset-otp-msg-123@docpresc.test>',
+            response: '250 2.0.0 OK',
+        }),
+    });
     await (0, db_1.connectDatabase)();
     await (0, seed_1.seedDatabase)(false);
     const testEmail = 'doctor@prescription.com';
@@ -174,6 +181,7 @@ const runPasswordResetTestSuite = async () => {
     updatedUser.passwordHash = await bcryptjs_1.default.hash('Doctor123!', restoreSalt);
     await updatedUser.save();
     console.log('\n✅ Demo doctor credentials safely reset to Doctor123!');
+    (0, email_service_1.setMockTransporter)(null);
     await (0, db_1.closeDatabase)();
     console.log('\n================================================================');
     console.log(`🎉 ALL ${passedAsserts} CHECKS PASSED (${passedAsserts}/${totalAsserts})! 100% SUCCESS.`);
