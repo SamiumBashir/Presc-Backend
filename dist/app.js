@@ -47,6 +47,7 @@ const express_rate_limit_1 = __importDefault(require("express-rate-limit"));
 const routes_1 = __importDefault(require("./routes"));
 const errorHandler_1 = require("./middleware/errorHandler");
 const env_1 = require("./config/env");
+const db_1 = require("./config/db");
 const createApp = () => {
     const app = (0, express_1.default)();
     // Security Middleware
@@ -106,12 +107,43 @@ const createApp = () => {
     app.use('/api/auth/resend-reset-otp', passwordResetLimiter);
     app.use('/api/auth/resend-otp', passwordResetLimiter);
     app.use('/api/auth/reset-password', passwordResetLimiter);
+    // Database connection assurance for serverless and traditional invocations
+    app.use(async (req, res, next) => {
+        // Health check and root route can respond immediately without blocking
+        if (req.path === '/' || req.path === '/api/health') {
+            return next();
+        }
+        try {
+            await (0, db_1.connectDatabase)();
+            next();
+        }
+        catch (err) {
+            console.error('[Database Middleware] Connection error:', err.message);
+            res.status(503).json({
+                success: false,
+                message: 'Database service is temporarily unavailable. Please try again in a few moments.',
+                code: 'DATABASE_UNAVAILABLE',
+                errors: {},
+            });
+        }
+    });
     // Root & Health check endpoints
     app.get('/', (req, res) => {
-        res.json({ status: 'ok', service: 'DocRx Prescription API', timestamp: new Date().toISOString() });
+        res.json({
+            status: 'ok',
+            service: 'DocRx Prescription API',
+            serverless: Boolean(process.env.VERCEL),
+            timestamp: new Date().toISOString(),
+        });
     });
     app.get('/api/health', (req, res) => {
-        res.json({ status: 'ok', timestamp: new Date().toISOString() });
+        const isDbConnected = (0, db_1.isDatabaseConnected)();
+        res.json({
+            status: 'ok',
+            database: isDbConnected ? 'connected' : 'disconnected',
+            serverless: Boolean(process.env.VERCEL),
+            timestamp: new Date().toISOString(),
+        });
     });
     // SMTP Email Health Diagnostic Endpoint
     app.get('/api/health/email-diagnostic', async (req, res) => {
@@ -124,8 +156,10 @@ const createApp = () => {
             res.status(500).json({ error: err.message });
         }
     });
-    // Master API routes
+    // Master API routes mounted at canonical /api
     app.use('/api', routes_1.default);
+    // Fallback mount for environments where /api is stripped by an edge rewrite
+    app.use('/', routes_1.default);
     // 404 handler for undefined routes
     app.use((req, res) => {
         res.status(404).json({

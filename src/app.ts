@@ -8,6 +8,7 @@ import rateLimit from 'express-rate-limit';
 import routes from './routes';
 import { errorHandler } from './middleware/errorHandler';
 import { ENV } from './config/env';
+import { connectDatabase, isDatabaseConnected } from './config/db';
 
 export const createApp = () => {
   const app = express();
@@ -80,13 +81,45 @@ export const createApp = () => {
   app.use('/api/auth/resend-otp', passwordResetLimiter);
   app.use('/api/auth/reset-password', passwordResetLimiter);
 
+  // Database connection assurance for serverless and traditional invocations
+  app.use(async (req, res, next) => {
+    // Health check and root route can respond immediately without blocking
+    if (req.path === '/' || req.path === '/api/health') {
+      return next();
+    }
+
+    try {
+      await connectDatabase();
+      next();
+    } catch (err: any) {
+      console.error('[Database Middleware] Connection error:', err.message);
+      res.status(503).json({
+        success: false,
+        message: 'Database service is temporarily unavailable. Please try again in a few moments.',
+        code: 'DATABASE_UNAVAILABLE',
+        errors: {},
+      });
+    }
+  });
+
   // Root & Health check endpoints
   app.get('/', (req, res) => {
-    res.json({ status: 'ok', service: 'DocRx Prescription API', timestamp: new Date().toISOString() });
+    res.json({
+      status: 'ok',
+      service: 'DocRx Prescription API',
+      serverless: Boolean(process.env.VERCEL),
+      timestamp: new Date().toISOString(),
+    });
   });
 
   app.get('/api/health', (req, res) => {
-    res.json({ status: 'ok', timestamp: new Date().toISOString() });
+    const isDbConnected = isDatabaseConnected();
+    res.json({
+      status: 'ok',
+      database: isDbConnected ? 'connected' : 'disconnected',
+      serverless: Boolean(process.env.VERCEL),
+      timestamp: new Date().toISOString(),
+    });
   });
 
   // SMTP Email Health Diagnostic Endpoint
@@ -100,9 +133,11 @@ export const createApp = () => {
     }
   });
 
-
-  // Master API routes
+  // Master API routes mounted at canonical /api
   app.use('/api', routes);
+
+  // Fallback mount for environments where /api is stripped by an edge rewrite
+  app.use('/', routes);
 
   // 404 handler for undefined routes
   app.use((req, res) => {

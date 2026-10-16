@@ -3,53 +3,86 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.closeDatabase = exports.connectDatabase = void 0;
+exports.closeDatabase = exports.connectDatabase = exports.isDatabaseConnected = void 0;
 const mongoose_1 = __importDefault(require("mongoose"));
 const mongodb_memory_server_1 = require("mongodb-memory-server");
 const env_1 = require("./env");
+let cached = global.mongooseCache || { conn: null, promise: null };
+if (!global.mongooseCache) {
+    global.mongooseCache = cached;
+}
 let mongoMemoryServer = null;
+const isDatabaseConnected = () => {
+    return mongoose_1.default.connection.readyState === 1;
+};
+exports.isDatabaseConnected = isDatabaseConnected;
+/**
+ * Connects to MongoDB with connection caching for serverless environments.
+ * - Reuses existing open connection across warm invocations.
+ * - Caps maxPoolSize to prevent exhausting MongoDB Atlas limits.
+ * - Uses a bounded serverSelectionTimeoutMS so errors fail fast before serverless timeouts.
+ */
 const connectDatabase = async () => {
-    let uri = env_1.ENV.MONGODB_URI;
-    // 1. Try connecting to provided MONGODB_URI (e.g. MongoDB Atlas)
+    const uri = env_1.ENV.MONGODB_URI || process.env.MONGODB_URI;
+    // 1. If connection is already open, reuse immediately
+    if (mongoose_1.default.connection.readyState === 1) {
+        cached.conn = mongoose_1.default;
+        return uri || 'mongodb://connected';
+    }
+    // 2. If a connection is in-flight, await the existing promise
+    if (cached.conn) {
+        return uri || 'mongodb://connected';
+    }
+    // 3. Connect to external MongoDB (Atlas) if URI is provided
     if (uri) {
-        try {
-            await mongoose_1.default.connect(uri, {
-                serverSelectionTimeoutMS: 15000,
+        if (!cached.promise) {
+            const opts = {
+                bufferCommands: false,
+                serverSelectionTimeoutMS: 8000,
+                maxPoolSize: 10,
+                socketTimeoutMS: 20000,
+            };
+            cached.promise = mongoose_1.default
+                .connect(uri, opts)
+                .then((mongooseInstance) => {
+                console.log('[Database] Successfully connected to external MongoDB Atlas.');
+                return mongooseInstance;
+            })
+                .catch((err) => {
+                cached.promise = null; // Reset so next request can retry
+                console.warn(`[Database] Failed to connect to external MongoDB: ${err.message}`);
+                if (err.message?.includes('bad auth')) {
+                    console.error('[Database] ⚠️ MONGODB_URI authentication failed! Please check MongoDB Atlas Database Access credentials (username & password).');
+                }
+                throw err;
             });
-            console.log('[Database] Successfully connected to external MongoDB.');
+        }
+        try {
+            cached.conn = await cached.promise;
             return uri;
         }
         catch (err) {
-            console.warn(`[Database] Failed to connect to external MongoDB: ${err.message}`);
-            if (err.message?.includes('bad auth')) {
-                console.error('[Database] ⚠️ MONGODB_URI authentication failed! Please check your MongoDB Atlas Database Access credentials (username & password) configured in Render environment variables.');
-            }
-            if (env_1.ENV.NODE_ENV === 'production') {
-                console.warn('[Database] Retrying connection in 5 seconds...');
-                // In production, keep trying external database
-                await new Promise((resolve) => setTimeout(resolve, 5000));
-                try {
-                    await mongoose_1.default.connect(uri, { serverSelectionTimeoutMS: 15000 });
-                    console.log('[Database] Connected to external MongoDB on retry.');
-                    return uri;
-                }
-                catch (retryErr) {
-                    console.error(`[Database] Retry failed: ${retryErr.message}`);
-                    throw retryErr;
-                }
+            cached.promise = null;
+            // In production (or Vercel serverless), do not attempt in-memory server
+            const isProduction = env_1.ENV.NODE_ENV === 'production' ||
+                process.env.NODE_ENV === 'production' ||
+                Boolean(process.env.VERCEL);
+            if (isProduction) {
+                throw new Error(`[Database] Production MongoDB connection failed: ${err.message}`);
             }
         }
     }
-    // 2. Try default local mongodb if accessible (development only)
+    // 4. In development/testing: Try default local MongoDB
     try {
         await mongoose_1.default.connect('mongodb://localhost:27017/doctor_prescription', {
             serverSelectionTimeoutMS: 2000,
         });
         console.log('[Database] Connected to local MongoDB at mongodb://localhost:27017/doctor_prescription');
+        cached.conn = mongoose_1.default;
         return 'mongodb://localhost:27017/doctor_prescription';
     }
     catch {
-        // 3. Fallback to in-memory MongoDB for local zero-config
+        // 5. Fallback to in-memory MongoDB for local zero-config testing
         let attempts = 0;
         while (attempts < 3) {
             try {
@@ -61,10 +94,11 @@ const connectDatabase = async () => {
                         dbName: 'doctor_prescription',
                     },
                 });
-                uri = mongoMemoryServer.getUri();
-                await mongoose_1.default.connect(uri);
-                console.log(`[Database] Connected to in-memory MongoDB instance at ${uri}`);
-                return uri;
+                const memUri = mongoMemoryServer.getUri();
+                await mongoose_1.default.connect(memUri);
+                console.log(`[Database] Connected to in-memory MongoDB instance at ${memUri}`);
+                cached.conn = mongoose_1.default;
+                return memUri;
             }
             catch (inMemErr) {
                 if (attempts >= 3) {
@@ -79,9 +113,12 @@ const connectDatabase = async () => {
 };
 exports.connectDatabase = connectDatabase;
 const closeDatabase = async () => {
+    cached.conn = null;
+    cached.promise = null;
     await mongoose_1.default.disconnect();
     if (mongoMemoryServer) {
         await mongoMemoryServer.stop();
+        mongoMemoryServer = null;
     }
 };
 exports.closeDatabase = closeDatabase;

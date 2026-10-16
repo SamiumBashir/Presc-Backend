@@ -252,16 +252,31 @@ const resolveEmailProvider = () => {
     if (configuredProvider === 'brevo') {
         return 'brevo';
     }
-    // Auto-detection mode
-    const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
-    if (cleanUser && cleanPass) {
-        return 'smtp';
+    // Auto-detection mode (in serverless, prefer HTTPS APIs over raw SMTP)
+    const isServerless = Boolean(process.env.VERCEL);
+    if (isServerless) {
+        if (env_1.ENV.RESEND_API_KEY || process.env.RESEND_API_KEY) {
+            return 'resend';
+        }
+        if (env_1.ENV.BREVO_API_KEY || process.env.BREVO_API_KEY) {
+            return 'brevo';
+        }
+        const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
+        if (cleanUser && cleanPass) {
+            return 'smtp';
+        }
     }
-    if (env_1.ENV.BREVO_API_KEY || process.env.BREVO_API_KEY) {
-        return 'brevo';
-    }
-    if (env_1.ENV.RESEND_API_KEY || process.env.RESEND_API_KEY) {
-        return 'resend';
+    else {
+        const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
+        if (cleanUser && cleanPass) {
+            return 'smtp';
+        }
+        if (env_1.ENV.BREVO_API_KEY || process.env.BREVO_API_KEY) {
+            return 'brevo';
+        }
+        if (env_1.ENV.RESEND_API_KEY || process.env.RESEND_API_KEY) {
+            return 'resend';
+        }
     }
     return 'none';
 };
@@ -386,6 +401,7 @@ const sendViaBrevo = async ({ to, subject, html, text, contextTag, }) => {
                 'Content-Type': 'application/json',
                 Accept: 'application/json',
             },
+            signal: AbortSignal.timeout(10000),
             body: JSON.stringify({
                 sender: { name: senderName, email: senderEmail },
                 to: [{ email: to }],
@@ -464,15 +480,51 @@ const dispatchEmail = async ({ to, subject, html, text = '', contextTag = 'Gener
         return smtpResult;
     }
     if (provider === 'resend') {
-        return sendViaResend({ to, subject, html, text, contextTag });
+        const resendResult = await sendViaResend({ to, subject, html, text, contextTag });
+        if (resendResult.success)
+            return resendResult;
+        if (env_1.ENV.ENABLE_EMAIL_FALLBACK) {
+            if (env_1.ENV.BREVO_API_KEY || process.env.BREVO_API_KEY) {
+                console.log(`[Email Service] [${contextTag}] Fallback enabled: Attempting Brevo API...`);
+                const brevoResult = await sendViaBrevo({ to, subject, html, text, contextTag });
+                if (brevoResult.success)
+                    return brevoResult;
+            }
+            const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
+            if (cleanUser && cleanPass) {
+                console.log(`[Email Service] [${contextTag}] Fallback enabled: Attempting SMTP...`);
+                const smtpResult = await sendViaSmtp({ to, subject, html, text, contextTag });
+                if (smtpResult.success)
+                    return smtpResult;
+            }
+        }
+        return resendResult;
     }
     if (provider === 'brevo') {
-        return sendViaBrevo({ to, subject, html, text, contextTag });
+        const brevoResult = await sendViaBrevo({ to, subject, html, text, contextTag });
+        if (brevoResult.success)
+            return brevoResult;
+        if (env_1.ENV.ENABLE_EMAIL_FALLBACK) {
+            if (env_1.ENV.RESEND_API_KEY || process.env.RESEND_API_KEY) {
+                console.log(`[Email Service] [${contextTag}] Fallback enabled: Attempting Resend API...`);
+                const resendResult = await sendViaResend({ to, subject, html, text, contextTag });
+                if (resendResult.success)
+                    return resendResult;
+            }
+            const { cleanUser, cleanPass } = (0, exports.getCleanCredentials)();
+            if (cleanUser && cleanPass) {
+                console.log(`[Email Service] [${contextTag}] Fallback enabled: Attempting SMTP...`);
+                const smtpResult = await sendViaSmtp({ to, subject, html, text, contextTag });
+                if (smtpResult.success)
+                    return smtpResult;
+            }
+        }
+        return brevoResult;
     }
     console.warn(`[Email Service] ⚠️ [${contextTag}] No email provider configured. Please configure SMTP_USER/SMTP_PASS, RESEND_API_KEY, or BREVO_API_KEY.`);
     return {
         success: false,
-        error: 'No working email provider configured. Please configure SMTP credentials.',
+        error: 'No working email provider configured. Please configure SMTP credentials, RESEND_API_KEY, or BREVO_API_KEY.',
         code: 'NO_PROVIDER_CONFIGURED',
         provider: 'none',
     };

@@ -15,24 +15,12 @@ const startServer = async () => {
     try {
         const app = (0, app_1.createApp)();
         const port = Number(process.env.PORT) || Number(env_1.ENV.PORT) || 5000;
-        // Multi-port binding: listen on PORT (from env), 5000, and 8080 simultaneously
-        // This guarantees Railway public router always connects regardless of target port setting
-        const targetPorts = Array.from(new Set([port, 5000, 8080]));
-        targetPorts.forEach((p) => {
-            try {
-                const s = app.listen(p, '0.0.0.0', () => {
-                    console.log(`[DocRx Backend] Server active and listening on port ${p}`);
-                    console.log(`[DocRx Backend] Health check: http://localhost:${p}/api/health`);
-                });
-                s.on('error', (err) => {
-                    if (err.code !== 'EADDRINUSE') {
-                        console.warn(`[DocRx Backend] Port ${p} notice:`, err.message);
-                    }
-                });
-            }
-            catch (err) {
-                // Best-effort port binding
-            }
+        const server = app.listen(port, '0.0.0.0', () => {
+            console.log(`[DocRx Backend] Standalone server active and listening on port ${port}`);
+            console.log(`[DocRx Backend] Health check: http://localhost:${port}/api/health`);
+        });
+        server.on('error', (err) => {
+            console.error(`[DocRx Backend] Server error:`, err.message);
         });
         // Non-blocking email provider diagnostics check on startup
         (0, email_service_1.verifyEmailConfiguration)().catch((mailErr) => {

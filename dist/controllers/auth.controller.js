@@ -92,14 +92,14 @@ const registerDoctor = async (req, res) => {
         ? 'https://doc-presc.vercel.app'
         : (process.env.FRONTEND_URL || (env_1.ENV.CORS_ORIGIN ? env_1.ENV.CORS_ORIGIN.split(',')[0].trim() : 'http://localhost:5173'));
     if (!user.welcomeEmailSent) {
-        console.log(`[Auth Controller] Registered doctor ${(0, email_service_1.maskEmail)(user.email)}. Triggering welcome email...`);
-        (0, email_service_1.sendWelcomeEmail)({
-            to: user.email,
-            name: user.name,
-            specialization: doctor.specialization,
-            loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
-        })
-            .then(async (emailRes) => {
+        console.log(`[Auth Controller] Registered doctor ${(0, email_service_1.maskEmail)(user.email)}. Dispatching welcome email...`);
+        try {
+            const emailRes = await (0, email_service_1.sendWelcomeEmail)({
+                to: user.email,
+                name: user.name,
+                specialization: doctor.specialization,
+                loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
+            });
             if (emailRes.success) {
                 await User_1.User.updateOne({ _id: user._id }, { welcomeEmailSent: true, welcomeEmailSentAt: new Date() });
                 console.log(`[Auth Controller] ✅ Welcome email delivered successfully to ${(0, email_service_1.maskEmail)(user.email)} (Message ID: ${emailRes.messageId})`);
@@ -107,10 +107,10 @@ const registerDoctor = async (req, res) => {
             else {
                 console.warn(`[Auth Controller] ⚠️ Welcome email could not be delivered to ${(0, email_service_1.maskEmail)(user.email)}: ${emailRes.error}`);
             }
-        })
-            .catch((err) => {
+        }
+        catch (err) {
             console.error(`[Auth Controller] Failed to dispatch welcome email to ${(0, email_service_1.maskEmail)(user.email)}:`, err.message);
-        });
+        }
     }
     res.status(201).json({
         success: true,

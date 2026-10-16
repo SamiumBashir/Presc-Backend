@@ -115,27 +115,34 @@ export const registerDoctor = async (req: AuthRequest, res: Response): Promise<v
       : (process.env.FRONTEND_URL || (ENV.CORS_ORIGIN ? ENV.CORS_ORIGIN.split(',')[0].trim() : 'http://localhost:5173'));
 
   if (!user.welcomeEmailSent) {
-    console.log(`[Auth Controller] Registered doctor ${maskEmail(user.email)}. Triggering welcome email...`);
-    sendWelcomeEmail({
-      to: user.email,
-      name: user.name,
-      specialization: doctor.specialization,
-      loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
-    })
-      .then(async (emailRes) => {
-        if (emailRes.success) {
-          await User.updateOne(
-            { _id: user._id },
-            { welcomeEmailSent: true, welcomeEmailSentAt: new Date() }
-          );
-          console.log(`[Auth Controller] ✅ Welcome email delivered successfully to ${maskEmail(user.email)} (Message ID: ${emailRes.messageId})`);
-        } else {
-          console.warn(`[Auth Controller] ⚠️ Welcome email could not be delivered to ${maskEmail(user.email)}: ${emailRes.error}`);
-        }
-      })
-      .catch((err: any) => {
-        console.error(`[Auth Controller] Failed to dispatch welcome email to ${maskEmail(user.email)}:`, err.message);
+    console.log(`[Auth Controller] Registered doctor ${maskEmail(user.email)}. Dispatching welcome email...`);
+    try {
+      const emailRes = await sendWelcomeEmail({
+        to: user.email,
+        name: user.name,
+        specialization: doctor.specialization,
+        loginUrl: `${frontendBaseUrl.replace(/\/$/, '')}/login`,
       });
+
+      if (emailRes.success) {
+        await User.updateOne(
+          { _id: user._id },
+          { welcomeEmailSent: true, welcomeEmailSentAt: new Date() }
+        );
+        console.log(
+          `[Auth Controller] ✅ Welcome email delivered successfully to ${maskEmail(user.email)} (Message ID: ${emailRes.messageId})`
+        );
+      } else {
+        console.warn(
+          `[Auth Controller] ⚠️ Welcome email could not be delivered to ${maskEmail(user.email)}: ${emailRes.error}`
+        );
+      }
+    } catch (err: any) {
+      console.error(
+        `[Auth Controller] Failed to dispatch welcome email to ${maskEmail(user.email)}:`,
+        err.message
+      );
+    }
   }
 
   res.status(201).json({
